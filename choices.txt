@@ -1,0 +1,74 @@
+choices.tsv|version1
+source_name	source_qid	parity	target_name	target_qid	target_uid	reason	witness	
+Heterocheilidae	WOR:593484	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-646554	same/parent+parent	Sciomyzoidea|Sciomyzoidea
+Heterocheilidae	WOR:593484	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-107354	noinfo/lineage	Sciomyzoidea|Spirurida
+
+Appendicularia	WOR:103357	-	Appendicularia	TPL:T1862	-392157	noinfo	null
+Appendicularia	WOR:103357	not=>	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	not-same/ranks	genus|class
+
+Proboscidea	WOR:325990	-	Proboscidea	TPL:T13542	-414024	noinfo	null
+Proboscidea	WOR:325990	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	not-same/ranks	genus|order
+
+Proboscidea	WOR:595705	-	Proboscidea	TPL:T13542	-414024	noinfo	null
+Proboscidea	WOR:595705	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	not-same/ranks	genus|order
+
+Bdelloidea	WOR:17968	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-123860	same/parent+parent	Rotifera|Rotifera
+Bdelloidea	WOR:17968	-	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-421925	noinfo/lineage	Rotifera|Prostigmata
+
+Anisoptera	WOR:890522	-	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-329367	noinfo	null
+Anisoptera	WOR:890522	not=>	Anisoptera	TPL:T1654	-393596	not-same/ranks	suborder|genus
+
+Bdelloidea	WOR:762069	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-421925	same/parent+parent	Prostigmata|Prostigmata
+Bdelloidea	WOR:762069	-	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-123860	noinfo/lineage	Prostigmata|Rotifera
+
+Acanthocephala	WOR:18814	-	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-41912	noinfo	null
+Acanthocephala	WOR:18814	not=>	Acanthocephala	COR:1190351	-685184	not-same/ranks	phylum|genus
+
+Anura	WOR:448306	-	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-329005	noinfo	null
+Anura	WOR:448306	not=>	Anura	TPL:T1772	-782028	not-same/ranks	order|genus
+
+Appendicularia	WOR:146421	-	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	noinfo	null
+Appendicularia	WOR:146421	not=>	Appendicularia	TPL:T1862	-392157	not-same/ranks	class|genus
+
+Machaeridia	WOR:819076	-	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-43153	noinfo	null
+Machaeridia	WOR:819076	not=>	Machaeridia	ORTH:1111910	-678854	not-same/ranks	class|genus
+
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-10375	same/is-subsumed-by	null
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-10746	same/overlaps	Acidobacteriaceae|Acanthopleuribacteraceae
+
+Bacteria	WOR:6	-	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-8461	noinfo	null
+Bacteria	WOR:6	not=>	Bacteria	PHA:1202154	-677237	not-same/ranks	kingdom|genus
+choices.tsv|version2
+source_name	source_qid	parity	target_name	target_qid	target_uid	reason	witness	
+Diplura	WOR:369589	-	Diplura	SPI:G0804	-419951	noinfo	null
+Diplura	WOR:369589	not=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-64706	not-same/ranks	genus|class
+
+Proboscidea	WOR:325990	-	Proboscidea	TPL:T18309	-504923	noinfo	null
+Proboscidea	WOR:325990	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-983276	not-same/ranks	genus|order
+
+Heterocheilidae	WOR:593484	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-937918	same/parent+parent	Sciomyzoidea|Sciomyzoidea
+Heterocheilidae	WOR:593484	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-64465	noinfo/lineage	Sciomyzoidea|Spirurida
+
+Acantharia	WOR:586732	-	Acantharia	trunk:c2ca5b46-1953-463a-a2b4-50bfde9f2353	-9051	noinfo	null
+Acantharia	WOR:586732	not=>	Acantharia	TPL:T792	-1040706	not-same/ranks	class|genus
+
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-1320	same/is-subsumed-by	null
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-2384	same/overlaps	Acidobacteriaceae|Acanthopleuribacteraceae
+
+Bacteria	WOR:6	-	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-613	noinfo	null
+Bacteria	WOR:6	not=>	Bacteria	PHA:1202154	-976261	not-same/ranks	kingdom|genus
+
+Machaeridia	WOR:819076	-	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-30944	noinfo	null
+Machaeridia	WOR:819076	not=>	Machaeridia	ORTH:1111910	-564676	not-same/ranks	class|genus
+
+Diptera	WOR:118088	-	Diptera	trunk:c613e906-c036-49bb-8edf-5ce10346abb4	-420395	noinfo	null
+Diptera	WOR:118088	not=>	Diptera	TPL:T7454	-439896	not-same/ranks	order|genus
+
+Bdelloidea	WOR:762069	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-491862	same/parent+parent	Prostigmata|Prostigmata
+Bdelloidea	WOR:762069	-	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-70650	noinfo/lineage	Prostigmata|Rotifera
+
+Bdelloidea	WOR:17968	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-70650	same/parent+parent	Rotifera|Rotifera
+Bdelloidea	WOR:17968	-	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-491862	noinfo/lineage	Rotifera|Prostigmata
+
+Acanthocephala	WOR:18814	-	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-31945	noinfo	null
+Acanthocephala	WOR:18814	not=>	Acanthocephala	COR:1190351	-977716	not-same/ranks	phylum|genus

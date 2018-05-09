@@ -1,0 +1,96 @@
+id	description	type
+1218728	Terrestrial.	habitat
+1218729	Terrestrial.	habitat
+1218730	Terrestrial.	habitat
+1218731	Terrestrial.	habitat
+1218732	Terrestrial.	habitat
+1218733	Terrestrial.	habitat
+1218734	Terrestrial.	habitat
+1218735	Terrestrial.	habitat
+1218736	Terrestrial.	habitat
+1218737	Terrestrial.	habitat
+1218738	Terrestrial.	habitat
+1218739	Terrestrial.	habitat
+1218740	Terrestrial.	habitat
+1218741	Terrestrial.	habitat
+1218742	Terrestrial.	habitat
+1218743	Terrestrial.	habitat
+1218744	Terrestrial.	habitat
+1218745	Terrestrial.	habitat
+1218746	Terrestrial.	habitat
+1218747	Terrestrial.	habitat
+1218748	Terrestrial.	habitat
+1218749	Terrestrial.	habitat
+1218750	Terrestrial.	habitat
+1218751	Terrestrial.	habitat
+1218752	Terrestrial.	habitat
+1218753	Terrestrial.	habitat
+1218754	Terrestrial.	habitat
+1218755	Terrestrial.	habitat
+1218756	Terrestrial.	habitat
+1218757	Terrestrial.	habitat
+1218758	Terrestrial.	habitat
+1218759	Terrestrial.	habitat
+1218760	Terrestrial.	habitat
+1218761	Terrestrial.	habitat
+1218762	Terrestrial.	habitat
+1218763	Terrestrial.	habitat
+1218764	Terrestrial.	habitat
+1218765	Terrestrial.	habitat
+1218766	Terrestrial.	habitat
+1218767	Terrestrial.	habitat
+1218768	Terrestrial.	habitat
+1218769	Terrestrial.	habitat
+1218770	Terrestrial.	habitat
+1218771	Terrestrial.	habitat
+1218772	Terrestrial.	habitat
+1218773	Terrestrial.	habitat
+1218774	Terrestrial.	habitat
+1218775	Terrestrial.	habitat
+1218776	Terrestrial.	habitat
+1218777	Terrestrial.	habitat
+1218778	Terrestrial.	habitat
+1218779	Terrestrial.	habitat
+1218780	Terrestrial.	habitat
+1218781	Terrestrial.	habitat
+1218782	Terrestrial.	habitat
+1218783	Terrestrial.	habitat
+1218784	Terrestrial.	habitat
+1218785	Terrestrial.	habitat
+1220634	Terrestrial.	habitat
+1220635	Terrestrial.	habitat
+1220636	Terrestrial.	habitat
+1220637	Terrestrial.	habitat
+1220646	Terrestrial.	habitat
+1220647	Terrestrial.	habitat
+1220648	Terrestrial.	habitat
+1223787	Terrestrial.	habitat
+1224042	Terrestrial.	habitat
+1218741	Holotype.	typematerial
+1218742	Holotype.	typematerial
+1218743	Holotype.	typematerial
+1218744	1 unspecified primary type.	typematerial
+1218746	1 unspecified primary type.	typematerial
+1218749	Holotype, allotype, 3 paratypes.	typematerial
+1218751	Holotype.	typematerial
+1218752	Holotype, 2 paratypes.	typematerial
+1218753	Holotype, allotype.	typematerial
+1218756	Holotype.	typematerial
+1218759	Holotype.	typematerial
+1218760	Holotype.	typematerial
+1218761	1+ unspecified primary types.	typematerial
+1218764	Holotype.	typematerial
+1218765	Holotype.	typematerial
+1218766	1 unspecified primary type.	typematerial
+1218767	1 unspecified primary type.	typematerial
+1218769	Holotype.	typematerial
+1218770	Holotype.	typematerial
+1218771	Holotype.	typematerial
+1218773	Holotype, 2 paratypes.	typematerial
+1218783	Holotype, 5 paratypes.	typematerial
+1218785	Holotype.	typematerial
+1220634	Holotype.	typematerial
+1220635	Holotype.	typematerial
+1220636	1 unspecified primary type.	typematerial
+1220648	Holotype.	typematerial
+1223787	Holotype.	typematerial

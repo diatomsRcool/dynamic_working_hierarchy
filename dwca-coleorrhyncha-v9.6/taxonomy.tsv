@@ -1,0 +1,140 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1171454	|		|	Coleorrhyncha	|	suborder	|		|	
+1171455	|	1171454	|	Progonocimicidae	|	family	|		|	
+1171460	|	1171455	|	Progonocimicinae	|	subfamily	|		|	
+1171461	|	1171460	|	Heteronella	|	genus	|		|	
+1171462	|	1171461	|	Heteronella marksei	|	species	|		|	
+1171463	|	1171460	|	Pelorisca	|	genus	|		|	
+1171464	|	1171463	|	Pelorisca connectens	|	species	|		|	
+1171465	|	1171460	|	Woottonia	|	genus	|		|	
+1171466	|	1171465	|	Woottonia phalerata	|	species	|		|	
+1171467	|	1171460	|	Progonocimex	|	genus	|		|	
+1171468	|	1171467	|	Progonocimex jurassicus	|	species	|		|	
+1171470	|	1171467	|	Progonocimex liasinus	|	species	|		|	
+1171471	|	1171460	|	Actinoscytina	|	genus	|		|	
+1171472	|	1171471	|	Actinoscytina belmontensis	|	species	|		|	
+1171475	|	1171460	|	Archicercopis	|	genus	|		|	
+1171476	|	1171475	|	Archicercopis falcata	|	species	|		|	
+1171477	|	1171460	|	Eocercopis	|	genus	|		|	
+1171480	|	1171477	|	Eocercopis ovalis	|	species	|		|	
+1171481	|	1171477	|	Eocercopis similis	|	species	|		|	
+1171482	|	1171477	|	Eocercopis ancyloptera	|	species	|		|	
+1171483	|	1171460	|	Heterojassus	|	genus	|		|	
+1171484	|	1171483	|	Heterojassus membranaceus	|	species	|		|	
+1171485	|	1171460	|	Heteroscytina	|	genus	|		|	
+1171486	|	1171485	|	Heteroscytina tillyardi	|	species	|		|	
+1171487	|	1171460	|	Platyscytinella	|	genus	|		|	
+1171488	|	1171487	|	Platyscytinella paradoxa	|	species	|		|	
+1171489	|	1171460	|	Triscytina	|	genus	|		|	
+1171490	|	1171489	|	Triscytina rotundata	|	species	|		|	
+1171491	|	1171460	|	Triassocoecus	|	genus	|		|	
+1171492	|	1171491	|	Triassocoecus chinai	|	species	|		|	
+1171493	|	1171460	|	Hexascytina	|	genus	|		|	
+1171494	|	1171493	|	Hexascytina transecta	|	species	|		|	
+1171495	|	1171460	|	Microscytinella	|	genus	|		|	
+1171496	|	1171495	|	Microscytinella radians	|	species	|		|	
+1171497	|	1171460	|	Popovus	|	genus	|		|	
+1171499	|	1171497	|	Popovus pygmaeus	|	species	|		|	
+1171500	|	1171497	|	Popovus similis	|	species	|		|	
+1171501	|	1171460	|	Popovigocimex	|	genus	|		|	
+1171502	|	1171501	|	Popovigocimex yurii	|	species	|		|	
+1171503	|	1171460	|	Yurigocimex	|	genus	|		|	
+1171504	|	1171503	|	Yurigocimex popovi	|	species	|		|	
+1171505	|	1171455	|	Cicadocorinae	|	subfamily	|		|	
+1171506	|	1171505	|	Onokhoia	|	genus	|		|	
+1171507	|	1171506	|	Onokhoia onokhoiensis	|	species	|		|	
+1171508	|	1171505	|	Cicadocoris	|	genus	|		|	
+1171509	|	1171508	|	Cicadocoris beckermigdisovae	|	species	|		|	
+1171510	|	1171508	|	Cicadocoris complexa	|	species	|		|	
+1171511	|	1171508	|	Cicadocoris kuliki	|	species	|		|	
+1171513	|	1171508	|	Cicadocoris turanica	|	species	|		|	
+1171514	|	1171508	|	Cicadocoris transbaikalica	|	species	|		|	
+1171515	|	1171508	|	Cicadocoris rigida	|	species	|		|	
+1171516	|	1171508	|	Cicadocoris paula	|	species	|		|	
+1171517	|	1171508	|	Cicadocoris nana	|	species	|		|	
+1171518	|	1171508	|	Cicadocoris distincta	|	species	|		|	
+1171519	|	1171505	|	Absoluta	|	genus	|		|	
+1171520	|	1171519	|	Absoluta elongata	|	species	|		|	
+1171521	|	1171519	|	Absoluta distincta	|	species	|		|	
+1171522	|	1171505	|	Ildavia	|	genus	|		|	
+1171523	|	1171522	|	Ildavia shcherbakovi	|	species	|		|	
+1171524	|	1171522	|	Ildavia incompleta	|	species	|		|	
+1171525	|	1171505	|	Valdiscytina	|	genus	|		|	
+1171526	|	1171525	|	Valdiscytina jarzembowskii	|	species	|		|	
+1171527	|	1171525	|	Valdiscytina picta	|	species	|		|	
+1171528	|	1171505	|	Yuripopovia	|	genus	|		|	
+1171529	|	1171528	|	Yuripopovia woottoni	|	species	|		|	
+1171530	|	1171528	|	Yuripopovia vectense	|	species	|		|	
+1171531	|	1171505	|	Mesocimex	|	genus	|		|	
+1171534	|	1171531	|	Mesocimex sinensis	|	species	|		|	
+1171535	|	1171531	|	Mesocimex mongolicus	|	species	|		|	
+1171536	|	1171531	|	Mesocimex modestus	|	species	|		|	
+1171537	|	1171531	|	Mesocimex lini	|	species	|		|	
+1171538	|	1171531	|	Mesocimex abditus	|	species	|		|	
+1171541	|	1171531	|	Mesocimex cognatus	|	species	|		|	
+1171542	|	1171531	|	Mesocimex fidus	|	species	|		|	
+1171543	|	1171531	|	Mesocimex intermedius	|	species	|		|	
+1171544	|	1171531	|	Mesocimex kuzbasicus	|	species	|		|	
+1171545	|	1171531	|	Mesocimex liliputus	|	species	|		|	
+1171546	|	1171531	|	Mesocimex minutus	|	species	|		|	
+1171547	|	1171531	|	Mesocimex paulinus	|	species	|		|	
+1171548	|	1171531	|	Mesocimex ambiguus	|	species	|		|	
+1171549	|	1171531	|	Mesocimex incompletus	|	species	|		|	
+1171550	|	1171531	|	Mesocimex brunneus	|	species	|		|	
+1171551	|	1171454	|	Peloridioidea	|	superfamily	|		|	
+1171552	|	1171551	|	Hoploridiidae	|	family	|		|	
+1171553	|	1171552	|	Hoploridium	|	genus	|		|	
+1171555	|	1171551	|	Karabasiidae	|	family	|		|	
+1171556	|	1171555	|	Karabasia	|	genus	|		|	
+1171557	|	1171556	|	Karabasia paucinervis	|	species	|		|	
+1171559	|	1171551	|	Peloridiidae	|	family	|		|	
+1171560	|	1171559	|	Xenophyes	|	genus	|		|	
+1171561	|	1171560	|	Xenophyes cascus	|	species	|		|	
+1171562	|	1171560	|	Xenophyes kinlochensis	|	species	|		|	
+1171563	|	1171559	|	Craspedophysa	|	genus	|		|	
+1171564	|	1171563	|	Craspedophysa monteithi	|	species	|		|	
+1171565	|	1171559	|	Idophysa	|	genus	|		|	
+1171566	|	1171565	|	Idophysa chonos	|	species	|		|	
+1171567	|	1171559	|	Peltophysa	|	genus	|		|	
+1171568	|	1171567	|	Peltophysa minor	|	species	|		|	
+1171569	|	1171559	|	Rhacophysa	|	genus	|		|	
+1171570	|	1171569	|	Rhacophysa taylori	|	species	|		|	
+1171571	|	1171559	|	Hackeriella	|	genus	|		|	
+1171574	|	1171571	|	Hackeriella brachycephala	|	species	|		|	
+1171575	|	1171571	|	Hackeriella echina	|	species	|		|	
+1171576	|	1171571	|	Hackeriella veitchi	|	species	|		|	
+1171577	|	1171559	|	Hemiodoecellus	|	genus	|		|	
+1171578	|	1171577	|	Hemiodoecellus fidelis	|	species	|		|	
+1171579	|	1171559	|	Hemiodoecus	|	genus	|		|	
+1171580	|	1171579	|	Hemiodoecus acutus	|	species	|		|	
+1171581	|	1171579	|	Hemiodoecus crassus	|	species	|		|	
+1171582	|	1171579	|	Hemiodoecus leai	|	species	|		|	
+1171583	|	1171559	|	Hemiowoodwardia	|	genus	|		|	
+1171584	|	1171583	|	Hemiowoodwardia wilsoni	|	species	|		|	
+1171585	|	1171559	|	Howeria	|	genus	|		|	
+1171586	|	1171585	|	Howeria kingsmilli	|	species	|		|	
+1171589	|	1171559	|	Peloridium	|	genus	|		|	
+1171590	|	1171589	|	Peloridium hammoniorum	|	species	|		|	
+1171594	|	1171559	|	Kuscheloides	|	genus	|		|	
+1171596	|	1171594	|	Kuscheloides edenensis	|	species	|		|	
+1171597	|	1171559	|	Oiophysella	|	genus	|		|	
+1171598	|	1171597	|	Oiophysella constans	|	species	|		|	
+1171599	|	1171597	|	Oiophysella cristata	|	species	|		|	
+1171600	|	1171597	|	Oiophysella marginata	|	species	|		|	
+1171601	|	1171597	|	Oiophysella degenerata	|	species	|		|	
+1171602	|	1171559	|	Xenophysella	|	genus	|		|	
+1171603	|	1171602	|	Xenophysella greensladeae	|	species	|		|	
+1171604	|	1171602	|	Xenophysella stewartensis	|	species	|		|	
+1171607	|	1171559	|	Oiophysa	|	genus	|		|	
+1171608	|	1171607	|	Oiophysa paradoxa	|	species	|		|	
+1171609	|	1171607	|	Oiophysa ablusa	|	species	|		|	
+1171611	|	1171607	|	Oiophysa cumberi	|	species	|		|	
+1171612	|	1171607	|	Oiophysa distincta	|	species	|		|	
+1171613	|	1171607	|	Oiophysa pendergrasti	|	species	|		|	
+1171614	|	1171559	|	Pantinia	|	genus	|		|	
+1171615	|	1171614	|	Pantinia darwini	|	species	|		|	
+1171616	|	1171559	|	Peloridora	|	genus	|		|	
+1171617	|	1171616	|	Peloridora kuscheli	|	species	|		|	
+1171618	|	1171616	|	Peloridora holdgatei	|	species	|		|	
+1171619	|	1171616	|	Peloridora minuta	|	species	|		|	
+1227262	|	1171589	|	Peloridium pomponorum	|	species	|		|	

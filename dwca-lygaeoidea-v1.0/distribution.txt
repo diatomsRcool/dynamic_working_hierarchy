@@ -1,0 +1,16 @@
+id	locationID	locality
+1207953	TDWG:1	Europe
+1207953	TDWG:2	Africa
+1207953	TDWG:3	Asia-Temperate
+1209538	TDWG:1	Europe
+1209538	TDWG:2	Africa
+1209538	TDWG:3	Asia-Temperate
+1209543	TDWG:1	Europe
+1209543	TDWG:2	Africa
+1209543	TDWG:3	Asia-Temperate
+1209559	TDWG:1	Europe
+1209559	TDWG:2	Africa
+1209559	TDWG:3	Asia-Temperate
+1209567	TDWG:1	Europe
+1209567	TDWG:2	Africa
+1209567	TDWG:3	Asia-Temperate

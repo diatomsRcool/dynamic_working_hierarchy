@@ -1,0 +1,80 @@
+id	locationID	locality
+1171454	TDWG:NSW	New South Wales
+1171454	TDWG:QLD	Queensland
+1171454	TDWG:TAS	Tasmania
+1171454	TDWG:VIC	Victoria
+1171454	TDWG:NWC	New Caledonia
+1171454	TDWG:NZS	New Zealand South I
+1171454	TDWG:85	Southern South America
+1171455	TDWG:AGW	Argentina Northwest
+1171455	TDWG:CHI	Inner Mongolia
+1171455	TDWG:GRB	Great Britain
+1171460	TDWG:AGW	Argentina Northwest
+1171501	TDWG:AGW	Argentina Northwest
+1171502	TDWG:AGW	Argentina Northwest
+1171503	TDWG:AGW	Argentina Northwest
+1171504	TDWG:AGW	Argentina Northwest
+1171505	TDWG:GRB	Great Britain
+1171505	TDWG:CHI	Inner Mongolia
+1171522	TDWG:GRB	Great Britain
+1171523	TDWG:GRB	Great Britain
+1171524	TDWG:GRB	Great Britain
+1171525	TDWG:GRB	Great Britain
+1171526	TDWG:GRB	Great Britain
+1171527	TDWG:GRB	Great Britain
+1171528	TDWG:GRB	Great Britain
+1171529	TDWG:GRB	Great Britain
+1171530	TDWG:GRB	Great Britain
+1171531	TDWG:CHI	Inner Mongolia
+1171537	TDWG:CHI	Inner Mongolia
+1171551	TDWG:NSW	New South Wales
+1171551	TDWG:TAS	Tasmania
+1171551	TDWG:QLD	Queensland
+1171551	TDWG:85	Southern South America
+1171551	TDWG:NZS	New Zealand South I
+1171551	TDWG:NWC	New Caledonia
+1171551	TDWG:VIC	Victoria
+1171559	TDWG:VIC	Victoria
+1171559	TDWG:NWC	New Caledonia
+1171559	TDWG:NZS	New Zealand South I
+1171559	TDWG:85	Southern South America
+1171559	TDWG:QLD	Queensland
+1171559	TDWG:TAS	Tasmania
+1171559	TDWG:NSW	New South Wales
+1171563	TDWG:QLD	Queensland
+1171564	TDWG:QLD	Queensland
+1171565	TDWG:CLS	Chile South
+1171566	TDWG:CLS	Chile South
+1171567	TDWG:QLD	Queensland
+1171568	TDWG:QLD	Queensland
+1171569	TDWG:QLD	Queensland
+1171570	TDWG:QLD	Queensland
+1171571	TDWG:NSW	New South Wales
+1171571	TDWG:QLD	Queensland
+1171574	TDWG:NSW	New South Wales
+1171575	TDWG:NSW	New South Wales
+1171576	TDWG:QLD	Queensland
+1171577	TDWG:TAS	Tasmania
+1171578	TDWG:TAS	Tasmania
+1171579	TDWG:NSW	New South Wales
+1171579	TDWG:VIC	Victoria
+1171580	TDWG:VIC	Victoria
+1171581	TDWG:NSW	New South Wales
+1171583	TDWG:VIC	Victoria
+1171584	TDWG:VIC	Victoria
+1171585	TDWG:NSW	New South Wales
+1171586	TDWG:NSW	New South Wales
+1171589	TDWG:85	Southern South America
+1171594	TDWG:CLS	Chile South
+1171596	TDWG:CLS	Chile South
+1171597	TDWG:NWC	New Caledonia
+1171598	TDWG:NWC	New Caledonia
+1171599	TDWG:NWC	New Caledonia
+1171600	TDWG:NWC	New Caledonia
+1171601	TDWG:NWC	New Caledonia
+1171602	TDWG:NZS	New Zealand South I
+1171603	TDWG:NZS	New Zealand South I
+1171607	TDWG:NZS	New Zealand South I
+1171608	TDWG:NZS	New Zealand South I
+1171609	TDWG:NZS	New Zealand South I
+1227262	TDWG:85	Southern South America

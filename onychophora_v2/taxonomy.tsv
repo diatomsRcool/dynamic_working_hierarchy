@@ -1,0 +1,237 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+R001	|		|	Onychophora	|	phylum	|		|	
+F001	|	R001	|	Peripatidae	|	family	|		|	
+G001	|	F001	|	Eoperipatus	|	genus	|		|	
+G001-1	|	G001	|	Eoperipatus butleri	|	species	|		|	
+G001-2	|	G001	|	Eoperipatus horsti	|	species	|		|	
+G001-3	|	G001	|	Eoperipatus weldoni	|	species	|		|	
+G002	|	F001	|	Epiperipatus	|	genus	|		|	
+G002-1	|	G002	|	Epiperipatus acacioi	|	species	|		|	
+G002-2	|	G002	|	Epiperipatus adenocryptus	|	species	|		|	
+G002-3	|	G002	|	Epiperipatus barbadensis	|	species	|		|	
+G002-4	|	G002	|	Epiperipatus barbouri	|	species	|		|	
+G002-5	|	G002	|	Epiperipatus betheli	|	species	|		|	
+G002-6	|	G002	|	Epiperipatus biolleyi	|	species	|		|	
+G002-7	|	G002	|	Epiperipatus brasiliensis	|	species	|		|	
+G002-8	|	G002	|	Epiperipatus broadwayi	|	species	|		|	
+G002-9	|	G002	|	Epiperipatus cratensis	|	species	|		|	
+G002-10	|	G002	|	Epiperipatus diadenoproctus	|	species	|		|	
+G002-11	|	G002	|	Epiperipatus edwardsii	|	species	|		|	
+G002-12	|	G002	|	Epiperipatus evansi	|	species	|		|	
+G002-13	|	G002	|	Epiperipatus hilkae	|	species	|		|	
+G002-14	|	G002	|	Epiperipatus imthurni	|	species	|		|	
+G002-15	|	G002	|	Epiperipatus isthmicola	|	species	|		|	
+G002-16	|	G002	|	Epiperipatus lewisi	|	species	|		|	
+G002-17	|	G002	|	Epiperipatus machadoi	|	species	|		|	
+G002-18	|	G002	|	Epiperipatus paurognostus	|	species	|		|	
+G002-19	|	G002	|	Epiperipatus simoni	|	species	|		|	
+G002-20	|	G002	|	Epiperipatus torrealbai	|	species	|		|	
+G002-21	|	G002	|	Epiperipatus trinidadensis	|	species	|		|	
+G002-22	|	G002	|	Epiperipatus vagans	|	species	|		|	
+G002-23	|	G002	|	Epiperipatus vespuccii	|	species	|		|	
+G003	|	F001	|	Heteroperipatus	|	genus	|		|	
+G003-1	|	G003	|	Heteroperipatus clarki	|	species	|		|	
+G003-2	|	G003	|	Heteroperipatus engelhardi	|	species	|		|	
+G004	|	F001	|	Macroperipatus	|	genus	|		|	
+G004-1	|	G004	|	Macroperipatus clarki	|	species	|		|	
+G004-2	|	G004	|	Macroperipatus guianensis	|	species	|		|	
+G004-3	|	G004	|	Macroperipatus insularis	|	species	|		|	
+G004-4	|	G004	|	Macroperipatus ohausi	|	species	|		|	
+G004-5	|	G004	|	Macroperipatus perrieri	|	species	|		|	
+G004-6	|	G004	|	Macroperipatus torquatus	|	species	|		|	
+G004-7	|	G004	|	Macroperipatus valerioi	|	species	|		|	
+G005	|	F001	|	Mesoperipatus	|	genus	|		|	
+G005-1	|	G005	|	Mesoperipatus tholloni	|	species	|		|	
+G006	|	F001	|	Oroperipatus	|	genus	|		|	
+G006-1	|	G006	|	Oroperipatus balzani	|	species	|		|	
+G006-2	|	G006	|	Oroperipatus belli	|	species	|		|	
+G006-3	|	G006	|	Oroperipatus bimbergi	|	species	|		|	
+G006-4	|	G006	|	Oroperipatus bluntschlii	|	species	|		|	
+G006-5	|	G006	|	Oroperipatus cameranoi	|	species	|		|	
+G006-6	|	G006	|	Oroperipatus corradoi	|	species	|		|	
+G006-7	|	G006	|	Oroperipatus ecuadorensis	|	species	|		|	
+G006-8	|	G006	|	Oroperipatus eisenii	|	species	|		|	
+G006-9	|	G006	|	Oroperipatus intermedius	|	species	|		|	
+G006-10	|	G006	|	Oroperipatus koepckei	|	species	|		|	
+G006-11	|	G006	|	Oroperipatus lankesteri	|	species	|		|	
+G006-12	|	G006	|	Oroperipatus multipodes	|	species	|		|	
+G006-13	|	G006	|	Oroperipatus omeyrus	|	species	|		|	
+G006-14	|	G006	|	Oroperipatus peruvianus	|	species	|		|	
+G006-15	|	G006	|	Oroperipatus soratanus	|	species	|		|	
+G006-16	|	G006	|	Oroperipatus tuberculatus	|	species	|		|	
+G006-17	|	G006	|	Oroperipatus weyrauchi	|	species	|		|	
+G007	|	F001	|	Peripatus	|	genus	|		|	
+G007-1	|	G007	|	Peripatus basilensis	|	species	|		|	
+G007-2	|	G007	|	Peripatus bouvieri	|	species	|		|	
+G007-3	|	G007	|	Peripatus broelemanni	|	species	|		|	
+G007-4	|	G007	|	Peripatus danicus	|	species	|		|	
+G007-5	|	G007	|	Peripatus darlingtoni	|	species	|		|	
+G007-6	|	G007	|	Peripatus dominicae	|	species	|		|	
+G007-7	|	G007	|	Peripatus evelinae	|	species	|		|	
+G007-8	|	G007	|	Peripatus haitiensis	|	species	|		|	
+G007-9	|	G007	|	Peripatus heloisae	|	species	|		|	
+G007-10	|	G007	|	Peripatus juanensis	|	species	|		|	
+G007-11	|	G007	|	Peripatus juliformis	|	species	|		|	
+G007-12	|	G007	|	Peripatus lachauxensis	|	species	|		|	
+G007-13	|	G007	|	Peripatus manni	|	species	|		|	
+G007-14	|	G007	|	Peripatus ruber	|	species	|		|	
+G007-15	|	G007	|	Peripatus sedgwicki	|	species	|		|	
+G007-16	|	G007	|	Peripatus solorzanoi	|	species	|		|	
+G007-17	|	G007	|	Peripatus swainsonae	|	species	|		|	
+G008	|	F001	|	Plicatoperipatus	|	genus	|		|	
+G008-1	|	G008	|	Plicatoperipatus jamaicensis	|	species	|		|	
+G009	|	F001	|	Speleoperipatus	|	genus	|		|	
+G009-1	|	G009	|	Speleoperipatus spelaeus	|	species	|		|	
+G010	|	F001	|	Typhloperipatus	|	genus	|		|	
+G010-1	|	G010	|	Typhloperipatus williamsoni	|	species	|		|	
+F002	|	R001	|	Peripatopsidae	|	family	|		|	
+G011	|	F002	|	Acanthokara	|	genus	|		|	
+G011-1	|	G011	|	Acanthokara kaputensis	|	species	|		|	
+G012	|	F002	|	Aethrikos	|	genus	|		|	
+G012-1	|	G012	|	Aethrikos setosa	|	species	|		|	
+G013	|	F002	|	Aktinothele	|	genus	|		|	
+G013-1	|	G013	|	Aktinothele eucharis	|	species	|		|	
+G014	|	F002	|	Anoplokaros	|	genus	|		|	
+G014-1	|	G014	|	Anoplokaros keerensis	|	species	|		|	
+G015	|	F002	|	Austroperipatus	|	genus	|		|	
+G015-1	|	G015	|	Austroperipatus aequabilis	|	species	|		|	
+G015-2	|	G015	|	Austroperipatus eridelos	|	species	|		|	
+G015-3	|	G015	|	Austroperipatus paradoxus	|	species	|		|	
+G015-4	|	G015	|	Austroperipatus superbus	|	species	|		|	
+G016	|	F002	|	Baeothele	|	genus	|		|	
+G016-1	|	G016	|	Baeothele saukros	|	species	|		|	
+G017	|	F002	|	Centorumis	|	genus	|		|	
+G017-1	|	G017	|	Centorumis trigona	|	species	|		|	
+G018	|	F002	|	Cephalofovea	|	genus	|		|	
+G018-1	|	G018	|	Cephalofovea cameroni	|	species	|		|	
+G018-2	|	G018	|	Cephalofovea clandestina	|	species	|		|	
+G018-3	|	G018	|	Cephalofovea pavimenta	|	species	|		|	
+G018-4	|	G018	|	Cephalofovea tomahmontis	|	species	|		|	
+G019	|	F002	|	Critolaus	|	genus	|		|	
+G019-1	|	G019	|	Critolaus lepidus	|	species	|		|	
+G020	|	F002	|	Dactylothele	|	genus	|		|	
+G020-1	|	G020	|	Dactylothele habros	|	species	|		|	
+G021	|	F002	|	Dystactotylos	|	genus	|		|	
+G021-1	|	G021	|	Dystactotylos aletes	|	species	|		|	
+G022	|	F002	|	Euperipatoides	|	genus	|		|	
+G022-1	|	G022	|	Euperipatoides kanangrensis	|	species	|		|	
+G022-2	|	G022	|	Euperipatoides leuckartii	|	species	|		|	
+G022-3	|	G022	|	Euperipatoides rowelli	|	species	|		|	
+G023	|	F002	|	Florelliceps	|	genus	|		|	
+G023-1	|	G023	|	Florelliceps stutchburyae	|	species	|		|	
+G024	|	F002	|	Hylonomoipos	|	genus	|		|	
+G024-1	|	G024	|	Hylonomoipos akares	|	species	|		|	
+G024-2	|	G024	|	Hylonomoipos brookensis	|	species	|		|	
+G025	|	F002	|	Konothele	|	genus	|		|	
+G025-1	|	G025	|	Konothele kallimos	|	species	|		|	
+G026	|	F002	|	Kumbadjena	|	genus	|		|	
+G026-1	|	G026	|	Kumbadjena kaata	|	species	|		|	
+G026-2	|	G026	|	Kumbadjena occidentalis	|	species	|		|	
+G026-3	|	G026	|	Kumbadjena shannonensis	|	species	|		|	
+G027	|	F002	|	Lathropatus	|	genus	|		|	
+G027-1	|	G027	|	Lathropatus nemorum	|	species	|		|	
+G028	|	F002	|	Leuropezos	|	genus	|		|	
+G028-1	|	G028	|	Leuropezos eungellensis	|	species	|		|	
+G029	|	F002	|	Mantonipatus	|	genus	|		|	
+G029-1	|	G029	|	Mantonipatus persiculus	|	species	|		|	
+G030	|	F002	|	Metaperipatus	|	genus	|		|	
+G030-1	|	G030	|	Metaperipatus inae	|	species	|		|	
+G031	|	F002	|	Minyplanetes	|	genus	|		|	
+G031-1	|	G031	|	Minyplanetes kroombensis	|	species	|		|	
+G032	|	F002	|	Nodocapitus	|	genus	|		|	
+G032-1	|	G032	|	Nodocapitus barryi	|	species	|		|	
+G032-2	|	G032	|	Nodocapitus formosus	|	species	|		|	
+G032-3	|	G032	|	Nodocapitus inornatus	|	species	|		|	
+G033	|	F002	|	Occiperipatoides	|	genus	|		|	
+G033-1	|	G033	|	Occiperipatoides gilesii	|	species	|		|	
+G034	|	F002	|	Ooperipatellus	|	genus	|		|	
+G034-1	|	G034	|	Ooperipatellus decoratus	|	species	|		|	
+G034-2	|	G034	|	Ooperipatellus duwilensis	|	species	|		|	
+G034-3	|	G034	|	Ooperipatellus insignis	|	species	|		|	
+G034-4	|	G034	|	Ooperipatellus nanus	|	species	|		|	
+G034-5	|	G034	|	Ooperipatellus parvus	|	species	|		|	
+G034-6	|	G034	|	Ooperipatellus spenceri	|	species	|		|	
+G034-7	|	G034	|	Ooperipatellus viridimaculatus	|	species	|		|	
+G035	|	F002	|	Ooperipatus	|	genus	|		|	
+G035-1	|	G035	|	Ooperipatus birrgus	|	species	|		|	
+G035-2	|	G035	|	Ooperipatus caesius	|	species	|		|	
+G035-3	|	G035	|	Ooperipatus centunculus	|	species	|		|	
+G035-4	|	G035	|	Ooperipatus costatus	|	species	|		|	
+G035-5	|	G035	|	Ooperipatus hispidus	|	species	|		|	
+G035-6	|	G035	|	Ooperipatus lepidus	|	species	|		|	
+G035-7	|	G035	|	Ooperipatus nebulosus	|	species	|		|	
+G035-8	|	G035	|	Ooperipatus oviparus	|	species	|		|	
+G035-9	|	G035	|	Ooperipatus porcatus	|	species	|		|	
+G035-10	|	G035	|	Ooperipatus pulchellus	|	species	|		|	
+G035-11	|	G035	|	Ooperipatus silvanus	|	species	|		|	
+G036	|	F002	|	Opisthopatus	|	genus	|		|	
+G036-1	|	G036	|	Opisthopatus amatolensis	|	species	|		|	
+G036-2	|	G036	|	Opisthopatus cinctipes	|	species	|		|	
+G036-3	|	G036	|	Opisthopatus herbertorum	|	species	|		|	
+G036-4	|	G036	|	Opisthopatus laevis	|	species	|		|	
+G036-5	|	G036	|	Opisthopatus natalensis	|	species	|		|	
+G036-6	|	G036	|	Opisthopatus roseus	|	species	|		|	
+G037	|	F002	|	Paraperipatus	|	genus	|		|	
+G037-1	|	G037	|	Paraperipatus ceramensis	|	species	|		|	
+G037-2	|	G037	|	Paraperipatus keiensis	|	species	|		|	
+G037-3	|	G037	|	Paraperipatus novaebritanniae	|	species	|		|	
+G037-4	|	G037	|	Paraperipatus papuensis	|	species	|		|	
+G037-5	|	G037	|	Paraperipatus lorentzi	|	species	|		|	
+G037-6	|	G037	|	Paraperipatus vanheurni	|	species	|		|	
+G038	|	F002	|	Paropisthopatus	|	genus	|		|	
+G038-1	|	G038	|	Paropisthopatus umbrinus	|	species	|		|	
+G039	|	F002	|	Peripatoides	|	genus	|		|	
+G039-1	|	G039	|	Peripatoides indigo	|	species	|		|	
+G039-2	|	G039	|	Peripatoides kawekaensis	|	species	|		|	
+G039-3	|	G039	|	Peripatoides suteri	|	species	|		|	
+G040	|	F002	|	Peripatopsis	|	genus	|		|	
+G040-1	|	G040	|	Peripatopsis alba	|	species	|		|	
+G040-2	|	G040	|	Peripatopsis balfouri	|	species	|		|	
+G040-3	|	G040	|	Peripatopsis capensis	|	species	|		|	
+G040-4	|	G040	|	Peripatopsis clavigera	|	species	|		|	
+G040-5	|	G040	|	Peripatopsis intermedia	|	species	|		|	
+G040-6	|	G040	|	Peripatopsis lawrencei	|	species	|		|	
+G040-7	|	G040	|	Peripatopsis leonina	|	species	|		|	
+G040-8	|	G040	|	Peripatopsis moseleyi	|	species	|		|	
+G040-9	|	G040	|	Peripatopsis overbergiensis	|	species	|		|	
+G040-10	|	G040	|	Peripatopsis sedgwicki	|	species	|		|	
+G040-11	|	G040	|	Peripatopsis stelliporata	|	species	|		|	
+G041	|	F002	|	Phallocephale	|	genus	|		|	
+G041-1	|	G041	|	Phallocephale tallagandensis	|	species	|		|	
+G042	|	F002	|	Planipapillus	|	genus	|		|	
+G042-1	|	G042	|	Planipapillus annae	|	species	|		|	
+G042-2	|	G042	|	Planipapillus berti	|	species	|		|	
+G042-3	|	G042	|	Planipapillus biacinaces	|	species	|		|	
+G042-4	|	G042	|	Planipapillus biacinoides	|	species	|		|	
+G042-5	|	G042	|	Planipapillus bulgensis	|	species	|		|	
+G042-6	|	G042	|	Planipapillus cyclus	|	species	|		|	
+G042-7	|	G042	|	Planipapillus gracilis	|	species	|		|	
+G042-8	|	G042	|	Planipapillus impacris	|	species	|		|	
+G042-9	|	G042	|	Planipapillus mundus	|	species	|		|	
+G042-10	|	G042	|	Planipapillus taylori	|	species	|		|	
+G042-11	|	G042	|	Planipapillus tectus	|	species	|		|	
+G042-12	|	G042	|	Planipapillus vittatus	|	species	|		|	
+G043	|	F002	|	Regimitra	|	genus	|		|	
+G043-1	|	G043	|	Regimitra quadricaula	|	species	|		|	
+G044	|	F002	|	Ruhbergia	|	genus	|		|	
+G044-1	|	G044	|	Ruhbergia bifalcata	|	species	|		|	
+G044-2	|	G044	|	Ruhbergia brevicorna	|	species	|		|	
+G044-3	|	G044	|	Ruhbergia rostroides	|	species	|		|	
+G045	|	F002	|	Sphenoparme	|	genus	|		|	
+G045-1	|	G045	|	Sphenoparme hobwensis	|	species	|		|	
+G046	|	F002	|	Tasmanipatus	|	genus	|		|	
+G046-1	|	G046	|	Tasmanipatus anophthalmus	|	species	|		|	
+G046-2	|	G046	|	Tasmanipatus barretti	|	species	|		|	
+G047	|	F002	|	Tetrameraden	|	genus	|		|	
+G047-1	|	G047	|	Tetrameraden meringos	|	species	|		|	
+G048	|	F002	|	Vescerro	|	genus	|		|	
+G048-1	|	G048	|	Vescerro turbinatus	|	species	|		|	
+G049	|	F002	|	Wambalana	|	genus	|		|	
+G049-1	|	G049	|	Wambalana makrothele	|	species	|		|	
+P001	|	R001	|	unplaced extinct Onychophora	|		|		|	
+G050	|	P001	|	Cretoperipatus	|	genus	|		|	
+G050-1	|	G050	|	Cretozperipatus burmiticus	|	species	|		|	
+G051	|	P001	|	Succinipatopsis	|	genus	|		|	
+G051-1	|	G051	|	Succinipatopsis balticus	|	species	|		|	
+G052	|	P001	|	Tertiapatus	|	genus	|		|	
+G052-1	|	G052	|	Tertiapatus dominicanus	|	species	|		|	

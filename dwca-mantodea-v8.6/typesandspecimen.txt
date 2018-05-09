@@ -1,0 +1,720 @@
+id	typeStatus	typeDesignatedBy	scientificName	institutionCode	catalogNumber	locality	sex	recordedBy	verbatimEventDate	verbatimLongitude	verbatimLatitude
+1185993	typeGenus	Grimaldi. 2003. American Museum Novitates 3412	†Santanmantidae Grimaldi, 2003								
+1182270	typeSpecies	Bolivar. 1890. An. Soc. esp. Hist. Nat. 19:306	Blepharode candelarius (Bolivar, 1890)								
+1182271	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:248	[?] [?]   (Werner, 1907)								
+1182279	typeSpecies	Rehn. 1902. Can. Ent. 34:275	Mantis mendica Fabricius, 1775								
+1182280	typeSpecies	Serville. 1831. Annls Sci. nat. 22:275	Mantis mendica Fabricius, 1775								
+1182285	typeSpecies	Uvarov. 1940. Ann. Mag. nat. Hist. 11 5:60	Idolum Saussure, 1869								
+1182286	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:60	Idolum Saussure, 1869								
+1182290	typeSpecies	Gistel. 1856. Myst. Eur. Ins.-Welt. 427	[?] [?]   (Gistel, 1856)								
+1182295	typeSpecies	Roy. 2004. Revue Francaise D’Entomologie. 26(1):69	[?] [?]   (Giglio-Tos, 1917)								
+1182300	typeSpecies	Illiger. 1798. Verz. Kafer Preuss. 346	[?] [?]   (Fabricius, 1781)								
+1182302	typeSpecies	Risso. 1826. Hist. nat. Eur. merid. 5:212	[?] [?]   (Risso, 1826)								
+1182357	typeSpecies	Thunberg. 1815. Mem. Acad. Sci. St. Petersb. 5:426	[?] [?]   (Linne, 1758)								
+1182362	typeSpecies	Krauss. 1892. Zool. Anz. 15:547	[?] [?]   (Burmeister, 1838)								
+1182368	typeSpecies	Paulian. 1958. Naturaliste malgache 10:32	Empusa (Chopardempusa) neglecta Paulian, 1958								
+1182370	typeSpecies	Saussure & Zehntner. 1895. Hist. Madag. 23:547	[?] [?]   (Burmeister, 1838)								
+1182373	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:547	[?] [?]   (Burmeister, 1838)								
+1182382	typeSpecies	Lefebvre. 1835. Annls. Soc. ent. Fr. 4:482	[?] [?]   (Lefebvre, 1835)								
+1182466	typeSpecies	Lefebvre. 1835. Annls. Soc. ent. Fr. 4:503	Heteronutarsu aegyptiacus (Lefebvre, 1835)								
+1182476	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:90	[?] [?]   (Haan, 1842)								
+1182501	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702):54	[?] [?]   (Werner, 1908)								
+1182502	typeSpecies	Werner. 1915. Arch. Naturg. 81A(5):84	[?] [?]   (Werner, 1915)								
+1182517	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):87	[?] [?]   (Stal, 1877)								
+1182518	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1:81	[?] [?]   (Stal, 1877)								
+1182519	typeSpecies	Werner. 1922. Zool. Mededeel. Mus. Leiden 7:119	[?] [?]   (Werner, 1922)								
+1182532	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berl. 14:23	[?] [?]   (Werner, 1928)								
+1182534	typeSpecies	Giglio-Tos. 1927. Tierreich 50:259	[?] [?]   (Wood-Mason, 1879)								
+1182536	typeSpecies	Wood-Mason. 1879. Proc. Asiatic Soc. Bengal 1879:259	[?] [?]   (Wood-Mason, 1879)								
+1182554	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:103	[?] [?]   (Giglio-Tos, 1915)								
+1182555	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:457	[?] [?]   (Beier, 1930)								
+1182564	typeSpecies	Rehn. 1909. Bull. Amer. Mus. nat. Hist. 26:185	[?] [?]   (Rehn, 1909)								
+1182566	typeSpecies	Werner. 1922. Zool. Mededeel. Mus. Leiden 7:123	[?] [?]   (Werner, 1922)								
+1182568	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702):132	[?] [?]   (Navas, 1904)								
+1182569	typeSpecies	Werner. 1916. Verh. zool.-bot. Ges. Wien 66:283	[?] [?]   (Werner, 1916)								
+1182570	typeSpecies	Bolivar. 1913. As. Espan. Progr. Ci. Madrid, sec. 4 cienc. nat. 1913:132	[?] [?]   (Navas, 1904)								
+1182574	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:454	[?] [?]   (Saussure, 1871)								
+1182597	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:455	[?] [?]   (Beier, 1930)								
+1182600	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:88	[?] [?]   (Haan, 1842)								
+1182615	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:631	[?] [?]   (Olivier, 1792)								
+1182626	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702):4	[?] [?]   (Giglio-Tos, 1915)								
+1182630	typeSpecies	Bolivar. 1890. An. Soc. esp. Hist. Nat. 19:305	[?] [?]   (Bolivar, 1890)								
+1182638	typeSpecies	Saussure & Zehntner. 1895. Hist. Madag. 23:213	[?] [?]   (Saussure & Zehntner, 1895)								
+1182639	typeSpecies	Lombardo. 1995. Spixiana 18:12-14	[?] [?]   (Lombardo, 1995)								
+1182641	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702):91	[?] [?]   (Haan, 1842)								
+1182644	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702):3	[?] [?]   (Giglio-Tos, 1915)								
+1182646	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:258	[?] [?]   (Wood-Mason, 1879)								
+1182653	typeSpecies	Rehn. 1912. Arch. Naturgesch. 78A(6):120	[?] [?]   (Rehn, 1912)								
+1182655	typeSpecies	Serville. 1831. Annls Sci. nat. 22:111	[?] [?]   (Palisot de Beauvois, 1805)								
+1182660	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:93	[?] [?]   (de Haan, 1842)								
+1182664	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:549	[?] [?]   (Burmeister, 1838)								
+1182672	typeSpecies	Karsch. 1892. Berl. ent. Z. 37:68	[?] [?]   (Karsch, 1892)								
+1182678	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:108	[?] [?]   (Giglio-Tos, 1915)								
+1182679	typeSpecies	Saussure. 1898. Rev. suisse Zool. 5:203	[?] [?]   (Saussure, 1898)								
+1182680	typeSpecies	Werner. 1908. Ber. senckenb. naturf. Ges. 1908:44	[?] [?]   (Werner, 1908)								
+1182683	typeSpecies	La Greca. 1954. Annuar. Inst. Mus. Zool. Univ. Torino 6(2)	Congoharpax aberrans La Greca, 1954								
+1182691	typeSpecies	Westwood. 1889. Revis. Mant. 161	[?] [?]   (Serville, 1839)								
+1182715	typeSpecies	Burmeister. 1840. Z. Ent. (Germar) 2:161	[?] [?]   (Serville, 1839)								
+1182716	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:161	[?] [?]   (Serville, 1839)								
+1182718	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):442	[?] [?]   (Saussure, 1871)								
+1182724	typeSpecies	Kirby. 1899. Ann. Mag. nat. Hist. 7 4:426	[?] [?]   (Linne, 1758)								
+1182734	typeSpecies	Serville. 1831. Annls Sci. nat. 22:350	[?] [?]   (Fabricius, 1781)								
+1182735	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):86	[?] [?]   (Stal, 1877)								
+1182742	typeSpecies	Karsch. 1896. Stettin ent. Ztg. 57:244	[?] [?]   (Karsch, 1896)								
+1182753	typeSpecies	Saussure. 1898. Rev. suisse Zool. 5:201	[?] [?]   (Saussure, 1898)								
+1182755	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:110	[?] [?]   (Beauvois, 1805)								
+1182760	typeSpecies	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702)	[?] [?]   (Drury, 1773)								
+1182761	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:162	[?] [?]   (Serville, 1839)								
+1182775	typeSpecies	Saussure. 1898. Rev. suisse Zool. 5:190	[?] [?]   (Westwood, 1832)								
+1182784	typeSpecies	Wood-Mason. 1890. Ann. Mag. nat. Hist. 6 5:437	[?] [?]   (Wood-Mason, 1890)								
+1182787	typeSpecies	Wood-Mason. 1876. Annls Mag. nat. Hist. 4 13:507	[?] [?]   (Wood-Mason, 1876)								
+1182793	typeSpecies	Schulthess-Rechberg. 1899. Bull. Soc. vaud. Sci. nat. 35:199	[?] [?]   (Schulthess-Rechberg, 1899)								
+1182804	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:135	[?] [?]   (Giglio-Tos, 1915)								
+1182809	typeSpecies	Serville. 1831. Annls Sci. nat. 22:23	[?] [?]   (Serville, 1831)								
+1182834	typeSpecies	Roy. 1966. Bull. Inst. fond. Afr. noire A 28:229	Mantis nasutus Fabricius, 1787								
+1182840	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:86	[?] [?]   (de Haan, 1842)								
+1182844	typeSpecies	Wood-Mason. 1890. Ann. Mag. nat. Hist. 6 5:440	[?] [?]   (Wood-Mason, 1890)								
+1182845	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:40	[?] [?]   (Stoll, 1788)								
+1182851	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):[299]	[?] [?]   (Saussure, 1871)								
+1182858	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:368	Gonypeta hottentotta Karny, 1908								
+1182864	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:368	Gonypeta minutissima Karny, 1908								
+1182866	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:38	[?] [?]   (Giglio-Tos, 1915)								
+1182870	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:11	[?] [?]   (Rehn, 1927)								
+1182873	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:169	Mantis orba Stal, 1856								
+1182879	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:364	Entella minima Werner, 1906								
+1182884	typeSpecies	Beier. 1965. Pacif. Insects 7:477	[?] [?]   (Beier, 1965)								
+1182891	typeSpecies	Werner. 1907. Sber. Akad. Wiss. Wien 116:183	[?] [?]   (Werner, 1907)								
+1182907	typeSpecies	Henry. 1931. Spolia zeylan. 16:124	[?] [?]   (Henry, 1931)								
+1182909	typeSpecies	Uvarov. 1927. Spolia zeylan. 14:87	[?] [?]   (Uvarov, 1927)								
+1182912	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):[279]	[?] [?]   (Saussure, 1871)								
+1182919	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:36, pl. 13, f. 5	Hapalopeza occipitalis Westwood, 1889								
+1182922	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:84	[?] [?]   (Kirby, 1904)								
+1182926	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:43	[?] [?]   (Giglio-Tos, 1915)								
+1182927	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:63	[?] [?]   (Saussure, 1869)								
+1182929	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:228	[?] [?]   (Saussure, 1870)								
+1182931	typeSpecies	Wood-Mason. 1884. Annls Mag. nat. Hist. 5 13:51	[?] [?]   (Westwood, 1845)								
+1182938	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:59	[?] [?]   (Giglio-Tos, 1915)								
+1182948	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berl. 14:34	[?] [?]   (Werner, 1928)								
+1182949	typeSpecies	Tindale. 1930. Rec. Aust. Mus. 17:345	[?] [?]   (Tindale, 1930)								
+1182950	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):312	[?] [?]   (Saussure, 1871)								
+1182959	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:61	[?] [?]   (Giglio-Tos, 1915)								
+1182960	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berl. 14:33	[?] [?]   (Werner, 1928)								
+1182961	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:57	[?] [?]   (Giglio-Tos, 1915)								
+1182967	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:58	[?] [?]   (Giglio-Tos, 1915)								
+1182968	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:435,  pl. 7, figs. 65a-b	[?] [?]   (Saussure, 1871)								
+1182971	typeSpecies	Werner. 1933. Verh. naturf. Ges. Basel 43:2	[?] [?]   (Werner, 1932)								
+1182973	typeSpecies	Beier. 1965. Pacif. Insects 7:476	[?] [?]   (Beier, 1965)								
+1182975	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:55	[?] [?]   (Giglio-Tos, 1915)								
+1182977	typeSpecies	Westwood. 1889. Revis. Mantid. 37	[?] [?]   (Westwood, 1889)								
+1182981	typeSpecies	Tindale. 1924. Rec. S. Aust. Mus. 2:549	[?] [?]   (Tindale, 1924)								
+1182983	typeSpecies	Beier. 1965. Pacif. Insects 7:487	[?] [?]   (Beier, 1965)								
+1182985	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:264	[?] [?]   (Saussure, 1871)								
+1182992	typeSpecies	Mukherjee. 1995. Oriental Insects 29:185-358,  134 Fig.; New Delhi	[?] [?]   (Mukherjee, 1995)								
+1182994	typeSpecies	Hebard. 1920. Proc. Acad. nat. Sci. Philad. 72:28	[?] [?]   (Hebard, 1920)								
+1182997	typeSpecies	Beier. 1933. Mitt. zool. Mus. Berl. 18:326	[?] [?]   (Beier, 1933)								
+1183001	typeSpecies	Kaltenbach. 1998. Ann. Naturhist. Mus. Wien 100B:50	[?] [?]   (Giglio-Tos, 1915)								
+1183004	typeSpecies	Westwood. 1889. Revis. Mantid. 39, pl. 1, f. 10	[?] [?]   (Westwood, 1889)								
+1183007	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:237	[?] [?]   (Saussure, 1870)								
+1183013	typeSpecies	Hebard. 1920. Proc. Acad. nat. Sci. Philad. 72:22	[?] [?]   (Hebard, 1920)								
+1183016	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:364	[?] [?]   (Werner, 1906)								
+1183019	typeSpecies	Giglio-Tos. 1927. Tierreich 50:38	[?] [?]   (Westwood, 1889)								
+1183026	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:49	[?] [?]   (Giglio-Tos, 1915)								
+1183032	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:169	[?] [?]   (Saussure & Zehntner, 1895)								
+1183036	typeSpecies	Werner. 1931. Proc. zool. Soc. Lond. 1931:1333	[?] [?]   (Werner, 1913)								
+1183038	typeSpecies	Westwood. 1889. Revis. Mantid. 40, pl. 10, f. 7	[?] [?]   (Westwood, 1889)								
+1183042	typeSpecies	Paulian. 1957. Faune Madagascar 5:41	[?] [?]   (Paulian, 1957)								
+1183047	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):314	Mantis tenera Stal, 1858								
+1183051	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:51	[?] [?]   (Stal, 1877)								
+1183055	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:53	[?] [?]   (Giglio-Tos, 1915)								
+1183061	typeSpecies	Beier. 1935. Genera Insect. 203:12	[?] [?]   (Beier, 1931)								
+1183062	typeSpecies	Giglio-Tos. 1927. Tierreich 50:26	[?] [?]   (Hebard, 1920)								
+1183063	typeSpecies	Hebard. 1920. Proc. Acad. nat. Sci. Philad. 72:26	[?] [?]   (Hebard, 1920)								
+1183065	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:82	[?] [?]   (de Haan, 1842)								
+1183069	typeSpecies	Werner. 1907. Sber. Akad. Wiss. Wien 116:234	[?] [?]   (Werner, 1907)								
+1183075	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berl. 14:38	[?] [?]   (Werner, 1928)								
+1183078	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:593	[?] [?]   (Saussure, 1899)								
+1183083	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:32	[?] [?]   (Westwood, 1889)								
+1183090	typeSpecies	Karsch. 1892. Ent. Nachr. 18:10	[?] [?]   (Karsch, 1892)								
+1183095	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:372	[?] [?]   (Werner, 1906)								
+1183096	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:61	[?] [?]   (Saussure, 1869)								
+1183104	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:29	[?] [?]   (Westwood, 1889)								
+1183106	typeSpecies	Serville. 1839. Hist. Ins. Orth. 57	[?] [?]   (Stoll, 1813)								
+1183114	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:62	[?] [?]   (Saussure, 1869)								
+1183131	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:16	[?] [?]   (Saussure, 1872)								
+1183147	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:62	[?] [?]   (Saussure, 1869)								
+1183148	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:157	[?] [?]   (Saussure & Zehntner, 1895)								
+1183150	typeSpecies	Wood-Mason. 1891. Cat. Mant. 45, pl. 1, f. 2	[?] [?]   (Westwood, 1889)								
+1183154	typeSpecies	Saussure & Zehntner. 1895. Hist. Madag. 23:162	[?] [?]   (Saussure & Zehntner, 1895)								
+1183155	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:95	[?] [?]   (Giglio-Tos, 1915)								
+1183158	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:97	[?] [?]   (Giglio-Tos, 1915)								
+1183162	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berl. 14:30	[?] [?]   (Werner, 1928)								
+1183163	typeSpecies	Tinkham. 1937. Lingnan Sci. J. 16:491	[?] [?]   (Tinkham, 1937)								
+1183165	typeSpecies	Milledge. 1989. Records of the Australian Museum 41(2):107	[?] [?]   (Milledge, 1989)								
+1183167	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:76	[?] [?]   (de Haan, 1842)								
+1183170	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):81	[?] [?]   (de Haan, 1842)								
+1183180	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48::  80	[?] [?]   (Gerstaecker, 1883)								
+1183191	typeSpecies	Rehn. 1911. Genera Insect. 119:14	[?] [?]   (Giglio-Tos, 1907)								
+1183193	typeSpecies	Giglio-Tos. 1907. Boll. Musei Zool. Anat. comp. R. Univ. Torino 22(563):14	[?] [?]   (Giglio-Tos, 1907)								
+1183198	typeSpecies	Karsch. 1892. Ent. Nachr. 18:150	[?] [?]   (Karsch, 1892)								
+1183199	typeSpecies	Werner. 1908. Ber. senckenb. naturf. Ges. 1908:47	[?] [?]   (Werner, 1908)								
+1183204	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:6	[?] [?]   (Rehn, 1914)								
+1183207	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):195	[?] [?]   (Eversmann, 1854)								
+1183220	typeSpecies	Uvarov. 1939. Ann. Mag. nat. Hist. 11 3:498	[?] [?]   (Werner, 1935)								
+1183221	typeSpecies	Werner. 1935. Proc. zool. Soc. Lond. 1935:498	[?] [?]   (Werner, 1935)								
+1183223	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:447	[?] [?]   (Saussure, 1871)								
+1183229	typeSpecies	Beier. 1969. Annln naturh. Mus. Wien. 73:205	[?] [?]   (Beier, 1969)								
+1183231	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:371	[?] [?]   (Karny, 1908)								
+1183233	typeSpecies	Schulthess. 1898. Annali Mus. civ. Stor. nat. Genova 2 19(39):175	[?] [?]   (Schulthess, 1898)								
+1183239	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:87	[?] [?]   (Haan, 1842)								
+1183264	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:4	[?] [?]   (Cyrillo, 1787)								
+1183295	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:72	[?] [?]   (Saussure, 1869)								
+1183298	typeSpecies	Beier. 1950. Ent. NachBl. oest. schw. Ent. 2:62	[?] [?]   (Beier, 1950)								
+1183300	typeSpecies	Werner. 1931. Anz. Akad. Wiss. Wien 68:147	[?] [?]   (Werner, 1929)								
+1183303	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:158	[?] [?]   (Giglio-Tos, 1915)								
+1183305	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:703	[?] [?]   (Rehn, 1904)								
+1183307	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:394	[?] [?]   (Stal, 1871)								
+1183316	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:23	[?] [?]   (Saussure, 1872)								
+1183324	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:303	[?] [?]   (Bolivar, 1890)								
+1183325	typeSpecies	Werner. 1929. Verh. naturf. Ges. Basel 39:223	[?] [?]   (Werner, 1929)								
+1183327	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:160	[?] [?]   (Giglio-Tos, 1915)								
+1183329	typeSpecies	Giglio-Tos. 1927. Tierreich 50:146	[?] [?]   (Giglio-Tos, 1915)								
+1183333	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:146	[?] [?]   (Giglio-Tos, 1915)								
+1183334	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:279	Rogermantis royi Kaltenbach, 1996								
+1183336	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):424,  pl. 27, fig. 5	[?] [?]   (Reich & Fairmaire, 1847)								
+1183348	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:63	[?] [?]   (Saussure, 1869)								
+1183353	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:26	[?] [?]   (Wood-Mason, 1882)								
+1183358	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:161	[?] [?]   (Giglio-Tos, 1915)								
+1183359	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:85	[?] [?]   (Haan, 1842)								
+1183369	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:30	[?] [?]   (Saussure, 1872)								
+1183387	typeSpecies	Beier. 1942. Annln naturh. Mus. Wien 52:136	[?] [?]   (Beier, 1942)								
+1183389	typeSpecies	Wood-Mason. 1891. Cat. Mant. pl. 2	[?] [?]   (Wood-Mason, 1891)								
+1183391	typeSpecies	Liana. 2009. Paula micra gen. et sp. nov., A new Praying Mantis fom Java (Mantodea: Mantidae: Amelinae). Annales Zoologici 59(3):287-292	Paula micra Liana, 2009								
+1183393	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:441	[?] [?]   (Beier, 1930)								
+1183395	typeSpecies	Beier. 1964. Israel J. Zool 13:184	[?] [?]   (Beier, 1964)								
+1183397	typeSpecies	Saussure. 1892. Societas ent. 7:123	[?] [?]   (Saussure, 1892)								
+1183405	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:291	[?] [?]   (Thunberg, 1815)								
+1183412	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):21	[?] [?]   (Stal, 1877)								
+1183416	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1:511	[?] [?]   (Yersin, 1860)								
+1183430	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:364	[?] [?]   (Werner, 1906)								
+1183435	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:60	[?] [?]   (Saussure, 1859)								
+1183438	typeSpecies	Hebard. 1931. Trans. Amer. Ent. Soc. 57:209	Yersinia solitaria Scudder, 1896								
+1183443	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):60	[?] [?]   (Saussure, 1859)								
+1183445	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:126	[?] [?]   (Saussure, 1861)								
+1183451	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:149	[?] [?]   (Saussure & Zehntner, 1894)								
+1183452	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:396	Gryllus carolinus Johansson, 1763								
+1183514	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:pl. A (Gen Mantis) fig. 2	[?] [?]   (Hahn, 1835)								
+1183515	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:61	[?] [?]   (Palisot de Beauvois, 1805)								
+1183516	typeSpecies	Rehn. 1911. Genera Insect. 119:11	[?] [?]   (Rehn, 1911)								
+1183518	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:563	[?] [?]   (Rehn, 1904)								
+1183519	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:142	[?] [?]   (Saussure & Zehntner, 1894)								
+1183521	typeSpecies	Hebard. 1920. Proc. Acad. nat. Sci. Philad. 72:236	[?] [?]   (Saussure, 1870)								
+1183524	typeSpecies	Roy. 2006. Afrothespis dudley n.gen, n. sp. from Eastern Africa (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 111(4):475-478	Afrothespis dudleyi Roy, 2006								
+1183529	typeSpecies	Werner. 1908. Ber. senckenb. naturf. Ges. 1908:42	[?] [?]   (Werner, 1908)								
+1183535	typeSpecies	Serville. 1839. Hist. Ins. Orth. 640	[?] [?]   (Olivier, 1792)								
+1183561	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:78	[?] [?]   (de Haan, 1842)								
+1183570	typeSpecies	Gerstaecker. 1883. 92	[?] [?]   (Gerstaecker, 1883)								
+1183580	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:9	[?] [?]   (Westwood, 1889)								
+1183584	typeSpecies	Karsch. 1892. Ent. Nachr. 18:146	[?] [?]   (Karsch, 1892)								
+1183592	typeSpecies	Karsch. 1892. Ent. Nachr. 18:149	[?] [?]   (Karsch, 1892)								
+1183599	typeSpecies	Chopard. 1916. Annls Soc. ent. Fr. 85:166	[?] [?]   (Chopard, 1916)								
+1183605	typeSpecies	Gravely. 1920. Rec. Ind. Mus. 19:17	[?] [?]   (Gravely, 1920)								
+1183607	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):88	[?] [?]   (Stal, 1877)								
+1183612	typeSpecies	Saussure. 1892. Societas ent. 7:124	[?] [?]   (Saussure, 1892)								
+1183614	typeSpecies	Piton. 1940. Mem. Soc. Hist. Nat. Auvergne 1:148	[?] [?]   (Piton, 1940)								
+1183617	typeSpecies	Roy. 2004. Rev. et phylogenie des Choeradodini Kirby, 1904, Bull. de la Soc. entom. de France 2004:72	[?] [?]   (Saussure, 1869)								
+1183620	typeSpecies	Serville. 1831. Annls Sci. nat. 22:426	Gryllus (Mantis) strumarius Linne, 1758								
+1183632	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:426	Gryllus (Mantis) strumarius Linne, 1758								
+1183635	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:289	[?] [?]   (Thunberg, 1815)								
+1183638	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:251	[?] [?]   (Kaltenbach, 1996)								
+1183640	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:169	[?] [?]   (Stal, 1856)								
+1183644	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:171	[?] [?]   (Giglio-Tos, 1915)								
+1183675	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:56	[?] [?]   (Sjostedt, 1909)								
+1183676	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:180	[?] [?]   (Giglio-Tos, 1915)								
+1183677	typeSpecies	Werner. 1923. Beitr. Kennt. Land.-u. Susswasserfauna Dt.-SudwAfr. 2:118	[?] [?]   (Werner, 1923)								
+1183680	typeSpecies	Beier. 1942. Annln naturh. Mus. Wien 52:55	[?] [?]   (Saussure, 1872)								
+1183686	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):38	[?] [?]   (Chopard, 1914)								
+1183709	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:175	[?] [?]   (Giglio-Tos, 1915)								
+1183711	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:596	[?] [?]   (Saussure, 1899)								
+1183720	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:255	[?] [?]   (Kaltenbach, 1996)								
+1183724	typeSpecies	Chopard. 1929. Rev. Zool. Bot. Afr. 18:44	[?] [?]   (Chopard, 1929)								
+1183727	typeSpecies	Kaltenbach. 1996. Ann. Naturhist. Mus. Wien 98B:248	[?] [?]   (Kaltenbach, 1996)								
+1183729	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:64	[?] [?]   (Saussure, 1869)								
+1183735	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:181	[?] [?]   (Giglio-Tos, 1915)								
+1183739	typeSpecies	Saussure & Zehntner. 1895. Hist. Madag. 23:178	[?] [?]   (Brancsik, 1893)								
+1183743	typeSpecies	Westwood. 1839. Intr. Classif. Ins. 1:430	[?] [?]   (Westwood, 1839)								
+1183778	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:238	[?] [?]   (Tepper, 1905)								
+1183779	typeSpecies	Sjostedt. 1918. Ark. Zool. 11(19):36	[?] [?]   (Sjostedt, 1918)								
+1183783	typeSpecies	Werner. 1922. Zool. Mededeel. Mus. Leiden 7:121	[?] [?]   (Werner, 1922)								
+1183784	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:25	[?] [?]   (Saussure, 1872)								
+1183788	typeSpecies	Tindale. 1923. Rec. S. Aust. Mus. 2:453	[?] [?]   (Tindale, 1923)								
+1183789	typeSpecies	Milledge. 1997. Mem. Mus. Vic. 56(1):1-63,  illustr.	[?] [?]   (Milledge, 1997)								
+1183791	typeSpecies	Tindale. 1923. Rec. S. Aust. Mus. 2:442	[?] [?]   (Tindale, 1923)								
+1183794	typeSpecies	Mériguet. 2005. Mantasoa, a new genus of mantid endemic from Madagascar close to Tarachomantis Brancsik (Dictyoptera, Mantidae). Bulletin de la Société entomologique de France 110(1):43-46	Mantasoa lebbei Mériguet, 2005								
+1183797	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:30	[?] [?]   (Wood-Mason, 1882)								
+1183800	typeSpecies	Stal. 1876. Ofvers. K. VetensAkad. Forh. Stockh. 33(3):72	[?] [?]   (Stal, 1876)								
+1183808	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:72	[?] [?]   (Giglio-Tos, 1912)								
+1183816	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:536	[?] [?]   (Burmeister, 1838)								
+1183965	typeSpecies	Giglio-Tos. 1912. Bull. Soc. ent. Ital. 43:365	[?] [?]   (Werner, 1906)								
+1183966	typeSpecies	Giglio-Tos. 1912. Bull. Soc. ent. Ital. 43:639	[?] [?]   (Olivier, 1792)								
+1183968	typeSpecies	Giglio-Tos. 1912. Bull. Soc. ent. Ital. 43:214	[?] [?]   (Brunner v.W., 1898)								
+1183973	typeSpecies	Tindale. 1923. Rec. S. Aust. Mus. 2:451	[?] [?]   (Tindale, 1923)								
+1183976	typeSpecies	Ragge & Roy. 1967. Bull. Inst. fond. Afr. noire A 29:95	[?] [?]   (Serville, 1839)								
+1183986	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:35, pl. 12, f. 4	[?] [?]   (Westwood, 1889)								
+1183988	typeSpecies	Beier. 1931. Mitt. zool. StInst. Hamb. 45:277	[?] [?]   (Roy, 1973)								
+1183990	typeSpecies	Burmeister. 1838. 536	[?] [?]   (Burmeister, 1838)								
+1184032	typeSpecies	Giglio-Tos. 1912. 83	[?] [?]   (Bolivar, 1889)								
+1184037	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:81	[?] [?]   (Forskal, 1775)								
+1184102	typeSpecies	Beier. 1942. Annln naturh. Mus. Wien 52:265	[?] [?]   (Werner, 1916)								
+1184104	typeSpecies	Werner. 1923. Treubia 3(3-4):131	[?] [?]   (Giglio-Tos, 1912)								
+1184132	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:34, pl. 1, f. 8	[?] [?]   (Westwood, 1889)								
+1184139	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):471	[?] [?]   (Bolivar, 1908)								
+1184145	typeSpecies	Roy. 1993[1992]. Bull Soc. Ent. France 97:334	[?] [?]   (Roy, 1993)								
+1184147	typeSpecies	Linne. 1758. Syst. Nat. (ed. 10) 426	Gryllus (Mantis) religiosus Linne, 1758								
+1184192	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:235	[?] [?]   (Saussure, 1870)								
+1184196	typeSpecies	Saussure. 1899. Abh. senckenb. naturforsch. Ges. 21:pl. 39	[?] [?]   (Charpentier, 1843)								
+1184202	typeSpecies	Werner. 1923. Beitr. Kennt. Land.-u. Susswasserfauna Dt.-SudwAfr. 2:121	[?] [?]   (Werner, 1923)								
+1184204	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:312	[?] [?]   (Stal, 1860)								
+1184213	typeSpecies	Sjostedt. 1918. Ark. Zool. 11(19):28	[?] [?]   (Sjostedt, 1918)								
+1184214	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):277	[?] [?]   (Roy, 1973)								
+1184216	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:163	[?] [?]   (Tepper, 1904)								
+1184223	typeSpecies	Sjostedt. 1918. Ark. Zool. 11(19):31	[?] [?]   (Sjostedt, 1918)								
+1184224	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):229	[?] [?]   (Saussure, 1870)								
+1184246	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:35	[?] [?]   (Westwood, 1889)								
+1184257	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:13	[?] [?]   (Giglio-Tos, 1911)								
+1184258	typeSpecies	Giglio-Tos. 1911[1910]. Bull. Soc. ent. Ital. 42:89	[?] [?]   (Gerstaecker, 1883)								
+1184269	typeSpecies	Ehrmann. 2002. Mantodea der Welt 35	Mantis aeruginosa Goeze, 1778								
+1184299	typeSpecies	Bolivar. 1908. Mems R. Soc. esp. Hist. nat. 1:88	[?] [?]   (Gerstaecker, 1883)								
+1184312	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:640	[?] [?]   (Olivier, 1792)								
+1184356	typeSpecies	Giglio-Tos. 1911. Bull. Soc. ent. Ital. 43:69	[?] [?]   (Saussure, 1869)								
+1184360	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):46	[?] [?]   (Stal, 1877)								
+1184362	typeSpecies	Stal. 1876. Ofvers. K. VetensAkad. Forh. Stockh. 33(3):43	[?] [?]   (Stal, 1876)								
+1184371	typeSpecies	Rehn. 1903. Proc. Acad. nat. Sci. Philad. 1903:706	[?] [?]   (Rehn, 1904)								
+1184372	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:228	[?] [?]   (Fabricius, 1787)								
+1184461	typeSpecies	Rehn. 1901. Can. Ent. 33:228	[?] [?]   (Fabricius, 1787)								
+1184463	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:450	[?] [?]   (Beier, 1930)								
+1184465	typeSpecies	Werner. 1909. Annls Soc. ent. Belg. 53:131	[?] [?]   (Werner, 1909)								
+1184468	typeSpecies	Schulthess-Schildler. 1898. Annali Mus. civ. Stor. nat. Genova 2 19(39):209	[?] [?]   (Gerstaecker, 1869)								
+1184480	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:241	[?] [?]   (Saussure, 1871)								
+1184488	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:164	[?] [?]   (Giglio-Tos, 1911)								
+1184493	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:46	[?] [?]   (Giglio-Tos, 1917)								
+1184496	typeSpecies	Tindale. 1923. Rec. S. Aust. Mus. 2:56	[?] [?]   (Stal, 1877)								
+1184497	typeSpecies	Tindale. 1924. Rec. S. Aust. Mus. 2:551	Zopheromantis trimaculata Tindale, 1924								
+1184501	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):728	[?] [?]   (Pallas, 1773)								
+1184509	typeSpecies	Stal. 1876. Ofvers. K. VetensAkad. Forh. Stockh. 33(3):70	[?] [?]   (Stal, 1876)								
+1184514	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):278	[?] [?]   (Saussure, 1871)								
+1184526	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):235	[?] [?]   (Saussure, 1870)								
+1184527	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:337	[?] [?]   (Wood-Mason, 1876)								
+1184534	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:236	[?] [?]   (Saussure, 1870)								
+1184536	typeSpecies	Pantel. 1896. An. Soc. esp. Hist. Nat. 25:67	[?] [?]   (Pantel, 1896)								
+1184539	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:20	[?] [?]   (Giglio-Tos, 1916)								
+1184541	typeSpecies	Werner. 1923. Treubia 3(3-4):394	[?] [?]   (Werner, 1923)								
+1184543	typeSpecies	Werner. 1935. Proc. zool. Soc. Lond. 1935:497	[?] [?]   (Werner, 1935)								
+1184545	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:168	[?] [?]   (Stal, 1856)								
+1184559	typeSpecies	Werner. 1908. Ann. Mus. Zool. Acad. Imp. Sci. St. Petersburg 13:120	[?] [?]   (Werner, 1908)								
+1184562	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:361	[?] [?]   (Beier, 1931)								
+1184564	typeSpecies	Brunner v. W. 1893. Annali Mus. civ. Stor. nat. Genova 2 13(33):75	[?] [?]   (Brunner, 1892)								
+1184567	typeSpecies	Berland & Chopard. 1922. Bull. Mus. Hist. Nat. Paris 28:19	[?] [?]   (Rambur, 1839)								
+1184614	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:19	[?] [?]   (Rambur, 1839)								
+1184620	typeSpecies	La Greca. 1977. Animalia (Catania) 4(1-2):257	[?] [?]   (Saussure, 1871)								
+1184622	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):171	[?] [?]   (Serville, 1839)								
+1184625	typeSpecies	Burr. 1899. Bull. Liverpool. Mus. 2:43	[?] [?]   (Burr, 1899)								
+1184629	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:43	[?] [?]   (Giglio-Tos, 1916)								
+1184631	typeSpecies	Wood-Mason. 1889. J. Asiat. Soc. Bengal 58:441	[?] [?]   (Wood-Mason, 1876)								
+1184634	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:239	[?] [?]   (Saussure, 1870)								
+1184663	typeSpecies	Saussure. 1871. Mem. Soc. Hist. nat. Geneve 21:239	[?] [?]   (Saussure, 1870)								
+1184664	typeSpecies	Finot. 1902. Annls Soc. ent. Belg. 46:29	[?] [?]   (Finot, 1893)								
+1184680	typeSpecies	Karsch. 1892. Ent. Nachr. 18:3	[?] [?]   (Uvarov, 1924)								
+1184685	typeSpecies	Lombardo. 1991. Trop. Zool. 4:24	[?] [?]   (Giglio-Tos, 1916)								
+1184688	typeSpecies	La Greca & Lombardo. 1987. Animalia (Catania) 14(1-3):237	[?] [?]   (La Greca & Lombardo, 1987)								
+1184690	typeSpecies	Lombardo. 1991. Trop. Zool. 4:76	[?] [?]   (Chopard, 1943)								
+1184694	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:71	[?] [?]   (Saussure, 1869)								
+1184701	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:238	[?] [?]   (Burmeister, 1864)								
+1184729	typeSpecies	Toledo Piza. 1960. Revta Agric. 35:238	[?] [?]   (Burmeister, 1864)								
+1184731	typeSpecies	Rivera. 2010. Chromatophotina, a remarkable new genus praying mantid from the Neotropioc Region and its two new species (Mantodea: Mantidae, Photinainae).(2415):22-32	Chromatophotina awajun Rivera, 2010								
+1184734	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:541	[?] [?]   (Burmeister, 1838)								
+1184745	typeSpecies	Saussure & Zehntner. 1894. Biologia centr.-am. Orth. 1:153	[?] [?]   (Saussure & Zehntner, 1894)								
+1184750	typeSpecies	Saussure. 1871. Mem. Hist. nat. Mex., Mant. 58	[?] [?]   (Stoll, 1813)								
+1184753	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28(3):410	[?] [?]   (De Geer, 1773)								
+1184756	typeSpecies	Saussure & Zehntner. 1894. Biologia centr.-am. Orth. 1:66	[?] [?]   (Saussure, 1869)								
+1184769	typeSpecies	Beier. 1935. Genera Insect. 203:268	[?] [?]   (Saussure, 1872)								
+1184772	typeSpecies	Giglio-Tos. 1897. Boll. Musei Zool. Anat. comp. R. Univ. Torino 12(302):13	[?] [?]   (Giglio-Tos, 1897)								
+1184775	typeSpecies	Brancsik. 1897. Jh. naturw. Ver. Trencsiner Kom. 19-20:64	[?] [?]   (Brancsik, 1897)								
+1184779	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:196	[?] [?]   (Saussure, 1871)								
+1184785	typeSpecies	Rehn, J. W. H. 1941. Notul. Nat. 70:2	[?] [?]   (Rehn, 1941)								
+1184794	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:156	[?] [?]   (Rehn, 1907)								
+1184800	typeSpecies	Toledo Piza. 1968. Revta Agric. 43:49  e	[?] [?]   (Toledo Piza, 1968)								
+1184801	typeSpecies	Lombardo. 1999. Rev. suisse Zool. 106(2):259	[?] [?]   (Rehn, 1916)								
+1184805	typeSpecies	Westwood. 1889. Rev. Mantid. 46, pl. 11, f. 9	[?] [?]   (Westwood, 1889)								
+1184807	typeSpecies	Wood-Mason. 1877. J. Asiatic Soc. Bengal 53:507	[?] [?]   (Wood-Mason, 1876)								
+1184817	typeSpecies	Serville. 1831. Annls Sci. nat. 22:641	[?] [?]   (Olivier, 1792)								
+1184823	typeSpecies	Giglio-Tos. 1914. Boll. Musei Zool. Anat. comp. R. Univ. Torino 29(684):18	[?] [?]   (Giglio-Tos, 1898)								
+1184825	typeSpecies	Rehn. 1911. Genera Insect. 119:206	[?] [?]   (Brunner & Redtenbacher, 1892)								
+1184828	typeSpecies	Caudell. 1904. J. New York Ent. Soc. 12:73	[?] [?]   (Stoll, 1813)								
+1184840	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:73	[?] [?]   (Stoll, 1813)								
+1184841	typeSpecies	Saussure. 1871. Mem. Hist. nat. Mex., Mant. 183	[?] [?]   (Serville, 1839)								
+1184859	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):63	[?] [?]   (Stal, 1877)								
+1184860	typeSpecies	Rehn. 1911. Genera Insect. 119:191	[?] [?]   (Saussure & Zehntner, 1894)								
+1184862	typeSpecies	Saussure & Zehntner. 1894. Biologia centr.-am. Orth. 1:36, pl. 11, f. 8	[?] [?]   (Westwood, 1889)								
+1184869	typeSpecies	Ehrmann. 2002. Mantodea der Welt 73	[?] [?]   (Stoll, 1813)								
+1184901	typeSpecies	Stal. 1856. Ofvers. K. VetensAkad. Forh. Stockh. 13:169	[?] [?]   (Stal, 1856)								
+1184924	typeSpecies	Westwood. 1889. Revis. Mantid. 42, pl. 1, f. 9	[?] [?]   (Westwood, 1889)								
+1184929	typeSpecies	Beier. 1929. Zool. Anz. 85:293	[?] [?]   (Beier, 1929)								
+1184930	typeSpecies	Ouchi. 1938. J. Shanghai Sci. Inst. (sect. 3) 3:24	[?] [?]   (Ouchi, 1938)								
+1184937	typeSpecies	Sharov. 1962. Psyche, Camb. 69:102	[?] [?]   (Sharov, 1962)								
+1184939	typeSpecies	Sjostedt. 1900. Bih. K. svenska VetenskAkad. Handl. 25(6):23	[?] [?]   (Sjostedt, 1900)								
+1184943	typeSpecies	Giglio-Tos. 1914. Boll. Musei Zool. Anat. comp. R. Univ. Torino 29(684):pag.  ?	[?] [?]   (Giglio-Tos, 1914)								
+1184945	typeSpecies	La Greca & Lombardo. 1986. Aninalia (Catania) 13(1-3):70	[?] [?]   (Saussure, 1869)								
+1184949	typeSpecies	Serville. 1839. Hist. Ins. Orth. 169	[?] [?]   (Stal, 1856)								
+1184959	typeSpecies	Uvarov. 1940. Ann. Mag. nat. Hist. 11 6:220	[?] [?]   (Wood-Mason, 1877)								
+1184963	typeSpecies	Westwood. 1845. Arcana Ent. 1:272	[?] [?]   (Westwood, 1841)								
+1184976	typeSpecies	Kirby. 1904. Ann. Mag. nat. Hist. 7 13:88	[?] [?]   (Kirby, 1904)								
+1184977	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:84  pl. 9, Fig.31, 287-288	[?] [?]   (Saussure, 1872)								
+1184979	typeSpecies	Roy. 2003. Bulletin-de-la-Societe-Entomologique-de-France 108(3):233-235	[?] [?]   (Roy, 2003)								
+1184981	typeSpecies	Giglio-Tos. 1914. Boll. Musei Zool. Anat. comp. R. Univ. Torino 29(684):336	[?] [?]   (Chopard, 1911)								
+1184984	typeSpecies	Saussure & Zehntner. 1894. Biologia centr.-am. Orth. 1:197	[?] [?]   (Saussure & Zehntner, 1894)								
+1184986	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:85,  pl. 9, fig. 32	[?] [?]   (Saussure, 1871)								
+1184988	typeSpecies	Deeleman-Reinhold. 1957. Zool. Mede. Leiden 35:66	[?] [?]   (Deeleman-Reinhold, 1957)								
+1184990	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1	[?] [?]   (Blanchard, 1836)								
+1185009	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:61	[?] [?]   (Saussure, 1859)								
+1185020	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:543	[?] [?]   (Burmeister, 1838)								
+1185035	typeSpecies	Serville. 1839. Hist. Ins. Orth. 24	[?] [?]   (Lichtenstein, 1802)								
+1185036	typeSpecies	Serville. 1839. Hist. Ins. Orth. 637	[?] [?]   (Olivier, 1792)								
+1185048	typeSpecies	Saussure. 1892. Societas ent. 7:123	[?] [?]   (Saussure, 1892)								
+1185054	typeSpecies	Beier. 1935. Genera Insect. 203:96	[?] [?]   (Beier, 1935)								
+1185055	typeSpecies	Rehn. 1935. Proc. Acad. nat. Sci. Philad. 87:210	[?] [?]   (Rehn, 1935)								
+1185060	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:277	[?] [?]   (Fabricius, 1775)								
+1185075	typeSpecies	Sjostedt. 1918. Ark. Zool. 11(19):16	[?] [?]   (Sjostedt, 1918)								
+1185080	typeSpecies	Newman. 1838. Ent. Mag. 5:179	[?] [?]   (Newman, 1838)								
+1185091	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):14	[?] [?]   (Saussure, 1871)								
+1185095	typeSpecies	Westwood. 1835. Zool. Journ. 5:442,  pl. 22, fig. 1	[?] [?]   (Westwood, 1835)								
+1185104	typeSpecies	Westwood. 1834. Zool. Jour. 5:442,  pl. 22, fig. 1	[?] [?]   (Westwood, 1835)								
+1185109	typeSpecies	Roy. 1996. Bulletin du Museum National D’Histoire Naturelle Section A Zoologie Biologie et Ecologie Animales 1996:69-138,  illustr.	[?] [?]   (Roy, 1996)								
+1185111	typeSpecies	Bolivar. 1908. Mems R. Soc. esp. Hist. nat. 1:464	[?] [?]   (Bolivar, 1908)								
+1185115	typeSpecies	Stal. 1856. Ofvers. K. VetensAkad. Forh. Stockh. 13:168	[?] [?]   (Stal, 1856)								
+1185125	typeSpecies	Roy. 1996. Bulletin du Museum National D’Histoire Naturelle Section A Zoologie Biologie et Ecologie Animales 1996:277	[?] [?]   (Karsch, 1894)								
+1185135	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:32, pl. 1, f. 6	[?] [?]   (Westwood, 1889)								
+1185140	typeSpecies	Karsch. 1892. Ent. Nachr. 18:7	[?] [?]   (Karsch, 1892)								
+1185142	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:85	[?] [?]   (Giglio-Tos, 1915)								
+1185144	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:85	[?] [?]   (Giglio-Tos, 1915)								
+1185145	typeSpecies	Werner. 1921. Treubia 2:128	[?] [?]   (Werner, 1921)								
+1185147	typeSpecies	Werner. 1924. Treubia 5:262	[?] [?]   (Werner, 1927)								
+1185151	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:533	Mantis (Thespis) albella Burmeister, 1838								
+1185166	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:533	Mantis (Thespis) albella Burmeister, 1838								
+1185167	typeSpecies	Hebard. 1920. Proc. Acad. nat. Sci. Philad. 72:45	[?] [?]   (Hebard, 1920)								
+1185172	typeSpecies	Roy. 2008. Overview on Madagascan Tarachodinae (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 113(4):4	[?] [?]   (Beier, 1931)								
+1185181	typeSpecies	Stiewe. 2009. Dysaulophthalma nathani gen et sp. n. A new praying mantis from Southern India (Dictyoptera: Mantodea, Tarachodidae). Entomologist`s Monthly Magazine (Ent. Mon. Mag.) 145(1):51-60	Dysaulophthalma nathani Stiewe, 2009								
+1185183	typeSpecies	Stal. 1876. Ofvers. K. VetensAkad. Forh. Stockh. 33(3):69	[?] [?]   (Stal, 1876)								
+1185189	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):16	[?] [?]   (Stal, 1877)								
+1185192	typeSpecies	Giglio-Tos. 1907. Boll. Musei Zool. Anat. comp. R. Univ. Torino 22(563):7	[?] [?]   (Giglio-Tos, 1907)								
+1185193	typeSpecies	Burr. 1900. Proc. zool. Soc. Lond. 1900:37,  pl. 2, f. 4	[?] [?]   (Burr, 1900)								
+1185195	typeSpecies	Wood-Mason. 1877. Annls Mag. nat. Hist. 4 19:221	[?] [?]   (Wood-Mason, 1877)								
+1185199	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):17	[?] [?]   (Stal, 1877)								
+1185200	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):18	[?] [?]   (Stal, 1877)								
+1185206	typeSpecies	Westwood. 1889. Revis. Mant. 40	[?] [?]   (Wood-Mason, 1889)								
+1185207	typeSpecies	Uvarov. 1940. Ann. Mag. nat. Hist. 11 5:552	[?] [?]   (Burmeister, 1838)								
+1185210	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:552	[?] [?]   (Burmeister, 1838)								
+1185212	typeSpecies	Stal. 1876. Ofvers. K. VetensAkad. Forh. Stockh. 33(3):17	[?] [?]   (Stal, 1877)								
+1185230	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):11	Chiropacha lenticularis Saussure, 1872								
+1185240	typeSpecies	Beier. 1954. Explor. Parc natn. Upemba Miss. G. F. White. Fasc. 20:10	Chiropacha meridionalis Saussure, 1872								
+1185279	typeSpecies	Beier. 1954. Explor. Parc natn. Upemba Miss. G. F. White. Fasc. 20:3	[?] [?]   (Beier, 1931)								
+1185284	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:426	[?] [?]   (Linne, 1758)								
+1185309	typeSpecies	Roy. 1971. Bull. Inst. fond. Afr. noire A 33(3):22	[?] [?]   (Sjostedt, 1930)								
+1185312	typeSpecies	Beier. 1954. Explor. Parc natn. Upemba Miss. G. F. White. Fasc. 20:189	[?] [?]   (Saussure & Zehntner, 1895)								
+1185317	typeSpecies	Beier. 1969. Annln naturh. Mus. Wien. 73:255	[?] [?]   (Beier, 1953)								
+1185321	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:82	[?] [?]   (Giglio-Tos, 1917)								
+1185325	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:470	[?] [?]   (Saussure, 1861)								
+1185329	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:323	[?] [?]   (Rehn, 1911)								
+1185332	typeSpecies	Beier. 1930. Ann. Mag. nat. Hist. 10 6:435	[?] [?]   (Beier, 1930)								
+1185339	typeSpecies	Saussure & Zehntner. 1895. Hist. Madag. 23:53	[?] [?]   (Saussure & Zehntner, 1895)								
+1185341	typeSpecies	Wood-Mason. 1889. Cat. Mat. 14	[?] [?]   (Saussure, 1872)								
+1185346	typeSpecies	Beier. 1954. Explor. Parc natn. Upemba Miss. G. F. White. Fasc. 20:223	[?] [?]   (Werner, 1907)								
+1185349	typeSpecies	Beier. 1954. Explor. Parc natn. Upemba Miss. G. F. White. Fasc. 20:209	[?] [?]   (Gerstaecker, 1869)								
+1185357	typeSpecies	Gerstaecker. 1869. Arch. f. naturges. 35:210	[?] [?]   (Gerstaecker, 1869)								
+1185380	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:92	[?] [?]   (Giglio-Tos, 1917)								
+1185383	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:465	[?] [?]   (Burchell, 1822)								
+1185437	typeSpecies	Beier. 1957. Revue Zool. Bot. afr. 56:396	Chiropacha afzelii Stal, 1871								
+1185442	typeSpecies	Charpentier. 1841. Z. Ent. (Germar) 3:pl. 15	Chiropacha gilva Charpentier, 1841								
+1185455	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:61	[?] [?]   (Saussure, 1869)								
+1185462	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1:215  —	[?] [?]   (Werner, 1907)								
+1185470	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:208	[?] [?]   (Gerstaecker, 1869)								
+1185477	typeSpecies	Serville. 1831. Annls Sci. nat. 22:636	[?] [?]   (Olivier, 1792)								
+1185478	typeSpecies	Chopard. 1913. Bull. Soc. ent. Fr. 1913:243	[?] [?]   (Saussure, 1870)								
+1185504	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1:639	[?] [?]   (Olivier, 1792)								
+1185505	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3	[?] [?]   (Stoll, 1813)								
+1185509	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):89	[?] [?]   (Stal, 1877)								
+1185510	typeSpecies	Werner. 1927. Konowia 6:144	[?] [?]   (Saussure, 1871)								
+1185516	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:73	[?] [?]   (Saussure, 1869)								
+1185521	typeSpecies	Uvarov. 1940. Ann. Mag. nat. Hist. 11 5:302	[?] [?]   (Charpentier, 1841)								
+1185522	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):302	[?] [?]   (Charpentier, 1841)								
+1185538	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:117	[?] [?]   (Perty, 1833)								
+1185539	typeSpecies	Rehn. 1916. Trans. Amer. Ent. Soc. 42:117	[?] [?]   (Perty, 1833)								
+1185540	typeSpecies	Burmeister. 1838. 117	[?] [?]   (Perty, 1833)								
+1185541	typeSpecies	Beier. 1929. Zool. Anz. 81:246	[?] [?]   (Beier, 1929)								
+1185542	typeSpecies	Toledo Piza. 1967. 3 (3):25	[?] [?]   (Toledo Piza, 1967)								
+1185576	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):74	[?] [?]   (Stoll, 1813)								
+1185577	typeSpecies	Gerstaecker. 1883. Mitt. naturw. Ver. Neu-Vorpomm. 14:74	[?] [?]   (Stoll, 1813)								
+1185581	typeSpecies	Lombardo. 1996. J. Orthoptera Res. 5:49-51,  illustr.	[?] [?]   (Lombardo, 1995)								
+1185583	typeSpecies	Terra. 1995. Revta bras. Ent. 39(1):230	[?] [?]   (Fabricius, 1787)								
+1185593	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):229	[?] [?]   (Saussure, 1870)								
+1185604	typeSpecies	Westwood. 1845. Arcana Ent. 2:52,  pl. 62, f. 2	[?] [?]   (Westwood, 1843)								
+1185610	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):65	[?] [?]   (Stal, 1877)								
+1185612	typeSpecies	Ehrmann. 2002. Mantodea der Welt 85	[?] [?]   (de Haan, 1842)								
+1185624	typeSpecies	Tinkham. 1937. Lingnan Sci. J. 16:552	[?] [?]   (Tinkham, 1937)								
+1185625	typeSpecies	Werner. 1922. Philipp. J. Sci. 21:148.	[?] [?]   (Werner, 1922)								
+1185629	typeSpecies	Roy. 1966. Bull. Soc. ent. Fr. 71:210	[?] [?]   (Saussure & Zehntner, 1895)								
+1185634	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28:169	[?] [?]   (Stal, 1856)								
+1185672	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:248	[?] [?]   (Brancsik, 1895)								
+1185676	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:532	[?] [?]   (Burmeister, 1838)								
+1185681	typeSpecies	Terra. 1995. Revta bras. Ent. 39(1):330	[?] [?]   (Terra, 1982)								
+1185683	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:74	[?] [?]   (Giglio-Tos, 1917)								
+1185691	typeSpecies	Giglio-Tos. 1927. Tierreich 50:350	[?] [?]   (Fabricius, 1781)								
+1185693	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:237	[?] [?]   (Saussure, 1870)								
+1185699	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:237	[?] [?]   (Saussure, 1870)								
+1185702	typeSpecies	Kirby. 1904. Syn. Cat. Orth. 1:213	[?] [?]   (Scudder, 1896)								
+1185708	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):274	[?] [?]   (Saussure, 1872)								
+1185718	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:328	[?] [?]   (Chopard, 1911)								
+1185719	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:761	[?] [?]   (Chopard, 1913)								
+1185721	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:186	[?] [?]   (Giglio-Tos, 1915)								
+1185727	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:182	[?] [?]   (Giglio-Tos, 1915)								
+1185730	typeSpecies	Toledo Piza. 1973. Revta Agric. 48:117	[?] [?]   (Toledo Piza, 1973)								
+1185731	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:239	[?] [?]   (Saussure, 1870)								
+1185740	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:71	[?] [?]   (Saussure, 1869)								
+1185747	typeSpecies	Saussure. 1892. Societas ent. 7:176	[?] [?]   (Saussure & Zehntner, 1894)								
+1185748	typeSpecies	Saussure. 1892. Societas ent. 7:177	[?] [?]   (Saussure & Zehntner, 1894)								
+1185749	typeSpecies	Werner. 1909. Verh. zool.-bot. Ges. Wien 59:66	[?] [?]   (Stal, 1877)								
+1185757	typeSpecies	Giglio-Tos. 1927. Tierreich 50:66	[?] [?]   (Stal, 1877)								
+1185758	typeSpecies	Rehn. 1935. Proc. Acad. nat. Sci. Philad. 87:167	Mionyx ferus Saussure & Zehntner, 1894								
+1185759	typeSpecies	Saussure. 1892. Societas ent. 7:66	[?] [?]   (Stal, 1877)								
+1185760	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:194	[?] [?]   (Giglio-Tos, 1915)								
+1185766	typeSpecies	Saussure. 1892. Societas ent. 7:179	[?] [?]   (Saussure & Zehntner, 1894)								
+1185770	typeSpecies	Sjostedt. 1930. Ark. Zool. 21A(32):25	[?] [?]   (Sjostedt, 1930)								
+1185771	typeSpecies	Hebard. 1921. Trans. Amer. Ent. Soc. 47:159	[?] [?]   (Hebard, 1922)								
+1185774	typeSpecies	Rehn & Hebard. 1938. Trans. Amer. Ent. Soc. 64:34	[?] [?]   (Rehn & Hebard, 1938)								
+1185776	typeSpecies	Westwood. 1889. Revis. Mantid. 39	[?] [?]   (Westwood, 1889)								
+1185778	typeSpecies	Westwood. 1889. Revis. Mantid. 39, pl. 14, f. 16	[?] [?]   (Westwood, 1889)								
+1185782	typeSpecies	Rehn. 1918. Trans. Amer. Ent. Soc. 44:327	[?] [?]   (Rehn, 1918)								
+1185785	typeSpecies	Beier. 1942. Annln naturh. Mus. Wien 52:133	[?] [?]   (Beier, 1942)								
+1185792	typeSpecies	Terra. 1982. Rev. bras. Ent. 26(3-4):331	[?] [?]   (Terra, 1982)								
+1185793	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):71	[?] [?]   (Saussure, 1869)								
+1185812	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:185	[?] [?]   (Giglio-Tos, 1915)								
+1185817	typeSpecies	Giglio-Tos. 1915. Bull. Soc. ent. Ital. 46:141	[?] [?]   (Giglio-Tos, 1915)								
+1185822	typeSpecies	Toledo Piza. 1915. Revta Agric. 42:135	[?] [?]   (Toledo Piza, 1991)								
+1185823	typeSpecies	Chopard. 1911. Annls Soc. ent. Fr. 80:330	[?] [?]   (Chopard, 1911)								
+1185827	typeSpecies	Toledo Piza. 1970. Revta Agric. 45:1	[?] [?]   (Toledo Piza, 1970)								
+1185828	typeSpecies	Tinkham. 1937. Lingnan Sci. J. 16:498	[?] [?]   (Tinkham, 1937)								
+1185833	typeSpecies	Terra. 1982. Rev. bras. Ent. 26(3-4)	[?] [?]   (Toledo Piza, 1961)								
+1185835	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:228	[?] [?]   (Saussure, 1870)								
+1185846	typeSpecies	Giglio-Tos. 1898. Boll. Musei Zool. Anat. comp. R. Univ. Torino 13(311):16	Myrcinellus festae Giglio-Tos, 1898								
+1185847	typeSpecies	Tinkham. 1937. Lingnan Sci. J. 16:495	[?] [?]   (Tinkham, 1937)								
+1185853	typeSpecies	Saussure. 1869. Mitt. schweiz. ent. Ges. 3:71	[?] [?]   (Saussure, 1869)								
+1185855	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:172	[?] [?]   (Serville, 1839)								
+1185860	typeSpecies	Scudder. 1893. Bull. Mus. comp. Zool. Harvard 25:8	[?] [?]   (Scudder, 1893)								
+1185864	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):70	[?] [?]   (Saussure, 1869)								
+1185874	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:70	[?] [?]   (Saussure, 1869)								
+1185875	typeSpecies	Hebard. 1922. Trans. Amer. Ent. Soc. 48:165	[?] [?]   (Saussure & Zehntner, 1894)								
+1185878	typeSpecies	Giglio-Tos. 1927. Tierreich 50:165	[?] [?]   (Saussure & Zehntner, 1894)								
+1185879	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:237	[?] [?]   (Saussure, 1870)								
+1185890	typeSpecies	Giglio-Tos. 1917. Bull. Soc. ent. Ital. 48:168	[?] [?]   (Saussure & Zehntner, 1894)								
+1185896	typeSpecies	Rehn. 1904. Proc. U. S. natn. Mus. 27(1364):70	[?] [?]   (Saussure, 1869)								
+1185898	typeSpecies	Mukherjee. 1995. Oriental Insects 29:185-358	[?] [?]   (Mukherjee, 1995)								
+1185900	typeSpecies	Serville. 1831. Annls Sci. nat. 22:pl.  39	[?] [?]   (Drury, 1773)								
+1185911	typeSpecies	Giglio-Tos. 1916. Bull. Soc. ent. Ital. 47:pl.  39	[?] [?]   (Drury, 1773)								
+1185915	typeSpecies	Wood-Mason. 1877. Annls Mag. nat. Hist. 4 19:272	Vates ashmolianus Westwood, 1841								
+1185921	typeSpecies	Stal. 1877. Bih. K. svenska VetenskAkad. Handl. 4(10):272	Vates ashmolianus Westwood, 1841								
+1185924	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):13	[?] [?]   (Giglio-Tos, 1914)								
+1185934	typeSpecies	Henry. 1932. Spolia zeylan. 17:119	[?] [?]   (Giglio-Tos, 1927)								
+1185936	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):10	[?] [?]   (Giglio-Tos, 1914)								
+1185940	typeSpecies	Wood-Mason. 1889. J. Asiat. Soc. Bengal 58:325	[?] [?]   (Wood-Mason, 1889)								
+1185947	typeSpecies	Werner. 1928. Mitt. zool. Mus. Berlin 14:40	[?] [?]   (Werner, 1928)								
+1185955	typeSpecies	Uvarov. 1939. Ann. Mag. nat. Hist. 11 4:197	[?] [?]   (Beier, 1930)								
+1185956	typeSpecies	Serville. 1837. Annls. Soc. ent. Fr. 6:28	[?] [?]   (Serville, 1837)								
+1185967	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):41	[?] [?]   (Westwood, 1889)								
+1185969	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):11	[?] [?]   (Giglio-Tos, 1914)								
+1185973	typeSpecies	Werner. 1907. Anz. Akad. Wiss. Wien 44:237.  pl. 1. fig. 3	[?] [?]   (Werner, 1907)								
+1185982	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):16	[?] [?]   (Giglio-Tos, 1914)								
+1185984	typeSpecies	Wood-Mason. 1889. J. Asiat. Soc. Bengal 58:317	[?] [?]   (Wood-Mason, 1889)								
+1185988	typeSpecies	Giglio-Tos. 1914. Annuar. Mus. zool. Univ. Napoli (N.S.) 4(15):12	[?] [?]   (Giglio-Tos, 1914)								
+1185990	typeSpecies	Wood-Mason. 1889. J. Asiat. Soc. Bengal 58:319	[?] [?]   (Wood-Mason, 1889)								
+1185994	typeSpecies	Grimaldi. 2003. American Museum Novitates 3412:47  pp.	[?] [?]   (Grimaldi, 2003)								
+1185998	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186001	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28(3):401	[?] [?]   (Stal, 1871)								
+1186060	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):517	[?] [?]   (Bolivar, 1908)								
+1186064	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):47	[?] [?]   (Giglio-Tos, 1914)								
+1186071	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):10	[?] [?]   (Giglio-Tos, 1913)								
+1186073	typeSpecies	Roy. 1973. Biologia gabon. 8(3-4):1250	[?] [?]   (Roy, 1965)								
+1186079	typeSpecies	Giglio-Tos. 1913. Genera Insect. 144:12	[?] [?]   (Giglio-Tos, 1913)								
+1186084	typeSpecies	Beier. 1929. Zool. Anz. 80:135	[?] [?]   (Beier, 1929)								
+1186086	typeSpecies	Giglio-Tos. 1913. Genera Insect. 144:75	[?] [?]   (Saussure, 1872)								
+1186089	typeSpecies	Giglio-Tos. 1913. Genera Insect. 144:7	[?] [?]   (Giglio-Tos, 1913)								
+1186094	typeSpecies	Giglio-Tos. 1913. Genera Insect. 144:6	[?] [?]   (Giglio-Tos, 1913)								
+1186096	typeSpecies	Beier. 1965. Pacif. Insects 7:450	[?] [?]   (Beier, 1965)								
+1186100	typeSpecies	Saussure. 1870. Mitt. schweiz. ent. Ges. 3:227	[?] [?]   (Saussure, 1870)								
+1186109	typeSpecies	Stal. 1871. Ofvers. K. VetensAkad. Forh. Stockh. 28	Phthersigena conspersa Stal, 1871								
+1186121	typeSpecies	Saussure. 1872. Mem. Soc. Phys. Hist. nat. Geneve 23:64	[?] [?]   (Saussure, 1872)								
+1186137	typeSpecies	Werner. 1907. Sber. Akad. Wiss. Wien 116:180.  pl. 2, figs. 1,1a,1b	[?] [?]   (Werner, 1907)								
+1186139	typeSpecies	Guerin-Meneville. 1843. Rev. zool. 42	[?] [?]   (Guerin-Meneville, 1843)								
+1186140	typeSpecies	Bonnet & Finot. 1884. Bull. Soc. ent. Fr. 1884:26	[?] [?]   (Bonnet & Finot, 1884)								
+1186148	typeSpecies	Grimaldi. 2003. American Museum Novitates 3412:47  pp.	[?] [?]   (Grimaldi, 2003)								
+1186152	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165,  illustr.	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186156	typeSpecies	Piton. 1996. Mem. Soc. Hist. Nat. Auvergne 1:148	[?] [?]   (Piton, 1996)								
+1186158	typeSpecies	Piton. 1940. Mem. Soc. Hist. Nat. Auvergne 1:146-147	[?] [?]   (Piton, 1940)								
+1186160	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165,  illustr.	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186162	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165,  illustr.	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186166	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165,  illustr.	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186168	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165,  illustr.; p. 157, fig’d	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186170	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186174	typeSpecies	Burmeister. 1838. Handb. Ent., Burm. 2:528	[?] [?]   (Burmeister, 1838)								
+1186176	typeSpecies	Perty. 1833. Delect. Anim. Artic. 126	[?] [?]   (Perty, 1833)								
+1186185	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1186187	typeSpecies	Gratshev & Zherikhin. 1994. Paleontological Journal 27(1A):148-165	[?] [?]   (Gratshev & Zherikhin, 1994)								
+1203975	typeSpecies	Brancsik. 1892. Jh. naturw. Ver. Trencsiner Kom. 15:177	[?] [?]   (Brancsik, 1892)								
+1203976	typeSpecies	Mériguet. 2013. Madamantis, a new subgenus of Tarachomantis Brancsik, 1893 (Dictyoptera, Mantidae). Bulletin de la Société entomologique de France 118(1):27-40	Tarachomantis (Madamantis) analamazoatra Mériguet, 2013								
+1207908	typeSpecies	Ehrmann. 2002. Mantodea der Welt 81	[?] [?]   (Saussure, 1872)								
+1217742	typeSpecies	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:199	[?] [?]   (Serville, 1839)								
+1217744	typeSpecies	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Velox wielandi Svenson, 2014								
+1217746	typeSpecies	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:14	[?] [?]   (Beier, 1931)								
+1218589	typeSpecies	Agudelo. 2014. A new genus and species of Mantoididae (Mantodea) from the Brazilian and Venezuelan Amazon, with remarks on Mantoida Newman, 1838. ZOOTAXA(3797):194-206	Paramantoida amazonica Agudelo, 2014								
+1222668	typeSpecies	Roy. 2015. A new genus of mantid from French Guiana (Mantodea, Acanthopidae). Bulletin de la Société entomologique de France 120(2):143-146	Ovalimantis maculata Roy, 2015								
+1223021	typeSpecies	Ehrmann & Borer. 2015. Mantodea (Insecta) of Nepal: an annotated checklist. Verein der Freunde und Förderer des Naturkundemuseums Erfurt e.V. 5 580	[?] [?]   (Wood-Mason, 1878)								
+1225168	typeSpecies	Svenson, Medellin & Sarmiento. 2015. Re-evolution of a morphological precursor of crypsis investment in the newly revised horned praying mantises (Insecta, Mantodea, Vatine). Systematic Entomology 182	[?] [?]   (Chopard, 1910)								
+1225190	typeSpecies	Brannoch & Svenson. 2016. Anew genus and species (Cornucollis ge. n. masoalensis sp. n.) of paying mantis from northern Madagascar (Mantodea, Iridopterygidae, Tropidomantinae)  . Zookeys 556:65-85	Cornucollis masoalensis Brannoch & Svenson, 2016								
+1182385	holotype	Stiewe. 2004. A new species of Eremiaphila LEFEBVRE, 1835 from Egypt (Mantodea: Eremiaphilidae). Entomologische Zeitschrift 2004 (Entomol. Zeit.) 114(5):199-203	Eremiaphila berndstiewi Stiewe, 2004	Germany, Berlin, Museum fuer Naturkunde der Humbold-Universitaet zu Berlin	7949	Northern Africa, Egypt: Hurghada, Hotel Coral Beach	male	Stiewe	May 5, 2002		
+1182386	holotype	Doganlar. 2007. A new species of the genus Eremiaphilia Lefebvre, 1835 (Mantodea: Eremiaphilidae) from Turkey. Australian Journal of Basic and Applied Sciences Research (Aust. J. of Basic and Appl. Sci.) 1(1):1-6	Eremiaphila dagi Doganlar, 2007	Museum of Plant Protection Department, M		Asia-Temperate: Amanos Mountain, Antakya, Hatay	female	Doganlar	July 14, 2006		
+1182387	holotype	Uvarov. 1933. Annls Mag. nat. Hist. 10 11	[?] [?]   (Uvarov, 1933)	BMNH London		Western Asia, Palestine, Jordan: Amman, E. of Jordan	female		August 25, 1921		
+1182388	holotype	Werner. 1910. Bull. Soc. ent. Egypte 2	[?] [?]   (Werner, 1910)	NMW Vienna		Northern Africa, Egypt: Dekela	male				
+1182388	holotype	Werner. 1910. Bull. Soc. ent. Egypte 2	[?] [?]   (Werner, 1910)	NMW Vienna		Northern Africa, Egypt: Dekela	female				
+1182469	holotype	Chopard. 1955. Contribution a l`etude du peuplement de la Mauritania. Bull. Inst. fond. Afr. noire A XVII(4)	Heteronutarsu arenivagus (Chopard, 1955)	MNHN			male		January 1, 1955		
+1182545	type	Giglio-Tos. 1915. Boll. Musei Zool. Anat. comp. R. Univ. Torino 30(702)	[?] [?]   (Giglio-Tos, 1915)	ZMB Berlin		West-Central Tropical Africa, Cameroon: Lolodorf	male				
+1182598	holotype	Ghate & Thulsi Ra. 2006. A new species of praying mantis genus Metacromantis BEIER from Andrah Pradesh, India (Mantodea: Hymenopodidae: Acromantinae). Genus 17(3):327-334		ERM-Labs Biodiversity Research Center		Indian Subcontinent, India, Andhra Pradesh: Srisailam, Nagarjunsagar, Kurnool Distr.	male	S.M. Maqsood Javed	August 18, 2004		
+1182599	holotype	Beier. 1930. Ann. Mag. nat. Hist. 10 6	[?] [?]   (Beier, 1930)	BMNH London		Indian Subcontinent, Sri Lanka: Haragama	female	Beier	July 18, 1910		
+1182647	holotype	Mukherjee, Stiewe & Ghorai. 2010. A new species of praying mantis, Ephestiasula woodmasoni n. sp. from Gujarat, India with note on the location of types of some Indian species (Mantodea: Hymenopodidae). Genus 21(2):169-173	Ephestiasula woodmasoni Mukherjee, Stiewe & Ghorai, 2010	ZSI		Indian Subcontinent, India, Gujarat: Jougad near Bajang Creek	female				
+1182659	holotype	Lombardo & Perez-Gelabert. 2004. The mantids of Hispaniola, with the description of two new species (Mantodea). Boletin de la S.E.A. (Boln. S.E.A.)(34):35-48	Epaphrodita lobivertex Lombardo & Perez-Gelabert, 2004	ANSP Philadelphia		Caribbean, Dominican Republic: Sierra Prieta, RD-63, Santa Domingo Prov.	male	D. Perez, B. Hierro, R. Bastardo	November 20, 2002		
+1182663	holotype	Roy. 2008. Contribution to the knowledge of the genus Parablepharis, 1870 (Mantodea). Bulletin de la Société entomologique de France 113(1):53-60	Parablepharis kuhlii asiatica Roy, 2008	BMNH London		Indo-China, Vietnam: Tonkin, Than-Moi	male	H. Fruhstorfer			
+1182739	holotype	Wang & et al. 1994. Entomotaxonomia 16(2)	[?] [?]   (Wang & et al., 1994)	IEAS Shanghai		China, China South-central, Yunnan: County Jinghong	female				
+1182790	holotype	Roy & Svenson. 2007. Revision of the genus Ceratomantis Wood-Mason, 1876 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 112(4):433-444		MNHN		Asia-Tropical: East-Malaysia, Sabah, Tawau	male		May 1, 1996		
+1182791	holotype	Roy & Svenson. 2007. Revision of the genus Ceratomantis Wood-Mason, 1876 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 112(4):433-444	[?] [?]   (Roy & Svenson, 2007)			Indian Subcontinent, India: India, Karnataka, Agumbe Ghat	male	G.J. Svenson	October 11, 2004		
+1182792	holotype	Roy & Svenson. 2007. Revision of the genus Ceratomantis Wood-Mason, 1876 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 112(4):433-444		OXUM Oxford		Asia-Tropical: N-W.Borneo, Kuching	female		May 16, 1900		
+1182805	holotype	Roy. 2009. New data for the genus Junodia Schulthess, 1899 (Mantodea, Hymenopodidae). Bulletin de la Société entomologique de France 114(1):119-127	Junodia vansoni Roy, 2009	ANSP Philadelphia		Africa, Southern Africa: CI: Saltpan	male	G.van Son	January 21, 1931		
+1182806	holotype	Roy. 2009. New data for the genus Junodia Schulthess, 1899 (Mantodea, Hymenopodidae). Bulletin de la Société entomologique de France 114(1):119-127	Junodia stiewei Roy, 2009	BMNH London		East Tropical Africa, Kenya: Voi, S foot Sagala Mts	male	Snizek	April 19, 2008		
+1182807	holotype	Stiewe & Roy. 2010. A new praying mantis species of Junodia SCHULTHESS, 1899 from Kenya (Dictyoptera: Mantodea: Hymenopodidae). Entomologist`s Monthly Magazine (Ent. Mon. Mag.) 146:63-70	Junodia maternaschulzei Stiewe & Roy, 2010	ZMHB Berlin		East Tropical Africa, Kenya: Arabuko Sokoke Forest	male	Materna & Schulze	July 28, 2004		
+1182995	holotype	Lombardo. 1993. Spixiana 16(3)	[?] [?]   (Lombardo, 1993)	ZSM Munich		Indian Subcontinent, Nepal: Rapti	male				
+1183010	holotype	Svenson & Roy. 2011. Taxonomic treatment of the endemic Malagasy praying mantis genus  Hyalomantis GIGLIO-TOS, 1915, with a new synonymy and the description  of three new species (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA(2777):1-24	Hyalomantis antsingica Svenson & Roy, 2011	CAS		Western Indian Ocean, Madagascar: Province d’Antsiranana, Montagne des Français, elev 150 m, 15 Feb to  6 March 2001, 12°19.5’ S 49°20’ E	male		February 15, 2001		
+1183011	holotype	Svenson & Roy. 2011. Taxonomic treatment of the endemic Malagasy praying mantis genus  Hyalomantis GIGLIO-TOS, 1915, with a new synonymy and the description  of three new species (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA(2777):1-24	Hyalomantis murzini Svenson & Roy, 2011	MNHN		Western Indian Ocean, Madagascar: Camp Catta, 40 km S Ambalavo, 810 m	male	S. Murzin & A. Shamaev	June 26, 2003		
+1183012	holotype	Svenson & Roy. 2011. Taxonomic treatment of the endemic Malagasy praying mantis genus  Hyalomantis GIGLIO-TOS, 1915, with a new synonymy and the description  of three new species (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA(2777):1-24	Hyalomantis whitingi Svenson & Roy, 2011	MNHN		Western Indian Ocean, Madagascar: Est, Route de Tamatave, P. K. 181 env. Beforona	male	Peyrieras	April 1, 1972		
+1183043	holotype	Roy & Svenson. 2011. Revision of Platycalymma Westwood, 1889, and the synonymy of Ichromantis  Paulian, 1957 (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA 3014 1-25	Platycalymma annulicornis Roy & Svenson, 2011	CAS		Western Indian Ocean, Madagascar: Antsiranana, forêt de Binara, 7.5 km 230 deg. SW Daraina, elev.  375 m, 13°15’18”S 49°37’00”E, general collecting, tropical dry forest	male	coll.: B.L. Fisher			
+1183044	holotype	Roy & Svenson. 2011. Revision of Platycalymma Westwood, 1889, and the synonymy of Ichromantis  Paulian, 1957 (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA 3014 1-25	Platycalymma mahafalica Roy & Svenson, 2011	MNHN		Western Indian Ocean, Madagascar: Sud, Plateau Mahafaly, 11/12 km  Ouest d’Ankalirano, 250 m	male	P. Viette & A. Peyrieras	January 14, 1974		
+1183045	holotype	Roy & Svenson. 2011. Revision of Platycalymma Westwood, 1889, and the synonymy of Ichromantis  Paulian, 1957 (Mantodea, Iridopterygidae, Tropidomantinae). ZOOTAXA 3014 1-25	Platycalymma viettei, Roy & Svenson, 2011	MNHN		Western Indian Ocean, Madagascar: Nord, Contreforts du Tsaratanana, Haut Sambirano, 1200 m,  vallée de la Besanetribe	male	P. Viette	July 5, 1963		
+1183087	holotype	Holwell, Ginn & Herberstein. 2007. Three new species of Ciulfina Giglio-Tos (Mantodea: Liturgusidae) from north-eastern Australia. ZOOTAXA 1583	Ciulfina baldersoni Holwell, Ginn & Herberstein, 2007			Australia, Queensland: Queen`s Park, Bundaberg	male	Holwell, Ginn, Gaskett	September 22, 2003		
+1183088	holotype	Holwell, Ginn & Herberstein. 2007. Three new species of Ciulfina Giglio-Tos (Mantodea: Liturgusidae) from north-eastern Australia. ZOOTAXA 1583	Ciulfina klassi Holwell, Ginn & Herberstein, 2007			Australia, Queensland: Bushland 11kmwest of Mission Beach	male	Holwell, Ginn, Gaskett	September 23, 2003		
+1183089	holotype	Holwell, Ginn & Herberstein. 2007. Three new species of Ciulfina Giglio-Tos (Mantodea: Liturgusidae) from north-eastern Australia. ZOOTAXA 1583	Ciulfina rentzi Holwell, Ginn & Herberstein, 2007			Australasia, Australia: Flecker Botanic Gardens, Edge Hill	male	Holwell, Ginn, Gaskett	September 26, 2003		
+1183103	holotype	Lombardo & Perez-Gelabert. 2004. The mantids of Hispaniola, with the description of two new species (Mantodea). Boletin de la S.E.A. (Boln. S.E.A.)(34):35-48	Gonatista jaiba Lombardo & Perez-Gelabert, 2004	ANSP Philadelphia		Caribbean, Dominican Republic: Oviedo, Pedernales Prov.	male	D.E. Perez	October 12, 1998		
+1183314	holotype	Stiewe. 2007. Two new species of Bolbella Giglio-Tos, 1915 from Southern Africa (Dictyoptera: Mantodea). ZOOTAXA(1495):53-60	Bolbella kaltenbachi Stiewe, 2007	ZMB Berlin	7955	Southern Africa, Transvaal: Jericho-Dam	male	F. Koch	December 15, 1992		
+1183315	holotype	Stiewe. 2007. Two new species of Bolbella Giglio-Tos, 1915 from Southern Africa (Dictyoptera: Mantodea). ZOOTAXA(1495):53-60	Bolbella uhligi Stiewe, 2007	ZMB Berlin	7956	South Tropical Africa, Zimbabwe: Matabeleland, Lake Mutiriwi bei Masvingo, Kyle  N. P., ca. 1100m, lux	male	M. Uhlig	December 1, 1992		
+1183335	holotype	Roy. 2006. Two new synonymies for genera (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 111(2):195-198	Dystactula kaltenbachi Roy, 2006	MNHN		Africa: Malawi, Limbe, Maone, Blantrye Distr.	male	C.O. Dudley	December 25, 1972		
+1183347	holotype	MOHAMMAD, GAD ALLA, HAMOULY, Ehrmann & EL-DEN NASSER. 2011. Mantodea of Egypt. ZOOTAXA(3044):1-27	Elaea solimani MOHAMMAD, GAD ALLA, HAMOULY, Ehrmann & EL-DEN NASSER, 2011	AIN S		Northern Africa, Egypt: Beir Yusef, El-Harra, Baharia oasis	female		May 15, 2009		
+1183525	type	Roy. 2006. Afrothespis dudley n.gen, n. sp. from Eastern Africa (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 111(4):475-478	Afrothespis dudleyi Roy, 2006	MNHN			female	C.O.Dudley	March 1, 1983		
+1183560	holotype	Salazar. 2004. Nuevas especies de blatidos y mantidos para Colombia (Insecta: Dictyoptera) y una natasobre la hembra de Vates festae Giglio-Tos, 1914. Boletin Cientifico Museo de Historia Natural Universidad de Caldas 273-275	Angela trifasciata chocoana Salazar, 2004	CJASE		Western South America, Colombia: Valle: El Dovio-Rio Garrapatas	male	J. Salazar	May 10, 1997		
+1183569	holotype	SHCHERBAKOV. 2012. New data on the genera Euchomenella and Tagalomantis  (Dictyoptera: Mantidae: Angelinae). Zoosystematica Rossica 21(2):270-278	Euchomenella udovichenkoi SHCHERBAKOV, 2012	ZIN			male	P. Udovichenko	April 10, 2011		
+1183569	paratype	SHCHERBAKOV. 2012. New data on the genera Euchomenella and Tagalomantis  (Dictyoptera: Mantidae: Angelinae). Zoosystematica Rossica 21(2):270-278	Euchomenella udovichenkoi SHCHERBAKOV, 2012	ZIN St. Petersburg	10379, 10380	Malesia, Borneo, Sabah: Malaysia, Borneo, Sabah  State, Keningau Distr., Trus Madi Mt., 1160 m, mixed dipterocarp forest, 28 March – 10 April	male				
+1183602	holotype	Ghate & Mukherjee. 2004. First record of the praying mantis genus Euchomenella Giglio-Tos from India and desscription of Euchomenella indica n.sp. from South India. Genus 15(3):329-337	Euchomenella indica Ghate & Mukherjee, 2004	ZDMI		Indian Subcontinent, India, Tamil Nadu: Anamalai, near Kerala	female	coll. Kunte	July 1, 1999		
+1183795	holotype	Mériguet. 2005. Mantasoa, a new genus of mantid endemic from Madagascar close to Tarachomantis Brancsik (Dictyoptera, Mantidae). Bulletin de la Société entomologique de France 110(1):43-46	Mantasoa lebbei Mériguet, 2005	MNHN		Western Indian Ocean, Madagascar: Madagascar centre, est du lac Mantasoa, forêt d`Ambohiboatavo, 1340m	male	P. Griveaud et A. Peyrieras	March 1, 1973		
+1183857	holotype	Brunner. 1893. Annali Mus. civ. Stor. nat. Genova 33	[?] [?]   (Brunner, 1893)	NMW Vienna		Indo-China, Myanmar: Carin Ghecù, 1300-1400m	female				
+1184065	holotype	Roy. 2010. Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 115(3):345-366	Sphodromantis gracilicollis centroccidentalis Roy, 2010	MNHN		West-Central Tropical Africa, Central African Republic: La Maboke	male	R.Pujol	July 1, 1963		
+1184098	holotype	Roy. 2010. Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 115(3):345-366		NHMW		West-Central Tropical Africa, Cameroon	male				
+1184099	holotype	Roy. 2010. Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 115(3):345-366	Sphodromantis werneri Roy, 2010	ZMB Berlin		West-Central Tropical Africa, Cameroon	female				
+1184100	holotype	Roy. 2010. Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 115(3):345-366	Sphodromantis stigmosa Roy, 2010	BMNH London		East Tropical Africa, Kenya: Kenya, Coast NW Garsen	male	Snizek	April 22, 2008		
+1184101	holotype	Roy. 2010. Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 115(3):345-366	Sphodromantis socotrana Roy, 2010	MNHN		Northeast Tropical Africa, Socotra	male	Canu	November 1, 1997		
+1184143	holotype	Roy. 2012. A new species of the genus Tismomorpha Roy, 1973 (Mantodea, Mantidae). Bulletin de la Société entomologique de France 117(1):75-78	Tismomorpha reinhardi Roy, 2012	SMNK Karlsruhe			male	R.Ehrmann	May 1, 1992		
+1184487	holotype	Milledge. 2005. Revision of the Genera Sphodropoda, Trachymantis and Zopheromantis (Mantodea: Mantidae: Mantinae). Records of the Australian Museum 57:191-210	Sphodropoda lepida Milledge, 2005	NMV		Australia, Northern Territory: Uluru campsite, Horn Centenary Exp.	male	G. Milledge	March 25, 1995		
+1184732	holotype	Rivera. 2010. Chromatophotina, a remarkable new genus of praying mantid from the Neotropical Region and its two new species (Mantodea: Mantidae, Photinainae). ZOOTAXA(2415):22-32	Chromatophotina awajun Rivera, 2010	Entomological Museum, Universidad Nacional Agraria, Lima, Peru		Western South America, Peru: Amazonas, Bagua, Aramango District	male	J. Layme	July 1, 2006		
+1184733	holotype	Rivera. 2010. Chromatophotina, a remarkable new genus of praying mantid from the Neotropical Region and its two new species (Mantodea: Mantidae, Photinainae). ZOOTAXA(2415):22-32	Chromatophotina cofan Rivera, 2010	MNHN		Western South America, Ecuador: Sucumbios, Coca/Lago Agrio, San Pedro de los Cofanes	female	Amegdegnato & Poulain	April 23, 1997		
+1184777	holotype	Roy & Stiewe. 2011. Revision of the Neutropical genus Orthoderella Giglio-Tos, 1897 (Mantodea, Mantidae, Photinainae). Bulletin de la Société entomologique de France 116(1)	Orthoderella brasiliensis Roy & Stiewe, 2011	MNHN		Southern America, Brazil: Jatahy	male	ex coll. Finot			
+1184778	holotype	Roy & Stiewe. 2011. Revision of the Neutropical genus Orthoderella Giglio-Tos, 1897 (Mantodea, Mantidae, Photinainae). Bulletin de la Société entomologique de France 116(1)	Orthoderella elongata Roy & Stiewe, 2011	MNHN		Southern South America, Argentina Northeast, Córdoba: W of Ascochinga	male	Snizek	January 7, 2010		
+1184980	holotype	Roy [Ed.]. 2003. Callivates stephanei n.gen. n.sp. des Guyanes (Dictyoptera, Mantidae). Bulletin de la Société entomologique de France 108(3):233-235		MNHN		Northern South America, French Guiana: Montsinery, piste FRG, pk 5,	male	Stéphane Boucher	March 23, 1985		
+1185007	holotype	Orofino, Ippolito & Lombardo. 2006. Remarks on Phyllovates Kirby, 1904 of West South America and Description of two new species (Insecta, Mantodea, Vatinae). Transaction of the American Entomological Society (Trans. Am. Entomol. Soc.) 132(1+2):205-222	Phyllovates gracilicollis Orofino, Ippolito & Lombardo, 2006	MBAC=MDAB Museum of the Department B.G.E.S. Catania "La Greca"		Western South America, Ecuador: Esmaeraldas Nuisine	male	Cuesta	October 1, 1984		
+1185008	holotype	Orofino, Ippolito & Lombardo. 2006. Remarks on Phyllovates Kirby, 1904 of West South America and Description of two new species (Insecta, Mantodea, Vatinae). Transaction of the American Entomological Society (Trans. Am. Entomol. Soc.) 132(1+2):205-222	Phyllovates brevicollis Orofino, Ippolito & Lombardo, 2006	MBAC=MDAB Museum of the Department B.G.E.S. Catania "La Greca"		Western South America, Peru: St. Rosa de Quives-Lima	male				
+1185045	holotype	Roy & Ehrmann. 2009. Revision of the genus Zoolea Audinet-Serville (Mantodea, Mantidae, Vatinae). Revue Francaise D’Entomologie. 31(1):1-22	Zoolea descampsi Roy & Ehrmann, 2009	MNHN		Southern America, Brazil: Bahia. Hotel la Divisa	male	M. Descamps	December 1, 1976		
+1185179	holotype	Roy & Schütte. 2010. The Madagascan endemic genus Tuberculepsus Roy, 2008 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 115(4):401-416	Tuberculepsus nigricoxa Roy & Schütte, 2010	CAS		Western Indian Ocean, Madagascar: province d`Antsiranana	female	coll. Fisher	March 4, 2001		
+1185180	holotype	Roy & Schütte. 2010. The Madagascan endemic genus Tuberculepsus Roy, 2008 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 115(4):401-416	Tuberculepsus ambrensis Roy & Schütte, 2010	CAS		Western Indian Ocean, Madagascar: province d`Antsiranana	female		February 11, 2001		
+1185182	holotype	Stiewe. 2009. Dysaulophthalma nathani gen et sp. n. A new praying mantis from Southern India (Dictyoptera: Mantodea, Tarachodidae). Entomologist`s Monthly Magazine (Ent. Mon. Mag.) 145(1):51-60	Dysaulophthalma nathani Stiewe, 2009	MMUE	F3291.52	Indian Subcontinent, India: Anamalai Hills, Cinchona 3500ft	female	P.S.Nathan	September 1, 1959		
+1185436	holotype	Roy. 2002. Contribution a la connaissance du genre Tarachodes Burmeister, 1838 (Dict., Mantodea, Tarachodinae). Bulletin de la Société entomologique de France 107(5):534-536	Tarachodes (Tarachodes) pujoli Roy, 2002	MNHN		Africa: Central African Republic, La Maboké	male	R. Pujol	January 20, 1966		
+1185491	holotype	González, Miller & J Salazar. 2011. DESCRIPTION OF A NEW SPECIES OF ACANTHOPS AUDINET -SERVILLE 1831 FROM COLOMBIA (DICTYOPTERA: MANTODEA ). bol.cient.mus.hist.nat. 15(1):206-212	Acanthops coloradensis González, Miller & Salazar, 2011	VALLE		Southern America, Northern South America: COLOMBIA, VAUPÉS: Mitú-Caño Colorado, a 206 m	female	H.Miller	May 1, 2006		
+1185524	holotype	Ippolito & Lombardo. 2004. Decimiana clavata, ne species from Brazil (Mantidae). Memoire Soc. entomol. Ital. (Memoire Soc. ent. Ital.) 82(2):373-378	Decimiana clavata Ippolito & Lombardo, 2004	MCRT		Southern America, Brazil	male	Coll. Giglio-Tos			
+1185530	holotype	Roy. 2004. Lagrecacanthops et Miracanthops, deux nouveaux genres d`Acanthopinae (Dictyoptera, Mantodea, Acanthopidae). Bulletin de la Société entomologique de France(109):491-498	Miracanthops poulaini Roy, 2004	MNHN		Western South America, Peru: Pérou, Loreto, rio Ucayali, Genaro Herrera	male	S. Poulain	November 1, 1981		
+1185531	holotype	Roy. 2004. Lagrecacanthops et Miracanthops, deux nouveaux genres d`Acanthopinae (Dictyoptera, Mantodea, Acanthopidae). Bulletin de la Société entomologique de France(109):491-498	Miracanthops lombardoi Roy, 2004	ANSP Philadelphia		Western South America, Ecuador: Sarayacu	female	B.C. Felton			
+1185532	holotype	Rivera. 2005. A new species of Acanthopinae from Peru: Miracanthops eseejja n. sp. and notes on Acanthops occidentalis Lombardo & Ippollito, 2004 (Mantodea: Acanthopidae). J. Orthoptera Research 14(2):255-260	Miracanthops essjja Rivera, 2005	Entomological Museum, Universidad Nacional Agraria, Lima, Peru		Western South America, Peru: Madre de dios, Tambopata R. N. (lago Sandoval)	male	R. Acosta	October 31, 2000		
+1185534	holotype	Roy. 2004. Lagrecacanthops et Miracanthops, deux nouveaux genres d`Acanthopinae (Dictyoptera, Mantodea, Acanthopidae). Bulletin de la Société entomologique de France(109):491-498	Lagrecacanthops brasiliensis Roy, 2004	ZMAN		Southern America, Brazil: Rio Jacunda (Rondônia)	male	E.H. Bom	May 1, 1964		
+1185535	holotype	Roy. 2004. Lagrecacanthops et Miracanthops, deux nouveaux genres d`Acanthopinae (Dictyoptera, Mantodea, Acanthopidae). Bulletin de la Société entomologique de France(109):491-498	Lagrecacanthops guyanensis Roy, 2004	MNHN		Northern South America, French Guiana: piste de Bélizon	male	J.-L. Giuglaris	February 1, 2001		
+1185605	holotype	Roy. 2005. Mises au point sur le genre Stenophylla Westwood (Dictyoptera, Acanthopidae). Bulletin de la Société entomologique de France 110(3):225-232	Stenophylla gallardi Roy, 2005	MNHN		Northern South America, French Guiana: montagne des Singes, pres de Kourou, altitude 150m	female	J.-Y. Gallard	November 10, 1997		
+1185627	holotype	Anisyutkin & Gorochov. 2004. Haania doroshenkoi, a new species of mantises from Cambodia (Mantina: Mantidae: Thespinae) and a case of mirror symmetry in the structure of the male genitalia of mantisis. Russian Entomlogical Journal (Russian Entomol. J.) 13(3):119-122	Haania doroshenkoi Anisyutkin & Gorochov, 2004	ZIN		Indo-China, Cambodia	male	Gorochov & Berezin	April 18, 2002		
+1185720	holotype	Salazar. 2004. Nuevas especies de blatidos y mantidos para Colombia (Insecta: Dictyoptera) y una natasobre la hembra de Vates festae Giglio-Tos, 1914. Boletin Cientifico Museo de Historia Natural Universidad de Caldas 273-275	Bantia yotocoensis Salazar, 2004	CJASE		Western South America, Colombia: Valle: Mpio de Restrepo-Bosque de Yotoco	male	J. Salazar	June 30, 2001		
+1185832	holotype	Ge & Chen. 2008. Review of the genus Palaeothespis Tinkham (Mantodea: Thespidae), with discription of one new genus. ZOOTAXA 1716:53-58	Palaeothespis leigongshanensis Ge & Chen, 2008	Institute of Entomology, Guizhou Univers		Asia-Tropical: Leigong Mountain National Natural Reserve, Leishan County, Guizhou Province	male	Qiong-Zhang Song	September 14, 2005		
+1186002	holotype	Roy. 2007. A new African species of Amorphoscelis Stal, 1871 (Dictyoptera, Mantodea). Bulletin de la Société entomologique de France 112(3):387-388		BMNH London		South Tropical Africa, Mozambique: Chiluvo Hills, Vila Machado	male	E.Pinhey	October 30, 1967		
+1186003	holotype	Ingrisch. 1999. Orthopteroid Insects of Yemen. Esperiana-Buchreihe zur Entomologie (Esperiana) 7:349-376	Amorphoscelis asymmetrica Ingrisch, 1999	SMFD Frankfurt		Arabian Peninsula, Yemen: Prov. Abyan, 50km NE Aden, Wadi Bana, 5km NNW Zinjibar 80m	male	H.Hacker	November 16, 1996		
+1186007	holotype	Roy & Stiewe. 2009. Contribution to the knowledge of Eastern African Amorphoscelis STAL, 1871, with description of two new species (Dictyopter, Mantodea, Amorphoscelidae). Bulletin de la Société entomologique de France 114(2):195-209		BMNH London		East Tropical Africa, Kenya: Kenya , Sokoke Forest, White Sand, 8mls S. of Malindi	male	M.P. Clifton	January 1, 1969		
+1186008	holotype	Roy & Stiewe. 2009. Contribution to the knowledge of Eastern African Amorphoscelis STAL, 1871, with description of two new species (Dictyopter, Mantodea, Amorphoscelidae). Bulletin de la Société entomologique de France 114(2):195-209		BMNH London		East Tropical Africa, Kenya: southern of Mackinnon Road, Western of Mombasa	male	Snizek	April 12, 2007		
+1186009	holotype	Roy. 2010. LES AMORPHOSCELINAE INDO-MALAIS   (MANTODEA, AMORPHOSCELIDAE ). Revue Francaise D’Entomologie. 32(1-2):65-92	Amorphoscelis sumatrana Roy, 2010	RMNH Leiden		Malesia, Sumatera: A!as VaHey. Kutatjane : Tanah-Mcmh	male	J. Krikken	July 9, 1972		
+1186010	holotype	Roy. 2010. LES AMORPHOSCELINAE INDO-MALAIS   (MANTODEA, AMORPHOSCELIDAE ). Revue Francaise D’Entomologie. 32(1-2):65-92	Amorphoscelis huismani Roy, 2010	RMNH Leiden		Asia-Tropical: N. Bomco, Sabah, 16 km NE Tenom, Agr. Res ; SIntion	male	Huisman & de Jong	November 22, 1987		
+1186011	holotype	Roy. 2010. LES AMORPHOSCELINAE INDO-MALAIS   (MANTODEA, AMORPHOSCELIDAE ). Revue Francaise D’Entomologie. 32(1-2):65-92	Amorphoscelis bimaculata Roy, 2010	ZMAN		Asia-Tropical: Sabah, Danum Valley, 70 km W Lahad Datu	male	M. J. &. J. P. Duffels	June 28, 1989		
+1186012	holotype	Roy. 2010. LES AMORPHOSCELINAE INDO-MALAIS   (MANTODEA, AMORPHOSCELIDAE ). Revue Francaise D’Entomologie. 32(1-2):65-92	Amorphoscelis sulawesiana Roy, 2010	BMNH London		Asia-Tropical: Sulawesi Tengah	male	M. J. D. Brendell	January 20, 1980		
+1186074	holotype	Roy. 1965. Bull. Inst. fond. Afr. noire A 27	[?] [?]   (Roy, 1965)	MNHN			male				
+1186177	holotype	Salazar. 2004. Nuevas especies de blatidos y mantidos para Colombia (Insecta: Dictyoptera) y una natasobre la hembra de Vates festae Giglio-Tos, 1914. Boletin Cientifico Museo de Historia Natural Universidad de Caldas 273-275	Chaeteessa nigromarginata Salazar, 2004	CJASE		Western South America, Colombia: Caldas: Samana-San Digo, el corozo	female	J.I. Vargas	July 16, 2001		
+1199196	holotype	Menezes & Bravo. 2013. A new species of Orthoderella Giglio-Tos (Mantodea, Mantidae, Photinainae) from Brazil. Revista Brasileira de Entomologia 57(1):12-18	Orthoderella caatingaensis Menezes & Bravo, 2013	MZFS		Southern America, Brazil: BRASIL, Bahia, Pilão Arcado, 10º 07’S,  42º 53’O, armadilha luminosa, 27.XI.2008, Menezes, E., Mota, E. & Silva-  Neto, A. col. (#45.950)	male				
+1203913	holotype	Galvagni. 1976. La Pseudoyersinia andreae nuova specie scoperta in Sardegna. ATTI DELI: ACCADEMIA ROVERETANA DEGLI AGIATI (Atti Acc. Rov. Agiati) VI 14-15:147-155	Pseudoyersinia andreae Galvagni, 1976				female				
+1203978	holotype	Mériguet. 2013. Madamantis, a new subgenus of Tarachomantis Brancsik, 1893 (Dictyoptera, Mantidae). Bulletin de la Société entomologique de France 118(1):27-40	Tarachomantis (Madamantis) tsaratanana Mériguet, 2013	MNHN		Africa: Madagascar N, massif du Tsaratanana en dessous de l’Andohanisambirano Matsabory, 1900 m	male	P. Soga	July 1, 1966		
+1204093	holotype	Roy. 2013. Revision of the genus Pachymantis SAUSSURE, 1871. Bulletin de la Société entomologique de France 118(2):145-154	Pachymantis piceifemur Roy, 2013	BMNH London		Malesia, Borneo, Sarawak: Gunong Mulu Nat Park	male	J.D. Holloway			
+1204094	holotype	Roy. 2013. Revision of the genus Pachymantis SAUSSURE, 1871. Bulletin de la Société entomologique de France 118(2):145-154	Pachymantis maculicoxa Roy, 2013	BMNH London		Malesia, Borneo, Sabah: Sandakan Distr. River Labuk	male	Pruett	September 1, 1973		
+1207909	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Oxypiloidea) namibiana Roy, 2013	NHMW Vienna		Southern Africa, Namibia: Distr. Outjo,	male	Aspoeck	February 7, 1994		
+1207910	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Oxypiloidea) murphyi Roy, 2013	MNHN		South Tropical Africa, Malawi: Nkhorongo	male	Murphy	March 20, 1998		
+1207916	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Oxypiloidea) denticulata Roy, 2013	Centro de Zoologia Lisboa		South Tropical Africa, Angola: Chianga	male		March 31, 1973		
+1207917	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Oxypiloidea) angolica Roy, 2013	Museo Zoologia Torino		South Tropical Africa, Angola: Holotype: Loanda (Paratype: Salazar, BMNH)	male				
+1207918	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Oxypiloidea) carvalhoi Roy, 2013	Centro de Zoologia Lisboa		South Tropical Africa, Angola: Chianga	male	coll. Passos de Carvalho	October 22, 1974		
+1207920	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) maroccana Roy, 2013	MNHN		Northern Africa, Morocco, Morocco: Sous, Ajarif	male	Rungs	November 10, 1953		
+1207921	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) orientalis Roy, 2013	BMNH London	BMNH1953-161	Northeast Tropical Africa, Somalia: Dolo	male	D.K.Kevan	May 28, 1947		
+1207922	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) maldesi Roy, 2013	MNHN		West Tropical Africa, Togo: Station de Kolokope	male	J.M. Maldes	October 23, 1990		
+1207923	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) ivoirensis Roy, 2013	MNHN		West Tropical Africa, Ivory Coast: Lamto	male		February 15, 1968		
+1207924	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) sinuata Roy, 2013	Nat. Museum and Monuments, Bulawayo		South Tropical Africa, Zimbabwe: Marandellas	male		May 1, 1960		
+1207925	holotype	Roy. 2013. Zoosystema 35(3):277-359	Oxypiloidea (Catasigerpes) centrafricana Roy, 2013	MNHN		West-Central Tropical Africa, Central African Republic: La Maboke,	male	R.Pujol	July 17, 1966		
+1217205	holotype	Roy. 2013. Une nouvelle espece d`Amorphoscelis Stal, 1871, de`Afrique centre-occidentale. Bulletin de la Société entomologique de France 118(4):513-519	Amorphoscelis morini Roy, 2013	MNHN		West-Central Tropical Africa, Congo: Mbouloupambou, Congo	male	C.Morin	April 18, 1980		
+1217743	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Fuga grimaldii Svenson, 2014	AMNH	019	Southern America, Brazil: Corupa S.	male	A. Maller Coll.	February 1, 1949		
+1217745	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Velox wielandi Svenson, 2014	ZMUH Hamburg	015	Southern America, Brazil: Espirito Santo	male	J.Michaelis	April 22, 1898		
+1217748	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa bororum Svenson, 2014	MNHN	038	Southern America: Loreto, Brillo Nuevo	male		June 9, 1985		
+1217751	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa cameroni cura Svenson, 2014	ANSP Philadelphia	082	Northern South America, Venezuela: Villa de Cura	male	E. Doreste	July 1, 1975		
+1217753	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa fossetti Svenson, 2014	GSMC	003836	Central America, Panamá: Madden Res.	male	R&E Froeschner	May 11, 1972		
+1217754	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa kirtlandi Svenson, 2014	GSMC	0281	Western South America, Bolivia, Santa Cruz	male	G.Svenson	June 2, 2009		
+1217757	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa krattorum manausensis Svenson, 2014	USNM Washington D.C.	001	Southern America, Brazil: Amazonas, 60km n Manaus	male		February 22, 1979		
+1217759	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa neblina Svenson, 2014	USNM Washington D.C.	006	Southern America: Cerro de la Neblina	male	R.Cocroft & W. Steiner	February 19, 1985		
+1217761	holotype	Svenson, G.J. 2014. Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini). Zookeys 390:1-214	Liturgusa stiewei Svenson, 2014	ANSP Philadelphia	017	Western South America, Colombia: Jimenez	female	M.G.Palmer	March 1, 1907		
+1217953	holotype	Holwell. 2014. Four new species of Ciulfina Giglio-Tos, 1915 (Mantodea, Liturgusidae, Liturgusinae) from the Northern Territory, Australia. ZOOTAXA 3797 1:29-38	Ciulfina annecharlotteae Holwell, 2014	ANIC Canberra		Australia, Northern Territory: Gregory Nat Park	male	Holwell,O`Hanlon, Rao & Harmer	September 18, 2007		
+1217955	holotype	Holwell. 2014. Four new species of Ciulfina Giglio-Tos, 1915 (Mantodea, Liturgusidae, Liturgusinae) from the Northern Territory, Australia. ZOOTAXA 3797 1:29-38	Ciulfina herbersteinae Holwell, 2014	ANIC Canberra		Australia, Northern Territory: Keep River Nat Park	male	Holwell,O`Hanlon, Rao & Harmer	September 16, 2007		
+1217956	holotype	Holwell. 2014. Four new species of Ciulfina Giglio-Tos, 1915 (Mantodea, Liturgusidae, Liturgusinae) from the Northern Territory, Australia. ZOOTAXA 3797 1:29-38	Ciulfina ianrichardi Holwell, 2014	ANIC Canberra		Australia, Northern Territory: Florence Fall	male	Holwell,O`Hanlon, Rao & Harmer	September 12, 2007		
+1217957	holotype	Holwell. 2014. Four new species of Ciulfina Giglio-Tos, 1915 (Mantodea, Liturgusidae, Liturgusinae) from the Northern Territory, Australia. ZOOTAXA 3797 1:29-38	Ciulfina terrymariceae Holwell, 2014	ANIC Canberra		Australia, Northern Territory	male	Holwell,O`Hanlon, Rao & Harmer	September 12, 2007		
+1218081	holotype	Roy & Stiewe. 2014. Revision of the genus Galinthias Stal, 1877 (Mantodea, Galinthiadidae). Bulletin de la Société entomologique de France 119(2):199-215	Galinthias rhomboidalis Roy & Stiewe, 2014	BMNH London		Africa, East Tropical Africa: Eastern Kenya, Sosoma,202km E of Thika	male	Snizek	May 11, 2007		
+1218357	holotype	Schwarz & Helmkampf. 2014. A remarkable new species of Mythomantis Giglio Tos, 1916 from northern Borneo, with notes on the systematics of Deroplatyinae Westwood, 1889 (Mantodea: Mantidae). ZOOTAXA 3797(1):120-129	Mythomantis serrata Schwarz & Helmkampf, 2014	BMNH London		Malesia, Borneo, Sarawak: Gunung Mulu Nat. Park	male	J.D.Holloway	January 1, 1978		
+1218360	holotype	Stiewe & Lombardo. 2014. A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species 3797(1):169-193	Otomantis bolivari Stiewe & Lombardo, 2014	BMNH London		East Tropical Africa, Kenya: Malindi, Sokoke Forest, White Sand	male	M.P.Clifton	April 1, 1969		
+1218361	holotype	Lombardo, Stiewe, Ippolito & Marletta. 2014. A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species. ZOOTAXA 3797(1):169-193		BMNH London		Africa, Southern Africa: Southafrica	male				
+1218590	holotype	Agudelo. 2014. A new genus and species of Mantoididae (Mantodea) from the Brazilian and Venezuelan Amazon, with remarks on Mantoida Newman, 1838. ZOOTAXA(3797):194-206	Paramantoida amazonica Agudelo, 2014	INPA Amazonas, Manaus		Southern America, Brazil: Amazonas, Manaus, Reserva Biologica do Cuieiras	male		June 5, 2005		
+1221338	holotype	Roy. 2005. A new species of Galepsus in the Comoren Islands (Dictyoptera: Tarachodidae). Bulletin de la Société entomologique de France 110(4/5):383-386	Galepsus (Onychogalepsus) cliquennoisi Roy, 2005	MNHN		Western Indian Ocean, Comoros, Comoros: Comores Island, Anjouan	male	N. Cliquennois	January 18, 2004		
+1221612	holotype	Lombardo & Stiewe. 2014. A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species 3797(1):169-193	Otomantis trimacula Lombardo & Stiewe, 2014	BMNH London		South Tropical Africa, Zambia: Mwinilunga	male	Snizek			
+1222258	holotype	Lombardo, Umbriaco & Ippolito. 2014. Taxonomic revision of the Neutropical genus Parastagmatoptera Saussure, 1871 (Dictyoptera, Mantidae, Stagmatopterinae) with a biogeographic comment. Insect Systematics and Evolution DOI 10.1163	Parastagmatoptera bororoi Lombardo, Umbriaco & Ippolito, 2014	ANSP Philadelphia		Southern America, Brazil: Mato Grosso Sinop	male		October 1, 1976		
+1222259	holotype	Lombardo, Umbriaco & Ippolito. 2014. Taxonomic revision of the Neutropical genus Parastagmatoptera Saussure, 1871 (Dictyoptera, Mantidae, Stagmatopterinae) with a biogeographic comment. Insect Systematics and Evolution DOI 10.1163	Parastagmatoptera sottilei Lombardo, Umbriaco & Ippolito, 2014	Museum Biological, Catania		Western South America, Ecuador: Napo Yasuni	male		February 6, 1997		
+1222295	holotype	Menezes & Bravo. 2015. A new species of Margaromantis Piza, 1982 (Insecta: Mantodea) from Brazil. Biodiversity Data Journal 3(e4343)	Margaromantis nigrolineata Menezes & Bravo, 2015	MZFS		Southern America, Brazil: Bahia	male				
+1222669	holotype	Roy. 2015. A new genus of mantid from French Guiana (Mantodea, Acanthopidae). Bulletin de la Société entomologique de France 120(2):143-146	Ovalimantis maculata Roy, 2015	MNHN		Northern South America, French Guiana: montagne des Chevaux	male		September 27, 2014		
+1223481	holotype	Lee. 2014. New Lower Cretaceous basal mantodean (Insecta) from the  Crato Formation (NE Brazil). Geologica Carphatica 65(4):285--292	Cretophotina santanensis Lee, 2014	SMNS Stuttgart	SMNS 67583	Brazil Northeast, Ceará: Chapada do Araripe, vicinity of Nova Olinda,  Lower  Cretaceous,  Upper  Aptian, Nova Olinda Member of Crato Formation.	undetermined				
+1225164	holotype	Delclos, Penalver, Arillo, Engel, Nel, Azar & Ross. 2016. New mantises (Insecta: Mantodea) in Cretaceous ambersfrom Lebanon, Spain and Myanmar. Cretaceous Research 60:91-108	Burmantis zherikhini Delclos, Penalver, Arillo, Engel, Nel, Azar & Ross, 2016	National Museum Scotland		Asia-Tropical	undetermined				
+1225191	holotype	Brannoch & Svenson. 2016. Anew genus and species (Cornucollis ge. n. masoalensis sp. n.) of paying mantis from northern Madagascar (Mantodea, Iridopterygidae, Tropidomantinae)  . Zookeys 556:65-85	Cornucollis masoalensis Brannoch & Svenson, 2016	MNHN		Western Indian Ocean, Madagascar: Masoala.Tampolo battage canopee	male	Barrios&Randriamasimanana	November 3, 2001		
+1229752	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis aspoeckorum Roy & Stiewe, 2016	NHMW Vienna		Southern Africa, Namibia, Namibia: SW Rundu, Kavango Dist.	male	Aspoeck	February 12, 1994		
+1229753	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis guineensis Roy & Stiewe, 2016	HNHM Budapest		West Tropical Africa, Guinea	male	Ferencz			
+1229754	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis kibweziana Roy & Stiewe, 2016	BMNH London		Africa: Kenya, Kibwezi	male	Feather	November 22, 1929		
+1229755	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis lesnei Roy & Stiewe, 2016	MNHN		South Tropical Africa, Mozambique: Zambeze, Nova Choupanga pres Chemba	male	P.Lesne	April 1, 1928		
+1229994	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis nathani Roy & Stiewe, 2016	BMNH London		South Tropical Africa, Zambia: Kachalola	male	P.S. Nathan	December 27, 1970		
+1229995	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis prosti Roy & Stiewe, 2016	MNHN		West Tropical Africa, Burkina: Burkina Faso, Fada Ngourma	male	A.Prost	October 30, 1972		
+1229996	holotype	Roy & Stiewe. 2016. Révision du genre afrotropical Calamothespis Werner 1907 (Mantodea: Toxoderinae). Annales de la Societe Entomologique de France ISSN00379271 (print) 52(1):26-48	Calamothespis tanzaniensis Roy & Stiewe, 2016	ZMUH Hamburg		East Tropical Africa, Tanzania: Balangidda See  bis Mkalama	female	Dr. E. Obst	April 13, 1911		
+1231288	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia gigliotosi Roy, 2016	MNHN	2619	Western Indian Ocean, Madagascar: Madagascar, forêt de Morondava, route de Belo sur Tsiribihina	male	Wintrebert	June 24, 1972		
+1231290	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia grandidieri Roy, 2016	MNHN	2625	Africa, Western Indian Ocean: Diégo-Suarez [maintenant Antsiranana]	male	Grandidier	January 1, 1910		
+1231291	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia fisheri Roy, 2016	CAS		Western Indian Ocean, Madagascar: Toliara Prov., forêt de Mite, 75 m, 20.7 km 29° WNW Tongobory, 23°31’27”S, 44°7’17”E, 27.II-3.III.2002, beating low vegetation in gallery forest	male	coll. Fisher, Griswold et al.,			
+1231292	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia wintreberti Roy, 2016	MNHN	2632	Western Indian Ocean, Madagascar: Madagascar sud-ouest, AntsoaBeroroha, terrain d’aviation	male	D. Wintrebert	July 30, 1966		
+1231293	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia ifatyensis Roy, 2016	MNHN	2621	Africa, Western Indian Ocean	male	Murzin & Shamaev	December 10, 2003		
+1231294	holotype	Roy. 2016. Révision du genre endémique malgache Paralygdamia Saussure & Zehntner, 1895 (Dictyoptera, Mantodea, Tarachodidae)  . Zoosystema 39(3):317-338	Paralygdamia punctata Roy, 2016	CAS		Western Indian Ocean, Madagascar: Toliara Prov., P. N. de Tsimanampetsotsa, Mitoho Cave, 6.4 km 77°ENE Efoetse, 17.4 km 170°S Beheloka, 24°2’50”S, 43°54’11”E,	male	coll. Fisher, Griswold et al.,	March 18, 2002		
+1232137	holotype	Rodrigues. 2016. Taxonomic revision of Stagmatoptera Burmeister, 1838. ZOOTAXA(4183):78pp	Stagmatoptera diana Rodrigues, 2016	ZSM Munich		Northern South America, Venezuela: Maracay	female	P.Vogel	May 1, 1934		
+1232138	holotype	Rodrigues. 2016. Taxonomic revision of Stagmatoptera Burmeister, 1838. ZOOTAXA(4183):78pp	Stagmatoptera cerdai Rodrigues, 2016	MNHN			male	Langlois&Bellanger	October 30, 2008		

@@ -1,0 +1,236 @@
+R001	R001	R001		Onychophora Grube, 1853	phylum	accepted
+F001	F001	F001	R001	Peripatidae Evans, 1901	family	accepted
+G001	G001	G001	F001	Eoperipatus Evans, 1901	genus	accepted
+G001-1	G001-1	G001-1	G001	Eoperipatus butleri Evans, 1901	species	accepted
+G001-2	G001-2	G001-2	G001	Eoperipatus horsti Evans, 1901	species	accepted
+G001-3	G001-3	G001-3	G001	Eoperipatus weldoni Evans, 1901	species	accepted
+G002	G002	G002	F001	Epiperipatus Clark, 1913	genus	accepted
+G002-1	G002-1	G002-1	G002	Epiperipatus acacioi (Marcus & Marcus, 1955)	species	accepted
+G002-2	G002-2	G002-2	G002	Epiperipatus adenocryptus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011	species	accepted
+G002-3	G002-3	G002-3	G002	Epiperipatus barbadensis (Froehlich, 1962)	species	accepted
+G002-4	G002-4	G002-4	G002	Epiperipatus barbouri (Brues, 1911)	species	accepted
+G002-5	G002-5	G002-5	G002	Epiperipatus betheli (Cockerell, 1913)	species	accepted
+G002-6	G002-6	G002-6	G002	Epiperipatus biolleyi (Bouvier, 1902)	species	accepted
+G002-7	G002-7	G002-7	G002	Epiperipatus brasiliensis (Bouvier, 1899)	species	accepted
+G002-8	G002-8	G002-8	G002	Epiperipatus broadwayi (Clark, 1913)	species	accepted
+G002-9	G002-9	G002-9	G002	Epiperipatus cratensis Brito, Pereira, Ferreira, Vasconscellos & Almeida, 2010	species	accepted
+G002-10	G002-10	G002-10	G002	Epiperipatus diadenoproctus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011	species	accepted
+G002-11	G002-11	G002-11	G002	Epiperipatus edwardsii (Blanchard, 1847)	species	accepted
+G002-12	G002-12	G002-12	G002	Epiperipatus evansi (Bouvier, 1904a)	species	accepted
+G002-13	G002-13	G002-13	G002	Epiperipatus hilkae Morera-Brenes & Monge-Nájera, 1990	species	accepted
+G002-14	G002-14	G002-14	G002	Epiperipatus imthurni (Sclater, 1888)	species	accepted
+G002-15	G002-15	G002-15	G002	Epiperipatus isthmicola (Bouvier, 1902)	species	accepted
+G002-16	G002-16	G002-16	G002	Epiperipatus lewisi Arnett, 1961	species	accepted
+G002-17	G002-17	G002-17	G002	Epiperipatus machadoi (Oliveira & Wieloch, 2005)	species	accepted
+G002-18	G002-18	G002-18	G002	Epiperipatus paurognostus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011	species	accepted
+G002-19	G002-19	G002-19	G002	Epiperipatus simoni (Bouvier, 1899b)	species	accepted
+G002-20	G002-20	G002-20	G002	Epiperipatus torrealbai Scorza, 1953	species	accepted
+G002-21	G002-21	G002-21	G002	Epiperipatus trinidadensis (Sedgwick, 1888)	species	accepted
+G002-22	G002-22	G002-22	G002	Epiperipatus vagans (Brues, 1925)	species	accepted
+G002-23	G002-23	G002-23	G002	Epiperipatus vespuccii Brues, 1914	species	accepted
+G003	G003	G003	F001	Heteroperipatus Zilch, 1954	genus	accepted
+G003-1	G003-1	G003-1	G003	Heteroperipatus clarki (Dunn, 1943)	species	accepted
+G003-2	G003-2	G003-2	G003	Heteroperipatus engelhardi Zilch, 1954	species	accepted
+G004	G004	G004	F001	Macroperipatus (Clark, 1913)	genus	accepted
+G004-1	G004-1	G004-1	G004	Macroperipatus clarki Arnett, 1961	species	accepted
+G004-2	G004-2	G004-2	G004	Macroperipatus guianensis (Evans, 1903)	species	accepted
+G004-3	G004-3	G004-3	G004	Macroperipatus insularis Clark, 1937	species	accepted
+G004-4	G004-4	G004-4	G004	Macroperipatus ohausi (Bouvier, 1900)	species	accepted
+G004-5	G004-5	G004-5	G004	Macroperipatus perrieri (Bouvier, 1899)	species	accepted
+G004-6	G004-6	G004-6	G004	Macroperipatus torquatus (von Kennel, 1883)	species	accepted
+G004-7	G004-7	G004-7	G004	Macroperipatus valerioi Morera-Brenes & Léon, 1986	species	accepted
+G005	G005	G005	F001	Mesoperipatus Evans, 1901	genus	accepted
+G005-1	G005-1	G005-1	G005	Mesoperipatus tholloni (Bouvier, 1898a)	species	accepted
+G006	G006	G006	F001	Oroperipatus (Cockerell, 1908)	genus	accepted
+G006-1	G006-1	G006-1	G006	Oroperipatus balzani (Camerano, 1897)	species	accepted
+G006-2	G006-2	G006-2	G006	Oroperipatus belli (Bouvier, 1904)	species	accepted
+G006-3	G006-3	G006-3	G006	Oroperipatus bimbergi (Fuhrmann, 1913)	species	accepted
+G006-4	G006-4	G006-4	G006	Oroperipatus bluntschlii Fuhrmann, 1915	species	accepted
+G006-5	G006-5	G006-5	G006	Oroperipatus cameranoi (Bouvier, 1899)	species	accepted
+G006-6	G006-6	G006-6	G006	Oroperipatus corradoi (Camerano, 1898)	species	accepted
+G006-7	G006-7	G006-7	G006	Oroperipatus ecuadorensis (Bouvier, 1902)	species	accepted
+G006-8	G006-8	G006-8	G006	Oroperipatus eisenii (Wheeler, 1898)	species	accepted
+G006-9	G006-9	G006-9	G006	Oroperipatus intermedius (Bouvier, 1901)	species	accepted
+G006-10	G006-10	G006-10	G006	Oroperipatus koepckei Zilch, 1954	species	accepted
+G006-11	G006-11	G006-11	G006	Oroperipatus lankesteri (Bouvier, 1899)	species	accepted
+G006-12	G006-12	G006-12	G006	Oroperipatus multipodes (Fuhrmann, 1913)	species	accepted
+G006-13	G006-13	G006-13	G006	Oroperipatus omeyrus du Bois-Reymond Marcus, 1952	species	accepted
+G006-14	G006-14	G006-14	G006	Oroperipatus peruvianus (Brues, 1917)	species	accepted
+G006-15	G006-15	G006-15	G006	Oroperipatus soratanus (Bouvier, 1901)	species	accepted
+G006-16	G006-16	G006-16	G006	Oroperipatus tuberculatus (Bouvier, 1898)	species	accepted
+G006-17	G006-17	G006-17	G006	Oroperipatus weyrauchi du Bois-Reymond Marcus, 1952	species	accepted
+G007	G007	G007	F001	Peripatus Guilding, 1826	genus	accepted
+G007-1	G007-1	G007-1	G007	Peripatus basilensis Brues, 1935	species	accepted
+G007-2	G007-2	G007-2	G007	Peripatus bouvieri Fuhrmann, 1913	species	accepted
+G007-3	G007-3	G007-3	G007	Peripatus broelemanni Bouvier, 1899	species	accepted
+G007-4	G007-4	G007-4	G007	Peripatus danicus Bouvier, 1900	species	accepted
+G007-5	G007-5	G007-5	G007	Peripatus darlingtoni Brues, 1935	species	accepted
+G007-6	G007-6	G007-6	G007	Peripatus dominicae Pollard, 1893	species	accepted
+G007-7	G007-7	G007-7	G007	Peripatus evelinae Marcus, 1937	species	accepted
+G007-8	G007-8	G007-8	G007	Peripatus haitiensis Brues, 1913	species	accepted
+G007-9	G007-9	G007-9	G007	Peripatus heloisae Carvalho, 1941	species	accepted
+G007-10	G007-10	G007-10	G007	Peripatus juanensis Bouvier, 1900	species	accepted
+G007-11	G007-11	G007-11	G007	Peripatus juliformis Guilding, 1826	species	accepted
+G007-12	G007-12	G007-12	G007	Peripatus lachauxensis Brues, 1935	species	accepted
+G007-13	G007-13	G007-13	G007	Peripatus manni Brues, 1913	species	accepted
+G007-14	G007-14	G007-14	G007	Peripatus ruber Fuhrmann, 1913	species	accepted
+G007-15	G007-15	G007-15	G007	Peripatus sedgwicki Bouvier, 1899	species	accepted
+G007-16	G007-16	G007-16	G007	Peripatus solorzanoi Morera-Brenes & Monge-Nájera, 2010	species	accepted
+G007-17	G007-17	G007-17	G007	Peripatus swainsonae Cockerell, 1893	species	accepted
+G008	G008	G008	F001	Plicatoperipatus Clark, 1913	genus	accepted
+G008-1	G008-1	G008-1	G008	Plicatoperipatus jamaicensis (Grabham & Cockerell, 1892)	species	accepted
+G009	G009	G009	F001	Speleoperipatus Peck, 1975	genus	accepted
+G009-1	G009-1	G009-1	G009	Speleoperipatus spelaeus Peck, 1975	species	accepted
+G010	G010	G010	F001	Typhloperipatus Kemp, 1913	genus	accepted
+G010-1	G010-1	G010-1	G010	Typhloperipatus williamsoni Kemp, 1913	species	accepted
+F002	F002	F002	R001	Peripatopsidae Bouvier 1905	family	accepted
+G011	G011	G011	F002	Acanthokara Reid, 1996	genus	accepted
+G011-1	G011-1	G011-1	G011	Acanthokara kaputensis Reid, 1996	species	accepted
+G012	G012	G012	F002	Aethrikos Reid, 1996	genus	accepted
+G012-1	G012-1	G012-1	G012	Aethrikos setosa Reid, 1996	species	accepted
+G013	G013	G013	F002	Aktinothele Reid, 1996	genus	accepted
+G013-1	G013-1	G013-1	G013	Aktinothele eucharis Reid, 1996	species	accepted
+G014	G014	G014	F002	Anoplokaros Reid, 1996	genus	accepted
+G014-1	G014-1	G014-1	G014	Anoplokaros keerensis Reid, 1996	species	accepted
+G015	G015	G015	F002	Austroperipatus Baehr, 1977	genus	accepted
+G015-1	G015-1	G015-1	G015	Austroperipatus aequabilis Reid, 1996	species	accepted
+G015-2	G015-2	G015-2	G015	Austroperipatus eridelos Reid, 1996	species	accepted
+G015-3	G015-3	G015-3	G015	Austroperipatus paradoxus (Bouvier, 1914)	species	accepted
+G015-4	G015-4	G015-4	G015	Austroperipatus superbus Reid, 1996	species	accepted
+G016	G016	G016	F002	Baeothele Reid, 1996	genus	accepted
+G016-1	G016-1	G016-1	G016	Baeothele saukros Reid, 1996	species	accepted
+G017	G017	G017	F002	Centorumis Reid, 1996	genus	accepted
+G017-1	G017-1	G017-1	G017	Centorumis trigona Reid, 1996	species	accepted
+G018	G018	G018	F002	Cephalofovea Ruhberg, Tait, Briscoe and Storch, 1988	genus	accepted
+G018-1	G018-1	G018-1	G018	Cephalofovea cameroni Reid, Tait, Briscoe & Rowell, 1995	species	accepted
+G018-2	G018-2	G018-2	G018	Cephalofovea clandestina Reid, Tait, Briscoe & Rowell, 1995	species	accepted
+G018-3	G018-3	G018-3	G018	Cephalofovea pavimenta Reid, Tait, Briscoe & Rowell, 1995	species	accepted
+G018-4	G018-4	G018-4	G018	Cephalofovea tomahmontis Ruhberg, Tait, Briscoe & Storch, 1988	species	accepted
+G019	G019	G019	F002	Critolaus Reid, 1996	genus	accepted
+G019-1	G019-1	G019-1	G019	Critolaus lepidus Reid, 1996	species	accepted
+G020	G020	G020	F002	Dactylothele Reid, 1996	genus	accepted
+G020-1	G020-1	G020-1	G020	Dactylothele habros Reid, 1996	species	accepted
+G021	G021	G021	F002	Dystactotylos Reid, 1996	genus	accepted
+G021-1	G021-1	G021-1	G021	Dystactotylos aletes Reid, 1996	species	accepted
+G022	G022	G022	F002	Euperipatoides Ruhberg, 1985	genus	accepted
+G022-1	G022-1	G022-1	G022	Euperipatoides kanangrensis Reid, 1996	species	accepted
+G022-2	G022-2	G022-2	G022	Euperipatoides leuckartii (Sänger, 1871)	species	accepted
+G022-3	G022-3	G022-3	G022	Euperipatoides rowelli Reid, 1996	species	accepted
+G023	G023	G023	F002	Florelliceps Tait & Norman, 2001	genus	accepted
+G023-1	G023-1	G023-1	G023	Florelliceps stutchburyae Tait & Norman, 2001	species	accepted
+G024	G024	G024	F002	Hylonomoipos Reid, 1996	genus	accepted
+G024-1	G024-1	G024-1	G024	Hylonomoipos akares Reid, 1996	species	accepted
+G024-2	G024-2	G024-2	G024	Hylonomoipos brookensis Reid, 1996	species	accepted
+G025	G025	G025	F002	Konothele Reid, 1996    	genus	accepted
+G025-1	G025-1	G025-1	G025	Konothele kallimos Reid, 1996	species	accepted
+G026	G026	G026	F002	Kumbadjena Reid, 2002	genus	accepted
+G026-1	G026-1	G026-1	G026	Kumbadjena kaata Reid, 2002	species	accepted
+G026-2	G026-2	G026-2	G026	Kumbadjena occidentalis (Fletcher, 1895)	species	accepted
+G026-3	G026-3	G026-3	G026	Kumbadjena shannonensis Reid, 2002	species	accepted
+G027	G027	G027	F002	Lathropatus Reid, 2000	genus	accepted
+G027-1	G027-1	G027-1	G027	Lathropatus nemorum Reid, 2000a	species	accepted
+G028	G028	G028	F002	Leuropezos Reid, 1996	genus	accepted
+G028-1	G028-1	G028-1	G028	Leuropezos eungellensis Reid, 1996	species	accepted
+G029	G029	G029	F002	Mantonipatus Ruhberg, 1985	genus	accepted
+G029-1	G029-1	G029-1	G029	Mantonipatus persiculus Ruhberg, 1985	species	accepted
+G030	G030	G030	F002	Metaperipatus Clark, 1913	genus	accepted
+G030-1	G030-1	G030-1	G030	Metaperipatus inae Mayer, 2007	species	accepted
+G031	G031	G031	F002	Minyplanetes Reid, 1996	genus	accepted
+G031-1	G031-1	G031-1	G031	Minyplanetes kroombensis Reid, 1996	species	accepted
+G032	G032	G032	F002	Nodocapitus Reid, 1996	genus	accepted
+G032-1	G032-1	G032-1	G032	Nodocapitus barryi Reid, 1996	species	accepted
+G032-2	G032-2	G032-2	G032	Nodocapitus formosus Reid, 1996	species	accepted
+G032-3	G032-3	G032-3	G032	Nodocapitus inornatus Reid, 1996	species	accepted
+G033	G033	G033	F002	Occiperipatoides Ruhberg, 1985	genus	accepted
+G033-1	G033-1	G033-1	G033	Occiperipatoides gilesii (Spencer, 1909)	species	accepted
+G034	G034	G034	F002	Ooperipatellus Ruhberg, 1985	genus	accepted
+G034-1	G034-1	G034-1	G034	Ooperipatellus decoratus (Baehr, 1977)	species	accepted
+G034-2	G034-2	G034-2	G034	Ooperipatellus duwilensis Reid, 1996	species	accepted
+G034-3	G034-3	G034-3	G034	Ooperipatellus insignis (Dendy, 1890)	species	accepted
+G034-4	G034-4	G034-4	G034	Ooperipatellus nanus Ruhberg, 1985	species	accepted
+G034-5	G034-5	G034-5	G034	Ooperipatellus parvus Reid, 1996	species	accepted
+G034-6	G034-6	G034-6	G034	Ooperipatellus spenceri (Cockerell, 1913)	species	accepted
+G034-7	G034-7	G034-7	G034	Ooperipatellus viridimaculatus (Dendy, 1900)	species	accepted
+G035	G035	G035	F002	Ooperipatus Dendy, 1900	genus	accepted
+G035-1	G035-1	G035-1	G035	Ooperipatus birrgus Reid, 2000	species	accepted
+G035-2	G035-2	G035-2	G035	Ooperipatus caesius Reid, 2000	species	accepted
+G035-3	G035-3	G035-3	G035	Ooperipatus centunculus Reid, 1996	species	accepted
+G035-4	G035-4	G035-4	G035	Ooperipatus costatus Reid, 1996	species	accepted
+G035-5	G035-5	G035-5	G035	Ooperipatus hispidus Reid, 1996	species	accepted
+G035-6	G035-6	G035-6	G035	Ooperipatus lepidus Reid, 2000	species	accepted
+G035-7	G035-7	G035-7	G035	Ooperipatus nebulosus Reid, 2000	species	accepted
+G035-8	G035-8	G035-8	G035	Ooperipatus oviparus (Dendy, 1895)	species	accepted
+G035-9	G035-9	G035-9	G035	Ooperipatus porcatus Reid, 2000a	species	accepted
+G035-10	G035-10	G035-10	G035	Ooperipatus pulchellus Reid, 1996	species	accepted
+G035-11	G035-11	G035-11	G035	Ooperipatus silvanus Reid, 2000	species	accepted
+G036	G036	G036	F002	Opisthopatus Purcell, 1899	genus	accepted
+G036-1	G036-1	G036-1	G036	Opisthopatus amatolensis Choonoo, 1947	species	accepted
+G036-2	G036-2	G036-2	G036	Opisthopatus cinctipes Purcell, 1899	species	accepted
+G036-3	G036-3	G036-3	G036	Opisthopatus herbertorum Ruhberg & Hamer, 2005	species	accepted
+G036-4	G036-4	G036-4	G036	Opisthopatus laevis Lawrence, 1947	species	accepted
+G036-5	G036-5	G036-5	G036	Opisthopatus natalensis Bouvier, 1900	species	accepted
+G036-6	G036-6	G036-6	G036	Opisthopatus roseus Lawrence, 1947	species	accepted
+G037	G037	G037	F002	Paraperipatus Willey, 1898	genus	accepted
+G037-1	G037-1	G037-1	G037	Paraperipatus ceramensis (Muir & Kershaw, 1909)	species	accepted
+G037-2	G037-2	G037-2	G037	Paraperipatus keiensis Horst, 1923	species	accepted
+G037-3	G037-3	G037-3	G037	Paraperipatus novaebritanniae (Willey, 1898b)	species	accepted
+G037-4	G037-4	G037-4	G037	Paraperipatus papuensis (Sedgwick, 1910)	species	accepted
+G037-5	G037-5	G037-5	G037	Paraperipatus lorentzi Horst 1910	species	accepted
+G037-6	G037-6	G037-6	G037	Paraperipatus vanheurni Horst, 1922	species	accepted
+G038	G038	G038	F002	Paropisthopatus Ruhberg, 1985	genus	accepted
+G038-1	G038-1	G038-1	G038	Paropisthopatus umbrinus (Johow, 1911)	species	accepted
+G039	G039	G039	F002	Peripatoides Pocock, 1894	genus	accepted
+G039-1	G039-1	G039-1	G039	Peripatoides indigo Ruhberg, 1985	species	accepted
+G039-2	G039-2	G039-2	G039	Peripatoides kawekaensis Trewick, 1998	species	accepted
+G039-3	G039-3	G039-3	G039	Peripatoides suteri (Dendy, 1894)	species	accepted
+G040	G040	G040	F002	Peripatopsis Pocock, 1894	genus	accepted
+G040-1	G040-1	G040-1	G040	Peripatopsis alba Lawrence, 1931	species	accepted
+G040-2	G040-2	G040-2	G040	Peripatopsis balfouri (Sedgwick, 1885)	species	accepted
+G040-3	G040-3	G040-3	G040	Peripatopsis capensis (Grube, 1866)	species	accepted
+G040-4	G040-4	G040-4	G040	Peripatopsis clavigera Purcell, 1899	species	accepted
+G040-5	G040-5	G040-5	G040	Peripatopsis intermedia Hutchinson, 1928	species	accepted
+G040-6	G040-6	G040-6	G040	Peripatopsis lawrencei McDonald, Ruhberg & Daniels, 2012	species	accepted
+G040-7	G040-7	G040-7	G040	Peripatopsis leonina Purcell, 1899	species	accepted
+G040-8	G040-8	G040-8	G040	Peripatopsis moseleyi (Wood-Mason, 1879)	species	accepted
+G040-9	G040-9	G040-9	G040	Peripatopsis overbergiensis McDonald, Ruhberg & Daniels, 2012	species	accepted
+G040-10	G040-10	G040-10	G040	Peripatopsis sedgwicki Purcell, 1899	species	accepted
+G040-11	G040-11	G040-11	G040	Peripatopsis stelliporata Sherbon & Walker, 2004	species	accepted
+G041	G041	G041	F002	Phallocephale Reid, 1996	genus	accepted
+G041-1	G041-1	G041-1	G041	Phallocephale tallagandensis Reid, 1996	species	accepted
+G042	G042	G042	F002	Planipapillus Reid, 1996	genus	accepted
+G042-1	G042-1	G042-1	G042	Planipapillus annae Reid, 2000	species	accepted
+G042-2	G042-2	G042-2	G042	Planipapillus berti Reid, 2000	species	accepted
+G042-3	G042-3	G042-3	G042	Planipapillus biacinaces Reid, 1996	species	accepted
+G042-4	G042-4	G042-4	G042	Planipapillus biacinoides Reid, 2000	species	accepted
+G042-5	G042-5	G042-5	G042	Planipapillus bulgensis Reid, 1996	species	accepted
+G042-6	G042-6	G042-6	G042	Planipapillus cyclus Reid, 2000	species	accepted
+G042-7	G042-7	G042-7	G042	Planipapillus gracilis Reid, 2000	species	accepted
+G042-8	G042-8	G042-8	G042	Planipapillus impacris Reid, 2000	species	accepted
+G042-9	G042-9	G042-9	G042	Planipapillus mundus Reid, 1996	species	accepted
+G042-10	G042-10	G042-10	G042	Planipapillus taylori Reid, 1996	species	accepted
+G042-11	G042-11	G042-11	G042	Planipapillus tectus Reid, 2000	species	accepted
+G042-12	G042-12	G042-12	G042	Planipapillus vittatus Reid, 2000	species	accepted
+G043	G043	G043	F002	Regimitra Reid, 1996	genus	accepted
+G043-1	G043-1	G043-1	G043	Regimitra quadricaula Reid, 1996	species	accepted
+G044	G044	G044	F002	Ruhbergia Reid, 1996	genus	accepted
+G044-1	G044-1	G044-1	G044	Ruhbergia bifalcata Reid, 1996	species	accepted
+G044-2	G044-2	G044-2	G044	Ruhbergia brevicorna Reid, 1996	species	accepted
+G044-3	G044-3	G044-3	G044	Ruhbergia rostroides Reid, 1996	species	accepted
+G045	G045	G045	F002	Sphenoparme Reid, 1996	genus	accepted
+G045-1	G045-1	G045-1	G045	Sphenoparme hobwensis Reid, 1996	species	accepted
+G046	G046	G046	F002	Tasmanipatus Ruhberg, Mesibov, Briscoe and Tait, 1991	genus	accepted
+G046-1	G046-1	G046-1	G046	Tasmanipatus anophthalmus Ruhberg, Mesibov, Briscoe & Tait, 1991	species	accepted
+G046-2	G046-2	G046-2	G046	Tasmanipatus barretti Ruhberg, Mesibov, Briscoe & Tait, 1991	species	accepted
+G047	G047	G047	F002	Tetrameraden Reid, 1996	genus	accepted
+G047-1	G047-1	G047-1	G047	Tetrameraden meringos Reid, 1996	species	accepted
+G048	G048	G048	F002	Vescerro Reid, 1996	genus	accepted
+G048-1	G048-1	G048-1	G048	Vescerro turbinatus Reid, 1996	species	accepted
+G049	G049	G049	F002	Wambalana Reid, 1996	genus	accepted
+G049-1	G049-1	G049-1	G049	Wambalana makrothele Reid, 1996	species	accepted
+P001	P001	P001	R001	unplaced extinct Onychophora		accepted
+G050	G050	G050	P001	Cretoperipatus Grimaldi, Engel & Nascimbene, 2002	genus	accepted
+G050-1	G050-1	G050-1	G050	Cretozperipatus burmiticus Grimaldi et al., 2002	species	accepted
+G051	G051	G051	P001	Succinipatopsis Poinar, 2000	genus	accepted
+G051-1	G051-1	G051-1	G051	Succinipatopsis balticus Poinar, 2000	species	accepted
+G052	G052	G052	P001	Tertiapatus Poinar, 2000	genus	accepted
+G052-1	G052-1	G052-1	G052	Tertiapatus dominicanus Poinar, 2000	species	accepted

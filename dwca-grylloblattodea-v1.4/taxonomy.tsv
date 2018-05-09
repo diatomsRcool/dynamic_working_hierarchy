@@ -1,0 +1,933 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1219980	|		|	Grylloblattodea	|	order	|		|	
+1219981	|	1220042	|	Lodevopterum	|	genus	|		|	
+1219983	|	1221807	|	Uralotermes	|	genus	|		|	
+1219984	|	1219995	|	Tshekardites	|	genus	|		|	
+1219985	|	1219980	|	Sylvaclinicus	|	genus	|		|	
+1219986	|	1219980	|	Permedax	|	genus	|		|	
+1219987	|	1220058	|	Aibolitus	|	genus	|		|	
+1219988	|	1220038	|	Sigmophlebia	|	genus	|		|	
+1219989	|	1219980	|	Termoides	|	genus	|		|	
+1219990	|	1219980	|	Gurianovella	|	genus	|		|	
+1219992	|	1219980	|	Sylvamicropteron	|	genus	|		|	
+1219995	|	1219980	|	Grylloblattina	|	infraorder	|		|	
+1219996	|	1219980	|	Protoperlina	|	infraorder	|		|	
+1219997	|	1219980	|	Lemmatophorina	|	infraorder	|		|	
+1219998	|	1219980	|	Epideigmatidae	|	family	|		|	
+1220000	|	1219980	|	Juraperlidae	|	family	|		|	
+1220001	|	1219981	|	Lodevopterum angustus	|	species	|		|	
+1220002	|	1220018	|	Plesioblattogryllus	|	genus	|		|	
+1220003	|	1219983	|	Uralotermes permianus	|	species	|		|	
+1220004	|	1221636	|	Tshebardanympha bardensis	|	species	|		|	
+1220005	|	1219984	|	Tshekardites comitialis	|	species	|		|	
+1220006	|	1221636	|	Tshebardanympha lienterica	|	species	|		|	
+1220007	|	1221637	|	Sylvalitoralis calcomessor	|	species	|		|	
+1220008	|	1221637	|	Sylvalitoralis curculiuculus	|	species	|		|	
+1220009	|	1221627	|	Lemmatonympha gracilis	|	species	|		|	
+1220010	|	1219985	|	Sylvaclinicus echinatus	|	species	|		|	
+1220011	|	1219986	|	Permedax effertus	|	species	|		|	
+1220012	|	1219987	|	Aibolitus medicinus	|	species	|		|	
+1220013	|	1219987	|	Aibolitus minutus	|	species	|		|	
+1220014	|	1219988	|	Sigmophlebia engeli	|	species	|		|	
+1220015	|	1219990	|	Gurianovella silphidoides	|	species	|		|	
+1220016	|	1219992	|	Sylvamicropteron harpax	|	species	|		|	
+1220017	|	1219995	|	Protoblattinidae	|	family	|		|	
+1220018	|	1219995	|	Blattogryllidae	|	family	|		|	
+1220019	|	1219995	|	Megakhosaridae	|	family	|		|	
+1220020	|	1219995	|	Permotermopsidae	|	family	|		|	
+1220021	|	1219995	|	Ideliidae	|	family	|		|	
+1220022	|	1219995	|	Kortshakoliidae	|	family	|		|	
+1220023	|	1219995	|	Mesorthopteridae	|	family	|		|	
+1220024	|	1219995	|	Geinitziidae	|	family	|		|	
+1220027	|	1219995	|	Tunguskapteridae	|	family	|		|	
+1220029	|	1219995	|	Gorochoviidae	|	family	|		|	
+1220030	|	1219995	|	Madygenophlebiidae	|	family	|		|	
+1220031	|	1219995	|	Havlatiidae	|	family	|		|	
+1220032	|	1219995	|	Liomopteridae	|	family	|		|	
+1220033	|	1219995	|	Bajanzhargalanidae	|	family	|		|	
+1220034	|	1220024	|	Stegopterinae	|	subfamily	|		|	
+1220035	|	1219995	|	Idelinellidae	|	family	|		|	
+1220036	|	1219995	|	Skaliciidae	|	family	|		|	
+1220037	|	1219995	|	Grylloblattidae	|	family	|		|	
+1220038	|	1219996	|	Tshekardominidae	|	family	|		|	
+1220040	|	1219996	|	Raaschiidae	|	family	|		|	
+1220041	|	1219996	|	Sylvaphlebiidae	|	family	|		|	
+1220042	|	1219996	|	Euremiscidae	|	family	|		|	
+1220043	|	1219996	|	Probnidae	|	family	|		|	
+1220044	|	1219980	|	Protoperlidae	|	family	|		|	
+1220046	|	1219996	|	Camptoneuritidae	|	family	|		|	
+1220047	|	1219996	|	Chelopteridae	|	family	|		|	
+1220048	|	1219996	|	Permulidae	|	family	|		|	
+1220054	|	1219996	|	Permembiidae	|	family	|		|	
+1220055	|	1220054	|	Sheimiinae	|	subfamily	|		|	
+1220056	|	1219996	|	Oecanthoperlidae	|	family	|		|	
+1220058	|	1219996	|	Sojanoraphidiidae	|	family	|		|	
+1220059	|	1219997	|	Daldubidae	|	family	|		|	
+1220060	|	1219997	|	Atactophlebiidae	|	family	|		|	
+1220061	|	1219997	|	Lemmatophoridae	|	family	|		|	
+1220062	|	1219997	|	Euryptilonidae	|	family	|		|	
+1220063	|	1219997	|	Pinideliidae	|	family	|		|	
+1220065	|	1219998	|	Epideigma	|	genus	|		|	
+1220067	|	1219998	|	Paraphenopterum	|	genus	|		|	
+1220068	|	1219998	|	Phenopterum	|	genus	|		|	
+1220069	|	1220000	|	Juraperla	|	genus	|		|	
+1220070	|	1220002	|	Plesioblattogryllus magnificus	|	species	|		|	
+1220071	|	1220002	|	Plesioblattogryllus minor	|	species	|		|	
+1220073	|	1220017	|	Protoblattina	|	genus	|		|	
+1220074	|	1220019	|	Pectinokhosara	|	genus	|		|	
+1220075	|	1220019	|	Parakhosara	|	genus	|		|	
+1220076	|	1220019	|	Tshekhosara	|	genus	|		|	
+1220077	|	1220021	|	Micaidelia	|	genus	|		|	
+1220078	|	1220021	|	Sylviodes	|	genus	|		|	
+1220079	|	1220021	|	Rachimentomon	|	genus	|		|	
+1220080	|	1220021	|	Sylvidelia	|	genus	|		|	
+1220081	|	1220021	|	Sojanidelia	|	genus	|		|	
+1220082	|	1220021	|	Tshekardelia	|	genus	|		|	
+1220083	|	1220021	|	Acropermula	|	genus	|		|	
+1220084	|	1220024	|	Sinosepididontus	|	genus	|		|	
+1220085	|	1220024	|	Megasepididontus	|	genus	|		|	
+1220086	|	1220031	|	Havlatia	|	genus	|		|	
+1220087	|	1220031	|	Ventopterum	|	genus	|		|	
+1220088	|	1220031	|	Zephyropterum	|	genus	|		|	
+1220089	|	1220032	|	Expartolioma	|	genus	|		|	
+1220090	|	1220032	|	Cerasopterum	|	genus	|		|	
+1220091	|	1220032	|	Fumopterum	|	genus	|		|	
+1220092	|	1220032	|	Lioma	|	genus	|		|	
+1220093	|	1220032	|	Donopterum	|	genus	|		|	
+1220094	|	1220032	|	Drahania	|	genus	|		|	
+1220095	|	1220032	|	Turbopterum	|	genus	|		|	
+1220096	|	1220032	|	Tyrannopterum	|	genus	|		|	
+1220097	|	1220032	|	Sylvictor	|	genus	|		|	
+1220098	|	1220032	|	Parasylvaella	|	genus	|		|	
+1220099	|	1220032	|	Kungurolioma	|	genus	|		|	
+1220100	|	1220032	|	Midcopterum	|	genus	|		|	
+1220101	|	1220032	|	Sylvaella	|	genus	|		|	
+1220102	|	1220032	|	Parasylviodes	|	genus	|		|	
+1220103	|	1220032	|	Khosarophlebia	|	genus	|		|	
+1220104	|	1220032	|	Uralioma	|	genus	|		|	
+1220105	|	1220032	|	Ornaticosta	|	genus	|		|	
+1220106	|	1220032	|	Liomopterella	|	genus	|		|	
+1220107	|	1220032	|	Liomopterites	|	genus	|		|	
+1220108	|	1220032	|	Analiomopterites	|	genus	|		|	
+1220109	|	1220032	|	Ornaticostella	|	genus	|		|	
+1220110	|	1220032	|	Liomopterum	|	genus	|		|	
+1220111	|	1220032	|	Depressopterum	|	genus	|		|	
+1220112	|	1220035	|	Sylvastriga	|	genus	|		|	
+1220113	|	1220035	|	Permostriga	|	genus	|		|	
+1220114	|	1220036	|	Skalicia	|	genus	|		|	
+1220115	|	1220036	|	Doubravia	|	genus	|		|	
+1220116	|	1220037	|	Grylloblattella	|	genus	|		|	
+1220117	|	1220037	|	Namkungia	|	genus	|		|	
+1220119	|	1220037	|	Grylloblattina	|	genus	|		|	
+1220120	|	1220037	|	Galloisiana	|	genus	|		|	
+1220121	|	1220037	|	Grylloblatta	|	genus	|		|	
+1220122	|	1220038	|	Tshekardomina	|	genus	|		|	
+1220123	|	1220055	|	Visherifera	|	genus	|		|	
+1220124	|	1220040	|	Raaschia	|	genus	|		|	
+1220125	|	1220041	|	Kungurocauda	|	genus	|		|	
+1220126	|	1220041	|	Sylvophenoptera	|	genus	|		|	
+1220127	|	1220041	|	Tshekardophlebia	|	genus	|		|	
+1220128	|	1220041	|	Sylvaphlebia	|	genus	|		|	
+1220129	|	1220041	|	Brnia	|	genus	|		|	
+1220130	|	1220041	|	Chlumia	|	genus	|		|	
+1220131	|	1220042	|	Euremisca	|	genus	|		|	
+1220132	|	1220033	|	Sylvafossor	|	genus	|		|	
+1220134	|	1220043	|	Probnis	|	genus	|		|	
+1220135	|	1220044	|	Protoperla	|	genus	|		|	
+1220136	|	1220046	|	Jablonia	|	genus	|		|	
+1220137	|	1220046	|	Camptoneurites	|	genus	|		|	
+1220138	|	1220047	|	Chelopterum	|	genus	|		|	
+1220139	|	1220048	|	Neprotembia	|	genus	|		|	
+1220141	|	1220048	|	Permula	|	genus	|		|	
+1220142	|	1220048	|	Kazanalicula	|	genus	|		|	
+1220143	|	1220048	|	Tshepanichoptera	|	genus	|		|	
+1220144	|	1220048	|	Mezenalicula	|	genus	|		|	
+1220145	|	1220048	|	Sojanopermula	|	genus	|		|	
+1220146	|	1220048	|	Elmopterum	|	genus	|		|	
+1220147	|	1220046	|	Demopterum	|	genus	|		|	
+1220151	|	1220055	|	Sheimia	|	genus	|		|	
+1220152	|	1220055	|	Parasheimia	|	genus	|		|	
+1220153	|	1220055	|	Pseudosheimia	|	genus	|		|	
+1220154	|	1220059	|	Dalduba	|	genus	|		|	
+1220155	|	1220060	|	Atactophlebia	|	genus	|		|	
+1220156	|	1220060	|	Kirkorella	|	genus	|		|	
+1220157	|	1220060	|	Bardapteron	|	genus	|		|	
+1220158	|	1220061	|	Lemmatophorinae	|	subfamily	|		|	
+1220159	|	1220061	|	Parapriscinae	|	subfamily	|		|	
+1220160	|	1220062	|	Euryptilodes	|	genus	|		|	
+1220161	|	1220063	|	Pinidelia	|	genus	|		|	
+1220162	|	1220063	|	Kishertia	|	genus	|		|	
+1220163	|	1220065	|	Epideigma elegans	|	species	|		|	
+1220164	|	1220067	|	Paraphenopterum unicolor	|	species	|		|	
+1220166	|	1220069	|	Juraperla grandis	|	species	|		|	
+1220167	|	1220069	|	Juraperla daohugouensis	|	species	|		|	
+1220168	|	1220073	|	Protoblattina bouvieri	|	species	|		|	
+1220169	|	1220074	|	Pectinokhosara sylvardembioides	|	species	|		|	
+1220170	|	1220075	|	Parakhosara coalita	|	species	|		|	
+1220171	|	1220077	|	Micaidelia minutissima	|	species	|		|	
+1220172	|	1220078	|	Sylviodes perloides	|	species	|		|	
+1220173	|	1220083	|	Acropermula acra	|	species	|		|	
+1220174	|	1220084	|	Sinosepididontus chifengensis	|	species	|		|	
+1220175	|	1220085	|	Megasepididontus grandis	|	species	|		|	
+1220176	|	1220086	|	Havlatia annae	|	species	|		|	
+1220177	|	1220087	|	Ventopterum rapidum	|	species	|		|	
+1220178	|	1220088	|	Zephyropterum lentum	|	species	|		|	
+1220179	|	1220089	|	Expartolioma hirta	|	species	|		|	
+1220180	|	1220090	|	Cerasopterum gracile	|	species	|		|	
+1220181	|	1220090	|	Cerasopterum oborianum	|	species	|		|	
+1220182	|	1220090	|	Cerasopterum longum	|	species	|		|	
+1220183	|	1220090	|	Cerasopterum extendum	|	species	|		|	
+1220184	|	1220090	|	Cerasopterum subtile	|	species	|		|	
+1220187	|	1220090	|	Cerasopterum megakhosaroides	|	species	|		|	
+1220188	|	1220090	|	Cerasopterum impurum	|	species	|		|	
+1220189	|	1220091	|	Fumopterum largum	|	species	|		|	
+1220190	|	1220092	|	Lioma moravica	|	species	|		|	
+1220192	|	1220093	|	Donopterum carpenteri	|	species	|		|	
+1220193	|	1220093	|	Donopterum nocturnum	|	species	|		|	
+1220195	|	1220094	|	Drahania avia	|	species	|		|	
+1220196	|	1220095	|	Turbopterum finum	|	species	|		|	
+1220197	|	1220096	|	Tyrannopterum minimum	|	species	|		|	
+1220198	|	1220097	|	Sylvictor major	|	species	|		|	
+1220199	|	1220098	|	Parasylvaella umbra	|	species	|		|	
+1220200	|	1220098	|	Parasylvaella minor	|	species	|		|	
+1220201	|	1220099	|	Kungurolioma cancellata	|	species	|		|	
+1220202	|	1220100	|	Midcopterum evidens	|	species	|		|	
+1220203	|	1220102	|	Parasylviodes tetracladus	|	species	|		|	
+1220204	|	1220103	|	Khosarophlebia sylvaensis	|	species	|		|	
+1220205	|	1220104	|	Uralioma maxima	|	species	|		|	
+1220206	|	1220105	|	Ornaticosta novokshonovi	|	species	|		|	
+1220207	|	1220106	|	Liomopterella kungurica	|	species	|		|	
+1220208	|	1220107	|	Liomopterites argutus	|	species	|		|	
+1220209	|	1220107	|	Liomopterites pomorus	|	species	|		|	
+1220210	|	1220108	|	Analiomopterites maculosus	|	species	|		|	
+1220211	|	1220109	|	Ornaticostella limbata	|	species	|		|	
+1220213	|	1220111	|	Depressopterum minutus	|	species	|		|	
+1220214	|	1220111	|	Depressopterum fragile	|	species	|		|	
+1220215	|	1220111	|	Depressopterum mancum	|	species	|		|	
+1220216	|	1220111	|	Depressopterum bardum	|	species	|		|	
+1220217	|	1220111	|	Depressopterum senior	|	species	|		|	
+1220218	|	1220112	|	Sylvastriga miranda	|	species	|		|	
+1220219	|	1220114	|	Skalicia rara	|	species	|		|	
+1220220	|	1220115	|	Doubravia annosa	|	species	|		|	
+1220222	|	1220116	|	Grylloblattella pravdini	|	species	|		|	
+1220223	|	1220116	|	Grylloblattella sayanensis	|	species	|		|	
+1220225	|	1220119	|	Grylloblattina djakonovi	|	species	|		|	
+1220226	|	1220120	|	Galloisiana sinensis	|	species	|		|	
+1220228	|	1220120	|	Galloisiana nipponensis	|	species	|		|	
+1220229	|	1220120	|	Galloisiana kiyosawai	|	species	|		|	
+1220230	|	1220120	|	Galloisiana yezoensis	|	species	|		|	
+1220231	|	1220120	|	Galloisiana kosuensis	|	species	|		|	
+1220232	|	1220120	|	Galloisiana ussuriensis	|	species	|		|	
+1220233	|	1220120	|	Galloisiana sofiae	|	species	|		|	
+1220234	|	1220120	|	Galloisiana yuasai	|	species	|		|	
+1220235	|	1220120	|	Galloisiana notabilis	|	species	|		|	
+1220236	|	1220120	|	Galloisiana chujoi	|	species	|		|	
+1220237	|	1220120	|	Galloisiana olgae	|	species	|		|	
+1220239	|	1220120	|	Galloisiana odaesanensis	|	species	|		|	
+1220240	|	1220121	|	Grylloblatta chirurgica	|	species	|		|	
+1220241	|	1220121	|	Grylloblatta rothi	|	species	|		|	
+1220242	|	1220121	|	Grylloblatta bifratrilecta	|	species	|		|	
+1220243	|	1220121	|	Grylloblatta washoa	|	species	|		|	
+1220244	|	1220245	|	Grylloblatta campodeiformis occidentalis	|	subspecies	|		|	
+1220245	|	1220121	|	Grylloblatta campodeiformis	|	species	|		|	
+1220246	|	1220121	|	Grylloblatta chandleri	|	species	|		|	
+1220247	|	1220121	|	Grylloblatta barberi	|	species	|		|	
+1220248	|	1220121	|	Grylloblatta scudderi	|	species	|		|	
+1220249	|	1220121	|	Grylloblatta sculleni	|	species	|		|	
+1220250	|	1220121	|	Grylloblatta gurneyi	|	species	|		|	
+1220251	|	1220122	|	Tshekardomina imbecilla	|	species	|		|	
+1220252	|	1220122	|	Tshekardomina imbecillissima	|	species	|		|	
+1220253	|	1220122	|	Tshekardomina subincurvata	|	species	|		|	
+1220254	|	1220123	|	Visherifera sylvaensis	|	species	|		|	
+1220255	|	1220123	|	Visherifera camura	|	species	|		|	
+1220256	|	1220124	|	Raaschia oklahomensis	|	species	|		|	
+1220257	|	1220125	|	Kungurocauda spinosa	|	species	|		|	
+1220258	|	1220126	|	Sylvophenoptera perlongata	|	species	|		|	
+1220259	|	1220126	|	Sylvophenoptera fimbriata	|	species	|		|	
+1220260	|	1220127	|	Tshekardophlebia capitata	|	species	|		|	
+1220261	|	1220128	|	Sylvaphlebia tuberculata	|	species	|		|	
+1220262	|	1220128	|	Sylvaphlebia fucata	|	species	|		|	
+1220263	|	1220129	|	Brnia raketa	|	species	|		|	
+1220265	|	1220130	|	Chlumia parva	|	species	|		|	
+1220266	|	1220130	|	Chlumia obesa	|	species	|		|	
+1220268	|	1220131	|	Euremisca elegans	|	species	|		|	
+1220269	|	1220043	|	Espira	|	genus	|		|	
+1220270	|	1220136	|	Jablonia aestiva	|	species	|		|	
+1220271	|	1220138	|	Chelopterum peregrinum	|	species	|		|	
+1220272	|	1220139	|	Neprotembia truncata	|	species	|		|	
+1220273	|	1220139	|	Neprotembia complicata	|	species	|		|	
+1220274	|	1220141	|	Permula tshekardensis	|	species	|		|	
+1220275	|	1220141	|	Permula minor	|	species	|		|	
+1220276	|	1220141	|	Permula lebachensis	|	species	|		|	
+1220277	|	1220145	|	Sojanopermula edemskii	|	species	|		|	
+1220278	|	1220142	|	Kazanalicula reducta	|	species	|		|	
+1220279	|	1220143	|	Tshepanichoptera lacera	|	species	|		|	
+1220280	|	1220144	|	Mezenalicula connata	|	species	|		|	
+1220282	|	1220145	|	Sojanopermula rasnitsyni	|	species	|		|	
+1220283	|	1220145	|	Sojanopermula lucida	|	species	|		|	
+1220284	|	1220146	|	Elmopterum rotundum	|	species	|		|	
+1220285	|	1220147	|	Demopterum gracile	|	species	|		|	
+1220290	|	1220151	|	Sheimia tshekardensis	|	species	|		|	
+1220291	|	1220152	|	Parasheimia truncata	|	species	|		|	
+1220292	|	1220152	|	Parasheimia rotundata	|	species	|		|	
+1220293	|	1220153	|	Pseudosheimia caudata	|	species	|		|	
+1220294	|	1220157	|	Bardapteron ovale	|	species	|		|	
+1220295	|	1220062	|	Oborella	|	genus	|		|	
+1220296	|	1220062	|	Quercopterum	|	genus	|		|	
+1220297	|	1220062	|	Sharovipterum	|	genus	|		|	
+1220299	|	1220158	|	Lemmatophora	|	genus	|		|	
+1220300	|	1220158	|	Lisca	|	genus	|		|	
+1220301	|	1220158	|	Artinska	|	genus	|		|	
+1220302	|	1220159	|	Culiciforma	|	genus	|		|	
+1220303	|	1220062	|	Torrentopterum	|	genus	|		|	
+1220304	|	1220062	|	Maculopterum	|	genus	|		|	
+1220305	|	1220062	|	Villopterum	|	genus	|		|	
+1220306	|	1220159	|	Sylvaprisca	|	genus	|		|	
+1220307	|	1220159	|	Paraprisca	|	genus	|		|	
+1220308	|	1220159	|	Lecorium	|	genus	|		|	
+1220309	|	1220160	|	Euryptilodes commatulus	|	species	|		|	
+1220310	|	1220162	|	Kishertia tricubitalis	|	species	|		|	
+1220311	|	1220225	|	Grylloblattina djakonovi djakonovi	|	subspecies	|		|	
+1220312	|	1220225	|	Grylloblattina djakonovi kurentzovi	|	subspecies	|		|	
+1220313	|	1220245	|	Grylloblatta campodeiformis campodeiformis	|	subspecies	|		|	
+1220314	|	1220245	|	Grylloblatta campodeiformis nahanni	|	subspecies	|		|	
+1220315	|	1220245	|	Grylloblatta campodeiformis athapaska	|	subspecies	|		|	
+1220316	|	1220295	|	Oborella matura	|	species	|		|	
+1220317	|	1220295	|	Oborella rusticana	|	species	|		|	
+1220318	|	1220295	|	Oborella inexpectata	|	species	|		|	
+1220319	|	1220296	|	Quercopterum decussatum	|	species	|		|	
+1220320	|	1220297	|	Sharovipterum alatum	|	species	|		|	
+1220321	|	1220295	|	Oborella rotunda	|	species	|		|	
+1220322	|	1220295	|	Oborella oviformis	|	species	|		|	
+1220323	|	1220295	|	Oborella falsa	|	species	|		|	
+1220324	|	1220299	|	Lemmatophora typa	|	species	|		|	
+1220325	|	1220301	|	Artinska infigurabilis	|	species	|		|	
+1220326	|	1220302	|	Culiciforma formosa	|	species	|		|	
+1220327	|	1220303	|	Torrentopterum pallidum	|	species	|		|	
+1220328	|	1220304	|	Maculopterum maculatum	|	species	|		|	
+1220329	|	1220305	|	Villopterum villosum	|	species	|		|	
+1220330	|	1220305	|	Villopterum proximum	|	species	|		|	
+1220331	|	1220306	|	Sylvaprisca focaleata	|	species	|		|	
+1220332	|	1220306	|	Sylvaprisca forta	|	species	|		|	
+1220727	|	1220033	|	Bajanzhargalana	|	genus	|		|	
+1220728	|	1220727	|	Bajanzhargalana magna	|	species	|		|	
+1220730	|	1220018	|	Blattogryllus	|	genus	|		|	
+1220731	|	1220730	|	Blattogryllus karatavlcus	|	species	|		|	
+1220732	|	1220018	|	Baharellus	|	genus	|		|	
+1220733	|	1220732	|	Baharellus lineatus	|	species	|		|	
+1220734	|	1219980	|	Blattogryllulus	|	genus	|		|	
+1220735	|	1220734	|	Blattogryllulus mongolicus	|	species	|		|	
+1220736	|	1220734	|	Blattogryllulus lucidus	|	species	|		|	
+1220737	|	1220056	|	Oecanthoperla	|	genus	|		|	
+1220738	|	1220737	|	Oecanthoperla sibirica	|	species	|		|	
+1220739	|	1220018	|	Parablattogryllus	|	genus	|		|	
+1220740	|	1220739	|	Parablattogryllus obscurus	|	species	|		|	
+1220741	|	1220018	|	Dorniella	|	genus	|		|	
+1220742	|	1220741	|	Dorniella pulchra	|	species	|		|	
+1220749	|	1220018	|	Anoblattogryllus	|	genus	|		|	
+1220750	|	1220749	|	Anoblattogryllus fundatus	|	species	|		|	
+1220751	|	1220730	|	Blattogryllus rasnitsyni	|	species	|		|	
+1220764	|	1221510	|	Geinitzia	|	genus	|		|	
+1220765	|	1221510	|	Fletchitzia	|	genus	|		|	
+1220766	|	1220765	|	Fletchitzia picturata	|	species	|		|	
+1220767	|	1221510	|	Shurabia	|	genus	|		|	
+1220768	|	1220767	|	Shurabia ovata	|	species	|		|	
+1220769	|	1220767	|	Shurabia angustata	|	species	|		|	
+1220770	|	1220764	|	Geinitzia asiatica	|	species	|		|	
+1220771	|	1220019	|	Megablattogryllus	|	genus	|		|	
+1220772	|	1220771	|	Megablattogryllus magister	|	species	|		|	
+1220773	|	1220771	|	Megablattogryllus austerus	|	species	|		|	
+1220774	|	1220771	|	Megablattogryllus pinguis	|	species	|		|	
+1220775	|	1220019	|	Mesoblattogryllus	|	genus	|		|	
+1220776	|	1220775	|	Mesoblattogryllus intermedius	|	species	|		|	
+1220778	|	1220779	|	Protoblattogryllus variabilis	|	species	|		|	
+1220779	|	1220019	|	Protoblattogryllus	|	genus	|		|	
+1220780	|	1220779	|	Protoblattogryllus zajsanicus	|	species	|		|	
+1220781	|	1220775	|	Mesoblattogryllus abruptus	|	species	|		|	
+1220782	|	1220779	|	Protoblattogryllus asiaticus	|	species	|		|	
+1220783	|	1220018	|	Baharellinus	|	genus	|		|	
+1220784	|	1220783	|	Baharellinus dimidiatus	|	species	|		|	
+1220785	|	1220783	|	Baharellinus pectinatus	|	species	|		|	
+1220786	|	1220783	|	Baharellinus madygensis	|	species	|		|	
+1220787	|	1220018	|	Costatoviblatta	|	genus	|		|	
+1220788	|	1220787	|	Costatoviblatta aenigmatosa	|	species	|		|	
+1220789	|	1220787	|	Costatoviblatta conjuncta	|	species	|		|	
+1220790	|	1220787	|	Costatoviblatta longipennis	|	species	|		|	
+1220798	|	1220299	|	Lemmatophora delicosa	|	species	|		|	
+1220799	|	1220299	|	Lemmatophora anomala	|	species	|		|	
+1220800	|	1220299	|	Lemmatophora hirsuta	|	species	|		|	
+1220801	|	1220299	|	Lemmatophora elongata	|	species	|		|	
+1220802	|	1220300	|	Lisca minuta	|	species	|		|	
+1220803	|	1220301	|	Artinska clara	|	species	|		|	
+1220804	|	1220301	|	Artinska medialis	|	species	|		|	
+1220805	|	1220301	|	Artinska gracilis	|	species	|		|	
+1220806	|	1220301	|	Artinska pecta	|	species	|		|	
+1220807	|	1220301	|	Artinska major	|	species	|		|	
+1220808	|	1220301	|	Artinska extensa	|	species	|		|	
+1220809	|	1220061	|	Estadia	|	genus	|		|	
+1220810	|	1220809	|	Estadia elongata	|	species	|		|	
+1220811	|	1220809	|	Estadia arcuata	|	species	|		|	
+1220812	|	1220809	|	Estadia tenuis	|	species	|		|	
+1220813	|	1220061	|	Lectrum	|	genus	|		|	
+1220814	|	1220813	|	Lectrum anomalum	|	species	|		|	
+1220815	|	1220061	|	Prosaites	|	genus	|		|	
+1220816	|	1220815	|	Prosaites compactus	|	species	|		|	
+1220817	|	1220815	|	Prosaites secundus	|	species	|		|	
+1220840	|	1220018	|	Mallorcagryllus	|	genus	|		|	
+1220841	|	1220840	|	Mallorcagryllus hispanicus	|	species	|		|	
+1220842	|	1220787	|	Costatoviblatta similis	|	species	|		|	
+1220843	|	1220019	|	Madygenocephalus	|	genus	|		|	
+1220844	|	1220843	|	Madygenocephalus micropteron	|	species	|		|	
+1220846	|	1220018	|	Permoblattogryllus	|	genus	|		|	
+1220847	|	1220846	|	Permoblattogryllus praecox	|	species	|		|	
+1220862	|	1220779	|	Protoblattogryllus nedubrovensis	|	species	|		|	
+1220867	|	1220783	|	Baharellinus umbrosus	|	species	|		|	
+1220868	|	1219995	|	Chaulioditidae	|	family	|		|	
+1220869	|	1220868	|	Chauliodites	|	genus	|		|	
+1220870	|	1220869	|	Chauliodites picteti	|	species	|		|	
+1220871	|	1220868	|	Triadosialis	|	genus	|		|	
+1220872	|	1220871	|	Triadosialis zinkeni	|	species	|		|	
+1220873	|	1220869	|	Chauliodites anisicus	|	species	|		|	
+1220874	|	1220741	|	Dorniella apectinata	|	species	|		|	
+1220875	|	1220741	|	Dorniella diluta	|	species	|		|	
+1220876	|	1220741	|	Dorniella elcanoides	|	species	|		|	
+1220877	|	1220741	|	Dorniella ovalis	|	species	|		|	
+1220878	|	1220018	|	Embigryllus	|	genus	|		|	
+1220879	|	1220878	|	Embigryllus shcherbakovi	|	species	|		|	
+1220880	|	1220019	|	Megakhosarodes	|	genus	|		|	
+1220881	|	1220880	|	Megakhosarodes vosgesicus	|	species	|		|	
+1220882	|	1220023	|	Palaeomesorthopteron	|	genus	|		|	
+1220883	|	1220882	|	Palaeomesorthopteron pullus	|	species	|		|	
+1220884	|	1220018	|	Vosgesopterum	|	genus	|		|	
+1220885	|	1220884	|	Vosgesopterum arzvillerensis	|	species	|		|	
+1220886	|	1219980	|	Blattogryllopterida	|	suborder	|		|	
+1220887	|	1220018	|	Duoduo	|	genus	|		|	
+1220888	|	1220887	|	Duoduo qianae	|	species	|		|	
+1220889	|	1220783	|	Baharellinus dilaceratus	|	species	|		|	
+1220890	|	1220869	|	Chauliodites kitshmengensis	|	species	|		|	
+1220891	|	1220869	|	Chauliodites nedubrovensis	|	species	|		|	
+1220892	|	1220868	|	Dvinopedes	|	genus	|		|	
+1220893	|	1220892	|	Dvinopedes salariovensis	|	species	|		|	
+1220894	|	1220868	|	Klyazmia	|	genus	|		|	
+1220895	|	1220894	|	Klyazmia karasevi	|	species	|		|	
+1220896	|	1220038	|	Kuplya	|	genus	|		|	
+1220897	|	1220896	|	Kuplya minutissima	|	species	|		|	
+1220898	|	1220880	|	Megakhosarodes borealis	|	species	|		|	
+1220899	|	1220880	|	Megakhosarodes tensilis	|	species	|		|	
+1220900	|	1220868	|	Parachauliodites	|	genus	|		|	
+1220901	|	1220900	|	Parachauliodites orthopteroides	|	species	|		|	
+1220910	|	1219988	|	Sigmophlebia rugulosa	|	species	|		|	
+1220911	|	1220020	|	Permofossilis	|	genus	|		|	
+1220912	|	1220911	|	Permofossilis commasticatus	|	species	|		|	
+1220914	|	1220019	|	Megakhosara	|	genus	|		|	
+1220915	|	1220019	|	Megakhosarina	|	genus	|		|	
+1220916	|	1220915	|	Megakhosarina explicata	|	species	|		|	
+1220918	|	1220019	|	Blattokhosara	|	genus	|		|	
+1220919	|	1220918	|	Blattokhosara minuscula	|	species	|		|	
+1220921	|	1220032	|	Kargalella	|	genus	|		|	
+1220923	|	1220921	|	Kargalella subcostalis	|	species	|		|	
+1220924	|	1220921	|	Kargalella gibbosa	|	species	|		|	
+1220925	|	1220869	|	Chauliodites mongolicus	|	species	|		|	
+1220926	|	1220021	|	Ideliopsina	|	genus	|		|	
+1220927	|	1220926	|	Ideliopsina nana	|	species	|		|	
+1220928	|	1220926	|	Ideliopsina ornata	|	species	|		|	
+1220929	|	1220926	|	Ideliopsina ruginosa	|	species	|		|	
+1220930	|	1220926	|	Ideliopsina stupenda	|	species	|		|	
+1220931	|	1220926	|	Ideliopsina kenderlykensis	|	species	|		|	
+1220932	|	1220043	|	Triassoprobnis	|	genus	|		|	
+1220933	|	1220932	|	Triassoprobnis humilis	|	species	|		|	
+1220934	|	1219980	|	Yontala	|	genus	|		|	
+1220935	|	1220934	|	Yontala camura	|	species	|		|	
+1220936	|	1220869	|	Chauliodites afonini	|	species	|		|	
+1220937	|	1220869	|	Chauliodites gomankovi	|	species	|		|	
+1220938	|	1220869	|	Chauliodites ponomarenkoi	|	species	|		|	
+1220939	|	1220869	|	Chauliodites issadensis	|	species	|		|	
+1220940	|	1220027	|	Isadia	|	genus	|		|	
+1220941	|	1220940	|	Isadia bipectinata	|	species	|		|	
+1220942	|	1220075	|	Parakhosara kopylovi	|	species	|		|	
+1220943	|	1220075	|	Parakhosara mutoviensis	|	species	|		|	
+1220944	|	1219980	|	Sukhonoptera	|	genus	|		|	
+1220945	|	1220944	|	Sukhonoptera insolita	|	species	|		|	
+1220946	|	1220022	|	Vologdoptera	|	genus	|		|	
+1220947	|	1220946	|	Vologdoptera maculosa	|	species	|		|	
+1220948	|	1220107	|	Liomopterites suhonensis	|	species	|		|	
+1220949	|	1220868	|	Iphikozulu	|	genus	|		|	
+1220950	|	1220949	|	Iphikozulu kwayayaensis	|	species	|		|	
+1220951	|	1220868	|	Miralioma	|	genus	|		|	
+1220952	|	1220951	|	Miralioma monstrosa	|	species	|		|	
+1220953	|	1220868	|	Protomia	|	genus	|		|	
+1220954	|	1220953	|	Protomia proteus	|	species	|		|	
+1220955	|	1220032	|	Neoliomopterum	|	genus	|		|	
+1220956	|	1220955	|	Neoliomopterum picturatum	|	species	|		|	
+1220957	|	1220869	|	Chauliodites niedzwiedzkii	|	species	|		|	
+1220958	|	1220783	|	Baharellinus porrectus	|	species	|		|	
+1220959	|	1220869	|	Chauliodites circumornatus	|	species	|		|	
+1220960	|	1220869	|	Chauliodites geniatus	|	species	|		|	
+1220961	|	1220764	|	Geinitzia subita	|	species	|		|	
+1220962	|	1219980	|	Issadonympha	|	genus	|		|	
+1220963	|	1220962	|	Issadonympha oculea	|	species	|		|	
+1220964	|	1219980	|	Kenguronympha	|	genus	|		|	
+1220965	|	1220964	|	Kenguronympha lenta	|	species	|		|	
+1220966	|	1220023	|	Mesoidelia	|	genus	|		|	
+1220967	|	1220966	|	Mesoidelia ignorata	|	species	|		|	
+1220968	|	1220966	|	Mesoidelia gorochovi	|	species	|		|	
+1220969	|	1220075	|	Parakhosara reticulata	|	species	|		|	
+1220970	|	1220868	|	Permyak	|	genus	|		|	
+1220971	|	1220970	|	Permyak involucris	|	species	|		|	
+1220972	|	1220868	|	Purtovinia	|	genus	|		|	
+1220973	|	1220972	|	Purtovinia ustyugensis	|	species	|		|	
+1220974	|	1220767	|	Shurabia permiana	|	species	|		|	
+1220975	|	1220024	|	Sukhonia	|	genus	|		|	
+1220976	|	1220975	|	Sukhonia coriacea	|	species	|		|	
+1220977	|	1220032	|	Falseshurabia	|	genus	|		|	
+1220978	|	1220977	|	Falseshurabia transitoria	|	species	|		|	
+1220979	|	1220032	|	Liomofrater	|	genus	|		|	
+1220980	|	1220979	|	Liomofrater circumcisus	|	species	|		|	
+1220981	|	1220019	|	Abbrevikhosara	|	genus	|		|	
+1220982	|	1220981	|	Abbrevikhosara ovoidea	|	species	|		|	
+1220983	|	1220101	|	Sylvaella semicolorata	|	species	|		|	
+1220984	|	1220767	|	Shurabia anomala	|	species	|		|	
+1220985	|	1220767	|	Shurabia australis	|	species	|		|	
+1220986	|	1220767	|	Shurabia ferganensis	|	species	|		|	
+1220987	|	1220767	|	Shurabia magna	|	species	|		|	
+1220988	|	1220767	|	Shurabia minuta	|	species	|		|	
+1220989	|	1220767	|	Shurabia parvula	|	species	|		|	
+1220990	|	1220767	|	Shurabia sogutensis	|	species	|		|	
+1220992	|	1220767	|	Shurabia postiretis	|	species	|		|	
+1220993	|	1220868	|	Nivopteria	|	genus	|		|	
+1220994	|	1220993	|	Nivopteria nangshenhuensis	|	species	|		|	
+1220996	|	1220024	|	Prosepididontus	|	genus	|		|	
+1220997	|	1220996	|	Prosepididontus calopteryx	|	species	|		|	
+1220998	|	1220020	|	Khosaridelia	|	genus	|		|	
+1220999	|	1220998	|	Khosaridelia martynovi	|	species	|		|	
+1221000	|	1220998	|	Khosaridelia vyatica	|	species	|		|	
+1221001	|	1220915	|	Megakhosarina vyaznikensis	|	species	|		|	
+1221003	|	1220036	|	Paraskalicia	|	genus	|		|	
+1221004	|	1221003	|	Paraskalicia prokopensis	|	species	|		|	
+1221005	|	1220024	|	Permoshurabia	|	genus	|		|	
+1221006	|	1221005	|	Permoshurabia mesenensis	|	species	|		|	
+1221007	|	1220122	|	Tshekardomina mongolica	|	species	|		|	
+1221008	|	1220131	|	Euremisca kazanica	|	species	|		|	
+1221013	|	1220767	|	Shurabia aleda	|	species	|		|	
+1221014	|	1220767	|	Shurabia kapokraalensis	|	species	|		|	
+1221020	|	1220029	|	Gorochovia	|	genus	|		|	
+1221021	|	1221020	|	Gorochovia individua	|	species	|		|	
+1221022	|	1221020	|	Gorochovia anomala	|	species	|		|	
+1221023	|	1221020	|	Gorochovia bifurca	|	species	|		|	
+1221024	|	1221020	|	Gorochovia fecunda	|	species	|		|	
+1221025	|	1221020	|	Gorochovia minuta	|	species	|		|	
+1221026	|	1220029	|	Gorochoviella	|	genus	|		|	
+1221027	|	1221026	|	Gorochoviella conjuncta	|	species	|		|	
+1221028	|	1220029	|	Pseudoliomopterites	|	genus	|		|	
+1221029	|	1221028	|	Pseudoliomopterites obscurus	|	species	|		|	
+1221030	|	1221028	|	Pseudoliomopterites lucidus	|	species	|		|	
+1221031	|	1220117	|	Namkungia biryongensis	|	species	|		|	
+1221033	|	1220117	|	Namkungia magnus	|	species	|		|	
+1221034	|	1220121	|	Grylloblatta marmoreus	|	species	|		|	
+1221035	|	1220121	|	Grylloblatta oregonensis	|	species	|		|	
+1221036	|	1220121	|	Grylloblatta siskiyouensis	|	species	|		|	
+1221037	|	1220021	|	Austroidelia	|	genus	|		|	
+1221038	|	1221037	|	Austroidelia perplexa	|	species	|		|	
+1221039	|	1220032	|	Micropermula	|	genus	|		|	
+1221040	|	1221039	|	Micropermula mongolica	|	species	|		|	
+1221041	|	1220032	|	Mongolopermula	|	genus	|		|	
+1221042	|	1221041	|	Mongolopermula adunca	|	species	|		|	
+1221043	|	1220021	|	Mongoloidelia	|	genus	|		|	
+1221044	|	1221043	|	Mongoloidelia gorochovi	|	species	|		|	
+1221049	|	1220107	|	Liomopterites exoticus	|	species	|		|	
+1221050	|	1220020	|	Idelina	|	genus	|		|	
+1221051	|	1221050	|	Idelina kamensis	|	species	|		|	
+1221052	|	1220035	|	Idelinella	|	genus	|		|	
+1221053	|	1221052	|	Idelinella macroptera	|	species	|		|	
+1221054	|	1220081	|	Sojanidelia maculosa	|	species	|		|	
+1221055	|	1220081	|	Sojanidelia fasciata	|	species	|		|	
+1221056	|	1220081	|	Sojanidelia fluctuosa	|	species	|		|	
+1221057	|	1220021	|	Metidelia	|	genus	|		|	
+1221058	|	1220081	|	Sojanidelia kostinae	|	species	|		|	
+1221059	|	1220081	|	Sojanidelia lineata	|	species	|		|	
+1221060	|	1220081	|	Sojanidelia longula	|	species	|		|	
+1221061	|	1220081	|	Sojanidelia makarkini	|	species	|		|	
+1221062	|	1220081	|	Sojanidelia multimediana	|	species	|		|	
+1221063	|	1220081	|	Sojanidelia nana	|	species	|		|	
+1221064	|	1220081	|	Sojanidelia parvula	|	species	|		|	
+1221065	|	1220081	|	Sojanidelia striata	|	species	|		|	
+1221066	|	1220081	|	Sojanidelia vorkutensis	|	species	|		|	
+1221067	|	1220020	|	Permotermopsis	|	genus	|		|	
+1221068	|	1221067	|	Permotermopsis roseni	|	species	|		|	
+1221069	|	1221067	|	Permotermopsis pectinata	|	species	|		|	
+1221070	|	1220021	|	Stenaropodites	|	genus	|		|	
+1221071	|	1221070	|	Stenaropodites reticulata	|	species	|		|	
+1221072	|	1221070	|	Stenaropodites magna	|	species	|		|	
+1221073	|	1221070	|	Stenaropodites mistshenkoi	|	species	|		|	
+1221074	|	1221070	|	Stenaropodites sojanensis	|	species	|		|	
+1221075	|	1220075	|	Parakhosara magna	|	species	|		|	
+1221076	|	1220161	|	Pinidelia sukatshevae	|	species	|		|	
+1221077	|	1220155	|	Atactophlebia sharovi	|	species	|		|	
+1221078	|	1220155	|	Atactophlebia termitoides	|	species	|		|	
+1221079	|	1220019	|	Liomopterina	|	genus	|		|	
+1221080	|	1221079	|	Liomopterina clara	|	species	|		|	
+1221081	|	1220019	|	Miolopterina	|	genus	|		|	
+1221082	|	1221081	|	Miolopterina tenuipennis	|	species	|		|	
+1221090	|	1220021	|	Anaidelia	|	genus	|		|	
+1221091	|	1221090	|	Anaidelia extrema	|	species	|		|	
+1221092	|	1220021	|	Madygenidelia	|	genus	|		|	
+1221093	|	1221092	|	Madygenidelia conjuncta	|	species	|		|	
+1221094	|	1220021	|	Pseudoshurabia	|	genus	|		|	
+1221095	|	1221094	|	Pseudoshurabia pallidula	|	species	|		|	
+1221096	|	1220062	|	Karaungirella	|	genus	|		|	
+1221097	|	1221096	|	Karaungirella minuta	|	species	|		|	
+1221098	|	1220022	|	Kortshakolia	|	genus	|		|	
+1221099	|	1220048	|	Alicula	|	genus	|		|	
+1221101	|	1220062	|	Stereopterum	|	genus	|		|	
+1221102	|	1221101	|	Stereopterum rotundum	|	species	|		|	
+1221104	|	1220022	|	Paridelia	|	genus	|		|	
+1221105	|	1221099	|	Alicula asiatica	|	species	|		|	
+1221108	|	1220764	|	Geinitzia varia	|	species	|		|	
+1221109	|	1219980	|	Kargarella	|	genus	|		|	
+1221110	|	1221109	|	Kargarella subcostalis	|	species	|		|	
+1221111	|	1219980	|	Lemmatophoropsis	|	genus	|		|	
+1221112	|	1221697	|	Permembia	|	genus	|		|	
+1221114	|	1220767	|	Shurabia nanshenghuensis	|	species	|		|	
+1221115	|	1220868	|	Tomia	|	genus	|		|	
+1221116	|	1221115	|	Tomia costalis	|	species	|		|	
+1221117	|	1220767	|	Shurabia fuyuanensis	|	species	|		|	
+1221118	|	1219980	|	Haplopterum	|	genus	|		|	
+1221119	|	1219980	|	Kaltanopterodes	|	genus	|		|	
+1221120	|	1219980	|	Liomoptoides	|	genus	|		|	
+1221121	|	1219980	|	Mitinovia	|	genus	|		|	
+1221122	|	1219980	|	Sunopterites	|	genus	|		|	
+1221123	|	1220082	|	Tshekardelia media	|	species	|		|	
+1221124	|	1220080	|	Sylvidelia latipennis	|	species	|		|	
+1221125	|	1220160	|	Euryptilodes cascus	|	species	|		|	
+1221142	|	1220132	|	Sylvafossor forcipatus	|	species	|		|	
+1221144	|	1220306	|	Sylvaprisca gravis	|	species	|		|	
+1221148	|	1220107	|	Liomopterites svetlanae	|	species	|		|	
+1221153	|	1220019	|	Ivakhosara	|	genus	|		|	
+1221154	|	1221153	|	Ivakhosara pectinimedia	|	species	|		|	
+1221157	|	1221153	|	Ivakhosara prima	|	species	|		|	
+1221158	|	1220159	|	Ufimoprisca	|	genus	|		|	
+1221159	|	1221158	|	Ufimoprisca alba	|	species	|		|	
+1221160	|	1220306	|	Sylvaprisca tyulkinensis	|	species	|		|	
+1221161	|	1221158	|	Ufimoprisca kamensis	|	species	|		|	
+1221162	|	1221158	|	Ufimoprisca mica	|	species	|		|	
+1221163	|	1220301	|	Artinska ufimica	|	species	|		|	
+1221166	|	1220021	|	Kolvidelia	|	genus	|		|	
+1221167	|	1221166	|	Kolvidelia curta	|	species	|		|	
+1221171	|	1220019	|	Megakhosarella	|	genus	|		|	
+1221172	|	1221171	|	Megakhosarella regressa	|	species	|		|	
+1221173	|	1221171	|	Megakhosarella prisca	|	species	|		|	
+1221174	|	1220307	|	Paraprisca solikamskensis	|	species	|		|	
+1221175	|	1220101	|	Sylvaella ovalis	|	species	|		|	
+1221184	|	1220068	|	Phenopterum elongatum	|	species	|		|	
+1221189	|	1219998	|	Atava	|	genus	|		|	
+1221190	|	1221189	|	Atava ovata	|	species	|		|	
+1221191	|	1220110	|	Liomopterum ornatum	|	species	|		|	
+1221193	|	1220110	|	Liomopterum elongatus	|	species	|		|	
+1221195	|	1220134	|	Probnis speciosa	|	species	|		|	
+1221197	|	1220134	|	Probnis coriacea	|	species	|		|	
+1221199	|	1220269	|	Espira obscura	|	species	|		|	
+1221200	|	1220043	|	Stoichus	|	genus	|		|	
+1221201	|	1221200	|	Stoichus elegans	|	species	|		|	
+1221202	|	1221200	|	Stoichus arcuatus	|	species	|		|	
+1221203	|	1221200	|	Stoichus minor	|	species	|		|	
+1221204	|	1221200	|	Stoichus tenuis	|	species	|		|	
+1221205	|	1220043	|	Stinus	|	genus	|		|	
+1221206	|	1221205	|	Stinus brevicubitalis	|	species	|		|	
+1221207	|	1220043	|	Lecopterum	|	genus	|		|	
+1221208	|	1221207	|	Lecopterum delicosum	|	species	|		|	
+1221209	|	1220307	|	Paraprisca fragilis	|	species	|		|	
+1221210	|	1220308	|	Lecorium elongatum	|	species	|		|	
+1221223	|	1220110	|	Liomopterum sellardsi	|	species	|		|	
+1221224	|	1220032	|	Tapopterum	|	genus	|		|	
+1221225	|	1221224	|	Tapopterum celsum	|	species	|		|	
+1221226	|	1220032	|	Semopterum	|	genus	|		|	
+1221227	|	1221226	|	Semopterum venosum	|	species	|		|	
+1221228	|	1219995	|	Dermopteridae	|	family	|		|	
+1221229	|	1221228	|	Dermopterum	|	genus	|		|	
+1221230	|	1221229	|	Dermopterum gracile	|	species	|		|	
+1221233	|	1221714	|	Telactinopteryx	|	genus	|		|	
+1221234	|	1221233	|	Telactinopteryx striatipennis	|	species	|		|	
+1221235	|	1220032	|	Sharovia	|	genus	|		|	
+1221236	|	1221235	|	Sharovia permiafricana	|	species	|		|	
+1221237	|	1221122	|	Sunopterites hejinensis	|	species	|		|	
+1221238	|	1220032	|	Karaungiroptera	|	genus	|		|	
+1221239	|	1221238	|	Karaungiroptera maculosa	|	species	|		|	
+1221242	|	1220032	|	Paraliomopterum	|	genus	|		|	
+1221243	|	1221242	|	Paraliomopterum karaungirense	|	species	|		|	
+1221245	|	1220061	|	Kazanella	|	genus	|		|	
+1221246	|	1221245	|	Kazanella rotundipennis	|	species	|		|	
+1221247	|	1221245	|	Kazanella compressa	|	species	|		|	
+1221248	|	1221245	|	Kazanella mendosa	|	species	|		|	
+1221249	|	1220032	|	Parapermula	|	genus	|		|	
+1221250	|	1221249	|	Parapermula sojanensis	|	species	|		|	
+1221251	|	1220032	|	Sibirella	|	genus	|		|	
+1221252	|	1221251	|	Sibirella abrepta	|	species	|		|	
+1221253	|	1221251	|	Sibirella variegata	|	species	|		|	
+1221254	|	1220104	|	Uralioma variabilis	|	species	|		|	
+1221255	|	1220105	|	Ornaticosta tchekardensis	|	species	|		|	
+1221256	|	1220032	|	Rigidilioma	|	genus	|		|	
+1221257	|	1221256	|	Rigidilioma radialis	|	species	|		|	
+1221258	|	1220106	|	Liomopterella acuminata	|	species	|		|	
+1221259	|	1220106	|	Liomopterella kitiakensis	|	species	|		|	
+1221261	|	1220107	|	Liomopterites novissimus	|	species	|		|	
+1221262	|	1221242	|	Paraliomopterum alium	|	species	|		|	
+1221263	|	1221242	|	Paraliomopterum rectum	|	species	|		|	
+1221266	|	1221249	|	Parapermula tatarica	|	species	|		|	
+1221340	|	1220106	|	Liomopterella pediaecetae	|	species	|		|	
+1221345	|	1220032	|	Mioloptera	|	genus	|		|	
+1221346	|	1221345	|	Mioloptera stuchenbergi	|	species	|		|	
+1221347	|	1220032	|	Mioloptoides	|	genus	|		|	
+1221348	|	1221347	|	Mioloptoides andrei	|	species	|		|	
+1221349	|	1220107	|	Liomopterites ulterior	|	species	|		|	
+1221350	|	1220107	|	Liomopterites meridionalis	|	species	|		|	
+1221351	|	1220036	|	Normandienoptera	|	genus	|		|	
+1221352	|	1221351	|	Normandienoptera serotina	|	species	|		|	
+1221353	|	1220036	|	Afrogrylloblattus	|	genus	|		|	
+1221354	|	1221353	|	Afrogrylloblattus disputabilis	|	species	|		|	
+1221355	|	1220030	|	Madygenophlebia	|	genus	|		|	
+1221356	|	1221355	|	Madygenophlebia bella	|	species	|		|	
+1221357	|	1221355	|	Madygenophlebia nana	|	species	|		|	
+1221358	|	1221355	|	Madygenophlebia primitiva	|	species	|		|	
+1221359	|	1220030	|	Micromadygenophlebia	|	genus	|		|	
+1221360	|	1221359	|	Micromadygenophlebia obscura	|	species	|		|	
+1221361	|	1220915	|	Megakhosarina dilucida	|	species	|		|	
+1221362	|	1220915	|	Megakhosarina simplex	|	species	|		|	
+1221363	|	1220880	|	Megakhosarodes zajsanicus	|	species	|		|	
+1221366	|	1220880	|	Megakhosarodes obtusus	|	species	|		|	
+1221367	|	1220880	|	Megakhosarodes paulivenosus	|	species	|		|	
+1221368	|	1220019	|	Metakhosara	|	genus	|		|	
+1221369	|	1221368	|	Metakhosara sharovi	|	species	|		|	
+1221371	|	1220019	|	Microkhosara	|	genus	|		|	
+1221372	|	1221371	|	Microkhosara fragilis	|	species	|		|	
+1221373	|	1220075	|	Parakhosara nasuta	|	species	|		|	
+1221374	|	1220075	|	Parakhosara amoena	|	species	|		|	
+1221375	|	1220075	|	Parakhosara incommoda	|	species	|		|	
+1221376	|	1220075	|	Parakhosara proxima	|	species	|		|	
+1221378	|	1220075	|	Parakhosara martynovi	|	species	|		|	
+1221379	|	1220076	|	Tshekhosara improvida	|	species	|		|	
+1221381	|	1220019	|	Alekhosara	|	genus	|		|	
+1221382	|	1221381	|	Alekhosara reticulata	|	species	|		|	
+1221383	|	1220019	|	Kargalokhosara	|	genus	|		|	
+1221384	|	1221383	|	Kargalokhosara terraefossa	|	species	|		|	
+1221385	|	1220915	|	Megakhosarina intricata	|	species	|		|	
+1221386	|	1220915	|	Megakhosarina magna	|	species	|		|	
+1221404	|	1220089	|	Expartolioma urzhumica	|	species	|		|	
+1221405	|	1219980	|	Kargalopteridae	|	family	|		|	
+1221406	|	1221405	|	Kargaloptera	|	genus	|		|	
+1221407	|	1221406	|	Kargaloptera connexa	|	species	|		|	
+1221408	|	1220107	|	Liomopterites amanakicis	|	species	|		|	
+1221409	|	1220914	|	Megakhosara nana	|	species	|		|	
+1221411	|	1220036	|	Urzhumskalicia	|	genus	|		|	
+1221412	|	1221411	|	Urzhumskalicia kargalensis	|	species	|		|	
+1221413	|	1221405	|	Kargalia	|	genus	|		|	
+1221414	|	1221413	|	Kargalia sakmarica	|	species	|		|	
+1221415	|	1221037	|	Austroidelia asiatica	|	species	|		|	
+1221416	|	1220966	|	Mesoidelia faceta	|	species	|		|	
+1221417	|	1220966	|	Mesoidelia semota	|	species	|		|	
+1221418	|	1220023	|	Mesorthopterina	|	genus	|		|	
+1221419	|	1221418	|	Mesorthopterina pulchra	|	species	|		|	
+1221420	|	1221418	|	Mesorthopterina bona	|	species	|		|	
+1221421	|	1220023	|	Parastenaropodites	|	genus	|		|	
+1221422	|	1221421	|	Parastenaropodites fluxa	|	species	|		|	
+1221423	|	1221421	|	Parastenaropodites longiuscula	|	species	|		|	
+1221424	|	1221421	|	Parastenaropodites nervosa	|	species	|		|	
+1221425	|	1220023	|	Sharovites	|	genus	|		|	
+1221426	|	1221425	|	Sharovites alexanderi	|	species	|		|	
+1221427	|	1220033	|	Nele	|	genus	|		|	
+1221428	|	1221427	|	Nele jurassica	|	species	|		|	
+1221438	|	1220021	|	Archidelia	|	genus	|		|	
+1221439	|	1222250	|	Archiprobnis	|	genus	|		|	
+1221446	|	1220092	|	Lioma kukalovae	|	species	|		|	
+1221453	|	1220023	|	Mesorthopteron	|	genus	|		|	
+1221459	|	1221461	|	Palaeocixius pygmaea	|	species	|		|	
+1221461	|	1221792	|	Palaeocixius	|	genus	|		|	
+1221468	|	1220135	|	Protoperla westwoodi	|	species	|		|	
+1221480	|	1220135	|	Protoperla boltoni	|	species	|		|	
+1221481	|	1220101	|	Sylvaella affine	|	species	|		|	
+1221482	|	1220079	|	Rachimentomon reticulatum	|	species	|		|	
+1221483	|	1220058	|	Sojanoraphidia	|	genus	|		|	
+1221484	|	1219980	|	Stenoneuritidae	|	family	|		|	
+1221485	|	1221484	|	Stenoneurites	|	genus	|		|	
+1221487	|	1221485	|	Stenoneurites maximi	|	species	|		|	
+1221500	|	1221461	|	Palaeocixius antiquus	|	species	|		|	
+1221501	|	1219998	|	Laurentiaupterum	|	genus	|		|	
+1221502	|	1219980	|	Polyetes	|	genus	|		|	
+1221503	|	1221501	|	Laurentiaupterum elegantissima	|	species	|		|	
+1221504	|	1220914	|	Megakhosara fasciipennis	|	species	|		|	
+1221505	|	1220019	|	Syndesmorpha	|	genus	|		|	
+1221506	|	1221505	|	Syndesmorpha composita	|	species	|		|	
+1221507	|	1220034	|	Stegopterum	|	genus	|		|	
+1221508	|	1221507	|	Stegopterum hirtum	|	species	|		|	
+1221509	|	1221507	|	Stegopterum anteanatalis	|	species	|		|	
+1221510	|	1220024	|	Geinitziinae	|	subfamily	|		|	
+1221511	|	1220767	|	Shurabia annosa	|	species	|		|	
+1221512	|	1220027	|	Ferganamadygenia	|	genus	|		|	
+1221513	|	1221512	|	Ferganamadygenia plicata	|	species	|		|	
+1221514	|	1220027	|	Tunguskaptera	|	genus	|		|	
+1221515	|	1221514	|	Tunguskaptera eximia	|	species	|		|	
+1221543	|	1220060	|	Olgaephilus	|	genus	|		|	
+1221544	|	1221543	|	Olgaephilus emendatus	|	species	|		|	
+1221545	|	1219995	|	Triasseuryptilon	|	genus	|		|	
+1221547	|	1220154	|	Dalduba faticana	|	species	|		|	
+1221548	|	1220059	|	Vrezalduba	|	genus	|		|	
+1221549	|	1221548	|	Vrezalduba nervosa	|	species	|		|	
+1221550	|	1220062	|	Euryptilon	|	genus	|		|	
+1221551	|	1221550	|	Euryptilon blattoides	|	species	|		|	
+1221555	|	1221550	|	Euryptilon cuculiophoris	|	species	|		|	
+1221556	|	1220295	|	Oborella germanica	|	species	|		|	
+1221557	|	1220295	|	Oborella brauckmanni	|	species	|		|	
+1221561	|	1221111	|	Lemmatophoropsis sibirica	|	species	|		|	
+1221562	|	1220307	|	Paraprisca grandis	|	species	|		|	
+1221563	|	1220158	|	Orta	|	genus	|		|	
+1221564	|	1220301	|	Artinska ovata	|	species	|		|	
+1221565	|	1220301	|	Artinska sellardsi	|	species	|		|	
+1221574	|	1220301	|	Artinska larisae	|	species	|		|	
+1221575	|	1220061	|	Megorkhosa	|	genus	|		|	
+1221576	|	1221575	|	Megorkhosa vernacula	|	species	|		|	
+1221582	|	1219995	|	Permopectinidae	|	family	|		|	
+1221583	|	1221582	|	Permopectina	|	genus	|		|	
+1221584	|	1221583	|	Permopectina tshekardensis	|	species	|		|	
+1221585	|	1220306	|	Sylvaprisca alba	|	species	|		|	
+1221593	|	1220301	|	Artinska vorkutensis	|	species	|		|	
+1221594	|	1221583	|	Permopectina vorkutensis	|	species	|		|	
+1221595	|	1220998	|	Khosaridelia rigida	|	species	|		|	
+1221608	|	1220032	|	Vorkutopterum	|	genus	|		|	
+1221609	|	1221608	|	Vorkutopterum monstruosum	|	species	|		|	
+1221613	|	1221249	|	Parapermula circummaculosa	|	species	|		|	
+1221614	|	1220106	|	Liomopterella parakitiakensis	|	species	|		|	
+1221618	|	1220106	|	Liomopterella tota	|	species	|		|	
+1221619	|	1220110	|	Liomopterum minor	|	species	|		|	
+1221620	|	1220301	|	Artinska sojanensis	|	species	|		|	
+1221621	|	1221625	|	Uraloprisca	|	genus	|		|	
+1221622	|	1221621	|	Uraloprisca lisca	|	species	|		|	
+1221623	|	1221621	|	Uraloprisca uralica	|	species	|		|	
+1221624	|	1220306	|	Sylvaprisca colorata	|	species	|		|	
+1221625	|	1220061	|	Uralopriscinae	|	subfamily	|		|	
+1221626	|	1220156	|	Kirkorella mira	|	species	|		|	
+1221627	|	1220061	|	Lemmatonympha	|	genus	|		|	
+1221628	|	1221627	|	Lemmatonympha gracilissima	|	species	|		|	
+1221629	|	1220032	|	Kaltanympha	|	genus	|		|	
+1221630	|	1221629	|	Kaltanympha thysanuriformis	|	species	|		|	
+1221631	|	1221629	|	Kaltanympha gracilis	|	species	|		|	
+1221632	|	1221629	|	Kaltanympha vorkutensis	|	species	|		|	
+1221633	|	1221629	|	Kaltanympha ornata	|	species	|		|	
+1221634	|	1219995	|	Tataronympha	|	genus	|		|	
+1221635	|	1221634	|	Tataronympha kamensis	|	species	|		|	
+1221636	|	1219995	|	Tshebardanympha	|	genus	|		|	
+1221637	|	1219995	|	Sylvalitoralis	|	genus	|		|	
+1221648	|	1219995	|	Permonympha	|	genus	|		|	
+1221649	|	1221648	|	Permonympha gracile	|	species	|		|	
+1221651	|	1219995	|	Thaumatophora	|	genus	|		|	
+1221653	|	1221651	|	Thaumatophora pronotalis	|	species	|		|	
+1221654	|	1219995	|	Sylvonympha	|	genus	|		|	
+1221655	|	1221654	|	Sylvonympha tshekardensis	|	species	|		|	
+1221661	|	1220046	|	Tyulkinia	|	genus	|		|	
+1221662	|	1220137	|	Camptoneurites reticulatus	|	species	|		|	
+1221663	|	1220137	|	Camptoneurites soyanensis	|	species	|		|	
+1221664	|	1221661	|	Tyulkinia bashkuevi	|	species	|		|	
+1221671	|	1220741	|	Dorniella primitiva	|	species	|		|	
+1221687	|	1220131	|	Euremisca splendens	|	species	|		|	
+1221688	|	1220054	|	Kungurmica	|	genus	|		|	
+1221689	|	1221688	|	Kungurmica tshekardensis	|	species	|		|	
+1221690	|	1221688	|	Kungurmica sojanensis	|	species	|		|	
+1221692	|	1220054	|	Letopalopterinae	|	subfamily	|		|	
+1221694	|	1221692	|	Letopaloptera	|	genus	|		|	
+1221695	|	1221694	|	Letopaloptera albardiana	|	species	|		|	
+1221696	|	1221694	|	Letopaloptera carpenteriana	|	species	|		|	
+1221697	|	1220054	|	Permembiinae	|	subfamily	|		|	
+1221698	|	1221112	|	Permembia delicatula	|	species	|		|	
+1221699	|	1220151	|	Sheimia sojanensis	|	species	|		|	
+1221700	|	1220055	|	Soyanembia	|	genus	|		|	
+1221701	|	1221700	|	Soyanembia sharovi	|	species	|		|	
+1221702	|	1220055	|	Soyania	|	genus	|		|	
+1221703	|	1221702	|	Soyania logica	|	species	|		|	
+1221704	|	1220153	|	Pseudosheimia alligans	|	species	|		|	
+1221705	|	1220153	|	Pseudosheimia caudissima	|	species	|		|	
+1221706	|	1220152	|	Parasheimia kazanica	|	species	|		|	
+1221707	|	1221692	|	Permindigena	|	genus	|		|	
+1221708	|	1221707	|	Permindigena lientericus	|	species	|		|	
+1221714	|	1219980	|	Telactinopterygidae	|	family	|		|	
+1221720	|	1221483	|	Sojanoraphidia rossica	|	species	|		|	
+1221721	|	1221483	|	Sojanoraphidia martynovae	|	species	|		|	
+1221722	|	1219996	|	Ivapteridae	|	family	|		|	
+1221723	|	1221722	|	Ivaptera	|	genus	|		|	
+1221724	|	1221723	|	Ivaptera sharovi	|	species	|		|	
+1221741	|	1220041	|	Belmophenopterum	|	genus	|		|	
+1221742	|	1221741	|	Belmophenopterum pectinatum	|	species	|		|	
+1221744	|	1221722	|	Tshekardembia	|	genus	|		|	
+1221745	|	1221744	|	Tshekardembia sharovi	|	species	|		|	
+1221746	|	1219980	|	Personidae	|	family	|		|	
+1221747	|	1221746	|	Persona	|	genus	|		|	
+1221748	|	1221747	|	Persona incognita	|	species	|		|	
+1221758	|	1220122	|	Tshekardomina maculosa	|	species	|		|	
+1221781	|	1221485	|	Stenoneurites fayoli	|	species	|		|	
+1221783	|	1221485	|	Stenoneurites robusta	|	species	|		|	
+1221791	|	1221120	|	Liomoptoides similis	|	species	|		|	
+1221792	|	1219980	|	Palaeocixiidae	|	family	|		|	
+1221794	|	1221070	|	Stenaropodites permiakovi	|	species	|		|	
+1221795	|	1221502	|	Polyetes albolineata	|	species	|		|	
+1221796	|	1221502	|	Polyetes problematica	|	species	|		|	
+1221806	|	1219989	|	Termoides productus	|	species	|		|	
+1221807	|	1219980	|	Uralotermitidae	|	family	|		|	
+1221819	|	1220299	|	Lemmatophora reducta	|	species	|		|	
+1221822	|	1220021	|	Ideliopsis	|	genus	|		|	
+1221823	|	1221822	|	Ideliopsis ovalis	|	species	|		|	
+1221957	|	1221453	|	Mesorthopteron locustoides	|	species	|		|	
+1222100	|	1221545	|	Triasseuryptilon acostai	|	species	|		|	
+1222152	|	1221118	|	Haplopterum majus	|	species	|		|	
+1222238	|	1221098	|	Kortshakolia ideliformis	|	species	|		|	
+1222239	|	1221438	|	Archidelia elongata	|	species	|		|	
+1222240	|	1221438	|	Archidelia ovata	|	species	|		|	
+1222241	|	1220021	|	Aenigmidelia	|	genus	|		|	
+1222242	|	1222241	|	Aenigmidelia incredibilis	|	species	|		|	
+1222243	|	1221104	|	Paridelia pusilla	|	species	|		|	
+1222244	|	1221057	|	Metidelia kargalensis	|	species	|		|	
+1222249	|	1220914	|	Megakhosara sp	|	species	|		|	
+1222250	|	1219980	|	Archiprobnisidae	|	family	|		|	
+1222251	|	1221439	|	Archiprobnis repens	|	species	|		|	
+1222253	|	1221439	|	Archiprobnis similis	|	species	|		|	
+1222254	|	1221439	|	Archiprobnis conjuncta	|	species	|		|	
+1222263	|	1221249	|	Parapermula sibirica	|	species	|		|	
+1222264	|	1221249	|	Parapermula variabilis	|	species	|		|	
+1222265	|	1221249	|	Parapermula nitens	|	species	|		|	
+1222266	|	1220032	|	Abashevia	|	genus	|		|	
+1222267	|	1222266	|	Abashevia suchovi	|	species	|		|	
+1222268	|	1220032	|	Climaconeurites	|	genus	|		|	
+1222269	|	1222268	|	Climaconeurites asiaticus	|	species	|		|	
+1222271	|	1220105	|	Ornaticosta magna	|	species	|		|	
+1222272	|	1220105	|	Ornaticosta amoena	|	species	|		|	
+1222273	|	1220105	|	Ornaticosta media	|	species	|		|	
+1222274	|	1220105	|	Ornaticosta nana	|	species	|		|	
+1222275	|	1220106	|	Liomopterella vulgaris	|	species	|		|	
+1222276	|	1220106	|	Liomopterella bella	|	species	|		|	
+1222277	|	1220106	|	Liomopterella insignis	|	species	|		|	
+1222278	|	1220032	|	Kaltanella	|	genus	|		|	
+1222279	|	1222278	|	Kaltanella lata	|	species	|		|	
+1222280	|	1220107	|	Liomopterites expletus	|	species	|		|	
+1222281	|	1220107	|	Liomopterites comans	|	species	|		|	
+1222282	|	1220107	|	Liomopterites junctus	|	species	|		|	
+1222283	|	1220107	|	Liomopterites festivus	|	species	|		|	
+1222284	|	1220107	|	Liomopterites accolis	|	species	|		|	
+1222285	|	1220107	|	Liomopterites proximus	|	species	|		|	
+1222287	|	1221251	|	Sibirella paucinervis	|	species	|		|	
+1222288	|	1220032	|	Sarbalopterum	|	genus	|		|	
+1222289	|	1222288	|	Sarbalopterum ignorabile	|	species	|		|	
+1222290	|	1221242	|	Paraliomopterum paulum	|	species	|		|	
+1222292	|	1221507	|	Stegopterum sp	|	species	|		|	
+1222293	|	1221119	|	Kaltanopterodes vanus	|	species	|		|	
+1222294	|	1221121	|	Mitinovia dubia	|	species	|		|	
+1223770	|	1220121	|	Grylloblatta chintimini	|	species	|		|	
+1223771	|	1220121	|	Grylloblatta newberryensis	|	species	|		|	
+1224052	|	1220116	|	Grylloblattella cheni	|	species	|		|	
+1227264	|	1220033	|	Sinonele	|	genus	|		|	
+1227265	|	1227264	|	Sinonele fangi	|	species	|		|	
+1227266	|	1227264	|	Sinonele hei	|	species	|		|	
+1227267	|	1227264	|	Sinonele phasmoides	|	species	|		|	
+1227268	|	1227264	|	Sinonele mini	|	species	|		|	
+1229947	|	1220062	|	Montceaupterum	|	genus	|		|	
+1229949	|	1229947	|	Montceaupterum baillyi	|	species	|		|	
+1229968	|	1221005	|	Permoshurabia kungurica	|	species	|		|	
+1229969	|	1221421	|	Parastenaropodites stirps	|	species	|		|	
+1229970	|	1220062	|	Jubala	|	genus	|		|	
+1229971	|	1229970	|	Jubala pectinata	|	species	|		|	
+1230249	|	1221637	|	Sylvalitoralis cheni	|	species	|		|	

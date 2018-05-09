@@ -1,0 +1,3274 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1182267	|		|	Mantodea	|	order	|		|	
+1182268	|	1182267	|	Empusidae	|	family	|		|	
+1182269	|	1182268	|	Blepharodinae	|	subfamily	|		|	
+1182270	|	1182269	|	Blepharodes	|	genus	|		|	
+1182272	|	1182270	|	Blepharodes candelarius	|	species	|		|	
+1182274	|	1182270	|	Blepharodes cornutus	|	species	|		|	
+1182275	|	1182274	|	Blepharodes cornutus cornutus	|	subspecies	|		|	
+1182276	|	1182274	|	Blepharodes cornutus minor	|	subspecies	|		|	
+1182277	|	1182270	|	Blepharodes parumspinosus	|	species	|		|	
+1182278	|	1182270	|	Blepharodes sudanensis	|	species	|		|	
+1182279	|	1182269	|	Blepharopsis	|	genus	|		|	
+1182281	|	1182279	|	Blepharopsis mendica	|	species	|		|	
+1182282	|	1182281	|	Blepharopsis mendica mendica	|	subspecies	|		|	
+1182284	|	1182281	|	Blepharopsis mendica nuda	|	subspecies	|		|	
+1182285	|	1182269	|	Idolomantis	|	genus	|		|	
+1182287	|	1182285	|	Idolomantis diabolica	|	species	|		|	
+1182289	|	1182268	|	Empusinae	|	subfamily	|		|	
+1182294	|	1182289	|	Empusini	|	tribe	|		|	
+1182295	|	1182294	|	Dilatempusa	|	genus	|		|	
+1182296	|	1182295	|	Dilatempusa aegyptiaca	|	species	|		|	
+1182300	|	1182294	|	Empusa	|	genus	|		|	
+1182303	|	1182300	|	Empusa binotata	|	species	|		|	
+1182304	|	1182300	|	Empusa fasciata	|	species	|		|	
+1182305	|	1182300	|	Empusa guttula	|	species	|		|	
+1182307	|	1182300	|	Empusa hedenborgii	|	species	|		|	
+1182310	|	1182300	|	Empusa longicollis	|	species	|		|	
+1182311	|	1182300	|	Empusa pennata	|	species	|		|	
+1182325	|	1182300	|	Empusa pennicornis	|	species	|		|	
+1182326	|	1182325	|	Empusa pennicornis pennicornis	|	subspecies	|		|	
+1182331	|	1182325	|	Empusa pennicornis angulata	|	subspecies	|		|	
+1182332	|	1182325	|	Empusa pennicornis baysunica	|	subspecies	|		|	
+1182333	|	1182325	|	Empusa pennicornis brevidorsa	|	subspecies	|		|	
+1182334	|	1182325	|	Empusa pennicornis buharica	|	subspecies	|		|	
+1182335	|	1182325	|	Empusa pennicornis caputobtusa	|	subspecies	|		|	
+1182336	|	1182325	|	Empusa pennicornis condarinica	|	subspecies	|		|	
+1182337	|	1182325	|	Empusa pennicornis copetdagica	|	subspecies	|		|	
+1182338	|	1182325	|	Empusa pennicornis hodshamuminica	|	subspecies	|		|	
+1182339	|	1182325	|	Empusa pennicornis iliense	|	subspecies	|		|	
+1182340	|	1182325	|	Empusa pennicornis lindti	|	subspecies	|		|	
+1182342	|	1182325	|	Empusa pennicornis longidorsa	|	subspecies	|		|	
+1182343	|	1182325	|	Empusa pennicornis longoapicale	|	subspecies	|		|	
+1182344	|	1182325	|	Empusa pennicornis luppovae	|	subspecies	|		|	
+1182345	|	1182325	|	Empusa pennicornis mujuncumica	|	subspecies	|		|	
+1182346	|	1182325	|	Empusa pennicornis similis	|	subspecies	|		|	
+1182347	|	1182300	|	Empusa romboidea	|	species	|		|	
+1182348	|	1182347	|	Empusa romboidea romboidea	|	subspecies	|		|	
+1182349	|	1182347	|	Empusa romboidea nana	|	subspecies	|		|	
+1182350	|	1182300	|	Empusa simonyi	|	species	|		|	
+1182351	|	1182300	|	Empusa spinosa	|	species	|		|	
+1182356	|	1182300	|	Empusa uvarovi	|	species	|		|	
+1182357	|	1182294	|	Gongylus	|	genus	|		|	
+1182358	|	1182357	|	Gongylus gongylodes	|	species	|		|	
+1182360	|	1182357	|	Gongylus pauperatus	|	species	|		|	
+1182361	|	1182357	|	Gongylus trachelophyllus	|	species	|		|	
+1182362	|	1182294	|	Hypsicorypha	|	genus	|		|	
+1182363	|	1182362	|	Hypsicorypha gracilis	|	species	|		|	
+1182367	|	1182289	|	Idolomorphini	|	tribe	|		|	
+1182368	|	1182367	|	Chopardempusa	|	genus	|		|	
+1182369	|	1182368	|	Chopardempusa neglecta	|	species	|		|	
+1182370	|	1182367	|	Hemiempusa	|	genus	|		|	
+1182371	|	1182370	|	Hemiempusa capensis	|	species	|		|	
+1182373	|	1182367	|	Idolomorpha	|	genus	|		|	
+1182374	|	1182373	|	Idolomorpha dentifrons	|	species	|		|	
+1182375	|	1182373	|	Idolomorpha lateralis	|	species	|		|	
+1182378	|	1182373	|	Idolomorpha madagascariensis	|	species	|		|	
+1182379	|	1182373	|	Idolomorpha sagitta	|	species	|		|	
+1182380	|	1182267	|	Eremiaphilidae	|	family	|		|	
+1182381	|	1182380	|	Eremiaphilinae	|	subfamily	|		|	
+1182382	|	1182381	|	Eremiaphila	|	genus	|		|	
+1182385	|	1182382	|	Eremiaphila berndstiewi	|	species	|		|	
+1182386	|	1182382	|	Eremiaphila dagi	|	species	|		|	
+1182387	|	1182382	|	Eremiaphila ammonita	|	species	|		|	
+1182388	|	1182382	|	Eremiaphila andresi	|	species	|		|	
+1182389	|	1182382	|	Eremiaphila anubis	|	species	|		|	
+1182390	|	1182382	|	Eremiaphila arabica	|	species	|		|	
+1182392	|	1182382	|	Eremiaphila aristidis	|	species	|		|	
+1182393	|	1182382	|	Eremiaphila audouini	|	species	|		|	
+1182394	|	1182382	|	Eremiaphila barbara	|	species	|		|	
+1182395	|	1182382	|	Eremiaphila bifasciata	|	species	|		|	
+1182396	|	1182382	|	Eremiaphila bovei	|	species	|		|	
+1182397	|	1182382	|	Eremiaphila braueri	|	species	|		|	
+1182399	|	1182382	|	Eremiaphila brevipennis	|	species	|		|	
+1182400	|	1182382	|	Eremiaphila brunneri	|	species	|		|	
+1182403	|	1182382	|	Eremiaphila cairina	|	species	|		|	
+1182404	|	1182382	|	Eremiaphila cerisyi	|	species	|		|	
+1182405	|	1182382	|	Eremiaphila collenettei	|	species	|		|	
+1182406	|	1182382	|	Eremiaphila cordofana	|	species	|		|	
+1182407	|	1182382	|	Eremiaphila cycloptera	|	species	|		|	
+1182408	|	1182382	|	Eremiaphila dentata	|	species	|		|	
+1182409	|	1182382	|	Eremiaphila denticollis	|	species	|		|	
+1182410	|	1182409	|	Eremiaphila denticollis denticollis	|	subspecies	|		|	
+1182411	|	1182409	|	Eremiaphila denticollis tunetana	|	subspecies	|		|	
+1182412	|	1182382	|	Eremiaphila foureaui	|	species	|		|	
+1182413	|	1182382	|	Eremiaphila fraseri	|	species	|		|	
+1182414	|	1182382	|	Eremiaphila genei	|	species	|		|	
+1182417	|	1182382	|	Eremiaphila gigas	|	species	|		|	
+1182418	|	1182382	|	Eremiaphila hebraica	|	species	|		|	
+1182419	|	1182382	|	Eremiaphila heluanensis	|	species	|		|	
+1182422	|	1182382	|	Eremiaphila irridipennis	|	species	|		|	
+1182423	|	1182382	|	Eremiaphila khamsini	|	species	|		|	
+1182424	|	1182382	|	Eremiaphila kheychi	|	species	|		|	
+1182425	|	1182382	|	Eremiaphila klunzingeri	|	species	|		|	
+1182426	|	1182382	|	Eremiaphila laeviceps	|	species	|		|	
+1182428	|	1182382	|	Eremiaphila lefebvrii	|	species	|		|	
+1182430	|	1182382	|	Eremiaphila luxor	|	species	|		|	
+1182431	|	1182382	|	Eremiaphila maculipennis	|	species	|		|	
+1182432	|	1182382	|	Eremiaphila monodi	|	species	|		|	
+1182433	|	1182382	|	Eremiaphila moretii	|	species	|		|	
+1182434	|	1182433	|	Eremiaphila moretii moretii	|	subspecies	|		|	
+1182435	|	1182433	|	Eremiaphila moretii maculata	|	subspecies	|		|	
+1182436	|	1182382	|	Eremiaphila murati	|	species	|		|	
+1182437	|	1182382	|	Eremiaphila mzabi	|	species	|		|	
+1182438	|	1182382	|	Eremiaphila nilotica	|	species	|		|	
+1182439	|	1182382	|	Eremiaphila nova	|	species	|		|	
+1182440	|	1182382	|	Eremiaphila numida	|	species	|		|	
+1182441	|	1182382	|	Eremiaphila persica	|	species	|		|	
+1182442	|	1182441	|	Eremiaphila persica persica	|	subspecies	|		|	
+1182443	|	1182441	|	Eremiaphila persica sjostedti	|	subspecies	|		|	
+1182444	|	1182382	|	Eremiaphila petiti	|	species	|		|	
+1182445	|	1182382	|	Eremiaphila pierrei	|	species	|		|	
+1182446	|	1182382	|	Eremiaphila pyramidum	|	species	|		|	
+1182447	|	1182382	|	Eremiaphila rectangulata	|	species	|		|	
+1182448	|	1182382	|	Eremiaphila reticulata	|	species	|		|	
+1182449	|	1182382	|	Eremiaphila rohlfsi	|	species	|		|	
+1182450	|	1182382	|	Eremiaphila rotundipennis	|	species	|		|	
+1182451	|	1182382	|	Eremiaphila rufipennis	|	species	|		|	
+1182452	|	1182382	|	Eremiaphila rufula	|	species	|		|	
+1182453	|	1182382	|	Eremiaphila savignyi	|	species	|		|	
+1182454	|	1182382	|	Eremiaphila somalica	|	species	|		|	
+1182455	|	1182382	|	Eremiaphila spinulosa	|	species	|		|	
+1182456	|	1182382	|	Eremiaphila tuberculifera	|	species	|		|	
+1182457	|	1182382	|	Eremiaphila turcica	|	species	|		|	
+1182458	|	1182382	|	Eremiaphila typhon	|	species	|		|	
+1182460	|	1182382	|	Eremiaphila uvarovi	|	species	|		|	
+1182461	|	1182382	|	Eremiaphila voltaensis	|	species	|		|	
+1182462	|	1182382	|	Eremiaphila werneri	|	species	|		|	
+1182463	|	1182382	|	Eremiaphila wettsteini	|	species	|		|	
+1182464	|	1182382	|	Eremiaphila yemenita	|	species	|		|	
+1182465	|	1182382	|	Eremiaphila zetterstedti	|	species	|		|	
+1182466	|	1182381	|	Heteronutarsus	|	genus	|		|	
+1182469	|	1182466	|	Heteronutarsus arenivagus	|	species	|		|	
+1182470	|	1182466	|	Heteronutarsus zolotarevskyi	|	species	|		|	
+1182471	|	1182466	|	Heteronutarsus aegyptiacus	|	species	|		|	
+1182472	|	1182466	|	Heteronutarsus albipennis	|	species	|		|	
+1182473	|	1182267	|	Hymenopodidae	|	family	|		|	
+1182474	|	1182473	|	Acromantinae	|	subfamily	|		|	
+1182475	|	1182474	|	Acromantini	|	tribe	|		|	
+1182476	|	1182475	|	Acromantis	|	genus	|		|	
+1182477	|	1182476	|	Acromantis australis	|	species	|		|	
+1182478	|	1182476	|	Acromantis dyaka	|	species	|		|	
+1182479	|	1182476	|	Acromantis elegans	|	species	|		|	
+1182480	|	1182476	|	Acromantis formosana	|	species	|		|	
+1182481	|	1182476	|	Acromantis gestri	|	species	|		|	
+1182482	|	1182476	|	Acromantis grandis	|	species	|		|	
+1182483	|	1182476	|	Acromantis hesione	|	species	|		|	
+1182484	|	1182476	|	Acromantis indica	|	species	|		|	
+1182485	|	1182476	|	Acromantis insularis	|	species	|		|	
+1182486	|	1182476	|	Acromantis japonica	|	species	|		|	
+1182487	|	1182476	|	Acromantis lilii	|	species	|		|	
+1182489	|	1182476	|	Acromantis luzonica	|	species	|		|	
+1182490	|	1182476	|	Acromantis montana	|	species	|		|	
+1182491	|	1182476	|	Acromantis moultoni	|	species	|		|	
+1182493	|	1182476	|	Acromantis nicobarica	|	species	|		|	
+1182494	|	1182476	|	Acromantis oligoneura	|	species	|		|	
+1182497	|	1182476	|	Acromantis palauana	|	species	|		|	
+1182498	|	1182476	|	Acromantis philippina	|	species	|		|	
+1182499	|	1182476	|	Acromantis satsumensis	|	species	|		|	
+1182500	|	1182476	|	Acromantis siporana	|	species	|		|	
+1182501	|	1223667	|	Anasigerpes	|	genus	|		|	
+1182503	|	1182501	|	Anasigerpes amieti	|	species	|		|	
+1182504	|	1182501	|	Anasigerpes bifasciata	|	species	|		|	
+1182505	|	1182501	|	Anasigerpes centralis	|	species	|		|	
+1182506	|	1182501	|	Anasigerpes grilloti	|	species	|		|	
+1182507	|	1182501	|	Anasigerpes heydeni	|	species	|		|	
+1182512	|	1182501	|	Anasigerpes nigripes	|	species	|		|	
+1182515	|	1182501	|	Anasigerpes trifasciata	|	species	|		|	
+1182516	|	1182501	|	Anasigerpes unifasciata	|	species	|		|	
+1182517	|	1223691	|	Anaxarcha	|	genus	|		|	
+1182520	|	1182517	|	Anaxarcha acuta	|	species	|		|	
+1182521	|	1182517	|	Anaxarcha graminea	|	species	|		|	
+1182523	|	1182517	|	Anaxarcha hyalina	|	species	|		|	
+1182524	|	1182517	|	Anaxarcha intermedia	|	species	|		|	
+1182525	|	1182517	|	Anaxarcha limbata	|	species	|		|	
+1182527	|	1182517	|	Anaxarcha pulchella	|	species	|		|	
+1182528	|	1182517	|	Anaxarcha pulchra	|	species	|		|	
+1182529	|	1182517	|	Anaxarcha sinensis	|	species	|		|	
+1182530	|	1182517	|	Anaxarcha tianmushanensis	|	species	|		|	
+1182531	|	1182517	|	Anaxarcha zhengi	|	species	|		|	
+1182533	|	1182554	|	Chrysomantis tessmanni	|	species	|		|	
+1182534	|	1182535	|	Oxypiloidea (Catasigerpes)	|	subgenus	|		|	
+1182535	|	1223667	|	Oxypiloidea	|	genus	|		|	
+1182537	|	1207908	|	Oxypiloidea (Oxypiloidea) acuminata	|	species	|		|	
+1182538	|	1182535	|	Oxypiloidea brunneriana	|	species	|		|	
+1182539	|	1207908	|	Oxypiloidea (Oxypiloidea) lobata	|	species	|		|	
+1182540	|	1182534	|	Oxypiloidea (Catasigerpes) congica	|	species	|		|	
+1182542	|	1182534	|	Oxypiloidea (Catasigerpes) granulata	|	species	|		|	
+1182543	|	1182535	|	Oxypiloidea jeanneli	|	species	|		|	
+1182544	|	1182534	|	Oxypiloidea (Catasigerpes) margarethae	|	species	|		|	
+1182545	|	1182534	|	Oxypiloidea (Catasigerpes) camerunensis	|	species	|		|	
+1182547	|	1182535	|	Oxypiloidea mortuifolia	|	species	|		|	
+1182548	|	1182535	|	Oxypiloidea nigerica	|	species	|		|	
+1182549	|	1182534	|	Oxypiloidea (Catasigerpes) occidentalis	|	species	|		|	
+1182552	|	1207908	|	Oxypiloidea (Oxypiloidea) tridens	|	species	|		|	
+1182553	|	1207908	|	Oxypiloidea (Oxypiloidea) zernyi	|	species	|		|	
+1182554	|	1223667	|	Chrysomantis	|	genus	|		|	
+1182556	|	1182554	|	Chrysomantis cachani	|	species	|		|	
+1182559	|	1182554	|	Chrysomantis congica	|	species	|		|	
+1182560	|	1182554	|	Chrysomantis girardi	|	species	|		|	
+1182561	|	1182554	|	Chrysomantis royi	|	species	|		|	
+1182562	|	1182554	|	Chrysomantis speciosa	|	species	|		|	
+1182564	|	1182475	|	Citharomantis	|	genus	|		|	
+1182565	|	1182564	|	Citharomantis falcata	|	species	|		|	
+1182567	|	1183155	|	Majangella ophirensis	|	species	|		|	
+1182568	|	1223691	|	Heliomantis	|	genus	|		|	
+1182571	|	1182568	|	Heliomantis elegans	|	species	|		|	
+1182573	|	1231186	|	Werneriana latipennis	|	species	|		|	
+1182574	|	1182785	|	Hestiasula	|	genus	|		|	
+1182577	|	1182574	|	Hestiasula basinigra	|	species	|		|	
+1182578	|	1182574	|	Hestiasula brunneriana	|	species	|		|	
+1182579	|	1182574	|	Hestiasula castetsi	|	species	|		|	
+1182580	|	1182574	|	Hestiasula ceylonica	|	species	|		|	
+1182581	|	1182574	|	Hestiasula gyldenstolpei	|	species	|		|	
+1182582	|	1182574	|	Hestiasula hoffmanni	|	species	|		|	
+1182583	|	1182574	|	Hestiasula inermis	|	species	|		|	
+1182584	|	1182574	|	Hestiasula javana	|	species	|		|	
+1182585	|	1182574	|	Hestiasula kastneri	|	species	|		|	
+1182586	|	1182574	|	Hestiasula major	|	species	|		|	
+1182587	|	1182574	|	Hestiasula masoni	|	species	|		|	
+1182588	|	1182574	|	Hestiasula moultoni	|	species	|		|	
+1182589	|	1182574	|	Hestiasula nigrofemorata	|	species	|		|	
+1182590	|	1182574	|	Hestiasula nitida	|	species	|		|	
+1182591	|	1182574	|	Hestiasula phyllopus	|	species	|		|	
+1182593	|	1182574	|	Hestiasula rogenhoferi	|	species	|		|	
+1182594	|	1182574	|	Hestiasula seminigra	|	species	|		|	
+1182595	|	1182574	|	Hestiasula woodi	|	species	|		|	
+1182596	|	1182574	|	Hestiasula zhejiangensis	|	species	|		|	
+1182597	|	1182475	|	Metacromantis	|	genus	|		|	
+1182598	|	1182597	|	Metacromantis nigrofemorata	|	species	|		|	
+1182599	|	1182597	|	Metacromantis oxyops	|	species	|		|	
+1182600	|	1223691	|	Odontomantis	|	genus	|		|	
+1182601	|	1182600	|	Odontomantis montana	|	species	|		|	
+1182602	|	1182600	|	Odontomantis monticola	|	species	|		|	
+1182603	|	1182600	|	Odontomantis nigrimarginalis	|	species	|		|	
+1182604	|	1182600	|	Odontomantis ornata	|	species	|		|	
+1182605	|	1182600	|	Odontomantis parva	|	species	|		|	
+1182606	|	1182600	|	Odontomantis planiceps	|	species	|		|	
+1182608	|	1182600	|	Odontomantis pulchra	|	species	|		|	
+1182612	|	1182600	|	Odontomantis rhyssa	|	species	|		|	
+1182613	|	1182600	|	Odontomantis sinensis	|	species	|		|	
+1182614	|	1182600	|	Odontomantis xizangensis	|	species	|		|	
+1182617	|	1182600	|	Odontomantis brachyptera	|	species	|		|	
+1182618	|	1182600	|	Odontomantis buhleri	|	species	|		|	
+1182619	|	1182600	|	Odontomantis chayuensis	|	species	|		|	
+1182620	|	1182600	|	Odontomantis euphrosyne	|	species	|		|	
+1182621	|	1182600	|	Odontomantis foveafrons	|	species	|		|	
+1182622	|	1182600	|	Odontomantis hainana	|	species	|		|	
+1182623	|	1182600	|	Odontomantis laticollis	|	species	|		|	
+1182624	|	1182600	|	Odontomantis longipennis	|	species	|		|	
+1182625	|	1182600	|	Odontomantis micans	|	species	|		|	
+1182626	|	1182475	|	Oligomantis	|	genus	|		|	
+1182627	|	1182626	|	Oligomantis hyalina	|	species	|		|	
+1182628	|	1182626	|	Oligomantis mentaweiana	|	species	|		|	
+1182629	|	1182626	|	Oligomantis orientalis	|	species	|		|	
+1182630	|	1223667	|	Otomantis	|	genus	|		|	
+1182631	|	1182630	|	Otomantis aurita	|	species	|		|	
+1182632	|	1182630	|	Otomantis capirica	|	species	|		|	
+1182634	|	1182630	|	Otomantis casaica	|	species	|		|	
+1182635	|	1182630	|	Otomantis rendalli	|	species	|		|	
+1182636	|	1182630	|	Otomantis scutigera	|	species	|		|	
+1182640	|	1182646	|	Ephestiasula obscura	|	species	|		|	
+1182641	|	1182475	|	Psychomantis	|	genus	|		|	
+1182642	|	1182641	|	Psychomantis borneensis	|	species	|		|	
+1182643	|	1182641	|	Psychomantis malayensis	|	species	|		|	
+1182644	|	1182475	|	Rhomantis	|	genus	|		|	
+1182645	|	1182644	|	Rhomantis moultoni	|	species	|		|	
+1182646	|	1182785	|	Ephestiasula	|	genus	|		|	
+1182647	|	1182646	|	Ephestiasula woodmasoni	|	species	|		|	
+1182648	|	1182646	|	Ephestiasula amoena	|	species	|		|	
+1182649	|	1182646	|	Ephestiasula intermedia	|	species	|		|	
+1182650	|	1182646	|	Ephestiasula pictipes	|	species	|		|	
+1182653	|	1183236	|	Amphecostephanus	|	genus	|		|	
+1182654	|	1182653	|	Amphecostephanus rex	|	species	|		|	
+1182655	|	1182267	|	Epaphrodita	|	genus	|		|	
+1182656	|	1182655	|	Epaphrodita musarum	|	species	|		|	
+1182658	|	1182655	|	Epaphrodita undulata	|	species	|		|	
+1182659	|	1182655	|	Epaphrodita lobivertex	|	species	|		|	
+1182660	|	1223666	|	Parablepharis	|	genus	|		|	
+1182661	|	1182660	|	Parablepharis kuhlii	|	species	|		|	
+1182662	|	1182661	|	Parablepharis kuhlii kuhlii	|	subspecies	|		|	
+1182663	|	1182661	|	Parablepharis kuhlii asiatica	|	subspecies	|		|	
+1182664	|	1223666	|	Phyllocrania	|	genus	|		|	
+1182665	|	1182664	|	Phyllocrania illudens	|	species	|		|	
+1182666	|	1182664	|	Phyllocrania insignis	|	species	|		|	
+1182667	|	1182664	|	Phyllocrania paradoxa	|	species	|		|	
+1182668	|	1182473	|	Hymenopodinae	|	subfamily	|		|	
+1182669	|	1182668	|	Hymenopodini	|	tribe	|		|	
+1182671	|	1182718	|	Galinthias philbyi	|	species	|		|	
+1182672	|	1182669	|	Chlidonoptera	|	genus	|		|	
+1182673	|	1182672	|	Chlidonoptera chopardi	|	species	|		|	
+1182674	|	1182672	|	Chlidonoptera lestoni	|	species	|		|	
+1182675	|	1182672	|	Chlidonoptera vexillum	|	species	|		|	
+1182677	|	1182672	|	Chlidonoptera werneri	|	species	|		|	
+1182680	|	1182669	|	Chloroharpax	|	genus	|		|	
+1182681	|	1182680	|	Chloroharpax modesta	|	species	|		|	
+1182683	|	1218141	|	Congoharpax	|	genus	|		|	
+1182684	|	1182683	|	Congoharpax aberrans	|	species	|		|	
+1182686	|	1182683	|	Congoharpax boulardi	|	species	|		|	
+1182689	|	1182683	|	Congoharpax coiffaiti	|	species	|		|	
+1182690	|	1182683	|	Congoharpax judithae	|	species	|		|	
+1182691	|	1182669	|	Creobroter	|	genus	|		|	
+1182692	|	1182691	|	Creobroter apicalis	|	species	|		|	
+1182693	|	1182691	|	Creobroter celebensis	|	species	|		|	
+1182695	|	1182691	|	Creobroter discifera	|	species	|		|	
+1182697	|	1182691	|	Creobroter elongata	|	species	|		|	
+1182698	|	1182691	|	Creobroter episcopalis	|	species	|		|	
+1182699	|	1182691	|	Creobroter fasciatus	|	species	|		|	
+1182700	|	1182691	|	Creobroter fuscoareatus	|	species	|		|	
+1182701	|	1182691	|	Creobroter gemmatus	|	species	|		|	
+1182702	|	1182691	|	Creobroter granulicollis	|	species	|		|	
+1182703	|	1182691	|	Creobroter insolitus	|	species	|		|	
+1182704	|	1182691	|	Creobroter jiangxiensis	|	species	|		|	
+1182705	|	1182691	|	Creobroter labuanae	|	species	|		|	
+1182706	|	1182691	|	Creobroter laevicollis	|	species	|		|	
+1182707	|	1182691	|	Creobroter medanus	|	species	|		|	
+1182708	|	1182691	|	Creobroter meleagris	|	species	|		|	
+1182709	|	1182691	|	Creobroter nebulosa	|	species	|		|	
+1182710	|	1182691	|	Creobroter pictipennis	|	species	|		|	
+1182711	|	1182691	|	Creobroter signifer	|	species	|		|	
+1182712	|	1182691	|	Creobroter sumatranus	|	species	|		|	
+1182713	|	1182691	|	Creobroter urbanus	|	species	|		|	
+1182714	|	1182691	|	Creobroter vitripennis	|	species	|		|	
+1182718	|	1218141	|	Galinthias	|	genus	|		|	
+1182719	|	1182718	|	Galinthias amoena	|	species	|		|	
+1182721	|	1182718	|	Galinthias meruensis	|	species	|		|	
+1182723	|	1182718	|	Galinthias occidentalis	|	species	|		|	
+1182724	|	1218141	|	Harpagomantis	|	genus	|		|	
+1182725	|	1182724	|	Harpagomantis discolor	|	species	|		|	
+1182726	|	1182724	|	Harpagomantis nana	|	species	|		|	
+1182727	|	1182724	|	Harpagomantis tricolor	|	species	|		|	
+1182735	|	1182669	|	Helvia	|	genus	|		|	
+1182736	|	1182735	|	Helvia cardinalis	|	species	|		|	
+1182737	|	1182669	|	Hymenopus	|	genus	|		|	
+1182738	|	1182737	|	Hymenopus bicornis	|	species	|		|	
+1182739	|	1182737	|	Hymenopus coronatoides	|	species	|		|	
+1182740	|	1182737	|	Hymenopus coronatus	|	species	|		|	
+1182742	|	1182669	|	Panurgica	|	genus	|		|	
+1182743	|	1182742	|	Panurgica basilewskyi	|	species	|		|	
+1182744	|	1182742	|	Panurgica compressicollis	|	species	|		|	
+1182745	|	1182742	|	Panurgica duplex	|	species	|		|	
+1182746	|	1182742	|	Panurgica feae	|	species	|		|	
+1182747	|	1182742	|	Panurgica fratercula	|	species	|		|	
+1182748	|	1182742	|	Panurgica fusca	|	species	|		|	
+1182749	|	1182742	|	Panurgica langi	|	species	|		|	
+1182750	|	1182742	|	Panurgica liberiana	|	species	|		|	
+1182751	|	1182742	|	Panurgica mende	|	species	|		|	
+1182752	|	1182742	|	Panurgica rehni	|	species	|		|	
+1182755	|	1182669	|	Pseudocreobotra	|	genus	|		|	
+1182756	|	1182755	|	Pseudocreobotra amarae	|	species	|		|	
+1182757	|	1182755	|	Pseudocreobotra ocellata	|	species	|		|	
+1182759	|	1182755	|	Pseudocreobotra wahlbergi	|	species	|		|	
+1182761	|	1218141	|	Pseudoharpax	|	genus	|		|	
+1182762	|	1182761	|	Pseudoharpax abyssinicus	|	species	|		|	
+1182763	|	1182761	|	Pseudoharpax beieri	|	species	|		|	
+1182764	|	1182761	|	Pseudoharpax crenaticollis	|	species	|		|	
+1182765	|	1182761	|	Pseudoharpax dubius	|	species	|		|	
+1182766	|	1182761	|	Pseudoharpax erythraeus	|	species	|		|	
+1182767	|	1182761	|	Pseudoharpax francoisi	|	species	|		|	
+1182768	|	1182761	|	Pseudoharpax nigericus	|	species	|		|	
+1182769	|	1182761	|	Pseudoharpax parallelus	|	species	|		|	
+1182770	|	1182761	|	Pseudoharpax ugandanus	|	species	|		|	
+1182772	|	1182761	|	Pseudoharpax virescens	|	species	|		|	
+1182773	|	1182772	|	Pseudoharpax virescens virescens	|	subspecies	|		|	
+1182774	|	1182772	|	Pseudoharpax virescens centralis	|	subspecies	|		|	
+1182775	|	1182669	|	Theopropus	|	genus	|		|	
+1182776	|	1182775	|	Theopropus borneensis	|	species	|		|	
+1182777	|	1182775	|	Theopropus cattulus	|	species	|		|	
+1182778	|	1182775	|	Theopropus elegans	|	species	|		|	
+1182781	|	1182775	|	Theopropus rubrobrunneus	|	species	|		|	
+1182785	|	1182473	|	Oxypilinae	|	subfamily	|		|	
+1182787	|	1182785	|	Ceratomantis	|	genus	|		|	
+1182788	|	1182787	|	Ceratomantis saussurii	|	species	|		|	
+1182789	|	1182787	|	Ceratomantis yunnanensis	|	species	|		|	
+1182790	|	1182787	|	Ceratomantis kimberlae	|	species	|		|	
+1182791	|	1182787	|	Ceratomantis ghatei	|	species	|		|	
+1182792	|	1182787	|	Ceratomantis gigliotosi	|	species	|		|	
+1182793	|	1182785	|	Junodia	|	genus	|		|	
+1182794	|	1182793	|	Junodia amoena	|	species	|		|	
+1182795	|	1182793	|	Junodia beieri	|	species	|		|	
+1182796	|	1182793	|	Junodia congica	|	species	|		|	
+1182798	|	1182793	|	Junodia hararensis	|	species	|		|	
+1182799	|	1182793	|	Junodia lameyi	|	species	|		|	
+1182801	|	1182793	|	Junodia spinosa	|	species	|		|	
+1182802	|	1182793	|	Junodia strigipennis	|	species	|		|	
+1182803	|	1182793	|	Junodia vansomereni	|	species	|		|	
+1182805	|	1182793	|	Junodia vansoni	|	species	|		|	
+1182806	|	1182793	|	Junodia stiewei	|	species	|		|	
+1182807	|	1182793	|	Junodia maternaschulzei	|	species	|		|	
+1182808	|	1182785	|	Oxypilus	|	genus	|		|	
+1182809	|	1182808	|	Oxypilus (Oxypilus)	|	subgenus	|		|	
+1182810	|	1182809	|	Oxypilus (Oxypilus) annulatus	|	species	|		|	
+1182812	|	1182809	|	Oxypilus (Oxypilus) cherlonneixi	|	species	|		|	
+1182813	|	1182809	|	Oxypilus (Oxypilus) descampsi	|	species	|		|	
+1182814	|	1182809	|	Oxypilus (Oxypilus) enei	|	species	|		|	
+1182815	|	1182809	|	Oxypilus (Oxypilus) falcatus	|	species	|		|	
+1182816	|	1182809	|	Oxypilus (Oxypilus) flavicoxa	|	species	|		|	
+1182817	|	1182809	|	Oxypilus (Oxypilus) gillonae	|	species	|		|	
+1182818	|	1182809	|	Oxypilus (Oxypilus) guentheri	|	species	|		|	
+1182819	|	1182809	|	Oxypilus (Oxypilus) hamatus	|	species	|		|	
+1182820	|	1182809	|	Oxypilus (Oxypilus) lamottei	|	species	|		|	
+1182821	|	1182809	|	Oxypilus (Oxypilus) montanus	|	species	|		|	
+1182822	|	1182809	|	Oxypilus (Oxypilus) pallidus	|	species	|		|	
+1182823	|	1182809	|	Oxypilus (Oxypilus) raggei	|	species	|		|	
+1182824	|	1182809	|	Oxypilus (Oxypilus) tanzanicus	|	species	|		|	
+1182825	|	1182809	|	Oxypilus (Oxypilus) villiersi	|	species	|		|	
+1182826	|	1182809	|	Oxypilus (Oxypilus) maculifemur	|	species	|		|	
+1182827	|	1182809	|	Oxypilus (Oxypilus) pierrei	|	species	|		|	
+1182828	|	1182808	|	Oxypilus (Anoxypilus)	|	subgenus	|		|	
+1182829	|	1182828	|	Oxypilus (Anoxypilus) polyacanthus	|	species	|		|	
+1182831	|	1182828	|	Oxypilus (Anoxypilus) burri	|	species	|		|	
+1182832	|	1182828	|	Oxypilus (Anoxypilus) inscriptus	|	species	|		|	
+1182833	|	1182828	|	Oxypilus (Anoxypilus) transvalensis	|	species	|		|	
+1182835	|	1182828	|	Oxypilus (Anoxypilus) capensis	|	species	|		|	
+1182837	|	1182828	|	Oxypilus (Anoxypilus) meruensis	|	species	|		|	
+1182839	|	1182828	|	Oxypilus (Anoxypilus) servillei	|	species	|		|	
+1182840	|	1182785	|	Pachymantis	|	genus	|		|	
+1182841	|	1182840	|	Pachymantis bicingulata	|	species	|		|	
+1182842	|	1182844	|	Triaenocorypha dohertyi	|	species	|		|	
+1182844	|	1182785	|	Triaenocorypha	|	genus	|		|	
+1182845	|	1182785	|	Pseudoxypilus	|	genus	|		|	
+1182846	|	1182845	|	Pseudoxypilus hemerobius	|	species	|		|	
+1182848	|	1182267	|	Iridopterygidae	|	family	|		|	
+1182849	|	1182848	|	Hapalomantinae	|	subfamily	|		|	
+1182850	|	1182849	|	Hapalomantini	|	tribe	|		|	
+1182851	|	1182850	|	Bolbe	|	genus	|		|	
+1182852	|	1182851	|	Bolbe lowi	|	species	|		|	
+1182853	|	1182851	|	Bolbe maia	|	species	|		|	
+1182854	|	1182851	|	Bolbe nigra	|	species	|		|	
+1182855	|	1182851	|	Bolbe pallida	|	species	|		|	
+1182856	|	1182851	|	Bolbe pygmaea	|	species	|		|	
+1182857	|	1182850	|	Bolbena	|	genus	|		|	
+1182858	|	1182857	|	Bolbena (Bolbena)	|	subgenus	|		|	
+1182859	|	1182858	|	Bolbena (Bolbena) assimilis	|	species	|		|	
+1182860	|	1182858	|	Bolbena (Bolbena) hottentotta	|	species	|		|	
+1182861	|	1182858	|	Bolbena (Bolbena) maraisi	|	species	|		|	
+1182862	|	1182858	|	Bolbena (Bolbena) minor	|	species	|		|	
+1182863	|	1182858	|	Bolbena (Bolbena) orientalis	|	species	|		|	
+1182864	|	1182857	|	Bolbena (Bolboda)	|	subgenus	|		|	
+1182865	|	1182864	|	Bolbena (Bolboda) minutissima	|	species	|		|	
+1182866	|	1182850	|	Bolbula	|	genus	|		|	
+1182867	|	1182866	|	Bolbula debilis	|	species	|		|	
+1182868	|	1182866	|	Bolbula exigua	|	species	|		|	
+1182869	|	1182866	|	Bolbula widenmanni	|	species	|		|	
+1182870	|	1182850	|	Hapalogymnes	|	genus	|		|	
+1182871	|	1182870	|	Hapalogymnes gymnes	|	species	|		|	
+1182872	|	1182850	|	Hapalomantis	|	genus	|		|	
+1182873	|	1182872	|	Hapalomantis (Hapalomantis)	|	subgenus	|		|	
+1182874	|	1182873	|	Hapalomantis (Hapalomantis) abyssinica	|	species	|		|	
+1182875	|	1182873	|	Hapalomantis (Hapalomantis) orba	|	species	|		|	
+1182877	|	1182873	|	Hapalomantis (Hapalomantis) rhombochir	|	species	|		|	
+1182879	|	1182872	|	Hapalomantis (Bolbira)	|	subgenus	|		|	
+1182880	|	1182879	|	Hapalomantis (Bolbira) congica	|	species	|		|	
+1182881	|	1182879	|	Hapalomantis (Bolbira) katangica	|	species	|		|	
+1182882	|	1182879	|	Hapalomantis (Bolbira) lacualis	|	species	|		|	
+1182883	|	1182879	|	Hapalomantis (Bolbira) minima	|	species	|		|	
+1182884	|	1182850	|	Papubolbe	|	genus	|		|	
+1182885	|	1182884	|	Papubolbe curvidens	|	species	|		|	
+1182886	|	1182884	|	Papubolbe eximia	|	species	|		|	
+1182887	|	1182884	|	Papubolbe flava	|	species	|		|	
+1182888	|	1182884	|	Papubolbe gressitti	|	species	|		|	
+1182889	|	1182884	|	Papubolbe longipennis	|	species	|		|	
+1182890	|	1182884	|	Papubolbe picea	|	species	|		|	
+1182891	|	1182850	|	Tarachina	|	genus	|		|	
+1182892	|	1182891	|	Tarachina brevipennis	|	species	|		|	
+1182893	|	1182891	|	Tarachina congica	|	species	|		|	
+1182894	|	1182891	|	Tarachina constricta	|	species	|		|	
+1182895	|	1182891	|	Tarachina occidentalis	|	species	|		|	
+1182897	|	1182891	|	Tarachina rammei	|	species	|		|	
+1182898	|	1182891	|	Tarachina raphidioides	|	species	|		|	
+1182899	|	1182891	|	Tarachina schultzei	|	species	|		|	
+1182901	|	1182891	|	Tarachina seriepunctata	|	species	|		|	
+1182902	|	1182891	|	Tarachina transvaalensis	|	species	|		|	
+1182903	|	1182891	|	Tarachina werneri	|	species	|		|	
+1182904	|	1182891	|	Tarachina zernyi	|	species	|		|	
+1182905	|	1182848	|	Iridopteryginae	|	subfamily	|		|	
+1182906	|	1182905	|	Iridopterygini	|	tribe	|		|	
+1182907	|	1182906	|	Muscimantis	|	genus	|		|	
+1182908	|	1182907	|	Muscimantis montana	|	species	|		|	
+1182909	|	1182906	|	Pezomantis	|	genus	|		|	
+1182910	|	1182909	|	Pezomantis henryi	|	species	|		|	
+1182911	|	1182906	|	Hapalopeza	|	genus	|		|	
+1182912	|	1182911	|	Hapalopeza (Hapalopeza)	|	subgenus	|		|	
+1182913	|	1182912	|	Hapalopeza (Hapalopeza) fulmeki	|	species	|		|	
+1182914	|	1182912	|	Hapalopeza (Hapalopeza) nigricornis	|	species	|		|	
+1182915	|	1182912	|	Hapalopeza (Hapalopeza) nilgirica	|	species	|		|	
+1182916	|	1182912	|	Hapalopeza (Hapalopeza) nitens	|	species	|		|	
+1182917	|	1182912	|	Hapalopeza (Hapalopeza) periyara	|	species	|		|	
+1182918	|	1182912	|	Hapalopeza (Hapalopeza) tigrina	|	species	|		|	
+1182919	|	1182911	|	Hapalopeza (Spilomantis)	|	subgenus	|		|	
+1182920	|	1182919	|	Hapalopeza (Spilomantis) occipitalis	|	species	|		|	
+1182921	|	1182919	|	Hapalopeza (Spilomantis) nigripes	|	species	|		|	
+1182922	|	1182906	|	Hapalopezella	|	genus	|		|	
+1182923	|	1182922	|	Hapalopezella maculata	|	species	|		|	
+1182927	|	1182906	|	Iridopteryx	|	genus	|		|	
+1182928	|	1182927	|	Iridopteryx iridipennis	|	species	|		|	
+1182929	|	1182906	|	Micromantis	|	genus	|		|	
+1182930	|	1182929	|	Micromantis glauca	|	species	|		|	
+1182931	|	1182906	|	Nemotha	|	genus	|		|	
+1182932	|	1182931	|	Nemotha coomani	|	species	|		|	
+1182933	|	1182931	|	Nemotha metallica	|	species	|		|	
+1182934	|	1182931	|	Nemotha mirabiliis	|	species	|		|	
+1182936	|	1182848	|	Nanomantinae	|	subfamily	|		|	
+1182937	|	1182936	|	Fulcinini	|	tribe	|		|	
+1182938	|	1182937	|	Calofulcinia	|	genus	|		|	
+1182939	|	1182938	|	Calofulcinia australis	|	species	|		|	
+1182940	|	1182938	|	Calofulcinia elegans	|	species	|		|	
+1182942	|	1182938	|	Calofulcinia integra	|	species	|		|	
+1182943	|	1182938	|	Calofulcinia oxynota	|	species	|		|	
+1182944	|	1182938	|	Calofulcinia paraoxypila	|	species	|		|	
+1182945	|	1182938	|	Calofulcinia vidua	|	species	|		|	
+1182946	|	1182938	|	Calofulcinia viridula	|	species	|		|	
+1182950	|	1182937	|	Fulcinia	|	genus	|		|	
+1182951	|	1182950	|	Fulcinia alaris	|	species	|		|	
+1182953	|	1182950	|	Fulcinia exilis	|	species	|		|	
+1182954	|	1182950	|	Fulcinia lobata	|	species	|		|	
+1182955	|	1182950	|	Fulcinia punctipes	|	species	|		|	
+1182956	|	1182950	|	Fulcinia uxor	|	species	|		|	
+1182957	|	1182950	|	Fulcinia variipennis	|	species	|		|	
+1182961	|	1182937	|	Fulciniella	|	genus	|		|	
+1182962	|	1182961	|	Fulciniella infumata	|	species	|		|	
+1182963	|	1182961	|	Fulciniella loriae	|	species	|		|	
+1182966	|	1182961	|	Fulciniella verticalis	|	species	|		|	
+1182968	|	1182937	|	Fulciniola	|	genus	|		|	
+1182969	|	1182968	|	Fulciniola snelleni	|	species	|		|	
+1182971	|	1182937	|	Hedigerella	|	genus	|		|	
+1182972	|	1182971	|	Hedigerella fasciatella	|	species	|		|	
+1182973	|	1182937	|	Nannofulcinia	|	genus	|		|	
+1182974	|	1182973	|	Nannofulcinia pulchra	|	species	|		|	
+1182975	|	1182937	|	Pilomantis	|	genus	|		|	
+1182976	|	1182975	|	Pilomantis fusca	|	species	|		|	
+1182977	|	1182937	|	Tylomantis	|	genus	|		|	
+1182978	|	1182977	|	Tylomantis armillata	|	species	|		|	
+1182979	|	1182977	|	Tylomantis fuliginosa	|	species	|		|	
+1182980	|	1182936	|	Nanomantini	|	tribe	|		|	
+1182981	|	1182980	|	Ima	|	genus	|		|	
+1182982	|	1182981	|	Ima fusca	|	species	|		|	
+1182983	|	1182980	|	Machairima	|	genus	|		|	
+1182984	|	1182983	|	Machairima papua	|	species	|		|	
+1182985	|	1182980	|	Nanomantis	|	genus	|		|	
+1182986	|	1182985	|	Nanomantis australis	|	species	|		|	
+1182987	|	1182985	|	Nanomantis gilolae	|	species	|		|	
+1182988	|	1182985	|	Nanomantis lactea	|	species	|		|	
+1182989	|	1182985	|	Nanomantis yunnanensis	|	species	|		|	
+1182992	|	1182980	|	Parananomantis	|	genus	|		|	
+1182993	|	1182992	|	Parananomantis brevis	|	species	|		|	
+1182994	|	1182980	|	Sceptuchus	|	genus	|		|	
+1182995	|	1182994	|	Sceptuchus baehri	|	species	|		|	
+1182996	|	1182994	|	Sceptuchus simplex	|	species	|		|	
+1182997	|	1182980	|	Sinomantis	|	genus	|		|	
+1182998	|	1182997	|	Sinomantis denticulata	|	species	|		|	
+1182999	|	1182848	|	Tropidomantinae	|	subfamily	|		|	
+1183000	|	1182999	|	Tropidomantini	|	tribe	|		|	
+1183001	|	1183000	|	Chloromantis	|	genus	|		|	
+1183002	|	1183001	|	Chloromantis impunctata	|	species	|		|	
+1183003	|	1183001	|	Chloromantis rhombica	|	species	|		|	
+1183004	|	1183000	|	Enicophlebia	|	genus	|		|	
+1183005	|	1183004	|	Enicophlebia hilara	|	species	|		|	
+1183006	|	1183004	|	Enicophlebia pallida	|	species	|		|	
+1183007	|	1183000	|	Hyalomantis	|	genus	|		|	
+1183008	|	1183007	|	Hyalomantis madagascariensis	|	species	|		|	
+1183010	|	1183007	|	Hyalomantis antsingica	|	species	|		|	
+1183011	|	1183007	|	Hyalomantis murzini	|	species	|		|	
+1183012	|	1183007	|	Hyalomantis whitingi	|	species	|		|	
+1183013	|	1183000	|	Kongobatha	|	genus	|		|	
+1183014	|	1183013	|	Kongobatha diademata	|	species	|		|	
+1183015	|	1183013	|	Kongobatha papua	|	species	|		|	
+1183016	|	1183000	|	Melomantis	|	genus	|		|	
+1183017	|	1183016	|	Melomantis africana	|	species	|		|	
+1183018	|	1183016	|	Melomantis asema	|	species	|		|	
+1183019	|	1183000	|	Miromantis	|	genus	|		|	
+1183020	|	1183019	|	Miromantis indica	|	species	|		|	
+1183021	|	1183019	|	Miromantis mirandula	|	species	|		|	
+1183023	|	1183019	|	Miromantis thalassina	|	species	|		|	
+1183024	|	1183019	|	Miromantis yunnanensis	|	species	|		|	
+1183026	|	1183000	|	Negromantis	|	genus	|		|	
+1183027	|	1183026	|	Negromantis gracilis	|	species	|		|	
+1183028	|	1183026	|	Negromantis gracillima	|	species	|		|	
+1183029	|	1183026	|	Negromantis lutescens	|	species	|		|	
+1183030	|	1183026	|	Negromantis modesta	|	species	|		|	
+1183032	|	1183000	|	Neomantis	|	genus	|		|	
+1183033	|	1183032	|	Neomantis australis	|	species	|		|	
+1183034	|	1183032	|	Neomantis hyalina	|	species	|		|	
+1183035	|	1183032	|	Neomantis robusta	|	species	|		|	
+1183036	|	1183000	|	Oxymantis	|	genus	|		|	
+1183037	|	1183036	|	Oxymantis punctillata	|	species	|		|	
+1183038	|	1183000	|	Platycalymma	|	genus	|		|	
+1183039	|	1183038	|	Platycalymma befasica	|	species	|		|	
+1183040	|	1183038	|	Platycalymma dichroica	|	species	|		|	
+1183041	|	1183038	|	Platycalymma latipennis	|	species	|		|	
+1183043	|	1183038	|	Platycalymma annulicornis	|	species	|		|	
+1183044	|	1183038	|	Platycalymma mahafalica	|	species	|		|	
+1183045	|	1183038	|	Platycalymma viettei	|	species	|		|	
+1183046	|	1183000	|	Tropidomantis	|	genus	|		|	
+1183047	|	1183046	|	Tropidomantis (Tropidomantis)	|	subgenus	|		|	
+1183048	|	1183047	|	Tropidomantis (Tropidomantis) gressitti	|	species	|		|	
+1183049	|	1183047	|	Tropidomantis (Tropidomantis) tenera	|	species	|		|	
+1183051	|	1183046	|	Tropidomantis (Eomantis)	|	subgenus	|		|	
+1183052	|	1183051	|	Tropidomantis (Eomantis) guttatipennis	|	species	|		|	
+1183053	|	1183051	|	Tropidomantis (Eomantis) iridipennis	|	species	|		|	
+1183054	|	1183051	|	Tropidomantis (Eomantis) yunnanensis	|	species	|		|	
+1183055	|	1183000	|	Xanthomantis	|	genus	|		|	
+1183056	|	1183055	|	Xanthomantis bimaculata	|	species	|		|	
+1183057	|	1183055	|	Xanthomantis flava	|	species	|		|	
+1183058	|	1183055	|	Xanthomantis malayana	|	species	|		|	
+1183059	|	1183055	|	Xanthomantis mantispoides	|	species	|		|	
+1183060	|	1183055	|	Xanthomantis ornata	|	species	|		|	
+1183064	|	1182848	|	Nilomantinae	|	subfamily	|		|	
+1183065	|	1183064	|	Epsomantis	|	genus	|		|	
+1183066	|	1183065	|	Epsomantis tortricoides	|	species	|		|	
+1183067	|	1183064	|	Mimomantis	|	genus	|		|	
+1183068	|	1183067	|	Mimomantis milloti	|	species	|		|	
+1183069	|	1183064	|	Nilomantis	|	genus	|		|	
+1183070	|	1183069	|	Nilomantis edmundsi	|	species	|		|	
+1183071	|	1183069	|	Nilomantis floweri	|	species	|		|	
+1183075	|	1183064	|	Papugalepsus	|	genus	|		|	
+1183076	|	1183075	|	Papugalepsus alatus	|	species	|		|	
+1183077	|	1183075	|	Papugalepsus elongatus	|	species	|		|	
+1183078	|	1183064	|	Ilomantis	|	genus	|		|	
+1183079	|	1183078	|	Ilomantis thalassina	|	species	|		|	
+1183080	|	1182267	|	Liturgusidae	|	family	|		|	
+1183081	|	1183080	|	Liturgusinae	|	subfamily	|		|	
+1183082	|	1183081	|	Liturgusini	|	tribe	|		|	
+1183083	|	1183082	|	Ciulfina	|	genus	|		|	
+1183084	|	1183083	|	Ciulfina biseriata	|	species	|		|	
+1183086	|	1183083	|	Ciulfina liturgusa	|	species	|		|	
+1183087	|	1183083	|	Ciulfina baldersoni	|	species	|		|	
+1183088	|	1183083	|	Ciulfina klassi	|	species	|		|	
+1183089	|	1183083	|	Ciulfina rentzi	|	species	|		|	
+1183090	|	1183082	|	Dactylopteryx	|	genus	|		|	
+1183091	|	1183090	|	Dactylopteryx flexuosa	|	species	|		|	
+1183093	|	1183090	|	Dactylopteryx intermedia	|	species	|		|	
+1183094	|	1183090	|	Dactylopteryx orientalis	|	species	|		|	
+1183096	|	1183082	|	Gonatista	|	genus	|		|	
+1183097	|	1183096	|	Gonatista grisea	|	species	|		|	
+1183098	|	1183096	|	Gonatista major	|	species	|		|	
+1183099	|	1183096	|	Gonatista phryganoides	|	species	|		|	
+1183100	|	1183096	|	Gonatista reticulata	|	species	|		|	
+1183103	|	1183096	|	Gonatista jaiba	|	species	|		|	
+1183104	|	1183082	|	Gonatistella	|	genus	|		|	
+1183105	|	1183104	|	Gonatistella nigropicta	|	species	|		|	
+1183106	|	1183082	|	Hagiomantis	|	genus	|		|	
+1183107	|	1217742	|	Fuga fluminensis	|	species	|		|	
+1183108	|	1183106	|	Hagiomantis ornata	|	species	|		|	
+1183110	|	1183106	|	Hagiomantis pallida	|	species	|		|	
+1183112	|	1183106	|	Hagiomantis superba	|	species	|		|	
+1183113	|	1183106	|	Hagiomantis surinamensis	|	species	|		|	
+1183114	|	1183082	|	Humbertiella	|	genus	|		|	
+1183115	|	1183114	|	Humbertiella affinis	|	species	|		|	
+1183116	|	1183114	|	Humbertiella africana	|	species	|		|	
+1183117	|	1183114	|	Humbertiella assimilata	|	species	|		|	
+1183118	|	1183114	|	Humbertiella brunneri	|	species	|		|	
+1183119	|	1183114	|	Humbertiella ceylonica	|	species	|		|	
+1183121	|	1183114	|	Humbertiella indica	|	species	|		|	
+1183122	|	1183114	|	Humbertiella laosana	|	species	|		|	
+1183123	|	1183114	|	Humbertiella nada	|	species	|		|	
+1183124	|	1183114	|	Humbertiella nigrospinosa	|	species	|		|	
+1183125	|	1183114	|	Humbertiella ocularis	|	species	|		|	
+1183127	|	1183114	|	Humbertiella similis	|	species	|		|	
+1183128	|	1183114	|	Humbertiella taprobanarum	|	species	|		|	
+1183130	|	1183114	|	Humbertiella yunnanensis	|	species	|		|	
+1183133	|	1183147	|	Liturgusa actuosa	|	species	|		|	
+1183134	|	1217742	|	Fuga annulipes	|	species	|		|	
+1183135	|	1217746	|	Corticomantis atricoxata	|	species	|		|	
+1183136	|	1183147	|	Liturgusa cayennensis	|	species	|		|	
+1183137	|	1183147	|	Liturgusa charpentieri	|	species	|		|	
+1183138	|	1183147	|	Liturgusa cursor	|	species	|		|	
+1183139	|	1183147	|	Liturgusa guyanensis	|	species	|		|	
+1183140	|	1183147	|	Liturgusa lichenalis	|	species	|		|	
+1183141	|	1183147	|	Liturgusa maya	|	species	|		|	
+1183142	|	1183106	|	Hagiomantis mesopoda	|	species	|		|	
+1183143	|	1183147	|	Liturgusa nubeculosa	|	species	|		|	
+1183147	|	1183082	|	Liturgusa	|	genus	|		|	
+1183148	|	1183082	|	Liturgusella	|	genus	|		|	
+1183149	|	1183148	|	Liturgusella malagassa	|	species	|		|	
+1183150	|	1183082	|	Majanga	|	genus	|		|	
+1183151	|	1183150	|	Majanga basilaris	|	species	|		|	
+1183152	|	1183150	|	Majanga spinosa	|	species	|		|	
+1183153	|	1183150	|	Majanga tricolor	|	species	|		|	
+1183155	|	1182475	|	Majangella	|	genus	|		|	
+1183156	|	1183155	|	Majangella carli	|	species	|		|	
+1183157	|	1183155	|	Majangella moultoni	|	species	|		|	
+1183158	|	1183082	|	Mellierella	|	genus	|		|	
+1183159	|	1183158	|	Mellierella biroi	|	species	|		|	
+1183161	|	1183158	|	Mellierella trifasciata	|	species	|		|	
+1183163	|	1183082	|	Pseudogousa	|	genus	|		|	
+1183164	|	1183163	|	Pseudogousa sinensis	|	species	|		|	
+1183165	|	1183082	|	Scolodera	|	genus	|		|	
+1183166	|	1183165	|	Scolodera pardalotus	|	species	|		|	
+1183167	|	1183082	|	Stenomantis	|	genus	|		|	
+1183168	|	1183167	|	Stenomantis novaeguineae	|	species	|		|	
+1183170	|	1183082	|	Theopompa	|	genus	|		|	
+1183171	|	1183170	|	Theopompa borneana	|	species	|		|	
+1183172	|	1183170	|	Theopompa burmeisteri	|	species	|		|	
+1183173	|	1183170	|	Theopompa ophthalmica	|	species	|		|	
+1183178	|	1183170	|	Theopompa servillei	|	species	|		|	
+1183179	|	1183170	|	Theopompa tosta	|	species	|		|	
+1183180	|	1183082	|	Theopompella	|	genus	|		|	
+1183181	|	1183180	|	Theopompella aurivillii	|	species	|		|	
+1183182	|	1183180	|	Theopompella chopardi	|	species	|		|	
+1183183	|	1183180	|	Theopompella congica	|	species	|		|	
+1183184	|	1183180	|	Theopompella elegans	|	species	|		|	
+1183185	|	1183180	|	Theopompella fusca	|	species	|		|	
+1183186	|	1183180	|	Theopompella heterochroa	|	species	|		|	
+1183188	|	1183180	|	Theopompella orientalis	|	species	|		|	
+1183189	|	1183180	|	Theopompella pallida	|	species	|		|	
+1183190	|	1183180	|	Theopompella westwoodi	|	species	|		|	
+1183191	|	1183082	|	Zouza	|	genus	|		|	
+1183192	|	1183191	|	Zouza radiosa	|	species	|		|	
+1183195	|	1182267	|	Mantidae	|	family	|		|	
+1183196	|	1183195	|	Dystactinae	|	subfamily	|		|	
+1183197	|	1183196	|	Dystactini	|	tribe	|		|	
+1183198	|	1183197	|	Achlaena	|	genus	|		|	
+1183200	|	1183198	|	Achlaena grandis	|	species	|		|	
+1183204	|	1183197	|	Achlaenella	|	genus	|		|	
+1183205	|	1183204	|	Achlaenella adolphifrederici	|	species	|		|	
+1183207	|	1183197	|	Armene	|	genus	|		|	
+1183208	|	1183207	|	Armene breviptera	|	species	|		|	
+1183209	|	1183207	|	Armene fanica	|	species	|		|	
+1183210	|	1183207	|	Armene griseolata	|	species	|		|	
+1183211	|	1183207	|	Armene hissarica	|	species	|		|	
+1183212	|	1183211	|	Armene hissarica hissarica	|	subspecies	|		|	
+1183213	|	1183211	|	Armene hissarica oculiparva	|	subspecies	|		|	
+1183214	|	1183207	|	Armene pusilla	|	species	|		|	
+1183215	|	1183214	|	Armene pusilla pusilla	|	subspecies	|		|	
+1183217	|	1183214	|	Armene pusilla seravshanica	|	subspecies	|		|	
+1183218	|	1183207	|	Armene robusta	|	species	|		|	
+1183219	|	1183207	|	Armene silvicola	|	species	|		|	
+1183220	|	1183197	|	Beesonula	|	genus	|		|	
+1183222	|	1183220	|	Beesonula pallida	|	species	|		|	
+1183223	|	1183197	|	Dystacta	|	genus	|		|	
+1183224	|	1183223	|	Dystacta alticeps	|	species	|		|	
+1183229	|	1183197	|	Paraligaria	|	genus	|		|	
+1183230	|	1183229	|	Paraligaria malawica	|	species	|		|	
+1183231	|	1183197	|	Pseudodystacta	|	genus	|		|	
+1183232	|	1183231	|	Pseudodystacta braueri	|	species	|		|	
+1183233	|	1183197	|	Sphaeromantis	|	genus	|		|	
+1183234	|	1183233	|	Sphaeromantis spinicollis	|	species	|		|	
+1183235	|	1183233	|	Sphaeromantis spinulosa	|	species	|		|	
+1183236	|	1183195	|	Amelinae	|	subfamily	|		|	
+1183237	|	1183195	|	Compsothespinae	|	subfamily	|		|	
+1183238	|	1183236	|	Amelini	|	tribe	|		|	
+1183239	|	1183238	|	Amantis	|	genus	|		|	
+1183240	|	1183239	|	Amantis aeta	|	species	|		|	
+1183241	|	1183239	|	Amantis aliena	|	species	|		|	
+1183242	|	1183239	|	Amantis basilana	|	species	|		|	
+1183243	|	1183239	|	Amantis biroi	|	species	|		|	
+1183244	|	1183239	|	Amantis bolivari	|	species	|		|	
+1183245	|	1183239	|	Amantis fuliginosa	|	species	|		|	
+1183246	|	1183239	|	Amantis fumosana	|	species	|		|	
+1183247	|	1183239	|	Amantis gestri	|	species	|		|	
+1183248	|	1183239	|	Amantis hainanensis	|	species	|		|	
+1183249	|	1183239	|	Amantis indica	|	species	|		|	
+1183250	|	1183239	|	Amantis irina	|	species	|		|	
+1183251	|	1183239	|	Amantis lofaoshanensis	|	species	|		|	
+1183252	|	1183239	|	Amantis longipennis	|	species	|		|	
+1183253	|	1183239	|	Amantis malayana	|	species	|		|	
+1183254	|	1183239	|	Amantis nawai	|	species	|		|	
+1183255	|	1183239	|	Amantis philippina	|	species	|		|	
+1183256	|	1183239	|	Amantis reticulata	|	species	|		|	
+1183257	|	1183239	|	Amantis saussurei	|	species	|		|	
+1183258	|	1183239	|	Amantis subirina	|	species	|		|	
+1183259	|	1183239	|	Amantis testacea	|	species	|		|	
+1183260	|	1183239	|	Amantis tristis	|	species	|		|	
+1183261	|	1183239	|	Amantis vitalisi	|	species	|		|	
+1183264	|	1183238	|	Ameles	|	genus	|		|	
+1183265	|	1183264	|	Ameles abjecta	|	species	|		|	
+1183266	|	1183264	|	Ameles aegyptiaca	|	species	|		|	
+1183267	|	1183264	|	Ameles africana	|	species	|		|	
+1183268	|	1183264	|	Ameles arabica	|	species	|		|	
+1183269	|	1183264	|	Ameles assoi	|	species	|		|	
+1183270	|	1183269	|	Ameles assoi assoi	|	subspecies	|		|	
+1183271	|	1183269	|	Ameles assoi melillense	|	subspecies	|		|	
+1183272	|	1183264	|	Ameles crassinervis	|	species	|		|	
+1183273	|	1183264	|	Ameles cypria	|	species	|		|	
+1183274	|	1183264	|	Ameles decolor	|	species	|		|	
+1183275	|	1183264	|	Ameles dumonti	|	species	|		|	
+1183276	|	1183264	|	Ameles fasciipennis	|	species	|		|	
+1183277	|	1183264	|	Ameles gracilis	|	species	|		|	
+1183278	|	1183264	|	Ameles heldreichi	|	species	|		|	
+1183279	|	1183264	|	Ameles kervillei	|	species	|		|	
+1183280	|	1183264	|	Ameles maroccana	|	species	|		|	
+1183281	|	1183264	|	Ameles modesta	|	species	|		|	
+1183282	|	1183264	|	Ameles moralesi	|	species	|		|	
+1183283	|	1183282	|	Ameles moralesi moralesi	|	subspecies	|		|	
+1183284	|	1183282	|	Ameles moralesi confusa	|	subspecies	|		|	
+1183285	|	1183264	|	Ameles nana	|	species	|		|	
+1183287	|	1183264	|	Ameles persa	|	species	|		|	
+1183288	|	1183264	|	Ameles picteti	|	species	|		|	
+1183289	|	1183264	|	Ameles poggii	|	species	|		|	
+1183290	|	1183264	|	Ameles soror	|	species	|		|	
+1183291	|	1183264	|	Ameles spallanzania	|	species	|		|	
+1183292	|	1183264	|	Ameles syriensis	|	species	|		|	
+1183293	|	1183264	|	Ameles taurica	|	species	|		|	
+1183294	|	1183264	|	Ameles wadisirhani	|	species	|		|	
+1183296	|	1183264	|	Ameles limbata	|	species	|		|	
+1183297	|	1183264	|	Ameles massai	|	species	|		|	
+1183298	|	1183238	|	Apterameles	|	genus	|		|	
+1183299	|	1183298	|	Apterameles rammei	|	species	|		|	
+1183300	|	1183238	|	Apteromantis	|	genus	|		|	
+1183301	|	1183300	|	Apteromantis aptera	|	species	|		|	
+1183302	|	1183300	|	Apteromantis bolivari	|	species	|		|	
+1183303	|	1183238	|	Armeniola	|	genus	|		|	
+1183304	|	1183303	|	Armeniola laevis	|	species	|		|	
+1183305	|	1183238	|	Bimantis	|	genus	|		|	
+1183306	|	1183305	|	Bimantis malaccana	|	species	|		|	
+1183307	|	1183238	|	Bolbella	|	genus	|		|	
+1183308	|	1183307	|	Bolbella affinis	|	species	|		|	
+1183309	|	1183307	|	Bolbella brevis	|	species	|		|	
+1183310	|	1183307	|	Bolbella punctigera	|	species	|		|	
+1183313	|	1183307	|	Bolbella rhodesiaca	|	species	|		|	
+1183314	|	1183307	|	Bolbella kaltenbachi	|	species	|		|	
+1183315	|	1183307	|	Bolbella uhligi	|	species	|		|	
+1183316	|	1183238	|	Compsomantis	|	genus	|		|	
+1183317	|	1183316	|	Compsomantis ceylonica	|	species	|		|	
+1183318	|	1183316	|	Compsomantis crassiceps	|	species	|		|	
+1183320	|	1183316	|	Compsomantis mindoroensis	|	species	|		|	
+1183321	|	1183316	|	Compsomantis robusta	|	species	|		|	
+1183322	|	1183316	|	Compsomantis semirufula	|	species	|		|	
+1183323	|	1183316	|	Compsomantis tumidiceps	|	species	|		|	
+1183325	|	1183238	|	Congomantis	|	genus	|		|	
+1183326	|	1183325	|	Congomantis femoralis	|	species	|		|	
+1183327	|	1183238	|	Dimantis	|	genus	|		|	
+1183328	|	1183327	|	Dimantis haani	|	species	|		|	
+1183329	|	1183238	|	Dystactula	|	genus	|		|	
+1183330	|	1183329	|	Dystactula grisea	|	species	|		|	
+1183332	|	1183329	|	Dystactula natalensis	|	species	|		|	
+1183335	|	1183329	|	Dystactula kaltenbachi	|	species	|		|	
+1183336	|	1183238	|	Elaea	|	genus	|		|	
+1183337	|	1183336	|	Elaea gestroi	|	species	|		|	
+1183338	|	1183337	|	Elaea gestroi gestroi	|	subspecies	|		|	
+1183339	|	1183337	|	Elaea gestroi wittmeri	|	subspecies	|		|	
+1183340	|	1183336	|	Elaea infumata	|	species	|		|	
+1183341	|	1183336	|	Elaea marchali	|	species	|		|	
+1183342	|	1183341	|	Elaea marchali marchali	|	subspecies	|		|	
+1183343	|	1183341	|	Elaea marchali pallida	|	subspecies	|		|	
+1183344	|	1183336	|	Elaea perloides	|	species	|		|	
+1183345	|	1183336	|	Elaea richteri	|	species	|		|	
+1183346	|	1183336	|	Elaea somalica	|	species	|		|	
+1183347	|	1183336	|	Elaea solimani	|	species	|		|	
+1183348	|	1183238	|	Elmantis	|	genus	|		|	
+1183349	|	1183348	|	Elmantis lata	|	species	|		|	
+1183350	|	1183348	|	Elmantis nira	|	species	|		|	
+1183351	|	1183348	|	Elmantis trincomaliae	|	species	|		|	
+1183353	|	1183238	|	Gimantis	|	genus	|		|	
+1183354	|	1183353	|	Gimantis assamica	|	species	|		|	
+1183355	|	1183353	|	Gimantis authaemon	|	species	|		|	
+1183356	|	1183353	|	Gimantis insularis	|	species	|		|	
+1183357	|	1183353	|	Gimantis marmorata	|	species	|		|	
+1183359	|	1183238	|	Gonypeta	|	genus	|		|	
+1183360	|	1183359	|	Gonypeta borneana	|	species	|		|	
+1183361	|	1183359	|	Gonypeta brigittae	|	species	|		|	
+1183362	|	1183359	|	Gonypeta brunneri	|	species	|		|	
+1183363	|	1183359	|	Gonypeta noctivaga	|	species	|		|	
+1183364	|	1183359	|	Gonypeta punctata	|	species	|		|	
+1183367	|	1183359	|	Gonypeta rotundata	|	species	|		|	
+1183368	|	1183359	|	Gonypeta simplex	|	species	|		|	
+1183369	|	1183238	|	Gonypetella	|	genus	|		|	
+1183370	|	1183369	|	Gonypetella atra	|	species	|		|	
+1183371	|	1183369	|	Gonypetella atrocephala	|	species	|		|	
+1183372	|	1183369	|	Gonypetella australis	|	species	|		|	
+1183373	|	1183369	|	Gonypetella carinata	|	species	|		|	
+1183374	|	1183369	|	Gonypetella deletrix	|	species	|		|	
+1183375	|	1183369	|	Gonypetella flavicornis	|	species	|		|	
+1183378	|	1183369	|	Gonypetella fusca	|	species	|		|	
+1183379	|	1183369	|	Gonypetella fuscipes	|	species	|		|	
+1183380	|	1183369	|	Gonypetella infumata	|	species	|		|	
+1183381	|	1183369	|	Gonypetella ivoirensis	|	species	|		|	
+1183382	|	1183369	|	Gonypetella kilimandjarica	|	species	|		|	
+1183383	|	1183382	|	Gonypetella kilimandjarica kilimandjarica	|	subspecies	|		|	
+1183385	|	1183382	|	Gonypetella kilimandjarica hyaloptera	|	subspecies	|		|	
+1183386	|	1183369	|	Gonypetella punctata	|	species	|		|	
+1183387	|	1183238	|	Gonypetoides	|	genus	|		|	
+1183388	|	1183387	|	Gonypetoides brevipennis	|	species	|		|	
+1183389	|	1183238	|	Gonypetyllis	|	genus	|		|	
+1183390	|	1183389	|	Gonypetyllis semuncialis	|	species	|		|	
+1183392	|	1183389	|	Gonypetyllis micra	|	species	|		|	
+1183393	|	1183238	|	Haldwania	|	genus	|		|	
+1183394	|	1183393	|	Haldwania liliputana	|	species	|		|	
+1183395	|	1183238	|	Holaptilon	|	genus	|		|	
+1183396	|	1183395	|	Holaptilon pusillulum	|	species	|		|	
+1183397	|	1183238	|	Litaneutria	|	genus	|		|	
+1183398	|	1183397	|	Litaneutria borealis	|	species	|		|	
+1183399	|	1183397	|	Litaneutria longipennis	|	species	|		|	
+1183400	|	1183397	|	Litaneutria minor	|	species	|		|	
+1183401	|	1183397	|	Litaneutria obscura	|	species	|		|	
+1183402	|	1183397	|	Litaneutria ocularis	|	species	|		|	
+1183403	|	1183397	|	Litaneutria pacifica	|	species	|		|	
+1183404	|	1183397	|	Litaneutria skinneri	|	species	|		|	
+1183405	|	1183238	|	Memantis	|	genus	|		|	
+1183406	|	1183405	|	Memantis anomala	|	species	|		|	
+1183407	|	1183405	|	Memantis fuliginosa	|	species	|		|	
+1183410	|	1183405	|	Memantis gardneri	|	species	|		|	
+1183411	|	1183405	|	Memantis minor	|	species	|		|	
+1183412	|	1183238	|	Myrcinus	|	genus	|		|	
+1183413	|	1183412	|	Myrcinus aspera	|	species	|		|	
+1183414	|	1183412	|	Myrcinus octispinus	|	species	|		|	
+1183415	|	1183412	|	Myrcinus tuberosus	|	species	|		|	
+1183416	|	1183238	|	Pseudoyersinia	|	genus	|		|	
+1183417	|	1183416	|	Pseudoyersinia betancuriae	|	species	|		|	
+1183418	|	1183416	|	Pseudoyersinia brevipennis	|	species	|		|	
+1183419	|	1183416	|	Pseudoyersinia canariensis	|	species	|		|	
+1183420	|	1183416	|	Pseudoyersinia inaspectata	|	species	|		|	
+1183421	|	1183416	|	Pseudoyersinia kabilica	|	species	|		|	
+1183422	|	1183416	|	Pseudoyersinia lagrecai	|	species	|		|	
+1183423	|	1183416	|	Pseudoyersinia occidentalis	|	species	|		|	
+1183424	|	1183416	|	Pseudoyersinia paui	|	species	|		|	
+1183425	|	1183416	|	Pseudoyersinia pilipes	|	species	|		|	
+1183426	|	1183416	|	Pseudoyersinia salvinae	|	species	|		|	
+1183427	|	1183416	|	Pseudoyersinia subaptera	|	species	|		|	
+1183429	|	1183416	|	Pseudoyersinia teydeana	|	species	|		|	
+1183430	|	1183238	|	Telomantis	|	genus	|		|	
+1183431	|	1183430	|	Telomantis lamperti	|	species	|		|	
+1183434	|	1183430	|	Telomantis robusta	|	species	|		|	
+1183435	|	1183238	|	Yersinia	|	genus	|		|	
+1183436	|	1183435	|	Yersinia mexicana	|	species	|		|	
+1183438	|	1183238	|	Yersiniops	|	genus	|		|	
+1183439	|	1183438	|	Yersiniops newboldi	|	species	|		|	
+1183440	|	1183438	|	Yersiniops solitarius	|	species	|		|	
+1183441	|	1183438	|	Yersiniops sophronicus	|	species	|		|	
+1183442	|	1183195	|	Stagmomantinae	|	subfamily	|		|	
+1183443	|	1183442	|	Callimantis	|	genus	|		|	
+1183444	|	1183443	|	Callimantis antillarum	|	species	|		|	
+1183445	|	1183442	|	Phasmomantis	|	genus	|		|	
+1183446	|	1183445	|	Phasmomantis basalis	|	species	|		|	
+1183447	|	1183445	|	Phasmomantis championi	|	species	|		|	
+1183449	|	1183445	|	Phasmomantis sumichrasti	|	species	|		|	
+1183452	|	1183442	|	Stagmomantis	|	genus	|		|	
+1183453	|	1183452	|	Stagmomantis amazonica	|	species	|		|	
+1183455	|	1183452	|	Stagmomantis californica	|	species	|		|	
+1183456	|	1183452	|	Stagmomantis carolina	|	species	|		|	
+1183473	|	1183452	|	Stagmomantis coerulans	|	species	|		|	
+1183474	|	1183452	|	Stagmomantis colorata	|	species	|		|	
+1183475	|	1183452	|	Stagmomantis costalis	|	species	|		|	
+1183476	|	1183452	|	Stagmomantis domingensis	|	species	|		|	
+1183479	|	1183452	|	Stagmomantis floridensis	|	species	|		|	
+1183480	|	1183452	|	Stagmomantis fraterna	|	species	|		|	
+1183482	|	1183452	|	Stagmomantis gracilipes	|	species	|		|	
+1183483	|	1183452	|	Stagmomantis hebardi	|	species	|		|	
+1183484	|	1183452	|	Stagmomantis heterogamia	|	species	|		|	
+1183485	|	1183452	|	Stagmomantis limbata	|	species	|		|	
+1183490	|	1183452	|	Stagmomantis marginata	|	species	|		|	
+1183491	|	1183452	|	Stagmomantis maya	|	species	|		|	
+1183492	|	1183452	|	Stagmomantis montana	|	species	|		|	
+1183493	|	1183492	|	Stagmomantis montana montana	|	subspecies	|		|	
+1183497	|	1183492	|	Stagmomantis montana sinaloae	|	subspecies	|		|	
+1183498	|	1183452	|	Stagmomantis nahua	|	species	|		|	
+1183499	|	1183452	|	Stagmomantis pagana	|	species	|		|	
+1183501	|	1183452	|	Stagmomantis paraensis	|	species	|		|	
+1183502	|	1183452	|	Stagmomantis parvidentata	|	species	|		|	
+1183503	|	1183452	|	Stagmomantis theophila	|	species	|		|	
+1183508	|	1183452	|	Stagmomantis tolteca	|	species	|		|	
+1183509	|	1183452	|	Stagmomantis venusta	|	species	|		|	
+1183511	|	1183452	|	Stagmomantis vicina	|	species	|		|	
+1183520	|	1183195	|	Angelinae	|	subfamily	|		|	
+1183521	|	1183520	|	Tagalomantis	|	genus	|		|	
+1183522	|	1183521	|	Tagalomantis brevis	|	species	|		|	
+1183523	|	1183521	|	Tagalomantis manillensis	|	species	|		|	
+1183524	|	1183520	|	Afrothespis	|	genus	|		|	
+1183526	|	1183520	|	Catigaonopsis	|	genus	|		|	
+1183527	|	1183526	|	Catigaonopsis providenceae	|	species	|		|	
+1183528	|	1183520	|	Angelini	|	tribe	|		|	
+1183529	|	1183528	|	Agrionopsis	|	genus	|		|	
+1183530	|	1183529	|	Agrionopsis bacilliformis	|	species	|		|	
+1183531	|	1183529	|	Agrionopsis brachyptera	|	species	|		|	
+1183532	|	1183529	|	Agrionopsis congica	|	species	|		|	
+1183533	|	1183529	|	Agrionopsis distanti	|	species	|		|	
+1183534	|	1183529	|	Agrionopsis modesta	|	species	|		|	
+1183535	|	1183528	|	Angela	|	genus	|		|	
+1183536	|	1183535	|	Angela armata	|	species	|		|	
+1183538	|	1183535	|	Angela brachyptera	|	species	|		|	
+1183539	|	1183535	|	Angela championi	|	species	|		|	
+1183540	|	1183535	|	Angela decolor	|	species	|		|	
+1183541	|	1183535	|	Angela guianensis	|	species	|		|	
+1183543	|	1183535	|	Angela inermis	|	species	|		|	
+1183544	|	1183535	|	Angela lemoulti	|	species	|		|	
+1183545	|	1183535	|	Angela maxima	|	species	|		|	
+1183546	|	1183535	|	Angela minor	|	species	|		|	
+1183547	|	1183535	|	Angela miranda	|	species	|		|	
+1183548	|	1183535	|	Angela ornata	|	species	|		|	
+1183549	|	1183535	|	Angela perpulchra	|	species	|		|	
+1183550	|	1183535	|	Angela peruviana	|	species	|		|	
+1183551	|	1183535	|	Angela purpurascens	|	species	|		|	
+1183553	|	1183535	|	Angela quinquemaculata	|	species	|		|	
+1183555	|	1183535	|	Angela saussurii	|	species	|		|	
+1183556	|	1183535	|	Angela subhyalina	|	species	|		|	
+1183557	|	1183535	|	Angela werneri	|	species	|		|	
+1183558	|	1183535	|	Angela trifasciata	|	species	|		|	
+1183559	|	1183558	|	Angela trifasciata trifasciata	|	subspecies	|		|	
+1183560	|	1183558	|	Angela trifasciata chocoana	|	subspecies	|		|	
+1183561	|	1183528	|	Euchomenella	|	genus	|		|	
+1183562	|	1183561	|	Euchomenella apicalis	|	species	|		|	
+1183563	|	1183561	|	Euchomenella heteroptera	|	species	|		|	
+1183564	|	1183561	|	Euchomenella matilei	|	species	|		|	
+1183565	|	1183561	|	Euchomenella moluccarum	|	species	|		|	
+1183566	|	1183561	|	Euchomenella pallida	|	species	|		|	
+1183567	|	1183561	|	Euchomenella thoracica	|	species	|		|	
+1183568	|	1183561	|	Euchomenella macrops	|	species	|		|	
+1183569	|	1183561	|	Euchomenella udovichenkoi	|	species	|		|	
+1183570	|	1183528	|	Leptocola	|	genus	|		|	
+1183571	|	1183570	|	Leptocola seriepunctata	|	species	|		|	
+1183572	|	1183570	|	Leptocola stanleyana	|	species	|		|	
+1183575	|	1183570	|	Leptocola fragilis	|	species	|		|	
+1183576	|	1183570	|	Leptocola giraffa	|	species	|		|	
+1183577	|	1183570	|	Leptocola gracilis	|	species	|		|	
+1183578	|	1183570	|	Leptocola gracillima	|	species	|		|	
+1183579	|	1183570	|	Leptocola phthisica	|	species	|		|	
+1183580	|	1183738	|	Mythomantis	|	genus	|		|	
+1183581	|	1183580	|	Mythomantis confusa	|	species	|		|	
+1183582	|	1183580	|	Mythomantis gracilis	|	species	|		|	
+1183583	|	1183528	|	Stenopyga	|	genus	|		|	
+1183584	|	1183583	|	Stenopyga (Stenopyga)	|	subgenus	|		|	
+1183585	|	1183584	|	Stenopyga (Stenopyga) belinga	|	species	|		|	
+1183586	|	1183584	|	Stenopyga (Stenopyga) extera	|	species	|		|	
+1183588	|	1183584	|	Stenopyga (Stenopyga) ipassa	|	species	|		|	
+1183589	|	1183524	|	Afrothespis rhodesiaca	|	species	|		|	
+1183590	|	1183584	|	Stenopyga (Stenopyga) tenera	|	species	|		|	
+1183591	|	1183584	|	Stenopyga (Stenopyga) ziela	|	species	|		|	
+1183593	|	1183583	|	Stenopyga (Agriomantis)	|	subgenus	|		|	
+1183594	|	1183593	|	Stenopyga (Agriomantis) casta	|	species	|		|	
+1183595	|	1183583	|	Stenopyga (Stenopygella)	|	subgenus	|		|	
+1183596	|	1183595	|	Stenopyga (Stenopygella) orientalis	|	species	|		|	
+1183597	|	1183595	|	Stenopyga (Stenopygella) reticulata	|	species	|		|	
+1183598	|	1183595	|	Stenopyga (Stenopygella) usambarica	|	species	|		|	
+1183599	|	1183528	|	Thespoides	|	genus	|		|	
+1183600	|	1183599	|	Thespoides bolivari	|	species	|		|	
+1183601	|	1183528	|	Indomenella	|	genus	|		|	
+1183602	|	1183601	|	Indomenella indica	|	species	|		|	
+1183603	|	1183195	|	Antemninae	|	subfamily	|		|	
+1183604	|	1183603	|	Antemnini	|	tribe	|		|	
+1183605	|	1183604	|	Alluandella	|	genus	|		|	
+1183606	|	1183605	|	Alluandella himalayensis	|	species	|		|	
+1183607	|	1183604	|	Antemna	|	genus	|		|	
+1183608	|	1183607	|	Antemna rapax	|	species	|		|	
+1183613	|	1183195	|	Choeradodinae	|	subfamily	|		|	
+1183614	|	1183613	|	Prochaeradodis	|	genus	|		|	
+1183615	|	1183614	|	Prochaeradodis enigmaticus	|	species	|		|	
+1183616	|	1183613	|	Choeradodini	|	tribe	|		|	
+1183617	|	1183616	|	Asiadodis	|	genus	|		|	
+1183618	|	1183617	|	Asiadodis squilla	|	species	|		|	
+1183619	|	1183617	|	Asiadodis yunnanensis	|	species	|		|	
+1183620	|	1183616	|	Choeradodis	|	genus	|		|	
+1183621	|	1183620	|	Choeradodis columbica	|	species	|		|	
+1183622	|	1183620	|	Choeradodis rhombicollis	|	species	|		|	
+1183626	|	1183620	|	Choeradodis rhomboidea	|	species	|		|	
+1183629	|	1183620	|	Choeradodis stalii	|	species	|		|	
+1183630	|	1183620	|	Choeradodis strumaria	|	species	|		|	
+1183633	|	1183195	|	Chroicopterinae	|	subfamily	|		|	
+1183634	|	1183633	|	Chroicopterini	|	tribe	|		|	
+1183635	|	1183634	|	Betamantis	|	genus	|		|	
+1183636	|	1183635	|	Betamantis aliena	|	species	|		|	
+1183637	|	1183635	|	Betamantis marginella	|	species	|		|	
+1183638	|	1183634	|	Chopardentella	|	genus	|		|	
+1183639	|	1183638	|	Chopardentella royi	|	species	|		|	
+1183640	|	1183634	|	Chroicoptera	|	genus	|		|	
+1183641	|	1183640	|	Chroicoptera longa	|	species	|		|	
+1183642	|	1183640	|	Chroicoptera saussurei	|	species	|		|	
+1183643	|	1183640	|	Chroicoptera vidua	|	species	|		|	
+1183645	|	1183634	|	Entella	|	genus	|		|	
+1183646	|	1183645	|	Entella (Entella)	|	subgenus	|		|	
+1183647	|	1183646	|	Entella (Entella) angolensis	|	species	|		|	
+1183648	|	1183646	|	Entella (Entella) angolica	|	species	|		|	
+1183649	|	1183646	|	Entella (Entella) brunni	|	species	|		|	
+1183650	|	1183646	|	Entella (Entella) congica	|	species	|		|	
+1183651	|	1183646	|	Entella (Entella) delalandi	|	species	|		|	
+1183653	|	1183646	|	Entella (Entella) exilis	|	species	|		|	
+1183654	|	1183646	|	Entella (Entella) femina	|	species	|		|	
+1183655	|	1183646	|	Entella (Entella) fuliginosa	|	species	|		|	
+1183656	|	1183646	|	Entella (Entella) grandis	|	species	|		|	
+1183657	|	1183646	|	Entella (Entella) machadoi	|	species	|		|	
+1183658	|	1183646	|	Entella (Entella) meruensis	|	species	|		|	
+1183659	|	1183646	|	Entella (Entella) minor	|	species	|		|	
+1183660	|	1183646	|	Entella (Entella) natalica	|	species	|		|	
+1183661	|	1183646	|	Entella (Entella) nebulosa	|	species	|		|	
+1183662	|	1183646	|	Entella (Entella) obscura	|	species	|		|	
+1183663	|	1183646	|	Entella (Entella) orientalis	|	species	|		|	
+1183664	|	1183646	|	Entella (Entella) personata	|	species	|		|	
+1183665	|	1183646	|	Entella (Entella) pusilla	|	species	|		|	
+1183666	|	1183665	|	Entella (Entella) pusilla pusilla	|	subspecies	|		|	
+1183667	|	1183665	|	Entella (Entella) pusilla cruciata	|	subspecies	|		|	
+1183668	|	1183646	|	Entella (Entella) reussi	|	species	|		|	
+1183669	|	1183646	|	Entella (Entella) rudebecki	|	species	|		|	
+1183670	|	1183646	|	Entella (Entella) rukwaensis	|	species	|		|	
+1183671	|	1183646	|	Entella (Entella) stegmanni	|	species	|		|	
+1183672	|	1183646	|	Entella (Entella) taborana	|	species	|		|	
+1183673	|	1183646	|	Entella (Entella) transvaalica	|	species	|		|	
+1183674	|	1183646	|	Entella (Entella) vitticeps	|	species	|		|	
+1183678	|	1183645	|	Entella (Euentella)	|	subgenus	|		|	
+1183679	|	1183678	|	Entella (Euentella) gaerdesi	|	species	|		|	
+1183680	|	1183634	|	Entelloptera	|	genus	|		|	
+1183681	|	1183680	|	Entelloptera rogenhoferi	|	species	|		|	
+1183682	|	1183681	|	Entelloptera rogenhoferi rogenhoferi	|	subspecies	|		|	
+1183684	|	1183681	|	Entelloptera rogenhoferi maesta	|	subspecies	|		|	
+1183686	|	1183634	|	Ligaria	|	genus	|		|	
+1183687	|	1183686	|	Ligaria aberrans	|	species	|		|	
+1183688	|	1183686	|	Ligaria affinis	|	species	|		|	
+1183689	|	1183686	|	Ligaria backlundi	|	species	|		|	
+1183690	|	1183686	|	Ligaria brevicollis	|	species	|		|	
+1183691	|	1183690	|	Ligaria brevicollis brevicollis	|	subspecies	|		|	
+1183693	|	1183690	|	Ligaria brevicollis ignota	|	subspecies	|		|	
+1183694	|	1183686	|	Ligaria brevis	|	species	|		|	
+1183695	|	1183686	|	Ligaria chopardi	|	species	|		|	
+1183696	|	1183686	|	Ligaria clara	|	species	|		|	
+1183697	|	1183686	|	Ligaria costalis	|	species	|		|	
+1183698	|	1183686	|	Ligaria culicivora	|	species	|		|	
+1183699	|	1183686	|	Ligaria dentata	|	species	|		|	
+1183700	|	1183686	|	Ligaria denticollis	|	species	|		|	
+1183701	|	1183686	|	Ligaria diabolica	|	species	|		|	
+1183702	|	1183686	|	Ligaria inexpectata	|	species	|		|	
+1183703	|	1183686	|	Ligaria jeanneli	|	species	|		|	
+1183704	|	1183686	|	Ligaria quadrinotata	|	species	|		|	
+1183705	|	1183686	|	Ligaria quadripunctata	|	species	|		|	
+1183708	|	1183686	|	Ligaria senegalensis	|	species	|		|	
+1183711	|	1183634	|	Ligariella	|	genus	|		|	
+1183712	|	1183711	|	Ligariella australis	|	species	|		|	
+1183713	|	1183711	|	Ligariella bicornuta	|	species	|		|	
+1183714	|	1183711	|	Ligariella bolivari	|	species	|		|	
+1183715	|	1183711	|	Ligariella gracilis	|	species	|		|	
+1183717	|	1183711	|	Ligariella trigonalis	|	species	|		|	
+1183720	|	1183634	|	Ligentella	|	genus	|		|	
+1183721	|	1183720	|	Ligentella beieri	|	species	|		|	
+1183722	|	1183720	|	Ligentella lacualis	|	species	|		|	
+1183723	|	1183720	|	Ligentella zairensis	|	species	|		|	
+1183724	|	1183634	|	Macracanthopus	|	genus	|		|	
+1183725	|	1183724	|	Macracanthopus schoutedeni	|	species	|		|	
+1183726	|	1183724	|	Macracanthopus seydeli	|	species	|		|	
+1183727	|	1183634	|	Namamantis	|	genus	|		|	
+1183728	|	1183727	|	Namamantis nigropunctata	|	species	|		|	
+1183729	|	1183634	|	Parentella	|	genus	|		|	
+1183730	|	1183729	|	Parentella benguelae	|	species	|		|	
+1183731	|	1183729	|	Parentella laticollis	|	species	|		|	
+1183732	|	1183729	|	Parentella major	|	species	|		|	
+1183733	|	1183729	|	Parentella parva	|	species	|		|	
+1183734	|	1183729	|	Parentella producta	|	species	|		|	
+1183735	|	1183634	|	Rhachimantis	|	genus	|		|	
+1183736	|	1183735	|	Rhachimantis carinata	|	species	|		|	
+1183737	|	1183195	|	Deroplatyinae	|	subfamily	|		|	
+1183738	|	1183737	|	Deroplatyini	|	tribe	|		|	
+1183739	|	1183738	|	Brancsikia	|	genus	|		|	
+1183740	|	1183739	|	Brancsikia aeroplana	|	species	|		|	
+1183741	|	1183739	|	Brancsikia freyi	|	species	|		|	
+1183742	|	1183739	|	Brancsikia simplex	|	species	|		|	
+1183743	|	1183738	|	Deroplatys	|	genus	|		|	
+1183744	|	1183743	|	Deroplatys angustata	|	species	|		|	
+1183746	|	1183743	|	Deroplatys cordata	|	species	|		|	
+1183747	|	1183743	|	Deroplatys desiccata	|	species	|		|	
+1183750	|	1183743	|	Deroplatys gorochovi	|	species	|		|	
+1183751	|	1183743	|	Deroplatys lobata	|	species	|		|	
+1183753	|	1183743	|	Deroplatys moultoni	|	species	|		|	
+1183754	|	1183743	|	Deroplatys philippinica	|	species	|		|	
+1183755	|	1183743	|	Deroplatys rhombica	|	species	|		|	
+1183756	|	1183743	|	Deroplatys sarawaca	|	species	|		|	
+1183758	|	1183743	|	Deroplatys trigonodera	|	species	|		|	
+1183759	|	1183743	|	Deroplatys truncata	|	species	|		|	
+1183761	|	1183743	|	Deroplatys indica	|	species	|		|	
+1183762	|	1183195	|	Mantinae	|	subfamily	|		|	
+1183763	|	1183762	|	Archimantini	|	tribe	|		|	
+1183764	|	1183763	|	Archimantis	|	genus	|		|	
+1183765	|	1183764	|	Archimantis armata	|	species	|		|	
+1183766	|	1183764	|	Archimantis brunneriana	|	species	|		|	
+1183767	|	1183764	|	Archimantis gracilis	|	species	|		|	
+1183768	|	1183764	|	Archimantis latistyla	|	species	|		|	
+1183770	|	1183764	|	Archimantis monstrosa	|	species	|		|	
+1183773	|	1183764	|	Archimantis quinquelobata	|	species	|		|	
+1183774	|	1183764	|	Archimantis sobrina	|	species	|		|	
+1183776	|	1183764	|	Archimantis straminea	|	species	|		|	
+1183777	|	1183764	|	Archimantis vittata	|	species	|		|	
+1183779	|	1183763	|	Austrovates	|	genus	|		|	
+1183780	|	1183779	|	Austrovates papua	|	species	|		|	
+1183781	|	1183779	|	Austrovates variegata	|	species	|		|	
+1183784	|	1183763	|	Coenomantis	|	genus	|		|	
+1183785	|	1183784	|	Coenomantis kraussiana	|	species	|		|	
+1183789	|	1183763	|	Corthylomantis	|	genus	|		|	
+1183790	|	1183789	|	Corthylomantis baldersoni	|	species	|		|	
+1183791	|	1183763	|	Nullabora	|	genus	|		|	
+1183792	|	1183791	|	Nullabora flavoguttata	|	species	|		|	
+1183793	|	1183762	|	Paramantini	|	tribe	|		|	
+1183794	|	1183793	|	Mantasoa	|	genus	|		|	
+1183795	|	1183794	|	Mantasoa lebbei	|	species	|		|	
+1183796	|	1183794	|	Mantasoa maculata	|	species	|		|	
+1183797	|	1183793	|	Alalomantis	|	genus	|		|	
+1183798	|	1183797	|	Alalomantis coxalis	|	species	|		|	
+1183799	|	1183797	|	Alalomantis muta	|	species	|		|	
+1183800	|	1183793	|	Bisanthe	|	genus	|		|	
+1183801	|	1183800	|	Bisanthe lagrecai	|	species	|		|	
+1183802	|	1183800	|	Bisanthe menyharthi	|	species	|		|	
+1183803	|	1183802	|	Bisanthe menyharthi menyharthi	|	subspecies	|		|	
+1183804	|	1183802	|	Bisanthe menyharthi raggei	|	subspecies	|		|	
+1183805	|	1183800	|	Bisanthe modesta	|	species	|		|	
+1183806	|	1183800	|	Bisanthe pulchripennis	|	species	|		|	
+1183807	|	1183800	|	Bisanthe tricolor	|	species	|		|	
+1183808	|	1183793	|	Camelomantis	|	genus	|		|	
+1183809	|	1183808	|	Camelomantis giraffa	|	species	|		|	
+1183810	|	1183808	|	Camelomantis gracillima	|	species	|		|	
+1183811	|	1183808	|	Camelomantis moultoni	|	species	|		|	
+1183812	|	1183808	|	Camelomantis parva	|	species	|		|	
+1183813	|	1183808	|	Camelomantis penangica	|	species	|		|	
+1183814	|	1183808	|	Camelomantis sondaica	|	species	|		|	
+1183815	|	1183808	|	Camelomantis sumatrana	|	species	|		|	
+1183816	|	1183793	|	Hierodula	|	genus	|		|	
+1183817	|	1183816	|	Hierodula ansusana	|	species	|		|	
+1183818	|	1183816	|	Hierodula aruana	|	species	|		|	
+1183820	|	1183816	|	Hierodula assamensis	|	species	|		|	
+1183821	|	1183816	|	Hierodula atrocoxata	|	species	|		|	
+1183822	|	1183816	|	Hierodula beieri	|	species	|		|	
+1183823	|	1183816	|	Hierodula bhamoana	|	species	|		|	
+1183824	|	1183816	|	Hierodula biaka	|	species	|		|	
+1183825	|	1183816	|	Hierodula borneana	|	species	|		|	
+1183826	|	1183816	|	Hierodula brunnea	|	species	|		|	
+1183827	|	1183816	|	Hierodula chamoana	|	species	|		|	
+1183828	|	1183816	|	Hierodula chinensis	|	species	|		|	
+1183829	|	1183816	|	Hierodula coarctata	|	species	|		|	
+1183830	|	1183816	|	Hierodula crassa	|	species	|		|	
+1183831	|	1183816	|	Hierodula cuchingina	|	species	|		|	
+1183832	|	1183816	|	Hierodula daqingshanensis	|	species	|		|	
+1183833	|	1183816	|	Hierodula dolichoptera	|	species	|		|	
+1183834	|	1183816	|	Hierodula doveri	|	species	|		|	
+1183835	|	1183816	|	Hierodula dyaka	|	species	|		|	
+1183836	|	1183816	|	Hierodula everetti	|	species	|		|	
+1183837	|	1183816	|	Hierodula excellens	|	species	|		|	
+1183838	|	1183816	|	Hierodula formosana	|	species	|		|	
+1183839	|	1183816	|	Hierodula fruhstorferi	|	species	|		|	
+1183840	|	1183816	|	Hierodula fumipennis	|	species	|		|	
+1183841	|	1183816	|	Hierodula fuscescens	|	species	|		|	
+1183842	|	1183816	|	Hierodula gigliotosi	|	species	|		|	
+1183843	|	1183816	|	Hierodula gracilicollis	|	species	|		|	
+1183844	|	1183816	|	Hierodula grandis	|	species	|		|	
+1183845	|	1183816	|	Hierodula harpyia	|	species	|		|	
+1183846	|	1183816	|	Hierodula heinrichi	|	species	|		|	
+1183847	|	1183816	|	Hierodula heteroptera	|	species	|		|	
+1183849	|	1183816	|	Hierodula immaculifemorata	|	species	|		|	
+1183850	|	1183816	|	Hierodula inconspicua	|	species	|		|	
+1183851	|	1183816	|	Hierodula ingens	|	species	|		|	
+1183852	|	1183816	|	Hierodula italii	|	species	|		|	
+1183853	|	1183816	|	Hierodula jobina	|	species	|		|	
+1183854	|	1183816	|	Hierodula kapaurana	|	species	|		|	
+1183855	|	1183816	|	Hierodula laevicollis	|	species	|		|	
+1183856	|	1183816	|	Hierodula lamasonga	|	species	|		|	
+1183857	|	1183816	|	Hierodula latipennis	|	species	|		|	
+1183858	|	1183816	|	Hierodula longedentata	|	species	|		|	
+1183859	|	1183816	|	Hierodula macrostigmata	|	species	|		|	
+1183860	|	1183816	|	Hierodula maculisternum	|	species	|		|	
+1183861	|	1183816	|	Hierodula major	|	species	|		|	
+1183862	|	1183816	|	Hierodula majuscula	|	species	|		|	
+1183863	|	1183816	|	Hierodula malaccana	|	species	|		|	
+1183864	|	1183816	|	Hierodula malaya	|	species	|		|	
+1183865	|	1183816	|	Hierodula membranacea	|	species	|		|	
+1183868	|	1183816	|	Hierodula microdon	|	species	|		|	
+1183869	|	1183816	|	Hierodula mindanensis	|	species	|		|	
+1183870	|	1183816	|	Hierodula modesta	|	species	|		|	
+1183871	|	1183870	|	Hierodula modesta modesta	|	subspecies	|		|	
+1183872	|	1183870	|	Hierodula modesta dentata	|	subspecies	|		|	
+1183873	|	1183816	|	Hierodula monochroa	|	species	|		|	
+1183874	|	1183816	|	Hierodula multispina	|	species	|		|	
+1183875	|	1183816	|	Hierodula multispinulosa	|	species	|		|	
+1183876	|	1183816	|	Hierodula nicobarica	|	species	|		|	
+1183877	|	1183816	|	Hierodula obiensis	|	species	|		|	
+1183878	|	1183816	|	Hierodula obtusata	|	species	|		|	
+1183879	|	1183816	|	Hierodula oraea	|	species	|		|	
+1183880	|	1183816	|	Hierodula ovata	|	species	|		|	
+1183881	|	1183816	|	Hierodula papua	|	species	|		|	
+1183882	|	1183816	|	Hierodula parviceps	|	species	|		|	
+1183883	|	1183816	|	Hierodula patellifera	|	species	|		|	
+1183889	|	1183816	|	Hierodula perakana	|	species	|		|	
+1183890	|	1183816	|	Hierodula philippina	|	species	|		|	
+1183891	|	1183816	|	Hierodula prosternalis	|	species	|		|	
+1183892	|	1183816	|	Hierodula pulchra	|	species	|		|	
+1183893	|	1183816	|	Hierodula pulchripes	|	species	|		|	
+1183894	|	1183816	|	Hierodula purpurescens	|	species	|		|	
+1183895	|	1183816	|	Hierodula pustulifera	|	species	|		|	
+1183896	|	1183816	|	Hierodula pygmaea	|	species	|		|	
+1183897	|	1183816	|	Hierodula quadridens	|	species	|		|	
+1183898	|	1183816	|	Hierodula quadripunctata	|	species	|		|	
+1183899	|	1183816	|	Hierodula quinquepatellata	|	species	|		|	
+1183901	|	1183816	|	Hierodula rajah	|	species	|		|	
+1183902	|	1183816	|	Hierodula ralumina	|	species	|		|	
+1183903	|	1183816	|	Hierodula robusta	|	species	|		|	
+1183904	|	1183816	|	Hierodula rufomaculata	|	species	|		|	
+1183905	|	1183816	|	Hierodula rufopatellata	|	species	|		|	
+1183906	|	1183816	|	Hierodula salomonis	|	species	|		|	
+1183907	|	1183816	|	Hierodula samangensis	|	species	|		|	
+1183908	|	1183816	|	Hierodula sarasinorum	|	species	|		|	
+1183910	|	1183816	|	Hierodula saussurei	|	species	|		|	
+1183913	|	1183816	|	Hierodula schultzei	|	species	|		|	
+1183914	|	1183913	|	Hierodula schultzei schultzei	|	subspecies	|		|	
+1183915	|	1183913	|	Hierodula schultzei brevis	|	subspecies	|		|	
+1183916	|	1183816	|	Hierodula scutata	|	species	|		|	
+1183917	|	1183816	|	Hierodula simbangana	|	species	|		|	
+1183918	|	1183816	|	Hierodula similis	|	species	|		|	
+1183919	|	1183816	|	Hierodula siporana	|	species	|		|	
+1183920	|	1183816	|	Hierodula sorongana	|	species	|		|	
+1183921	|	1183920	|	Hierodula sorongana sorongana	|	subspecies	|		|	
+1183922	|	1183920	|	Hierodula sorongana squalida	|	subspecies	|		|	
+1183923	|	1183816	|	Hierodula sternosticta	|	species	|		|	
+1183924	|	1183923	|	Hierodula sternosticta sternosticta	|	subspecies	|		|	
+1183927	|	1183923	|	Hierodula sternosticta coxalis	|	subspecies	|		|	
+1183928	|	1183816	|	Hierodula stigmata	|	species	|		|	
+1183929	|	1183816	|	Hierodula striata	|	species	|		|	
+1183930	|	1183816	|	Hierodula striatipes	|	species	|		|	
+1183931	|	1183816	|	Hierodula szentivanyi	|	species	|		|	
+1183932	|	1183816	|	Hierodula tenuidentata	|	species	|		|	
+1183933	|	1183932	|	Hierodula tenuidentata tenuidentata	|	subspecies	|		|	
+1183935	|	1183932	|	Hierodula tenuidentata darvasica	|	subspecies	|		|	
+1183936	|	1183816	|	Hierodula tenuis	|	species	|		|	
+1183937	|	1183816	|	Hierodula timorensis	|	species	|		|	
+1183938	|	1183816	|	Hierodula togiana	|	species	|		|	
+1183939	|	1183816	|	Hierodula tonkinensis	|	species	|		|	
+1183940	|	1183816	|	Hierodula tornica	|	species	|		|	
+1183941	|	1183816	|	Hierodula trimacula	|	species	|		|	
+1183944	|	1183816	|	Hierodula unimaculata	|	species	|		|	
+1183946	|	1183816	|	Hierodula venosa	|	species	|		|	
+1183955	|	1183816	|	Hierodula ventralis	|	species	|		|	
+1183956	|	1183816	|	Hierodula versicolor	|	species	|		|	
+1183957	|	1183816	|	Hierodula vitreoides	|	species	|		|	
+1183958	|	1183816	|	Hierodula werneri	|	species	|		|	
+1183959	|	1183958	|	Hierodula werneri werneri	|	subspecies	|		|	
+1183960	|	1183958	|	Hierodula werneri curvidens	|	subspecies	|		|	
+1183961	|	1183816	|	Hierodula westwoodi	|	species	|		|	
+1183962	|	1183816	|	Hierodula xishaensis	|	species	|		|	
+1183963	|	1183816	|	Hierodula yunnanensis	|	species	|		|	
+1183964	|	1183816	|	Hierodula quinquecallosa	|	species	|		|	
+1183968	|	1183793	|	Hierodulella	|	genus	|		|	
+1183969	|	1183968	|	Hierodulella albomaculata	|	species	|		|	
+1183970	|	1183968	|	Hierodulella celebensis	|	species	|		|	
+1183971	|	1183968	|	Hierodulella reticulata	|	species	|		|	
+1183972	|	1183968	|	Hierodulella soror	|	species	|		|	
+1183973	|	1183793	|	Notomantis	|	genus	|		|	
+1183974	|	1183973	|	Notomantis brunneriana	|	species	|		|	
+1183975	|	1183973	|	Notomantis chlorophana	|	species	|		|	
+1183976	|	1183793	|	Paramantis	|	genus	|		|	
+1183977	|	1183976	|	Paramantis natalensis	|	species	|		|	
+1183979	|	1183976	|	Paramantis nyassana	|	species	|		|	
+1183980	|	1183976	|	Paramantis prasina	|	species	|		|	
+1183981	|	1183976	|	Paramantis sacra	|	species	|		|	
+1183982	|	1183976	|	Paramantis togana	|	species	|		|	
+1183983	|	1183976	|	Paramantis victoriana	|	species	|		|	
+1183985	|	1183976	|	Paramantis viridis	|	species	|		|	
+1183986	|	1183793	|	Pnigomantis	|	genus	|		|	
+1183987	|	1183986	|	Pnigomantis medioconstricta	|	species	|		|	
+1183988	|	1183793	|	Pseudostagmatoptera	|	genus	|		|	
+1183989	|	1183988	|	Pseudostagmatoptera infuscata	|	species	|		|	
+1183990	|	1183793	|	Rhombodera	|	genus	|		|	
+1183991	|	1183990	|	Rhombodera morokana	|	species	|		|	
+1183992	|	1183990	|	Rhombodera zhangi	|	species	|		|	
+1183993	|	1183990	|	Rhombodera basalis	|	species	|		|	
+1183995	|	1183990	|	Rhombodera boschmai	|	species	|		|	
+1183996	|	1183990	|	Rhombodera brachynota	|	species	|		|	
+1183997	|	1223021	|	Rhombomantis butleri	|	species	|		|	
+1183998	|	1183990	|	Rhombodera crassa	|	species	|		|	
+1183999	|	1183990	|	Rhombodera doriana	|	species	|		|	
+1184000	|	1183990	|	Rhombodera extensicollis	|	species	|		|	
+1184003	|	1183990	|	Rhombodera extraordinaria	|	species	|		|	
+1184004	|	1183990	|	Rhombodera fratricida	|	species	|		|	
+1184005	|	1223021	|	Rhombomantis fusca	|	species	|		|	
+1184006	|	1183990	|	Rhombodera handschini	|	species	|		|	
+1184007	|	1183990	|	Rhombodera javana	|	species	|		|	
+1184009	|	1183990	|	Rhombodera keiana	|	species	|		|	
+1184010	|	1183990	|	Rhombodera kirbyi	|	species	|		|	
+1184012	|	1183990	|	Rhombodera laticollis	|	species	|		|	
+1184013	|	1183990	|	Rhombodera latipronotum	|	species	|		|	
+1184014	|	1183990	|	Rhombodera lingulata	|	species	|		|	
+1184016	|	1183990	|	Rhombodera megaera	|	species	|		|	
+1184017	|	1183990	|	Rhombodera mjobergi	|	species	|		|	
+1184018	|	1183990	|	Rhombodera ornatipes	|	species	|		|	
+1184019	|	1183990	|	Rhombodera papuana	|	species	|		|	
+1184020	|	1183990	|	Rhombodera palawanensis	|	species	|		|	
+1184021	|	1183990	|	Rhombodera rennellana	|	species	|		|	
+1184022	|	1183990	|	Rhombodera rollei	|	species	|		|	
+1184023	|	1183990	|	Rhombodera sjostedti	|	species	|		|	
+1184024	|	1183990	|	Rhombodera stalii	|	species	|		|	
+1184025	|	1183990	|	Rhombodera taprobanae	|	species	|		|	
+1184026	|	1183990	|	Rhombodera tectiformis	|	species	|		|	
+1184027	|	1183990	|	Rhombodera titania	|	species	|		|	
+1184029	|	1183990	|	Rhombodera valida	|	species	|		|	
+1184031	|	1223021	|	Rhombomantis woodmasoni	|	species	|		|	
+1184032	|	1183793	|	Rhomboderella	|	genus	|		|	
+1184033	|	1184032	|	Rhomboderella gabonica	|	species	|		|	
+1184034	|	1184032	|	Rhomboderella parmata	|	species	|		|	
+1184035	|	1184032	|	Rhomboderella thorectes	|	species	|		|	
+1184036	|	1184032	|	Rhomboderella scutata	|	species	|		|	
+1184037	|	1183793	|	Sphodromantis	|	genus	|		|	
+1184038	|	1184037	|	Sphodromantis abessinica	|	species	|		|	
+1184039	|	1184037	|	Sphodromantis aethiopica	|	species	|		|	
+1184040	|	1184037	|	Sphodromantis annobonensis	|	species	|		|	
+1184041	|	1184037	|	Sphodromantis aurea	|	species	|		|	
+1184042	|	1184037	|	Sphodromantis baccettii	|	species	|		|	
+1184043	|	1184037	|	Sphodromantis balachowskyi	|	species	|		|	
+1184044	|	1184037	|	Sphodromantis biocellata	|	species	|		|	
+1184045	|	1184037	|	Sphodromantis centralis	|	species	|		|	
+1184046	|	1184037	|	Sphodromantis citernii	|	species	|		|	
+1184047	|	1184046	|	Sphodromantis citernii citernii	|	subspecies	|		|	
+1184048	|	1184046	|	Sphodromantis citernii kenyana	|	subspecies	|		|	
+1184049	|	1184037	|	Sphodromantis congica	|	species	|		|	
+1184050	|	1184037	|	Sphodromantis conspicua	|	species	|		|	
+1184051	|	1184037	|	Sphodromantis elegans	|	species	|		|	
+1184052	|	1184037	|	Sphodromantis elongata	|	species	|		|	
+1184053	|	1184037	|	Sphodromantis fenestrata	|	species	|		|	
+1184056	|	1184037	|	Sphodromantis gastrica	|	species	|		|	
+1184060	|	1184037	|	Sphodromantis gestri	|	species	|		|	
+1184061	|	1184037	|	Sphodromantis giubana	|	species	|		|	
+1184062	|	1184037	|	Sphodromantis gracilicollis	|	species	|		|	
+1184063	|	1184062	|	Sphodromantis gracilicollis gracilicollis	|	subspecies	|		|	
+1184065	|	1184062	|	Sphodromantis gracilicollis centroccidentalis	|	subspecies	|		|	
+1184066	|	1184037	|	Sphodromantis gracilis	|	species	|		|	
+1184067	|	1184037	|	Sphodromantis hyalina	|	species	|		|	
+1184068	|	1184037	|	Sphodromantis kersteni	|	species	|		|	
+1184070	|	1184037	|	Sphodromantis lagrecai	|	species	|		|	
+1184071	|	1184037	|	Sphodromantis lineola	|	species	|		|	
+1184072	|	1184071	|	Sphodromantis lineola lineola	|	subspecies	|		|	
+1184073	|	1184071	|	Sphodromantis lineola pinguis	|	subspecies	|		|	
+1184074	|	1184071	|	Sphodromantis lineola speciosa	|	subspecies	|		|	
+1184075	|	1184037	|	Sphodromantis obscura	|	species	|		|	
+1184076	|	1184037	|	Sphodromantis pachinota	|	species	|		|	
+1184077	|	1184037	|	Sphodromantis pardii	|	species	|		|	
+1184078	|	1184037	|	Sphodromantis pavonina	|	species	|		|	
+1184079	|	1184037	|	Sphodromantis pupillata	|	species	|		|	
+1184080	|	1184037	|	Sphodromantis royi	|	species	|		|	
+1184081	|	1184037	|	Sphodromantis rubrostigma	|	species	|		|	
+1184082	|	1184037	|	Sphodromantis rudolfae	|	species	|		|	
+1184083	|	1184082	|	Sphodromantis rudolfae rudolfae	|	subspecies	|		|	
+1184084	|	1184082	|	Sphodromantis rudolfae andreinii	|	subspecies	|		|	
+1184085	|	1184037	|	Sphodromantis splendida	|	species	|		|	
+1184086	|	1184037	|	Sphodromantis tenuidentata	|	species	|		|	
+1184088	|	1184037	|	Sphodromantis viridis	|	species	|		|	
+1184089	|	1184088	|	Sphodromantis viridis viridis	|	subspecies	|		|	
+1184094	|	1184088	|	Sphodromantis viridis barbara	|	subspecies	|		|	
+1184095	|	1184088	|	Sphodromantis viridis inornata	|	subspecies	|		|	
+1184096	|	1184088	|	Sphodromantis viridis meridionalis	|	subspecies	|		|	
+1184097	|	1184088	|	Sphodromantis viridis simplex	|	subspecies	|		|	
+1184098	|	1184037	|	Sphodromantis aureoides	|	species	|		|	
+1184099	|	1184037	|	Sphodromantis werneri	|	species	|		|	
+1184100	|	1184037	|	Sphodromantis stigmosa	|	species	|		|	
+1184101	|	1184037	|	Sphodromantis socotrana	|	species	|		|	
+1184102	|	1183793	|	Stictomantis	|	genus	|		|	
+1184103	|	1184102	|	Stictomantis cinctipes	|	species	|		|	
+1184104	|	1183793	|	Tamolanica	|	genus	|		|	
+1184105	|	1184104	|	Tamolanica atricoxis	|	species	|		|	
+1184106	|	1184105	|	Tamolanica atricoxis atricoxis	|	subspecies	|		|	
+1184107	|	1184105	|	Tamolanica atricoxis grandis	|	subspecies	|		|	
+1184108	|	1184104	|	Tamolanica andaina	|	species	|		|	
+1184109	|	1184104	|	Tamolanica decipiens	|	species	|		|	
+1184110	|	1184104	|	Tamolanica denticulata	|	species	|		|	
+1184111	|	1184104	|	Tamolanica dilena	|	species	|		|	
+1184112	|	1184104	|	Tamolanica katauana	|	species	|		|	
+1184113	|	1184104	|	Tamolanica leopoldi	|	species	|		|	
+1184114	|	1184104	|	Tamolanica pectoralis	|	species	|		|	
+1184115	|	1184104	|	Tamolanica phryne	|	species	|		|	
+1184116	|	1184104	|	Tamolanica tamolana	|	species	|		|	
+1184117	|	1183793	|	Tarachomantis	|	genus	|		|	
+1184118	|	1203975	|	Tarachomantis (Tarachomantis) alaotrana	|	species	|		|	
+1184119	|	1203975	|	Tarachomantis (Tarachomantis) betanimena	|	species	|		|	
+1184120	|	1203976	|	Tarachomantis (Madamantis) betsilea	|	species	|		|	
+1184121	|	1203975	|	Tarachomantis (Tarachomantis) caldwelli	|	species	|		|	
+1184124	|	1203976	|	Tarachomantis (Madamantis) confusa	|	species	|		|	
+1184125	|	1203975	|	Tarachomantis (Tarachomantis) hova	|	species	|		|	
+1184126	|	1203975	|	Tarachomantis (Tarachomantis) macula	|	species	|		|	
+1184130	|	1203975	|	Tarachomantis (Tarachomantis) rubiginosa	|	species	|		|	
+1184131	|	1203975	|	Tarachomantis (Tarachomantis) sakalava	|	species	|		|	
+1184132	|	1183793	|	Tisma	|	genus	|		|	
+1184133	|	1184132	|	Tisma acutipennis	|	species	|		|	
+1184134	|	1184132	|	Tisma freyi	|	species	|		|	
+1184135	|	1184132	|	Tisma grandidieri	|	species	|		|	
+1184136	|	1184132	|	Tisma pauliani	|	species	|		|	
+1184137	|	1184132	|	Tisma peyrierasi	|	species	|		|	
+1184138	|	1184132	|	Tisma chopardi	|	species	|		|	
+1184139	|	1183793	|	Tismomorpha	|	genus	|		|	
+1184140	|	1184139	|	Tismomorpha vitripennis	|	species	|		|	
+1184141	|	1184139	|	Tismomorpha cherlonneixi	|	species	|		|	
+1184142	|	1184139	|	Tismomorpha inexpectata	|	species	|		|	
+1184143	|	1184139	|	Tismomorpha reinhardi	|	species	|		|	
+1184144	|	1183762	|	Mantini	|	tribe	|		|	
+1184145	|	1184144	|	Mantilia	|	genus	|		|	
+1184146	|	1184145	|	Mantilia ehrmanni	|	species	|		|	
+1184147	|	1184144	|	Mantis	|	genus	|		|	
+1184148	|	1184147	|	Mantis beieri	|	species	|		|	
+1184149	|	1184147	|	Mantis callifera	|	species	|		|	
+1184150	|	1184147	|	Mantis carinata	|	species	|		|	
+1184151	|	1184147	|	Mantis dilaticollis	|	species	|		|	
+1184152	|	1184147	|	Mantis emortualis	|	species	|		|	
+1184153	|	1184147	|	Mantis griveaudi	|	species	|		|	
+1184154	|	1184147	|	Mantis indica	|	species	|		|	
+1184155	|	1184147	|	Mantis insignis	|	species	|		|	
+1184156	|	1184147	|	Mantis macroalata	|	species	|		|	
+1184157	|	1184156	|	Mantis macroalata macroalata	|	subspecies	|		|	
+1184158	|	1184156	|	Mantis macroalata fronticus	|	subspecies	|		|	
+1184159	|	1184156	|	Mantis macroalata humilis	|	subspecies	|		|	
+1184160	|	1184156	|	Mantis macroalata latiscutula	|	subspecies	|		|	
+1184161	|	1184156	|	Mantis macroalata longidorsa	|	subspecies	|		|	
+1184162	|	1184147	|	Mantis macrocephala	|	species	|		|	
+1184163	|	1184162	|	Mantis macrocephala macrocephala	|	subspecies	|		|	
+1184164	|	1184162	|	Mantis macrocephala brevidorsa	|	subspecies	|		|	
+1184165	|	1184162	|	Mantis macrocephala cama	|	subspecies	|		|	
+1184166	|	1184162	|	Mantis macrocephala polyphaga	|	subspecies	|		|	
+1184167	|	1184162	|	Mantis macrocephala scanda	|	subspecies	|		|	
+1184168	|	1184147	|	Mantis octospilota	|	species	|		|	
+1184169	|	1184147	|	Mantis pia	|	species	|		|	
+1184170	|	1184147	|	Mantis religiosa	|	species	|		|	
+1184171	|	1184170	|	Mantis religiosa religiosa	|	subspecies	|		|	
+1184175	|	1184170	|	Mantis religiosa beybienkoi	|	subspecies	|		|	
+1184176	|	1184170	|	Mantis religiosa caucasica	|	subspecies	|		|	
+1184177	|	1184170	|	Mantis religiosa eichleri	|	subspecies	|		|	
+1184178	|	1184170	|	Mantis religiosa inornata	|	subspecies	|		|	
+1184179	|	1184170	|	Mantis religiosa langoalata	|	subspecies	|		|	
+1184180	|	1184170	|	Mantis religiosa latinota	|	subspecies	|		|	
+1184181	|	1184170	|	Mantis religiosa macedonica	|	subspecies	|		|	
+1184182	|	1184170	|	Mantis religiosa major	|	subspecies	|		|	
+1184183	|	1184170	|	Mantis religiosa polonica	|	subspecies	|		|	
+1184184	|	1184170	|	Mantis religiosa siedleckii	|	subspecies	|		|	
+1184185	|	1184170	|	Mantis religiosa sinica	|	subspecies	|		|	
+1184186	|	1184147	|	Mantis splendida	|	species	|		|	
+1184187	|	1184147	|	Mantis tricolor	|	species	|		|	
+1184192	|	1184144	|	Mesopteryx	|	genus	|		|	
+1184193	|	1184192	|	Mesopteryx alata	|	species	|		|	
+1184194	|	1184192	|	Mesopteryx platycephala	|	species	|		|	
+1184195	|	1184192	|	Mesopteryx robusta	|	species	|		|	
+1184196	|	1184144	|	Omomantis	|	genus	|		|	
+1184197	|	1184196	|	Omomantis sigma	|	species	|		|	
+1184198	|	1184196	|	Omomantis tigrina	|	species	|		|	
+1184199	|	1184196	|	Omomantis zebrata	|	species	|		|	
+1184202	|	1184144	|	Palaeophotina	|	genus	|		|	
+1184203	|	1184202	|	Palaeophotina schneideri	|	species	|		|	
+1184204	|	1184144	|	Pseudomantis	|	genus	|		|	
+1184205	|	1184204	|	Pseudomantis albofimbriata	|	species	|		|	
+1184206	|	1184204	|	Pseudomantis albomarginata	|	species	|		|	
+1184208	|	1184204	|	Pseudomantis apicalis	|	species	|		|	
+1184209	|	1184204	|	Pseudomantis dimorpha	|	species	|		|	
+1184210	|	1184204	|	Pseudomantis hartmeyeri	|	species	|		|	
+1184211	|	1184204	|	Pseudomantis maculata	|	species	|		|	
+1184212	|	1184204	|	Pseudomantis victorina	|	species	|		|	
+1184214	|	1184144	|	Reticulimantis	|	genus	|		|	
+1184215	|	1184214	|	Reticulimantis infuscata	|	species	|		|	
+1184216	|	1184144	|	Rhodomantis	|	genus	|		|	
+1184217	|	1184216	|	Rhodomantis carinicollis	|	species	|		|	
+1184218	|	1184216	|	Rhodomantis gracilis	|	species	|		|	
+1184219	|	1184216	|	Rhodomantis kimberleyensis	|	species	|		|	
+1184220	|	1184216	|	Rhodomantis pulchella	|	species	|		|	
+1184221	|	1184216	|	Rhodomantis queenslandica	|	species	|		|	
+1184224	|	1184144	|	Statilia	|	genus	|		|	
+1184225	|	1184224	|	Statilia agresta	|	species	|		|	
+1184226	|	1184224	|	Statilia apicalis	|	species	|		|	
+1184228	|	1184224	|	Statilia chayuensis	|	species	|		|	
+1184229	|	1184224	|	Statilia flavobrunnea	|	species	|		|	
+1184230	|	1184224	|	Statilia maculata	|	species	|		|	
+1184231	|	1184230	|	Statilia maculata maculata	|	subspecies	|		|	
+1184234	|	1184230	|	Statilia maculata continentalis	|	subspecies	|		|	
+1184235	|	1184224	|	Statilia major	|	species	|		|	
+1184236	|	1184224	|	Statilia nemoralis	|	species	|		|	
+1184240	|	1184224	|	Statilia occibivittata	|	species	|		|	
+1184241	|	1184224	|	Statilia ocellata	|	species	|		|	
+1184242	|	1184224	|	Statilia pallida	|	species	|		|	
+1184243	|	1184224	|	Statilia spanis	|	species	|		|	
+1184244	|	1184224	|	Statilia viridibrunnea	|	species	|		|	
+1184245	|	1183762	|	Polyspilotini	|	tribe	|		|	
+1184246	|	1184245	|	Cataspilota	|	genus	|		|	
+1184247	|	1184246	|	Cataspilota pulchra	|	species	|		|	
+1184248	|	1184246	|	Cataspilota armicollis	|	species	|		|	
+1184249	|	1184246	|	Cataspilota calabarica	|	species	|		|	
+1184252	|	1184299	|	Prohierodula duchaillui	|	species	|		|	
+1184253	|	1184246	|	Cataspilota guineensis	|	species	|		|	
+1184254	|	1184246	|	Cataspilota lolodorfana	|	species	|		|	
+1184255	|	1184246	|	Cataspilota misana	|	species	|		|	
+1184256	|	1184246	|	Cataspilota tristis	|	species	|		|	
+1184258	|	1184245	|	Plistospilota	|	genus	|		|	
+1184259	|	1184258	|	Plistospilota camerunensis	|	species	|		|	
+1184260	|	1184258	|	Plistospilota congica	|	species	|		|	
+1184261	|	1184258	|	Plistospilota gasconi	|	species	|		|	
+1184262	|	1184258	|	Plistospilota guineensis	|	species	|		|	
+1184263	|	1184258	|	Plistospilota insignis	|	species	|		|	
+1184264	|	1184258	|	Plistospilota mabirica	|	species	|		|	
+1184265	|	1184258	|	Plistospilota maxima	|	species	|		|	
+1184266	|	1184258	|	Plistospilota nigerica	|	species	|		|	
+1184267	|	1220707	|	Tenospilota nova	|	species	|		|	
+1184268	|	1184258	|	Plistospilota validissima	|	species	|		|	
+1184269	|	1184245	|	Polyspilota	|	genus	|		|	
+1184270	|	1184269	|	Polyspilota aeruginosa	|	species	|		|	
+1184271	|	1184270	|	Polyspilota aeruginosa aeruginosa	|	subspecies	|		|	
+1184283	|	1184270	|	Polyspilota aeruginosa fuscoirrorata	|	subspecies	|		|	
+1184284	|	1184270	|	Polyspilota aeruginosa variegata	|	subspecies	|		|	
+1184285	|	1184270	|	Polyspilota aeruginosa viridis	|	subspecies	|		|	
+1184286	|	1184269	|	Polyspilota caffra	|	species	|		|	
+1184287	|	1184286	|	Polyspilota caffra caffra	|	subspecies	|		|	
+1184288	|	1184286	|	Polyspilota caffra transvaaliana	|	subspecies	|		|	
+1184289	|	1184269	|	Polyspilota comorana	|	species	|		|	
+1184291	|	1184269	|	Polyspilota griffinii	|	species	|		|	
+1184292	|	1184269	|	Polyspilota magna	|	species	|		|	
+1184293	|	1184269	|	Polyspilota montana	|	species	|		|	
+1184294	|	1184269	|	Polyspilota pavani	|	species	|		|	
+1184295	|	1184269	|	Polyspilota robusta	|	species	|		|	
+1184296	|	1184269	|	Polyspilota saussurei	|	species	|		|	
+1184297	|	1184269	|	Polyspilota seychelliana	|	species	|		|	
+1184298	|	1184269	|	Polyspilota voelzkowiana	|	species	|		|	
+1184299	|	1184245	|	Prohierodula	|	genus	|		|	
+1184300	|	1184299	|	Prohierodula brunnea	|	species	|		|	
+1184301	|	1184299	|	Prohierodula congica	|	species	|		|	
+1184302	|	1184299	|	Prohierodula enghoffi	|	species	|		|	
+1184303	|	1184299	|	Prohierodula flavipennis	|	species	|		|	
+1184304	|	1184299	|	Prohierodula grassei	|	species	|		|	
+1184305	|	1184299	|	Prohierodula laticollis	|	species	|		|	
+1184306	|	1184299	|	Prohierodula lineata	|	species	|		|	
+1184307	|	1184299	|	Prohierodula mandamensis	|	species	|		|	
+1184308	|	1184299	|	Prohierodula nigrispinis	|	species	|		|	
+1184309	|	1184299	|	Prohierodula ornatipennis	|	species	|		|	
+1184310	|	1184299	|	Prohierodula picta	|	species	|		|	
+1184311	|	1184299	|	Prohierodula viridimarginata	|	species	|		|	
+1184312	|	1184245	|	Tenodera	|	genus	|		|	
+1184313	|	1184312	|	Tenodera acuticauda	|	species	|		|	
+1184314	|	1184312	|	Tenodera aridifolia	|	species	|		|	
+1184315	|	1184314	|	Tenodera aridifolia aridifolia	|	subspecies	|		|	
+1184318	|	1184312	|	Tenodera angustipennis	|	species	|		|	
+1184319	|	1184314	|	Tenodera aridifolia brevicollis	|	subspecies	|		|	
+1184320	|	1184312	|	Tenodera sinensis	|	species	|		|	
+1184321	|	1184312	|	Tenodera australasiae	|	species	|		|	
+1184324	|	1184312	|	Tenodera brevipennis	|	species	|		|	
+1184325	|	1184312	|	Tenodera capitata	|	species	|		|	
+1184326	|	1184325	|	Tenodera capitata capitata	|	subspecies	|		|	
+1184327	|	1184325	|	Tenodera capitata ibana	|	subspecies	|		|	
+1184328	|	1184325	|	Tenodera capitata madimbana	|	subspecies	|		|	
+1184329	|	1184312	|	Tenodera caudafissilis	|	species	|		|	
+1184330	|	1184312	|	Tenodera chloreudeta	|	species	|		|	
+1184331	|	1184312	|	Tenodera costalis	|	species	|		|	
+1184333	|	1184312	|	Tenodera equatoriana	|	species	|		|	
+1184334	|	1184312	|	Tenodera fasciata	|	species	|		|	
+1184335	|	1184334	|	Tenodera fasciata fasciata	|	subspecies	|		|	
+1184339	|	1184334	|	Tenodera fasciata blanchardi	|	subspecies	|		|	
+1184340	|	1184312	|	Tenodera gambiensis	|	species	|		|	
+1184341	|	1184312	|	Tenodera herbacea	|	species	|		|	
+1184342	|	1184341	|	Tenodera herbacea herbacea	|	subspecies	|		|	
+1184343	|	1184341	|	Tenodera herbacea brevelytra	|	subspecies	|		|	
+1184344	|	1184312	|	Tenodera houyi	|	species	|		|	
+1184345	|	1184312	|	Tenodera intermedia	|	species	|		|	
+1184346	|	1184312	|	Tenodera iringana	|	species	|		|	
+1184347	|	1184312	|	Tenodera nimbana	|	species	|		|	
+1184348	|	1184312	|	Tenodera parasinensis	|	species	|		|	
+1184349	|	1184312	|	Tenodera philippina	|	species	|		|	
+1184350	|	1184312	|	Tenodera rungsi	|	species	|		|	
+1184351	|	1184312	|	Tenodera stotzneri	|	species	|		|	
+1184352	|	1184312	|	Tenodera superstitiosa	|	species	|		|	
+1184353	|	1184352	|	Tenodera superstitiosa superstitiosa	|	subspecies	|		|	
+1184354	|	1184352	|	Tenodera superstitiosa bokiana	|	subspecies	|		|	
+1184358	|	1183195	|	Miomantinae	|	subfamily	|		|	
+1184359	|	1184358	|	Miomantini	|	tribe	|		|	
+1184360	|	1184359	|	Arria	|	genus	|		|	
+1184361	|	1184360	|	Arria cinctipes	|	species	|		|	
+1184362	|	1184359	|	Cilnia	|	genus	|		|	
+1184363	|	1184362	|	Cilnia chopardi	|	species	|		|	
+1184365	|	1184362	|	Cilnia humeralis	|	species	|		|	
+1184366	|	1184365	|	Cilnia humeralis humeralis	|	subspecies	|		|	
+1184370	|	1184365	|	Cilnia humeralis femoralis	|	subspecies	|		|	
+1184372	|	1184359	|	Miomantis	|	genus	|		|	
+1184373	|	1184372	|	Miomantis abyssinica	|	species	|		|	
+1184375	|	1184372	|	Miomantis acuticeps	|	species	|		|	
+1184376	|	1184372	|	Miomantis aequalis	|	species	|		|	
+1184378	|	1184372	|	Miomantis affinis	|	species	|		|	
+1184379	|	1184372	|	Miomantis alata	|	species	|		|	
+1184380	|	1184372	|	Miomantis amanica	|	species	|		|	
+1184381	|	1184372	|	Miomantis andreinii	|	species	|		|	
+1184382	|	1184372	|	Miomantis annulipes	|	species	|		|	
+1184383	|	1184372	|	Miomantis arabica	|	species	|		|	
+1184384	|	1184372	|	Miomantis asignata	|	species	|		|	
+1184385	|	1184372	|	Miomantis aurantiaca	|	species	|		|	
+1184386	|	1184372	|	Miomantis aurea	|	species	|		|	
+1184387	|	1184372	|	Miomantis australis	|	species	|		|	
+1184388	|	1184372	|	Miomantis binotata	|	species	|		|	
+1184389	|	1184372	|	Miomantis bintumanensis	|	species	|		|	
+1184390	|	1184372	|	Miomantis brachyptera	|	species	|		|	
+1184391	|	1184372	|	Miomantis brevipennis	|	species	|		|	
+1184392	|	1184372	|	Miomantis brunni	|	species	|		|	
+1184394	|	1184372	|	Miomantis buettneri	|	species	|		|	
+1184395	|	1184372	|	Miomantis caffra	|	species	|		|	
+1184396	|	1184372	|	Miomantis cinnabarina	|	species	|		|	
+1184397	|	1184372	|	Miomantis ciprianii	|	species	|		|	
+1184398	|	1184372	|	Miomantis coxalis	|	species	|		|	
+1184399	|	1184372	|	Miomantis devylderi	|	species	|		|	
+1184400	|	1184372	|	Miomantis diademata	|	species	|		|	
+1184401	|	1184372	|	Miomantis exilis	|	species	|		|	
+1184402	|	1184372	|	Miomantis fallax	|	species	|		|	
+1184403	|	1184372	|	Miomantis feminina	|	species	|		|	
+1184404	|	1184372	|	Miomantis fenestrata	|	species	|		|	
+1184409	|	1184372	|	Miomantis gracilis	|	species	|		|	
+1184410	|	1184372	|	Miomantis griffinii	|	species	|		|	
+1184411	|	1184372	|	Miomantis gyldenstolpei	|	species	|		|	
+1184412	|	1184372	|	Miomantis helenae	|	species	|		|	
+1184413	|	1184372	|	Miomantis kibweziana	|	species	|		|	
+1184414	|	1184372	|	Miomantis kilimandjarica	|	species	|		|	
+1184416	|	1184372	|	Miomantis lacualis	|	species	|		|	
+1184417	|	1184372	|	Miomantis lamtoensis	|	species	|		|	
+1184418	|	1184372	|	Miomantis longicollis	|	species	|		|	
+1184419	|	1184372	|	Miomantis menelikii	|	species	|		|	
+1184421	|	1184372	|	Miomantis milmilena	|	species	|		|	
+1184422	|	1184372	|	Miomantis minuta	|	species	|		|	
+1184423	|	1184372	|	Miomantis misana	|	species	|		|	
+1184424	|	1184372	|	Miomantis moerana	|	species	|		|	
+1184425	|	1184372	|	Miomantis mombasica	|	species	|		|	
+1184426	|	1184372	|	Miomantis monacha	|	species	|		|	
+1184429	|	1184372	|	Miomantis montana	|	species	|		|	
+1184430	|	1184372	|	Miomantis multipunctata	|	species	|		|	
+1184431	|	1184372	|	Miomantis nairobiensis	|	species	|		|	
+1184432	|	1184372	|	Miomantis natalica	|	species	|		|	
+1184433	|	1184372	|	Miomantis nyassensis	|	species	|		|	
+1184434	|	1184372	|	Miomantis ornata	|	species	|		|	
+1184435	|	1184372	|	Miomantis paykullii	|	species	|		|	
+1184440	|	1184372	|	Miomantis pellucida	|	species	|		|	
+1184441	|	1184372	|	Miomantis planivertex	|	species	|		|	
+1184442	|	1184372	|	Miomantis prasina	|	species	|		|	
+1184443	|	1184372	|	Miomantis preussi	|	species	|		|	
+1184444	|	1184372	|	Miomantis pygmaea	|	species	|		|	
+1184445	|	1184372	|	Miomantis quadripunctata	|	species	|		|	
+1184446	|	1184372	|	Miomantis rebeli	|	species	|		|	
+1184447	|	1184372	|	Miomantis rehni	|	species	|		|	
+1184448	|	1184372	|	Miomantis rouxi	|	species	|		|	
+1184449	|	1184372	|	Miomantis rubra	|	species	|		|	
+1184450	|	1184372	|	Miomantis sangarana	|	species	|		|	
+1184451	|	1184372	|	Miomantis saussurei	|	species	|		|	
+1184452	|	1184372	|	Miomantis scabricollis	|	species	|		|	
+1184453	|	1184372	|	Miomantis semialata	|	species	|		|	
+1184454	|	1184372	|	Miomantis sjostedti	|	species	|		|	
+1184455	|	1184372	|	Miomantis steelae	|	species	|		|	
+1184456	|	1184372	|	Miomantis tangana	|	species	|		|	
+1184457	|	1184372	|	Miomantis tenuis	|	species	|		|	
+1184458	|	1184372	|	Miomantis usambarica	|	species	|		|	
+1184459	|	1184372	|	Miomantis vitrea	|	species	|		|	
+1184460	|	1184372	|	Miomantis wittei	|	species	|		|	
+1184463	|	1184359	|	Neocilnia	|	genus	|		|	
+1184464	|	1184463	|	Neocilnia gracilis	|	species	|		|	
+1184465	|	1184359	|	Paracilnia	|	genus	|		|	
+1184466	|	1184465	|	Paracilnia neavei	|	species	|		|	
+1184468	|	1184359	|	Parasphendale	|	genus	|		|	
+1184469	|	1184468	|	Parasphendale affinis	|	species	|		|	
+1184470	|	1184468	|	Parasphendale africana	|	species	|		|	
+1184471	|	1184468	|	Parasphendale agrionina	|	species	|		|	
+1184472	|	1184468	|	Parasphendale albicosta	|	species	|		|	
+1184473	|	1184468	|	Parasphendale costalis	|	species	|		|	
+1184474	|	1184468	|	Parasphendale ghindana	|	species	|		|	
+1184475	|	1184468	|	Parasphendale gracilicollis	|	species	|		|	
+1184476	|	1184468	|	Parasphendale minor	|	species	|		|	
+1184477	|	1184468	|	Parasphendale scioana	|	species	|		|	
+1184478	|	1184468	|	Parasphendale stali	|	species	|		|	
+1184479	|	1184468	|	Parasphendale vincta	|	species	|		|	
+1184480	|	1184359	|	Sphodropoda	|	genus	|		|	
+1184481	|	1184480	|	Sphodropoda quinquedens	|	species	|		|	
+1184482	|	1184480	|	Sphodropoda tristis	|	species	|		|	
+1184486	|	1184480	|	Sphodropoda viridis	|	species	|		|	
+1184487	|	1184480	|	Sphodropoda lepida	|	species	|		|	
+1184488	|	1184359	|	Taumantis	|	genus	|		|	
+1184489	|	1184488	|	Taumantis cephalotes	|	species	|		|	
+1184490	|	1184488	|	Taumantis globiceps	|	species	|		|	
+1184491	|	1184488	|	Taumantis sigiana	|	species	|		|	
+1184493	|	1184359	|	Trachymantis	|	genus	|		|	
+1184494	|	1184493	|	Trachymantis dentifrons	|	species	|		|	
+1184495	|	1184493	|	Trachymantis obesa	|	species	|		|	
+1184497	|	1184359	|	Zopheromantis	|	genus	|		|	
+1184498	|	1184497	|	Zopheromantis loripes	|	species	|		|	
+1184500	|	1184358	|	Rivetinini	|	tribe	|		|	
+1184501	|	1184500	|	Bolivaria	|	genus	|		|	
+1184502	|	1184501	|	Bolivaria amnicola	|	species	|		|	
+1184503	|	1184501	|	Bolivaria brachyptera	|	species	|		|	
+1184505	|	1184501	|	Bolivaria kurda	|	species	|		|	
+1184506	|	1184501	|	Bolivaria xanthoptera	|	species	|		|	
+1184509	|	1184500	|	Carvilia	|	genus	|		|	
+1184510	|	1184509	|	Carvilia gracilis	|	species	|		|	
+1184511	|	1184509	|	Carvilia obscura	|	species	|		|	
+1184512	|	1184509	|	Carvilia saussurii	|	species	|		|	
+1184514	|	1184500	|	Deiphobe	|	genus	|		|	
+1184515	|	1184514	|	Deiphobe australiana	|	species	|		|	
+1184516	|	1184514	|	Deiphobe brevipennis	|	species	|		|	
+1184517	|	1184514	|	Deiphobe brunneri	|	species	|		|	
+1184519	|	1184514	|	Deiphobe incisa	|	species	|		|	
+1184520	|	1184514	|	Deiphobe infuscata	|	species	|		|	
+1184522	|	1184514	|	Deiphobe longipes	|	species	|		|	
+1184523	|	1184514	|	Deiphobe mesomelas	|	species	|		|	
+1184525	|	1184514	|	Deiphobe yunnanensis	|	species	|		|	
+1184527	|	1184500	|	Deiphobella	|	genus	|		|	
+1184528	|	1184527	|	Deiphobella gardneri	|	species	|		|	
+1184529	|	1184527	|	Deiphobella laticeps	|	species	|		|	
+1184530	|	1184500	|	Eremoplana	|	genus	|		|	
+1184531	|	1184530	|	Eremoplana guerini	|	species	|		|	
+1184532	|	1184530	|	Eremoplana infelix	|	species	|		|	
+1184534	|	1184500	|	Euchomena	|	genus	|		|	
+1184535	|	1184534	|	Euchomena madecassa	|	species	|		|	
+1184536	|	1184500	|	Geomantis	|	genus	|		|	
+1184537	|	1184536	|	Geomantis algerica	|	species	|		|	
+1184538	|	1184536	|	Geomantis larvoides	|	species	|		|	
+1184539	|	1184500	|	Geothespis	|	genus	|		|	
+1184540	|	1184539	|	Geothespis australis	|	species	|		|	
+1184541	|	1184500	|	Gretella	|	genus	|		|	
+1184542	|	1184541	|	Gretella gracilis	|	species	|		|	
+1184543	|	1184500	|	Indothespis	|	genus	|		|	
+1184544	|	1184543	|	Indothespis assamensis	|	species	|		|	
+1184545	|	1184500	|	Ischnomantis	|	genus	|		|	
+1184546	|	1184545	|	Ischnomantis aethiopica	|	species	|		|	
+1184547	|	1184545	|	Ischnomantis fasciata	|	species	|		|	
+1184548	|	1184545	|	Ischnomantis fatiloqua	|	species	|		|	
+1184549	|	1184545	|	Ischnomantis flavescens	|	species	|		|	
+1184550	|	1184545	|	Ischnomantis gigas	|	species	|		|	
+1184551	|	1184545	|	Ischnomantis gracilis	|	species	|		|	
+1184552	|	1184545	|	Ischnomantis grandis	|	species	|		|	
+1184553	|	1184545	|	Ischnomantis media	|	species	|		|	
+1184554	|	1184545	|	Ischnomantis perfida	|	species	|		|	
+1184556	|	1184545	|	Ischnomantis spinigera	|	species	|		|	
+1184557	|	1184545	|	Ischnomantis usambarica	|	species	|		|	
+1184558	|	1184545	|	Ischnomantis werneri	|	species	|		|	
+1184559	|	1184500	|	Microthespis	|	genus	|		|	
+1184560	|	1184559	|	Microthespis dmitriewi	|	species	|		|	
+1184561	|	1184559	|	Microthespis evansi	|	species	|		|	
+1184562	|	1184500	|	Pararivetina	|	genus	|		|	
+1184563	|	1184562	|	Pararivetina fraseri	|	species	|		|	
+1184564	|	1183738	|	Pseudempusa	|	genus	|		|	
+1184565	|	1184564	|	Pseudempusa pavonina	|	species	|		|	
+1184566	|	1184564	|	Pseudempusa pinnapavonis	|	species	|		|	
+1184567	|	1184500	|	Rivetina	|	genus	|		|	
+1184568	|	1184567	|	Rivetina asiatica	|	species	|		|	
+1184570	|	1184567	|	Rivetina baetica	|	species	|		|	
+1184571	|	1184570	|	Rivetina baetica baetica	|	subspecies	|		|	
+1184572	|	1184567	|	Rivetina balcanica	|	species	|		|	
+1184573	|	1184570	|	Rivetina baetica tenuidentata	|	subspecies	|		|	
+1184574	|	1184567	|	Rivetina beybienkoi	|	species	|		|	
+1184575	|	1184574	|	Rivetina beybienkoi beybienkoi	|	subspecies	|		|	
+1184576	|	1184574	|	Rivetina beybienkoi baldzhunaica	|	subspecies	|		|	
+1184577	|	1184574	|	Rivetina beybienkoi meridionale	|	subspecies	|		|	
+1184578	|	1184567	|	Rivetina buettikeri	|	species	|		|	
+1184579	|	1184567	|	Rivetina byblica	|	species	|		|	
+1184580	|	1184567	|	Rivetina compacta	|	species	|		|	
+1184581	|	1184567	|	Rivetina crassa	|	species	|		|	
+1184582	|	1184567	|	Rivetina dentata	|	species	|		|	
+1184583	|	1184567	|	Rivetina deserta	|	species	|		|	
+1184584	|	1184567	|	Rivetina dolichoptera	|	species	|		|	
+1184585	|	1184567	|	Rivetina elegans	|	species	|		|	
+1184586	|	1184567	|	Rivetina excellens	|	species	|		|	
+1184587	|	1184567	|	Rivetina fasciata	|	species	|		|	
+1184590	|	1184567	|	Rivetina feisabadica	|	species	|		|	
+1184591	|	1184567	|	Rivetina gigantea	|	species	|		|	
+1184592	|	1184567	|	Rivetina gigas	|	species	|		|	
+1184593	|	1184567	|	Rivetina grandis	|	species	|		|	
+1184594	|	1184567	|	Rivetina inermis	|	species	|		|	
+1184595	|	1184567	|	Rivetina iranica	|	species	|		|	
+1184596	|	1184567	|	Rivetina karadumi	|	species	|		|	
+1184597	|	1184567	|	Rivetina karateginica	|	species	|		|	
+1184598	|	1184567	|	Rivetina laticollis	|	species	|		|	
+1184599	|	1184567	|	Rivetina monticola	|	species	|		|	
+1184600	|	1184567	|	Rivetina nana	|	species	|		|	
+1184601	|	1184567	|	Rivetina pallida	|	species	|		|	
+1184602	|	1184567	|	Rivetina parva	|	species	|		|	
+1184603	|	1184567	|	Rivetina pulisangini	|	species	|		|	
+1184604	|	1184567	|	Rivetina rhombicollis	|	species	|		|	
+1184605	|	1184567	|	Rivetina similis	|	species	|		|	
+1184606	|	1184567	|	Rivetina syriaca	|	species	|		|	
+1184607	|	1184606	|	Rivetina syriaca syriaca	|	subspecies	|		|	
+1184609	|	1184606	|	Rivetina syriaca anatolica	|	subspecies	|		|	
+1184610	|	1184606	|	Rivetina syriaca mesopotamica	|	subspecies	|		|	
+1184611	|	1184567	|	Rivetina tarda	|	species	|		|	
+1184612	|	1184567	|	Rivetina varsobica	|	species	|		|	
+1184615	|	1184567	|	Rivetina caucasica	|	species	|		|	
+1184616	|	1184615	|	Rivetina caucasica caucasica	|	subspecies	|		|	
+1184618	|	1184615	|	Rivetina caucasica turcica	|	subspecies	|		|	
+1184620	|	1184500	|	Rivetinula	|	genus	|		|	
+1184621	|	1184620	|	Rivetinula fraterna	|	species	|		|	
+1184622	|	1184500	|	Solygia	|	genus	|		|	
+1184623	|	1184622	|	Solygia sulcatifrons	|	species	|		|	
+1184625	|	1184500	|	Teddia	|	genus	|		|	
+1184626	|	1184625	|	Teddia dioscoris	|	species	|		|	
+1184627	|	1183195	|	Oxyothespinae	|	subfamily	|		|	
+1184628	|	1184627	|	Oxyothespini	|	tribe	|		|	
+1184629	|	1184628	|	Acithespis	|	genus	|		|	
+1184630	|	1184629	|	Acithespis gigas	|	species	|		|	
+1184631	|	1184628	|	Heterochaetula	|	genus	|		|	
+1184632	|	1184631	|	Heterochaetula fissispinis	|	species	|		|	
+1184633	|	1184631	|	Heterochaetula tricolor	|	species	|		|	
+1184634	|	1184628	|	Oxyothespis	|	genus	|		|	
+1184635	|	1184634	|	Oxyothespis acuticeps	|	species	|		|	
+1184636	|	1184634	|	Oxyothespis alata	|	species	|		|	
+1184637	|	1184634	|	Oxyothespis apostata	|	species	|		|	
+1184638	|	1184634	|	Oxyothespis bifurcata	|	species	|		|	
+1184639	|	1184634	|	Oxyothespis brevicollis	|	species	|		|	
+1184640	|	1184634	|	Oxyothespis brevipennis	|	species	|		|	
+1184641	|	1184634	|	Oxyothespis dumonti	|	species	|		|	
+1184642	|	1184634	|	Oxyothespis flavipennis	|	species	|		|	
+1184643	|	1184634	|	Oxyothespis longicollis	|	species	|		|	
+1184644	|	1184634	|	Oxyothespis longipennis	|	species	|		|	
+1184645	|	1184634	|	Oxyothespis mammilata	|	species	|		|	
+1184646	|	1184634	|	Oxyothespis maroccana	|	species	|		|	
+1184647	|	1184634	|	Oxyothespis meridionalis	|	species	|		|	
+1184648	|	1184634	|	Oxyothespis nilotica	|	species	|		|	
+1184649	|	1184648	|	Oxyothespis nilotica nilotica	|	subspecies	|		|	
+1184650	|	1184648	|	Oxyothespis nilotica arabica	|	subspecies	|		|	
+1184651	|	1184634	|	Oxyothespis noctivaga	|	species	|		|	
+1184652	|	1184634	|	Oxyothespis parva	|	species	|		|	
+1184653	|	1184634	|	Oxyothespis pellucida	|	species	|		|	
+1184654	|	1184634	|	Oxyothespis persica	|	species	|		|	
+1184655	|	1184634	|	Oxyothespis philbyi	|	species	|		|	
+1184656	|	1184634	|	Oxyothespis senegalensis	|	species	|		|	
+1184657	|	1184634	|	Oxyothespis sudanensis	|	species	|		|	
+1184658	|	1184634	|	Oxyothespis tricolor	|	species	|		|	
+1184659	|	1184634	|	Oxyothespis villiersi	|	species	|		|	
+1184660	|	1184634	|	Oxyothespis wagneri	|	species	|		|	
+1184664	|	1184628	|	Severinia	|	genus	|		|	
+1184665	|	1184664	|	Severinia granulata	|	species	|		|	
+1184666	|	1184664	|	Severinia lemoroi	|	species	|		|	
+1184667	|	1184664	|	Severinia mistshenkoi	|	species	|		|	
+1184668	|	1184664	|	Severinia nigrofasciata	|	species	|		|	
+1184669	|	1184664	|	Severinia obscurus	|	species	|		|	
+1184670	|	1184664	|	Severinia popovi	|	species	|		|	
+1184671	|	1184664	|	Severinia turcomaniae	|	species	|		|	
+1184672	|	1184671	|	Severinia turcomaniae turcomaniae	|	subspecies	|		|	
+1184673	|	1184671	|	Severinia turcomaniae amplialata	|	subspecies	|		|	
+1184674	|	1184671	|	Severinia turcomaniae cairaccumi	|	subspecies	|		|	
+1184675	|	1184671	|	Severinia turcomaniae denticulata	|	subspecies	|		|	
+1184676	|	1184671	|	Severinia turcomaniae murgabica	|	subspecies	|		|	
+1184677	|	1184671	|	Severinia turcomaniae plurisegmentatus	|	subspecies	|		|	
+1184678	|	1184671	|	Severinia turcomaniae septemfluviatilis	|	subspecies	|		|	
+1184679	|	1184664	|	Severinia ullrichi	|	species	|		|	
+1184680	|	1184628	|	Sinaiella	|	genus	|		|	
+1184681	|	1184680	|	Sinaiella nebulosa	|	species	|		|	
+1184682	|	1184680	|	Sinaiella raggei	|	species	|		|	
+1184683	|	1184680	|	Sinaiella sabulosa	|	species	|		|	
+1184685	|	1184628	|	Somalithespis	|	genus	|		|	
+1184686	|	1184685	|	Somalithespis minor	|	species	|		|	
+1184687	|	1184627	|	Paraseveriniini	|	tribe	|		|	
+1184688	|	1184687	|	Lobothespis	|	genus	|		|	
+1184689	|	1184688	|	Lobothespis vignai	|	species	|		|	
+1184690	|	1184687	|	Paraseverinia	|	genus	|		|	
+1184691	|	1184690	|	Paraseverinia finoti	|	species	|		|	
+1184692	|	1183195	|	Photinainae	|	subfamily	|		|	
+1184693	|	1184692	|	Coptopterygini	|	tribe	|		|	
+1184694	|	1184693	|	Brunneria	|	genus	|		|	
+1184695	|	1184694	|	Brunneria borealis	|	species	|		|	
+1184696	|	1184694	|	Brunneria brasiliensis	|	species	|		|	
+1184697	|	1184694	|	Brunneria gracilis	|	species	|		|	
+1184698	|	1184694	|	Brunneria grandis	|	species	|		|	
+1184699	|	1184694	|	Brunneria longa	|	species	|		|	
+1184700	|	1184694	|	Brunneria subaptera	|	species	|		|	
+1184701	|	1184693	|	Coptopteryx	|	genus	|		|	
+1184702	|	1184701	|	Coptopteryx argentina	|	species	|		|	
+1184704	|	1184701	|	Coptopteryx bonariensis	|	species	|		|	
+1184705	|	1184701	|	Coptopteryx rebrevipennis	|	species	|		|	
+1184706	|	1184701	|	Coptopteryx claraziana	|	species	|		|	
+1184708	|	1184701	|	Coptopteryx constricta	|	species	|		|	
+1184709	|	1184701	|	Coptopteryx ermannoi	|	species	|		|	
+1184710	|	1184701	|	Coptopteryx gayi	|	species	|		|	
+1184712	|	1184701	|	Coptopteryx gigliotosi	|	species	|		|	
+1184713	|	1184701	|	Coptopteryx gracilis	|	species	|		|	
+1184714	|	1184701	|	Coptopteryx grisea	|	species	|		|	
+1184715	|	1184701	|	Coptopteryx inermis	|	species	|		|	
+1184716	|	1184701	|	Coptopteryx magna	|	species	|		|	
+1184717	|	1184701	|	Coptopteryx mesomelas	|	species	|		|	
+1184719	|	1184701	|	Coptopteryx minuta	|	species	|		|	
+1184720	|	1184701	|	Coptopteryx parva	|	species	|		|	
+1184721	|	1184701	|	Coptopteryx platana	|	species	|		|	
+1184722	|	1184701	|	Coptopteryx precaria	|	species	|		|	
+1184723	|	1184701	|	Coptopteryx pusilla	|	species	|		|	
+1184724	|	1184701	|	Coptopteryx spinosa	|	species	|		|	
+1184725	|	1184701	|	Coptopteryx thoracica	|	species	|		|	
+1184727	|	1184701	|	Coptopteryx thoracoides	|	species	|		|	
+1184728	|	1184701	|	Coptopteryx viridis	|	species	|		|	
+1184730	|	1184692	|	Photinaini	|	tribe	|		|	
+1184731	|	1184730	|	Chromatophotina	|	genus	|		|	
+1184732	|	1184731	|	Chromatophotina awajun	|	species	|		|	
+1184733	|	1184731	|	Chromatophotina cofan	|	species	|		|	
+1184734	|	1184730	|	Cardioptera	|	genus	|		|	
+1184735	|	1184734	|	Cardioptera brachyptera	|	species	|		|	
+1184738	|	1184734	|	Cardioptera minor	|	species	|		|	
+1184739	|	1184734	|	Cardioptera nigridens	|	species	|		|	
+1184740	|	1184734	|	Cardioptera parva	|	species	|		|	
+1184742	|	1184734	|	Cardioptera squalodon	|	species	|		|	
+1184743	|	1184734	|	Cardioptera viridipennis	|	species	|		|	
+1184745	|	1184730	|	Hicetia	|	genus	|		|	
+1184746	|	1184745	|	Hicetia breviceps	|	species	|		|	
+1184747	|	1184745	|	Hicetia goeldiana	|	species	|		|	
+1184748	|	1184745	|	Hicetia goediana	|	species	|		|	
+1184750	|	1184730	|	Macromantis	|	genus	|		|	
+1184751	|	1184750	|	Macromantis hyalina	|	species	|		|	
+1184752	|	1184750	|	Macromantis saussurei	|	species	|		|	
+1184754	|	1184750	|	Macromantis nicaraguae	|	species	|		|	
+1184755	|	1184750	|	Macromantis ovalifolia	|	species	|		|	
+1184756	|	1184730	|	Metriomantis	|	genus	|		|	
+1184757	|	1184756	|	Metriomantis boliviana	|	species	|		|	
+1184758	|	1184756	|	Metriomantis cupido	|	species	|		|	
+1184759	|	1184756	|	Metriomantis occidentalis	|	species	|		|	
+1184760	|	1184756	|	Metriomantis ovata	|	species	|		|	
+1184762	|	1184756	|	Metriomantis paraensis	|	species	|		|	
+1184763	|	1184756	|	Metriomantis pilosella	|	species	|		|	
+1184764	|	1184756	|	Metriomantis vitrea	|	species	|		|	
+1184769	|	1184730	|	Microphotina	|	genus	|		|	
+1184770	|	1184769	|	Microphotina vitripennis	|	species	|		|	
+1184772	|	1184730	|	Orthoderella	|	genus	|		|	
+1184773	|	1184772	|	Orthoderella ornata	|	species	|		|	
+1184776	|	1184772	|	Orthoderella deluchii	|	species	|		|	
+1184777	|	1184772	|	Orthoderella brasiliensis	|	species	|		|	
+1184778	|	1184772	|	Orthoderella elongata	|	species	|		|	
+1184779	|	1184730	|	Paraphotina	|	genus	|		|	
+1184780	|	1184779	|	Paraphotina occidentalis	|	species	|		|	
+1184781	|	1184779	|	Paraphotina reticulata	|	species	|		|	
+1184786	|	1184730	|	Photina	|	genus	|		|	
+1184787	|	1184786	|	Photina vitrea	|	species	|		|	
+1184788	|	1184786	|	Photina amplipennis	|	species	|		|	
+1184790	|	1184786	|	Photina gracilis	|	species	|		|	
+1184791	|	1184786	|	Photina laevis	|	species	|		|	
+1184792	|	1184786	|	Photina reticulata	|	species	|		|	
+1184794	|	1184730	|	Photinella	|	genus	|		|	
+1184795	|	1184794	|	Photinella biramosa	|	species	|		|	
+1184796	|	1184794	|	Photinella brevis	|	species	|		|	
+1184797	|	1184794	|	Photinella magna	|	species	|		|	
+1184798	|	1184794	|	Photinella media	|	species	|		|	
+1184799	|	1184794	|	Photinella silvai	|	species	|		|	
+1184802	|	1222261	|	Margaromantis planicephala	|	species	|		|	
+1184803	|	1182473	|	Phyllothelyinae	|	subfamily	|		|	
+1184805	|	1184803	|	Ceratocrania	|	genus	|		|	
+1184806	|	1184805	|	Ceratocrania macra	|	species	|		|	
+1184807	|	1184803	|	Phyllothelys	|	genus	|		|	
+1184808	|	1184807	|	Phyllothelys bakeri	|	species	|		|	
+1184809	|	1184807	|	Phyllothelys decipiens	|	species	|		|	
+1184810	|	1184805	|	Ceratocrania malayae	|	species	|		|	
+1184811	|	1184807	|	Phyllothelys mitratum	|	species	|		|	
+1184812	|	1184807	|	Phyllothelys paradoxum	|	species	|		|	
+1184813	|	1184807	|	Phyllothelys taprobanae	|	species	|		|	
+1184814	|	1184807	|	Phyllothelys werneri	|	species	|		|	
+1184815	|	1184807	|	Phyllothelys westwoodi	|	species	|		|	
+1184816	|	1183195	|	Schizocephalinae	|	subfamily	|		|	
+1184817	|	1184816	|	Schizocephala	|	genus	|		|	
+1184818	|	1184817	|	Schizocephala bicornis	|	species	|		|	
+1184821	|	1183195	|	Stagmatopterinae	|	subfamily	|		|	
+1184822	|	1184821	|	Stagmatopterini	|	tribe	|		|	
+1184823	|	1184822	|	Catoxyopsis	|	genus	|		|	
+1184824	|	1184823	|	Catoxyopsis dubiosa	|	species	|		|	
+1184825	|	1184822	|	Lobocneme	|	genus	|		|	
+1184826	|	1184825	|	Lobocneme colombiae	|	species	|		|	
+1184827	|	1184825	|	Lobocneme lobipes	|	species	|		|	
+1184828	|	1184822	|	Oxyopsis	|	genus	|		|	
+1184829	|	1184828	|	Oxyopsis acutipennis	|	species	|		|	
+1184830	|	1184828	|	Oxyopsis festae	|	species	|		|	
+1184831	|	1184828	|	Oxyopsis gracilis	|	species	|		|	
+1184832	|	1184828	|	Oxyopsis lobeter	|	species	|		|	
+1184833	|	1184828	|	Oxyopsis media	|	species	|		|	
+1184834	|	1184828	|	Oxyopsis obtusa	|	species	|		|	
+1184835	|	1184828	|	Oxyopsis oculea	|	species	|		|	
+1184836	|	1184828	|	Oxyopsis peruviana	|	species	|		|	
+1184837	|	1184828	|	Oxyopsis rubicunda	|	species	|		|	
+1184838	|	1184828	|	Oxyopsis saussurei	|	species	|		|	
+1184839	|	1184828	|	Oxyopsis stali	|	species	|		|	
+1184841	|	1184822	|	Parastagmatoptera	|	genus	|		|	
+1184843	|	1184756	|	Metriomantis amazonica	|	species	|		|	
+1184846	|	1184841	|	Parastagmatoptera flavoguttata	|	species	|		|	
+1184847	|	1222261	|	Margaromantis glauca	|	species	|		|	
+1184849	|	1184841	|	Parastagmatoptera theresopolitana	|	species	|		|	
+1184850	|	1184841	|	Parastagmatoptera immaculata	|	species	|		|	
+1184851	|	1184841	|	Parastagmatoptera pellucida	|	species	|		|	
+1184853	|	1184841	|	Parastagmatoptera simulacrum	|	species	|		|	
+1184855	|	1184841	|	Parastagmatoptera unipunctata	|	species	|		|	
+1184856	|	1184841	|	Parastagmatoptera vitreola	|	species	|		|	
+1184858	|	1184841	|	Parastagmatoptera zernyi	|	species	|		|	
+1184860	|	1184822	|	Paroxyopsis	|	genus	|		|	
+1184861	|	1184860	|	Paroxyopsis icterica	|	species	|		|	
+1184862	|	1184822	|	Pseudoxyops	|	genus	|		|	
+1184863	|	1184862	|	Pseudoxyops boliviana	|	species	|		|	
+1184864	|	1184862	|	Pseudoxyops borellii	|	species	|		|	
+1184865	|	1184862	|	Pseudoxyops diluta	|	species	|		|	
+1184867	|	1184862	|	Pseudoxyops minuta	|	species	|		|	
+1184868	|	1184862	|	Pseudoxyops perpulchra	|	species	|		|	
+1184869	|	1184822	|	Stagmatoptera	|	genus	|		|	
+1184870	|	1184869	|	Stagmatoptera abdominalis	|	species	|		|	
+1184872	|	1184869	|	Stagmatoptera binotata	|	species	|		|	
+1184874	|	1184869	|	Stagmatoptera biocellata	|	species	|		|	
+1184875	|	1184869	|	Stagmatoptera femoralis	|	species	|		|	
+1184877	|	1184869	|	Stagmatoptera hyaloptera	|	species	|		|	
+1184880	|	1184869	|	Stagmatoptera luna	|	species	|		|	
+1184884	|	1184869	|	Stagmatoptera pia	|	species	|		|	
+1184885	|	1184869	|	Stagmatoptera praecaria	|	species	|		|	
+1184890	|	1184869	|	Stagmatoptera reimoseri	|	species	|		|	
+1184891	|	1184869	|	Stagmatoptera septentrionalis	|	species	|		|	
+1184894	|	1184869	|	Stagmatoptera supplicaria	|	species	|		|	
+1184895	|	1183195	|	Vatinae	|	subfamily	|		|	
+1184896	|	1183195	|	Danuriinae	|	subfamily	|		|	
+1184897	|	1182475	|	Ambivia	|	genus	|		|	
+1184898	|	1184897	|	Ambivia parapopa	|	species	|		|	
+1184899	|	1184897	|	Ambivia popa	|	species	|		|	
+1184900	|	1184896	|	Danuria	|	genus	|		|	
+1184901	|	1184900	|	Danuria (Danuria)	|	subgenus	|		|	
+1184902	|	1184901	|	Danuria (Danuria) angusticollis	|	species	|		|	
+1184903	|	1184901	|	Danuria (Danuria) buchholzi	|	species	|		|	
+1184904	|	1184901	|	Danuria (Danuria) contorta	|	species	|		|	
+1184905	|	1184901	|	Danuria (Danuria) fusca	|	species	|		|	
+1184906	|	1184901	|	Danuria (Danuria) gracilis	|	species	|		|	
+1184908	|	1184901	|	Danuria (Danuria) impannosa	|	species	|		|	
+1184910	|	1184901	|	Danuria (Danuria) obscuripennis	|	species	|		|	
+1184911	|	1184901	|	Danuria (Danuria) sublineata	|	species	|		|	
+1184912	|	1184901	|	Danuria (Danuria) thunbergi	|	species	|		|	
+1184915	|	1184900	|	Danuria (Danuriodes)	|	subgenus	|		|	
+1184916	|	1184915	|	Danuria (Danuriodes) affinis	|	species	|		|	
+1184917	|	1184915	|	Danuria (Danuriodes) barbozae	|	species	|		|	
+1184920	|	1184915	|	Danuria (Danuriodes) congica	|	species	|		|	
+1184921	|	1184915	|	Danuria (Danuriodes) kilimandjarica	|	species	|		|	
+1184923	|	1184915	|	Danuria (Danuriodes) serratodentata	|	species	|		|	
+1184924	|	1184896	|	Danuriella	|	genus	|		|	
+1184925	|	1184924	|	Danuriella irregularis	|	species	|		|	
+1184927	|	1184924	|	Danuriella madagascariensis	|	species	|		|	
+1184928	|	1184924	|	Danuriella marojejyensis	|	species	|		|	
+1184931	|	1184807	|	Phyllothelys breve	|	species	|		|	
+1184932	|	1184807	|	Phyllothelys cornutus	|	species	|		|	
+1184933	|	1184807	|	Phyllothelys hepaticus	|	species	|		|	
+1184934	|	1184807	|	Phyllothelys jianfenglingensis	|	species	|		|	
+1184935	|	1184807	|	Phyllothelys robusta	|	species	|		|	
+1184936	|	1184807	|	Phyllothelys sinensis	|	species	|		|	
+1184937	|	1184896	|	Lithophotina	|	genus	|		|	
+1184938	|	1184937	|	Lithophotina floccosa	|	species	|		|	
+1184939	|	1184896	|	Macrodanuria	|	genus	|		|	
+1184940	|	1184939	|	Macrodanuria baculiformis	|	species	|		|	
+1184941	|	1184939	|	Macrodanuria elongata	|	species	|		|	
+1184942	|	1184939	|	Macrodanuria phasmoides	|	species	|		|	
+1184943	|	1184896	|	Macropopa	|	genus	|		|	
+1184944	|	1184943	|	Macropopa lobata	|	species	|		|	
+1184945	|	1184896	|	Neodanuria	|	genus	|		|	
+1184946	|	1184945	|	Neodanuria bolauana	|	species	|		|	
+1184948	|	1184945	|	Neodanuria simonettai	|	species	|		|	
+1184949	|	1184896	|	Popa	|	genus	|		|	
+1184950	|	1184949	|	Popa gracilis	|	species	|		|	
+1184951	|	1184949	|	Popa spurca	|	species	|		|	
+1184952	|	1184951	|	Popa spurca crassa	|	subspecies	|		|	
+1184953	|	1184951	|	Popa spurca spurca	|	subspecies	|		|	
+1184958	|	1184951	|	Popa spurca pallida	|	subspecies	|		|	
+1184959	|	1184896	|	Toxodanuria	|	genus	|		|	
+1184960	|	1184959	|	Toxodanuria orientalis	|	species	|		|	
+1184961	|	1184959	|	Toxodanuria parvula	|	species	|		|	
+1184962	|	1183195	|	Heterochaetinae	|	subfamily	|		|	
+1184963	|	1184962	|	Heterochaeta	|	genus	|		|	
+1184964	|	1184963	|	Heterochaeta bernardii	|	species	|		|	
+1184965	|	1184963	|	Heterochaeta girardi	|	species	|		|	
+1184966	|	1184963	|	Heterochaeta kumari	|	species	|		|	
+1184967	|	1184963	|	Heterochaeta lamellosa	|	species	|		|	
+1184968	|	1184963	|	Heterochaeta occidentalis	|	species	|		|	
+1184969	|	1184963	|	Heterochaeta orientalis	|	species	|		|	
+1184970	|	1184963	|	Heterochaeta pantherina	|	species	|		|	
+1184971	|	1184963	|	Heterochaeta reticulata	|	species	|		|	
+1184972	|	1184963	|	Heterochaeta strachani	|	species	|		|	
+1184974	|	1184963	|	Heterochaeta tenuipes	|	species	|		|	
+1184975	|	1184963	|	Heterochaeta zavattarii	|	species	|		|	
+1184978	|	1184895	|	Vatini	|	tribe	|		|	
+1184979	|	1184978	|	Callivates	|	genus	|		|	
+1184980	|	1184979	|	Callivates stephanei	|	species	|		|	
+1184981	|	1225172	|	Chopardiella	|	genus	|		|	
+1184982	|	1184981	|	Chopardiella latipennis	|	species	|		|	
+1184983	|	1184981	|	Chopardiella poulaini	|	species	|		|	
+1184985	|	1185009	|	Pseudovates hofmanni	|	species	|		|	
+1184986	|	1225172	|	Heterovates	|	genus	|		|	
+1184987	|	1184986	|	Heterovates pardalina	|	species	|		|	
+1184989	|	1185020	|	Vates chopardi	|	species	|		|	
+1184991	|	1185009	|	Pseudovates brasiliensis	|	species	|		|	
+1184992	|	1185009	|	Pseudovates brevicornis	|	species	|		|	
+1184993	|	1185009	|	Pseudovates chlorophaea	|	species	|		|	
+1184996	|	1185009	|	Pseudovates cingulata	|	species	|		|	
+1184998	|	1185009	|	Pseudovates cornuta	|	species	|		|	
+1184999	|	1185009	|	Pseudovates iheringi	|	species	|		|	
+1185000	|	1185009	|	Pseudovates minor	|	species	|		|	
+1185001	|	1185009	|	Pseudovates parallela	|	species	|		|	
+1185003	|	1185009	|	Pseudovates parvula	|	species	|		|	
+1185004	|	1185009	|	Pseudovates spinicollis	|	species	|		|	
+1185005	|	1185009	|	Pseudovates tripunctata	|	species	|		|	
+1185006	|	1185009	|	Pseudovates stolli	|	species	|		|	
+1185007	|	1185009	|	Pseudovates gracilicollis	|	species	|		|	
+1185008	|	1185009	|	Pseudovates brevicollis	|	species	|		|	
+1185009	|	1184978	|	Pseudovates	|	genus	|		|	
+1185010	|	1185009	|	Pseudovates arizonae	|	species	|		|	
+1185011	|	1185009	|	Pseudovates bidens	|	species	|		|	
+1185013	|	1185009	|	Pseudovates denticulata	|	species	|		|	
+1185014	|	1185009	|	Pseudovates hyalostigma	|	species	|		|	
+1185015	|	1185009	|	Pseudovates longicollis	|	species	|		|	
+1185016	|	1185009	|	Pseudovates paraensis	|	species	|		|	
+1185017	|	1185009	|	Pseudovates tolteca	|	species	|		|	
+1185019	|	1185009	|	Pseudovates townsendi	|	species	|		|	
+1185020	|	1184978	|	Vates	|	genus	|		|	
+1185021	|	1185020	|	Vates foliata	|	species	|		|	
+1185022	|	1185020	|	Vates amazonica	|	species	|		|	
+1185023	|	1185020	|	Vates biplagiata	|	species	|		|	
+1185024	|	1185020	|	Vates boliviana	|	species	|		|	
+1185025	|	1185020	|	Vates festae	|	species	|		|	
+1185026	|	1185020	|	Vates luxuriosa	|	species	|		|	
+1185027	|	1225168	|	Alangularis multilobata	|	species	|		|	
+1185029	|	1185020	|	Vates obscura	|	species	|		|	
+1185030	|	1185020	|	Vates pectinata	|	species	|		|	
+1185031	|	1185020	|	Vates pectinicornis	|	species	|		|	
+1185032	|	1185020	|	Vates peruviana	|	species	|		|	
+1185033	|	1185020	|	Vates serraticornis	|	species	|		|	
+1185034	|	1185020	|	Vates weyrauchi	|	species	|		|	
+1185036	|	1184978	|	Zoolea	|	genus	|		|	
+1185037	|	1185036	|	Zoolea lobipes	|	species	|		|	
+1185040	|	1185036	|	Zoolea major	|	species	|		|	
+1185042	|	1185036	|	Zoolea minor	|	species	|		|	
+1185043	|	1185036	|	Zoolea orba	|	species	|		|	
+1185045	|	1185036	|	Zoolea descampsi	|	species	|		|	
+1185046	|	1183195	|	Mellierinae	|	subfamily	|		|	
+1185047	|	1185046	|	Mellierini	|	tribe	|		|	
+1185048	|	1185047	|	Melliera	|	genus	|		|	
+1185049	|	1185048	|	Melliera brevipes	|	species	|		|	
+1185050	|	1185048	|	Melliera chorotega	|	species	|		|	
+1185051	|	1185048	|	Melliera major	|	species	|		|	
+1185053	|	1185048	|	Melliera mordax	|	species	|		|	
+1185055	|	1185047	|	Xystropeltis	|	genus	|		|	
+1185056	|	1185055	|	Xystropeltis lankesteri	|	species	|		|	
+1185057	|	1185055	|	Xystropeltis meridionalis	|	species	|		|	
+1185058	|	1185055	|	Xystropeltis quadrilobata	|	species	|		|	
+1185059	|	1183195	|	Orthoderinae	|	subfamily	|		|	
+1185060	|	1185059	|	Orthodera	|	genus	|		|	
+1185061	|	1185060	|	Orthodera australiana	|	species	|		|	
+1185062	|	1185060	|	Orthodera burmeisteri	|	species	|		|	
+1185064	|	1185060	|	Orthodera gracilis	|	species	|		|	
+1185065	|	1185060	|	Orthodera gunni	|	species	|		|	
+1185067	|	1185060	|	Orthodera insularis	|	species	|		|	
+1185068	|	1185060	|	Orthodera ministralis	|	species	|		|	
+1185070	|	1185060	|	Orthodera novaezealandiae	|	species	|		|	
+1185071	|	1185060	|	Orthodera rubrocoxata	|	species	|		|	
+1185074	|	1185060	|	Orthodera timorensis	|	species	|		|	
+1185075	|	1185059	|	Orthoderina	|	genus	|		|	
+1185076	|	1185075	|	Orthoderina fergusoniana	|	species	|		|	
+1185077	|	1185075	|	Orthoderina straminea	|	species	|		|	
+1185078	|	1182267	|	Mantoididae	|	family	|		|	
+1185079	|	1185078	|	Mantoidinae	|	subfamily	|		|	
+1185080	|	1185079	|	Mantoida	|	genus	|		|	
+1185081	|	1185080	|	Mantoida argentinae	|	species	|		|	
+1185082	|	1185080	|	Mantoida brunneriana	|	species	|		|	
+1185083	|	1185080	|	Mantoida burmeisteri	|	species	|		|	
+1185084	|	1185080	|	Mantoida fulgidipennis	|	species	|		|	
+1185085	|	1185080	|	Mantoida maya	|	species	|		|	
+1185086	|	1185080	|	Mantoida nitida	|	species	|		|	
+1185087	|	1185080	|	Mantoida ronderosi	|	species	|		|	
+1185088	|	1185080	|	Mantoida schraderi	|	species	|		|	
+1185089	|	1185080	|	Mantoida tenuis	|	species	|		|	
+1185092	|	1185080	|	Mantoida matthiasglinki	|	species	|		|	
+1185093	|	1185080	|	Mantoida toulgoeti	|	species	|		|	
+1185094	|	1182267	|	Metallyticidae	|	family	|		|	
+1185095	|	1185094	|	Metallyticus	|	genus	|		|	
+1185096	|	1185095	|	Metallyticus fallax	|	species	|		|	
+1185097	|	1185095	|	Metallyticus pallipes	|	species	|		|	
+1185098	|	1185095	|	Metallyticus semiaeneus	|	species	|		|	
+1185099	|	1185095	|	Metallyticus splendidus	|	species	|		|	
+1185100	|	1185095	|	Metallyticus violaceus	|	species	|		|	
+1185105	|	1185094	|	Metallyticinae	|	subfamily	|		|	
+1185107	|	1182473	|	Sibyllinae	|	subfamily	|		|	
+1185109	|	1185107	|	Leptosibylla	|	genus	|		|	
+1185110	|	1185109	|	Leptosibylla gracilis	|	species	|		|	
+1185111	|	1185107	|	Presibylla	|	genus	|		|	
+1185112	|	1185111	|	Presibylla elegans	|	species	|		|	
+1185113	|	1185111	|	Presibylla speciosa	|	species	|		|	
+1185114	|	1185107	|	Sibylla	|	genus	|		|	
+1185115	|	1185114	|	Sibylla (Sibylla)	|	subgenus	|		|	
+1185116	|	1185115	|	Sibylla (Sibylla) dives	|	species	|		|	
+1185117	|	1185115	|	Sibylla (Sibylla) dolosa	|	species	|		|	
+1185118	|	1185115	|	Sibylla (Sibylla) gratiosa	|	species	|		|	
+1185119	|	1185115	|	Sibylla (Sibylla) limbata	|	species	|		|	
+1185120	|	1185115	|	Sibylla (Sibylla) maculosa	|	species	|		|	
+1185121	|	1185115	|	Sibylla (Sibylla) marmorata	|	species	|		|	
+1185122	|	1185115	|	Sibylla (Sibylla) polyacantha	|	species	|		|	
+1185123	|	1185115	|	Sibylla (Sibylla) pretiosa	|	species	|		|	
+1185125	|	1185114	|	Sibylla (Sibyllopsis)	|	subgenus	|		|	
+1185126	|	1185125	|	Sibylla (Sibyllopsis) griffinii	|	species	|		|	
+1185127	|	1185126	|	Sibylla (Sibyllopsis) griffinii griffinii	|	subspecies	|		|	
+1185128	|	1185126	|	Sibylla (Sibyllopsis) griffinii guineensis	|	subspecies	|		|	
+1185129	|	1185125	|	Sibylla (Sibyllopsis) operosa	|	species	|		|	
+1185130	|	1185125	|	Sibylla (Sibyllopsis) pannulata	|	species	|		|	
+1185131	|	1185125	|	Sibylla (Sibyllopsis) punctata	|	species	|		|	
+1185132	|	1185125	|	Sibylla (Sibyllopsis) vanderplaetseni	|	species	|		|	
+1185133	|	1182267	|	Tarachodidae	|	family	|		|	
+1185134	|	1185133	|	Caliridinae	|	subfamily	|		|	
+1185135	|	1185134	|	Caliris	|	genus	|		|	
+1185136	|	1185135	|	Caliris elegans	|	species	|		|	
+1185137	|	1185135	|	Caliris masoni	|	species	|		|	
+1185138	|	1185135	|	Caliris melli	|	species	|		|	
+1185139	|	1185135	|	Caliris pallens	|	species	|		|	
+1185140	|	1185134	|	Deromantis	|	genus	|		|	
+1185141	|	1185140	|	Deromantis limbalicollis	|	species	|		|	
+1185142	|	1185134	|	Gildella	|	genus	|		|	
+1185143	|	1185142	|	Gildella suavis	|	species	|		|	
+1185145	|	1185134	|	Hebardia	|	genus	|		|	
+1185146	|	1185145	|	Hebardia pellucida	|	species	|		|	
+1185147	|	1185134	|	Hebardiella	|	genus	|		|	
+1185148	|	1185147	|	Hebardiella karnyi	|	species	|		|	
+1185149	|	1185147	|	Hebardiella rehni	|	species	|		|	
+1185150	|	1185134	|	Leptomantella	|	genus	|		|	
+1185151	|	1185150	|	Leptomantella (Leptomantella)	|	subgenus	|		|	
+1185152	|	1185151	|	Leptomantella (Leptomantella) albella	|	species	|		|	
+1185154	|	1185151	|	Leptomantella (Leptomantella) ceylonica	|	species	|		|	
+1185155	|	1185151	|	Leptomantella (Leptomantella) fragilis	|	species	|		|	
+1185157	|	1185151	|	Leptomantella (Leptomantella) indica	|	species	|		|	
+1185158	|	1185151	|	Leptomantella (Leptomantella) lactea	|	species	|		|	
+1185159	|	1185151	|	Leptomantella (Leptomantella) montana	|	species	|		|	
+1185160	|	1185151	|	Leptomantella (Leptomantella) nigrocoxata	|	species	|		|	
+1185161	|	1185151	|	Leptomantella (Leptomantella) parva	|	species	|		|	
+1185162	|	1185151	|	Leptomantella (Leptomantella) tonkinae	|	species	|		|	
+1185163	|	1185162	|	Leptomantella (Leptomantella) tonkinae tonkinae	|	subspecies	|		|	
+1185164	|	1185162	|	Leptomantella (Leptomantella) tonkinae hainanae	|	subspecies	|		|	
+1185165	|	1185151	|	Leptomantella (Leptomantella) xizangensis	|	species	|		|	
+1185167	|	1185150	|	Leptomantella (Aetaella)	|	subgenus	|		|	
+1185168	|	1185167	|	Leptomantella (Aetaella) bakeri	|	species	|		|	
+1185169	|	1185167	|	Leptomantella (Aetaella) pluvisilvae	|	species	|		|	
+1185170	|	1185133	|	Tarachodinae	|	subfamily	|		|	
+1185171	|	1185170	|	Tarachodini	|	tribe	|		|	
+1185172	|	1185171	|	Tuberculepsus	|	genus	|		|	
+1185173	|	1185172	|	Tuberculepsus andriai	|	species	|		|	
+1185174	|	1185172	|	Tuberculepsus beieri	|	species	|		|	
+1185175	|	1185172	|	Tuberculepsus tuberculatus	|	species	|		|	
+1185176	|	1185172	|	Tuberculepsus orangea	|	species	|		|	
+1185177	|	1185172	|	Tuberculepsus analabensis	|	species	|		|	
+1185178	|	1185172	|	Tuberculepsus masoalensis	|	species	|		|	
+1185179	|	1185172	|	Tuberculepsus nigricoxa	|	species	|		|	
+1185180	|	1185172	|	Tuberculepsus ambrensis	|	species	|		|	
+1185181	|	1185171	|	Dysaulophthalma	|	genus	|		|	
+1185182	|	1185181	|	Dysaulophthalma nathani	|	species	|		|	
+1185183	|	1185171	|	Antistia	|	genus	|		|	
+1185184	|	1185183	|	Antistia maculipennis	|	species	|		|	
+1185186	|	1185183	|	Antistia parva	|	species	|		|	
+1185187	|	1185183	|	Antistia robusta	|	species	|		|	
+1185188	|	1185183	|	Antistia vicina	|	species	|		|	
+1185189	|	1185171	|	Ariusia	|	genus	|		|	
+1185190	|	1185189	|	Ariusia conspersa	|	species	|		|	
+1185193	|	1185171	|	Charieis	|	genus	|		|	
+1185194	|	1185193	|	Charieis peeli	|	species	|		|	
+1185195	|	1185171	|	Didymocorypha	|	genus	|		|	
+1185196	|	1185195	|	Didymocorypha lanceolata	|	species	|		|	
+1185200	|	1185171	|	Dysaules	|	genus	|		|	
+1185201	|	1185200	|	Dysaules brevipennis	|	species	|		|	
+1185202	|	1185200	|	Dysaules himalayanus	|	species	|		|	
+1185203	|	1185200	|	Dysaules longicollis	|	species	|		|	
+1185205	|	1185200	|	Dysaules uvana	|	species	|		|	
+1185207	|	1185171	|	Episcopomantis	|	genus	|		|	
+1185208	|	1185207	|	Episcopomantis chalybea	|	species	|		|	
+1185209	|	1185207	|	Episcopomantis congica	|	species	|		|	
+1185211	|	1185171	|	Galepsus	|	genus	|		|	
+1185212	|	1185211	|	Galepsus (Galepsus)	|	subgenus	|		|	
+1185213	|	1185212	|	Galepsus (Galepsus) affinis	|	species	|		|	
+1185214	|	1185212	|	Galepsus (Galepsus) buettneri	|	species	|		|	
+1185215	|	1185212	|	Galepsus (Galepsus) binotatus	|	species	|		|	
+1185216	|	1185212	|	Galepsus (Galepsus) brunneri	|	species	|		|	
+1185217	|	1185212	|	Galepsus (Galepsus) congicus	|	species	|		|	
+1185218	|	1185212	|	Galepsus (Galepsus) coronatus	|	species	|		|	
+1185219	|	1185212	|	Galepsus (Galepsus) dubius	|	species	|		|	
+1185220	|	1185212	|	Galepsus (Galepsus) feae	|	species	|		|	
+1185221	|	1185212	|	Galepsus (Galepsus) globiceps	|	species	|		|	
+1185222	|	1185212	|	Galepsus (Galepsus) inermis	|	species	|		|	
+1185223	|	1185212	|	Galepsus (Galepsus) konakrynus	|	species	|		|	
+1185224	|	1185212	|	Galepsus (Galepsus) laticeps	|	species	|		|	
+1185225	|	1185212	|	Galepsus (Galepsus) montanus	|	species	|		|	
+1185226	|	1185212	|	Galepsus (Galepsus) nigricoxa	|	species	|		|	
+1185227	|	1185212	|	Galepsus (Galepsus) nyassensis	|	species	|		|	
+1185228	|	1185212	|	Galepsus (Galepsus) tenuis	|	species	|		|	
+1185229	|	1185212	|	Galepsus (Galepsus) thomseni	|	species	|		|	
+1185230	|	1185211	|	Galepsus (Lygdamia)	|	subgenus	|		|	
+1185231	|	1185230	|	Galepsus (Lygdamia) brincki	|	species	|		|	
+1185232	|	1185230	|	Galepsus (Lygdamia) cacuminatus	|	species	|		|	
+1185233	|	1185230	|	Galepsus (Lygdamia) culminans	|	species	|		|	
+1185234	|	1185230	|	Galepsus (Lygdamia) lenticularis	|	species	|		|	
+1185235	|	1185230	|	Galepsus (Lygdamia) nimulensis	|	species	|		|	
+1185236	|	1185230	|	Galepsus (Lygdamia) oxycephalus	|	species	|		|	
+1185237	|	1185230	|	Galepsus (Lygdamia) scorteccii	|	species	|		|	
+1185238	|	1185230	|	Galepsus (Lygdamia) signatus	|	species	|		|	
+1185239	|	1185230	|	Galepsus (Lygdamia) trilobus	|	species	|		|	
+1185240	|	1185211	|	Galepsus (Onychogalepsus)	|	subgenus	|		|	
+1185241	|	1185240	|	Galepsus (Onychogalepsus) aberrans	|	species	|		|	
+1185242	|	1185240	|	Galepsus (Onychogalepsus) angolensis	|	species	|		|	
+1185243	|	1185240	|	Galepsus (Onychogalepsus) bioculatus	|	species	|		|	
+1185244	|	1185243	|	Galepsus (Onychogalepsus) bioculatus bioculatus	|	subspecies	|		|	
+1185245	|	1185243	|	Galepsus (Onychogalepsus) bioculatus abyssinicus	|	subspecies	|		|	
+1185246	|	1185240	|	Galepsus (Onychogalepsus) bispinosus	|	species	|		|	
+1185247	|	1185240	|	Galepsus (Onychogalepsus) capensis	|	species	|		|	
+1185248	|	1185240	|	Galepsus (Onychogalepsus) capitatus	|	species	|		|	
+1185249	|	1185240	|	Galepsus (Onychogalepsus) centralis	|	species	|		|	
+1185250	|	1185240	|	Galepsus (Onychogalepsus) damaranus	|	species	|		|	
+1185251	|	1185250	|	Galepsus (Onychogalepsus) damaranus damaranus	|	subspecies	|		|	
+1185252	|	1185250	|	Galepsus (Onychogalepsus) damaranus orientalis	|	subspecies	|		|	
+1185253	|	1185240	|	Galepsus (Onychogalepsus) decipiens	|	species	|		|	
+1185254	|	1185240	|	Galepsus (Onychogalepsus) diversus	|	species	|		|	
+1185255	|	1185240	|	Galepsus (Onychogalepsus) erythraeus	|	species	|		|	
+1185256	|	1185240	|	Galepsus (Onychogalepsus) fallaciosus	|	species	|		|	
+1185257	|	1185240	|	Galepsus (Onychogalepsus) fallax	|	species	|		|	
+1185258	|	1185240	|	Galepsus (Onychogalepsus) femoratus	|	species	|		|	
+1185259	|	1185240	|	Galepsus (Onychogalepsus) focki	|	species	|		|	
+1185260	|	1185240	|	Galepsus (Onychogalepsus) fumipennis	|	species	|		|	
+1185261	|	1185240	|	Galepsus (Onychogalepsus) gracilis	|	species	|		|	
+1185262	|	1185240	|	Galepsus (Onychogalepsus) intermedius	|	species	|		|	
+1185263	|	1185240	|	Galepsus (Onychogalepsus) letabaensis	|	species	|		|	
+1185264	|	1185240	|	Galepsus (Onychogalepsus) machadoi	|	species	|		|	
+1185265	|	1185240	|	Galepsus (Onychogalepsus) malawiensis	|	species	|		|	
+1185266	|	1185240	|	Galepsus (Onychogalepsus) meridionalis	|	species	|		|	
+1185267	|	1185240	|	Galepsus (Onychogalepsus) minima	|	species	|		|	
+1185268	|	1185240	|	Galepsus (Onychogalepsus) minutus	|	species	|		|	
+1185269	|	1185240	|	Galepsus (Onychogalepsus) pentheri	|	species	|		|	
+1185270	|	1185240	|	Galepsus (Onychogalepsus) rhodesicus	|	species	|		|	
+1185271	|	1185240	|	Galepsus (Onychogalepsus) rouxi	|	species	|		|	
+1185272	|	1185240	|	Galepsus (Onychogalepsus) schwetzi	|	species	|		|	
+1185273	|	1185240	|	Galepsus (Onychogalepsus) sudanensis	|	species	|		|	
+1185274	|	1185240	|	Galepsus (Onychogalepsus) supervacaneus	|	species	|		|	
+1185275	|	1185240	|	Galepsus (Onychogalepsus) transvaalensis	|	species	|		|	
+1185276	|	1185240	|	Galepsus (Onychogalepsus) ulricae	|	species	|		|	
+1185277	|	1185240	|	Galepsus (Onychogalepsus) wittei	|	species	|		|	
+1185278	|	1185240	|	Galepsus (Onychogalepsus) zambesicus	|	species	|		|	
+1185279	|	1185211	|	Galepsus (Syngalepsus)	|	subgenus	|		|	
+1185280	|	1185279	|	Galepsus (Syngalepsus) beieri	|	species	|		|	
+1185281	|	1185279	|	Galepsus (Syngalepsus) bipunctatus	|	species	|		|	
+1185282	|	1185279	|	Galepsus (Syngalepsus) birkenmeierae	|	species	|		|	
+1185283	|	1185279	|	Galepsus (Syngalepsus) denigratus	|	species	|		|	
+1185284	|	1185171	|	Iris	|	genus	|		|	
+1185285	|	1185284	|	Iris deserti	|	species	|		|	
+1185286	|	1185284	|	Iris insolita	|	species	|		|	
+1185287	|	1185284	|	Iris nana	|	species	|		|	
+1185289	|	1185284	|	Iris narzykulovi	|	species	|		|	
+1185290	|	1185284	|	Iris oratoria	|	species	|		|	
+1185294	|	1185284	|	Iris orientalis	|	species	|		|	
+1185295	|	1185284	|	Iris persa	|	species	|		|	
+1185296	|	1185284	|	Iris persiminima	|	species	|		|	
+1185297	|	1185284	|	Iris pitcheri	|	species	|		|	
+1185298	|	1185284	|	Iris polystictica	|	species	|		|	
+1185299	|	1185298	|	Iris polystictica polystictica	|	subspecies	|		|	
+1185301	|	1185298	|	Iris polystictica mongolica	|	subspecies	|		|	
+1185302	|	1185298	|	Iris polystictica shahdarinica	|	subspecies	|		|	
+1185303	|	1185298	|	Iris polystictica shugnanica	|	subspecies	|		|	
+1185304	|	1185284	|	Iris senegalensis	|	species	|		|	
+1185306	|	1185284	|	Iris splendida	|	species	|		|	
+1185307	|	1185284	|	Iris strigosa	|	species	|		|	
+1185308	|	1185284	|	Iris caeca	|	species	|		|	
+1185309	|	1185171	|	Metagalepsus	|	genus	|		|	
+1185310	|	1185309	|	Metagalepsus occidentalis	|	species	|		|	
+1185311	|	1185309	|	Metagalepsus stramineus	|	species	|		|	
+1185312	|	1185171	|	Nesogalepsus	|	genus	|		|	
+1185314	|	1185312	|	Nesogalepsus hova	|	species	|		|	
+1185315	|	1185339	|	Paralygdamia madagascariensis	|	species	|		|	
+1185316	|	1185339	|	Paralygdamia sikorai	|	species	|		|	
+1185317	|	1185171	|	Nothogalepsus	|	genus	|		|	
+1185318	|	1185317	|	Nothogalepsus planivertex	|	species	|		|	
+1185321	|	1185171	|	Oxyelaea	|	genus	|		|	
+1185322	|	1185321	|	Oxyelaea elegans	|	species	|		|	
+1185323	|	1185321	|	Oxyelaea heteromorpha	|	species	|		|	
+1185324	|	1185321	|	Oxyelaea stefaniae	|	species	|		|	
+1185325	|	1185171	|	Oxyophthalma	|	genus	|		|	
+1185326	|	1185325	|	Oxyophthalma engaea	|	species	|		|	
+1185327	|	1185325	|	Oxyophthalma gracilis	|	species	|		|	
+1185329	|	1185171	|	Oxyophthalmellus	|	genus	|		|	
+1185330	|	1185329	|	Oxyophthalmellus rehni	|	species	|		|	
+1185331	|	1185329	|	Oxyophthalmellus somalicus	|	species	|		|	
+1185332	|	1185171	|	Paragalepsus	|	genus	|		|	
+1185333	|	1185332	|	Paragalepsus bassari	|	species	|		|	
+1185334	|	1185332	|	Paragalepsus gestri	|	species	|		|	
+1185335	|	1185332	|	Paragalepsus nigericus	|	species	|		|	
+1185336	|	1185332	|	Paragalepsus oxyops	|	species	|		|	
+1185337	|	1185332	|	Paragalepsus vrydaghi	|	species	|		|	
+1185338	|	1185332	|	Paragalepsus toganus	|	species	|		|	
+1185339	|	1185171	|	Paralygdamia	|	genus	|		|	
+1185340	|	1185339	|	Paralygdamia madecassa	|	species	|		|	
+1185341	|	1185171	|	Paroxyophthalmus	|	genus	|		|	
+1185342	|	1185341	|	Paroxyophthalmus collaris	|	species	|		|	
+1185343	|	1185341	|	Paroxyophthalmus nigericus	|	species	|		|	
+1185344	|	1185341	|	Paroxyophthalmus ornatus	|	species	|		|	
+1185345	|	1185341	|	Paroxyophthalmus savatieri	|	species	|		|	
+1185346	|	1185171	|	Plastogalepsus	|	genus	|		|	
+1185347	|	1185346	|	Plastogalepsus kuhlgatzi	|	species	|		|	
+1185349	|	1185171	|	Pseudogalepsus	|	genus	|		|	
+1185350	|	1185349	|	Pseudogalepsus dispar	|	species	|		|	
+1185351	|	1185349	|	Pseudogalepsus inermis	|	species	|		|	
+1185352	|	1185349	|	Pseudogalepsus modestior	|	species	|		|	
+1185354	|	1185349	|	Pseudogalepsus modestus	|	species	|		|	
+1185355	|	1185349	|	Pseudogalepsus nigricoxa	|	species	|		|	
+1185357	|	1185171	|	Pyrgomantis	|	genus	|		|	
+1185358	|	1185357	|	Pyrgomantis bisignata	|	species	|		|	
+1185359	|	1185357	|	Pyrgomantis congica	|	species	|		|	
+1185360	|	1185357	|	Pyrgomantis curta	|	species	|		|	
+1185361	|	1185357	|	Pyrgomantis fasciata	|	species	|		|	
+1185362	|	1185357	|	Pyrgomantis jonesi	|	species	|		|	
+1185366	|	1185357	|	Pyrgomantis longissima	|	species	|		|	
+1185367	|	1185357	|	Pyrgomantis mabuia	|	species	|		|	
+1185368	|	1185357	|	Pyrgomantis mitrata	|	species	|		|	
+1185369	|	1185357	|	Pyrgomantis nana	|	species	|		|	
+1185370	|	1185357	|	Pyrgomantis nasuta	|	species	|		|	
+1185372	|	1185357	|	Pyrgomantis ornatipes	|	species	|		|	
+1185373	|	1185357	|	Pyrgomantis pallida	|	species	|		|	
+1185374	|	1185357	|	Pyrgomantis rhodesica	|	species	|		|	
+1185375	|	1185357	|	Pyrgomantis runifera	|	species	|		|	
+1185376	|	1185357	|	Pyrgomantis signatifrons	|	species	|		|	
+1185377	|	1185357	|	Pyrgomantis simillima	|	species	|		|	
+1185378	|	1185357	|	Pyrgomantis singularis	|	species	|		|	
+1185379	|	1185357	|	Pyrgomantis wellmani	|	species	|		|	
+1185380	|	1185171	|	Tarachodella	|	genus	|		|	
+1185381	|	1185380	|	Tarachodella monticola	|	species	|		|	
+1185382	|	1185171	|	Tarachodes	|	genus	|		|	
+1185383	|	1185382	|	Tarachodes (Tarachodes)	|	subgenus	|		|	
+1185384	|	1185383	|	Tarachodes (Tarachodes) abyssinicus	|	species	|		|	
+1185385	|	1185383	|	Tarachodes (Tarachodes) alluaudi	|	species	|		|	
+1185386	|	1185383	|	Tarachodes (Tarachodes) minor	|	species	|		|	
+1185387	|	1185383	|	Tarachodes (Tarachodes) beieri	|	species	|		|	
+1185388	|	1185383	|	Tarachodes (Tarachodes) bicornis	|	species	|		|	
+1185389	|	1185383	|	Tarachodes (Tarachodes) brevipennis	|	species	|		|	
+1185390	|	1185383	|	Tarachodes (Tarachodes) chopardi	|	species	|		|	
+1185391	|	1185383	|	Tarachodes (Tarachodes) circulifer	|	species	|		|	
+1185392	|	1185383	|	Tarachodes (Tarachodes) circuliferoides	|	species	|		|	
+1185393	|	1185383	|	Tarachodes (Tarachodes) davidi	|	species	|		|	
+1185394	|	1185383	|	Tarachodes (Tarachodes) feae	|	species	|		|	
+1185395	|	1185383	|	Tarachodes (Tarachodes) fraterculus	|	species	|		|	
+1185396	|	1185383	|	Tarachodes (Tarachodes) fuscipennis	|	species	|		|	
+1185397	|	1185383	|	Tarachodes (Tarachodes) gibber	|	species	|		|	
+1185398	|	1185383	|	Tarachodes (Tarachodes) gigas	|	species	|		|	
+1185399	|	1185383	|	Tarachodes (Tarachodes) griseus	|	species	|		|	
+1185400	|	1185383	|	Tarachodes (Tarachodes) haedus	|	species	|		|	
+1185401	|	1185383	|	Tarachodes (Tarachodes) insidiator	|	species	|		|	
+1185402	|	1185383	|	Tarachodes (Tarachodes) betakarschi	|	species	|		|	
+1185403	|	1185383	|	Tarachodes (Tarachodes) karschi	|	species	|		|	
+1185404	|	1185383	|	Tarachodes (Tarachodes) lucubrans	|	species	|		|	
+1185405	|	1185383	|	Tarachodes (Tarachodes) maurus	|	species	|		|	
+1185406	|	1185383	|	Tarachodes (Tarachodes) monstrosus	|	species	|		|	
+1185407	|	1185383	|	Tarachodes (Tarachodes) namibiensis	|	species	|		|	
+1185408	|	1185383	|	Tarachodes (Tarachodes) nubifer	|	species	|		|	
+1185409	|	1185383	|	Tarachodes (Tarachodes) nyassanus	|	species	|		|	
+1185410	|	1185383	|	Tarachodes (Tarachodes) obscuripennis	|	species	|		|	
+1185411	|	1185383	|	Tarachodes (Tarachodes) okahandyanus	|	species	|		|	
+1185412	|	1185383	|	Tarachodes (Tarachodes) oxynotus	|	species	|		|	
+1185413	|	1185412	|	Tarachodes (Tarachodes) oxynotus oxynotus	|	subspecies	|		|	
+1185414	|	1185412	|	Tarachodes (Tarachodes) oxynotus tenuis	|	subspecies	|		|	
+1185415	|	1185383	|	Tarachodes (Tarachodes) perloides	|	species	|		|	
+1185417	|	1185383	|	Tarachodes (Tarachodes) pilosipes	|	species	|		|	
+1185418	|	1185383	|	Tarachodes (Tarachodes) rhodesicus	|	species	|		|	
+1185419	|	1185383	|	Tarachodes (Tarachodes) robustus	|	species	|		|	
+1185420	|	1185383	|	Tarachodes (Tarachodes) rotundiceps	|	species	|		|	
+1185421	|	1185383	|	Tarachodes (Tarachodes) sanctus	|	species	|		|	
+1185422	|	1185421	|	Tarachodes (Tarachodes) sanctus sanctus	|	subspecies	|		|	
+1185424	|	1185421	|	Tarachodes (Tarachodes) sanctus kibwezianus	|	subspecies	|		|	
+1185426	|	1185383	|	Tarachodes (Tarachodes) schulthessi	|	species	|		|	
+1185427	|	1185383	|	Tarachodes (Tarachodes) severini	|	species	|		|	
+1185428	|	1185383	|	Tarachodes (Tarachodes) taboranus	|	species	|		|	
+1185430	|	1185383	|	Tarachodes (Tarachodes) tananus	|	species	|		|	
+1185431	|	1185383	|	Tarachodes (Tarachodes) taramassi	|	species	|		|	
+1185432	|	1185383	|	Tarachodes (Tarachodes) ugandensis	|	species	|		|	
+1185433	|	1185383	|	Tarachodes (Tarachodes) usambaricus	|	species	|		|	
+1185434	|	1185383	|	Tarachodes (Tarachodes) vitreus	|	species	|		|	
+1185435	|	1185383	|	Tarachodes (Tarachodes) werneri	|	species	|		|	
+1185436	|	1185383	|	Tarachodes (Tarachodes) pujoli	|	species	|		|	
+1185437	|	1185382	|	Tarachodes (Barbachodes)	|	subgenus	|		|	
+1185438	|	1185437	|	Tarachodes (Barbachodes) afzelii	|	species	|		|	
+1185442	|	1185382	|	Tarachodes (Chiropacha)	|	subgenus	|		|	
+1185443	|	1185442	|	Tarachodes (Chiropacha) aestuans	|	species	|		|	
+1185444	|	1185443	|	Tarachodes (Chiropacha) aestuans aestuans	|	subspecies	|		|	
+1185446	|	1185443	|	Tarachodes (Chiropacha) aestuans orientalis	|	subspecies	|		|	
+1185447	|	1185442	|	Tarachodes (Chiropacha) arabicus	|	species	|		|	
+1185448	|	1185442	|	Tarachodes (Chiropacha) gilvus	|	species	|		|	
+1185449	|	1185442	|	Tarachodes (Chiropacha) maurus	|	species	|		|	
+1185450	|	1185442	|	Tarachodes (Chiropacha) modesta	|	species	|		|	
+1185452	|	1185442	|	Tarachodes (Chiropacha) obtusiceps	|	species	|		|	
+1185453	|	1185442	|	Tarachodes (Chiropacha) saussurei	|	species	|		|	
+1185454	|	1185442	|	Tarachodes (Chiropacha) smithi	|	species	|		|	
+1185455	|	1185382	|	Tarachodes (Chiropus)	|	subgenus	|		|	
+1185456	|	1185455	|	Tarachodes (Chiropus) bispinosus	|	species	|		|	
+1185457	|	1185455	|	Tarachodes (Chiropus) dives	|	species	|		|	
+1185459	|	1185455	|	Tarachodes (Chiropus) sjostedti	|	species	|		|	
+1185462	|	1185382	|	Tarachodes (Tarachodina)	|	subgenus	|		|	
+1185463	|	1185462	|	Tarachodes (Tarachodina) basinotatus	|	species	|		|	
+1185464	|	1185462	|	Tarachodes (Tarachodina) dissimulator	|	species	|		|	
+1185465	|	1185462	|	Tarachodes (Tarachodina) gerstaeckeri	|	species	|		|	
+1185466	|	1185462	|	Tarachodes (Tarachodina) griseus	|	species	|		|	
+1185467	|	1185462	|	Tarachodes (Tarachodina) maculisternum	|	species	|		|	
+1185468	|	1185462	|	Tarachodes (Tarachodina) natalensis	|	species	|		|	
+1185469	|	1185462	|	Tarachodes (Tarachodina) similis	|	species	|		|	
+1185470	|	1185171	|	Tarachodula	|	genus	|		|	
+1185471	|	1185470	|	Tarachodula ornata	|	species	|		|	
+1185472	|	1185470	|	Tarachodula pantherina	|	species	|		|	
+1185474	|	1182267	|	Acanthopidae	|	family	|		|	
+1185475	|	1185474	|	Acanthopinae	|	subfamily	|		|	
+1185476	|	1185475	|	Acanthopini	|	tribe	|		|	
+1185477	|	1185476	|	Acanthops	|	genus	|		|	
+1185479	|	1185477	|	Acanthops contorta	|	species	|		|	
+1185480	|	1185477	|	Acanthops erosa	|	species	|		|	
+1185481	|	1185477	|	Acanthops fuscifolia	|	species	|		|	
+1185483	|	1185477	|	Acanthops soukana	|	species	|		|	
+1185484	|	1185477	|	Acanthops parafalcata	|	species	|		|	
+1185485	|	1185477	|	Acanthops royi	|	species	|		|	
+1185486	|	1185477	|	Acanthops centralis	|	species	|		|	
+1185487	|	1185477	|	Acanthops occidentalis	|	species	|		|	
+1185488	|	1185477	|	Acanthops elegans	|	species	|		|	
+1185489	|	1185477	|	Acanthops onorei	|	species	|		|	
+1185490	|	1185477	|	Acanthops parva	|	species	|		|	
+1185491	|	1185477	|	Acanthops coloradensis	|	species	|		|	
+1185492	|	1185477	|	Acanthops bidens	|	species	|		|	
+1185493	|	1185477	|	Acanthops boliviana	|	species	|		|	
+1185494	|	1185477	|	Acanthops brunneri	|	species	|		|	
+1185495	|	1185477	|	Acanthops erosula	|	species	|		|	
+1185496	|	1185477	|	Acanthops falcata	|	species	|		|	
+1185499	|	1185477	|	Acanthops falcataria	|	species	|		|	
+1185502	|	1185477	|	Acanthops godmani	|	species	|		|	
+1185503	|	1185477	|	Acanthops tuberculata	|	species	|		|	
+1185504	|	1185476	|	Astollia	|	genus	|		|	
+1185506	|	1185504	|	Astollia chloris	|	species	|		|	
+1185509	|	1185476	|	Metilia	|	genus	|		|	
+1185511	|	1185509	|	Metilia amazonica	|	species	|		|	
+1185512	|	1185509	|	Metilia boliviana	|	species	|		|	
+1185513	|	1185509	|	Metilia brunnerii	|	species	|		|	
+1185516	|	1185476	|	Pseudacanthops	|	genus	|		|	
+1185518	|	1185516	|	Pseudacanthops caelebs	|	species	|		|	
+1185519	|	1185516	|	Pseudacanthops lobipes	|	species	|		|	
+1185520	|	1185516	|	Pseudacanthops spinulosus	|	species	|		|	
+1185521	|	1185476	|	Decimiana	|	genus	|		|	
+1185523	|	1185521	|	Decimiana rehni	|	species	|		|	
+1185524	|	1185521	|	Decimiana clavata	|	species	|		|	
+1185525	|	1185521	|	Decimiana elliptica	|	species	|		|	
+1185526	|	1185521	|	Decimiana bolivari	|	species	|		|	
+1185527	|	1185521	|	Decimiana hebardi	|	species	|		|	
+1185528	|	1185521	|	Decimiana tessellata	|	species	|		|	
+1185529	|	1185476	|	Miracanthops	|	genus	|		|	
+1185530	|	1185529	|	Miracanthops poulaini	|	species	|		|	
+1185531	|	1185529	|	Miracanthops lombardoi	|	species	|		|	
+1185532	|	1185529	|	Miracanthops essjja	|	species	|		|	
+1185533	|	1185476	|	Lagrecacanthops	|	genus	|		|	
+1185534	|	1185533	|	Lagrecacanthops brasiliensis	|	species	|		|	
+1185535	|	1185533	|	Lagrecacanthops guyanensis	|	species	|		|	
+1185536	|	1185474	|	Acontistinae	|	subfamily	|		|	
+1185537	|	1185536	|	Acontistini	|	tribe	|		|	
+1185538	|	1185537	|	Acontista	|	genus	|		|	
+1185543	|	1185538	|	Acontista amazonica	|	species	|		|	
+1185544	|	1185538	|	Acontista amoenula	|	species	|		|	
+1185545	|	1185538	|	Acontista bolivari	|	species	|		|	
+1185546	|	1185538	|	Acontista brevipennis	|	species	|		|	
+1185547	|	1185538	|	Acontista cayennensis	|	species	|		|	
+1185548	|	1185538	|	Acontista championi	|	species	|		|	
+1185550	|	1185538	|	Acontista chopardi	|	species	|		|	
+1185551	|	1185538	|	Acontista concinna	|	species	|		|	
+1185552	|	1185538	|	Acontista aurantiaca	|	species	|		|	
+1185555	|	1185538	|	Acontista cordillerae	|	species	|		|	
+1185556	|	1185538	|	Acontista cubana	|	species	|		|	
+1185557	|	1185538	|	Acontista ecuadorica	|	species	|		|	
+1185558	|	1185538	|	Acontista eximia	|	species	|		|	
+1185560	|	1185538	|	Acontista festae	|	species	|		|	
+1185561	|	1185538	|	Acontista fraterna	|	species	|		|	
+1185563	|	1185538	|	Acontista gracilis	|	species	|		|	
+1185564	|	1185538	|	Acontista inquinata	|	species	|		|	
+1185565	|	1185538	|	Acontista iriodes	|	species	|		|	
+1185566	|	1185538	|	Acontista maroniensis	|	species	|		|	
+1185567	|	1185538	|	Acontista mexicana	|	species	|		|	
+1185568	|	1185538	|	Acontista minima	|	species	|		|	
+1185569	|	1185538	|	Acontista multicolor	|	species	|		|	
+1185570	|	1185538	|	Acontista parva	|	species	|		|	
+1185571	|	1185538	|	Acontista piracicabensis	|	species	|		|	
+1185572	|	1185538	|	Acontista rehni	|	species	|		|	
+1185573	|	1185538	|	Acontista semirufa	|	species	|		|	
+1185575	|	1185538	|	Acontista vitrea	|	species	|		|	
+1185576	|	1185537	|	Callibia	|	genus	|		|	
+1185578	|	1185576	|	Callibia diana	|	species	|		|	
+1185581	|	1185537	|	Paratithrone	|	genus	|		|	
+1185582	|	1185581	|	Paratithrone royi	|	species	|		|	
+1185583	|	1185537	|	Raptrix	|	genus	|		|	
+1185584	|	1185583	|	Raptrix westwoodi	|	species	|		|	
+1185585	|	1185583	|	Raptrix intermedia	|	species	|		|	
+1185586	|	1185583	|	Raptrix occidentalis	|	species	|		|	
+1185587	|	1185583	|	Raptrix perspicua	|	species	|		|	
+1185593	|	1185537	|	Tithrone	|	genus	|		|	
+1185594	|	1185593	|	Tithrone catharinensis	|	species	|		|	
+1185595	|	1185593	|	Tithrone clauseni	|	species	|		|	
+1185596	|	1185593	|	Tithrone corseuili	|	species	|		|	
+1185597	|	1185593	|	Tithrone laeta	|	species	|		|	
+1185598	|	1185593	|	Tithrone latipennis	|	species	|		|	
+1185599	|	1185593	|	Tithrone major	|	species	|		|	
+1185600	|	1185593	|	Tithrone roseipennis	|	species	|		|	
+1185602	|	1185474	|	Stenophyllinae	|	subfamily	|		|	
+1185603	|	1185602	|	Stenophyllini	|	tribe	|		|	
+1185604	|	1185603	|	Stenophylla	|	genus	|		|	
+1185605	|	1185604	|	Stenophylla gallardi	|	species	|		|	
+1185606	|	1185604	|	Stenophylla cornigera	|	species	|		|	
+1185607	|	1185604	|	Stenophylla lobivertex	|	species	|		|	
+1185608	|	1182267	|	Thespidae	|	family	|		|	
+1185609	|	1185608	|	Haaniinae	|	subfamily	|		|	
+1185610	|	1185609	|	Astape	|	genus	|		|	
+1185611	|	1185610	|	Astape denticollis	|	species	|		|	
+1185612	|	1185609	|	Haania	|	genus	|		|	
+1185613	|	1185612	|	Haania aspera	|	species	|		|	
+1185614	|	1185612	|	Haania borneana	|	species	|		|	
+1185615	|	1185612	|	Haania confusa	|	species	|		|	
+1185617	|	1185612	|	Haania dispar	|	species	|		|	
+1185618	|	1185612	|	Haania lobiceps	|	species	|		|	
+1185620	|	1185612	|	Haania philippina	|	species	|		|	
+1185621	|	1185612	|	Haania simplex	|	species	|		|	
+1185622	|	1185612	|	Haania vitalisi	|	species	|		|	
+1185627	|	1185612	|	Haania doroshenkoi	|	species	|		|	
+1185628	|	1185608	|	Hoplocoryphinae	|	subfamily	|		|	
+1185629	|	1185628	|	Apterocorypha	|	genus	|		|	
+1185630	|	1185629	|	Apterocorypha atra	|	species	|		|	
+1185631	|	1185629	|	Apterocorypha aurita	|	species	|		|	
+1185632	|	1185629	|	Apterocorypha bispina	|	species	|		|	
+1185633	|	1185629	|	Apterocorypha somalica	|	species	|		|	
+1185634	|	1185628	|	Hoplocorypha	|	genus	|		|	
+1185635	|	1185634	|	Hoplocorypha acuta	|	species	|		|	
+1185636	|	1185634	|	Hoplocorypha bicornis	|	species	|		|	
+1185637	|	1185634	|	Hoplocorypha boromensis	|	species	|		|	
+1185638	|	1185634	|	Hoplocorypha boviformis	|	species	|		|	
+1185639	|	1185634	|	Hoplocorypha bottegi	|	species	|		|	
+1185640	|	1185634	|	Hoplocorypha brevicollis	|	species	|		|	
+1185641	|	1185634	|	Hoplocorypha cacomana	|	species	|		|	
+1185642	|	1185634	|	Hoplocorypha carli	|	species	|		|	
+1185643	|	1185634	|	Hoplocorypha congica	|	species	|		|	
+1185644	|	1185634	|	Hoplocorypha dentata	|	species	|		|	
+1185645	|	1185634	|	Hoplocorypha distinguenda	|	species	|		|	
+1185646	|	1185634	|	Hoplocorypha foliata	|	species	|		|	
+1185647	|	1185634	|	Hoplocorypha fumosa	|	species	|		|	
+1185648	|	1185634	|	Hoplocorypha galeata	|	species	|		|	
+1185649	|	1185634	|	Hoplocorypha garuana	|	species	|		|	
+1185650	|	1185634	|	Hoplocorypha hamulifera	|	species	|		|	
+1185651	|	1185634	|	Hoplocorypha lacualis	|	species	|		|	
+1185652	|	1185634	|	Hoplocorypha lobata	|	species	|		|	
+1185653	|	1185634	|	Hoplocorypha macra	|	species	|		|	
+1185654	|	1185634	|	Hoplocorypha mellea	|	species	|		|	
+1185655	|	1185634	|	Hoplocorypha montana	|	species	|		|	
+1185656	|	1185634	|	Hoplocorypha nana	|	species	|		|	
+1185657	|	1185634	|	Hoplocorypha narocana	|	species	|		|	
+1185658	|	1185634	|	Hoplocorypha nigerica	|	species	|		|	
+1185659	|	1185634	|	Hoplocorypha nigra	|	species	|		|	
+1185660	|	1185634	|	Hoplocorypha perplexa	|	species	|		|	
+1185661	|	1185634	|	Hoplocorypha picea	|	species	|		|	
+1185662	|	1185634	|	Hoplocorypha punctata	|	species	|		|	
+1185663	|	1185634	|	Hoplocorypha rapax	|	species	|		|	
+1185664	|	1185634	|	Hoplocorypha salfii	|	species	|		|	
+1185665	|	1185634	|	Hoplocorypha saussurii	|	species	|		|	
+1185666	|	1185634	|	Hoplocorypha sordida	|	species	|		|	
+1185667	|	1185634	|	Hoplocorypha striata	|	species	|		|	
+1185668	|	1185634	|	Hoplocorypha turneri	|	species	|		|	
+1185669	|	1185634	|	Hoplocorypha ugandana	|	species	|		|	
+1185670	|	1185634	|	Hoplocorypha vittata	|	species	|		|	
+1185671	|	1185634	|	Hoplocorypha wittei	|	species	|		|	
+1185672	|	1185628	|	Hoplocoryphella	|	genus	|		|	
+1185673	|	1185672	|	Hoplocoryphella grandis	|	species	|		|	
+1185674	|	1185608	|	Miopteryginae	|	subfamily	|		|	
+1185675	|	1185674	|	Miopterygini	|	tribe	|		|	
+1185676	|	1185675	|	Chloromiopteryx	|	genus	|		|	
+1185677	|	1185676	|	Chloromiopteryx thalassina	|	species	|		|	
+1185679	|	1185676	|	Chloromiopteryx modesta	|	species	|		|	
+1185682	|	1185676	|	Chloromiopteryx mirim	|	species	|		|	
+1185683	|	1185675	|	Miobantia	|	genus	|		|	
+1185684	|	1185683	|	Miobantia aptera	|	species	|		|	
+1185685	|	1185683	|	Miobantia ciliata	|	species	|		|	
+1185686	|	1185683	|	Miobantia fuscata	|	species	|		|	
+1185687	|	1185683	|	Miobantia nebulosa	|	species	|		|	
+1185688	|	1185683	|	Miobantia phryganea	|	species	|		|	
+1185689	|	1185683	|	Miobantia rustica	|	species	|		|	
+1185693	|	1185675	|	Promiopteryx	|	genus	|		|	
+1185694	|	1185693	|	Promiopteryx fallax	|	species	|		|	
+1185695	|	1185693	|	Promiopteryx granadensis	|	species	|		|	
+1185696	|	1185693	|	Promiopteryx punctata	|	species	|		|	
+1185697	|	1185693	|	Promiopteryx simplex	|	species	|		|	
+1185698	|	1185693	|	Promiopteryx stigmatica	|	species	|		|	
+1185700	|	1185608	|	Oligonicinae	|	subfamily	|		|	
+1185701	|	1185700	|	Oligonicini	|	tribe	|		|	
+1185702	|	1185701	|	Bactromantis	|	genus	|		|	
+1185703	|	1185702	|	Bactromantis mexicana	|	species	|		|	
+1185705	|	1185702	|	Bactromantis virga	|	species	|		|	
+1185708	|	1185701	|	Bantia	|	genus	|		|	
+1185709	|	1185708	|	Bantia chopardi	|	species	|		|	
+1185710	|	1185708	|	Bantia fusca	|	species	|		|	
+1185711	|	1185708	|	Bantia marmorata	|	species	|		|	
+1185712	|	1185708	|	Bantia metzi	|	species	|		|	
+1185713	|	1185708	|	Bantia michaelisi	|	species	|		|	
+1185714	|	1185708	|	Bantia nana	|	species	|		|	
+1185715	|	1185708	|	Bantia pygmaea	|	species	|		|	
+1185716	|	1185708	|	Bantia simoni	|	species	|		|	
+1185717	|	1185708	|	Bantia werneri	|	species	|		|	
+1185720	|	1185708	|	Bantia yotocoensis	|	species	|		|	
+1185721	|	1185701	|	Bantiella	|	genus	|		|	
+1185722	|	1185721	|	Bantiella columbina	|	species	|		|	
+1185723	|	1185721	|	Bantiella fusca	|	species	|		|	
+1185724	|	1185721	|	Bantiella hyalina	|	species	|		|	
+1185725	|	1185721	|	Bantiella pallida	|	species	|		|	
+1185726	|	1185721	|	Bantiella trinitatis	|	species	|		|	
+1185727	|	1185701	|	Diabantia	|	genus	|		|	
+1185728	|	1185727	|	Diabantia minima	|	species	|		|	
+1185729	|	1185727	|	Diabantia perparva	|	species	|		|	
+1185731	|	1185701	|	Oligonicella	|	genus	|		|	
+1185732	|	1185731	|	Oligonicella bolliana	|	species	|		|	
+1185733	|	1185731	|	Oligonicella brunneri	|	species	|		|	
+1185734	|	1185731	|	Oligonicella punctulata	|	species	|		|	
+1185735	|	1185731	|	Oligonicella scudderi	|	species	|		|	
+1185738	|	1185731	|	Oligonicella striolata	|	species	|		|	
+1185739	|	1185731	|	Oligonicella tessellata	|	species	|		|	
+1185740	|	1185701	|	Oligonyx	|	genus	|		|	
+1185741	|	1185740	|	Oligonyx bicornis	|	species	|		|	
+1185743	|	1185740	|	Oligonyx bidens	|	species	|		|	
+1185744	|	1185740	|	Oligonyx dohrnianus	|	species	|		|	
+1185745	|	1185740	|	Oligonyx insularis	|	species	|		|	
+1185746	|	1185740	|	Oligonyx maya	|	species	|		|	
+1185749	|	1185701	|	Pseudomusonia	|	genus	|		|	
+1185750	|	1185749	|	Pseudomusonia carlottae	|	species	|		|	
+1185751	|	1185749	|	Pseudomusonia fera	|	species	|		|	
+1185753	|	1185749	|	Pseudomusonia lineativentris	|	species	|		|	
+1185755	|	1185749	|	Pseudomusonia maculosa	|	species	|		|	
+1185756	|	1185749	|	Pseudomusonia rapax	|	species	|		|	
+1185760	|	1185701	|	Thesprotiella	|	genus	|		|	
+1185761	|	1185760	|	Thesprotiella bicorniculata	|	species	|		|	
+1185762	|	1185760	|	Thesprotiella festae	|	species	|		|	
+1185764	|	1185760	|	Thesprotiella fronticornis	|	species	|		|	
+1185765	|	1185760	|	Thesprotiella peruana	|	species	|		|	
+1185766	|	1185701	|	Thrinaconyx	|	genus	|		|	
+1185767	|	1185766	|	Thrinaconyx fumosus	|	species	|		|	
+1185769	|	1185766	|	Thrinaconyx kirschianus	|	species	|		|	
+1185771	|	1185701	|	Carrikerella	|	genus	|		|	
+1185772	|	1185771	|	Carrikerella ceratophora	|	species	|		|	
+1185773	|	1185771	|	Carrikerella empusa	|	species	|		|	
+1185774	|	1185701	|	Liguanea	|	genus	|		|	
+1185775	|	1185774	|	Liguanea pediodromia	|	species	|		|	
+1185776	|	1185701	|	Mantellias	|	genus	|		|	
+1185777	|	1185776	|	Mantellias pubicornis	|	species	|		|	
+1185778	|	1185701	|	Mantillica	|	genus	|		|	
+1185779	|	1185080	|	Mantoida beieri	|	species	|		|	
+1185780	|	1185778	|	Mantillica nigricans	|	species	|		|	
+1185781	|	1185766	|	Thrinaconyx sialidea	|	species	|		|	
+1185782	|	1185701	|	Pogonogaster	|	genus	|		|	
+1185783	|	1185782	|	Pogonogaster latens	|	species	|		|	
+1185784	|	1185782	|	Pogonogaster tristani	|	species	|		|	
+1185785	|	1185701	|	Pseudopogonogaster	|	genus	|		|	
+1185786	|	1185785	|	Pseudopogonogaster hebardi	|	species	|		|	
+1185787	|	1185785	|	Pseudopogonogaster mirabilis	|	species	|		|	
+1185789	|	1185785	|	Pseudopogonogaster muscosa	|	species	|		|	
+1185791	|	1185785	|	Pseudopogonogaster kanjaris	|	species	|		|	
+1185793	|	1185701	|	Thesprotia	|	genus	|		|	
+1185794	|	1185793	|	Thesprotia brasiliensis	|	species	|		|	
+1185795	|	1185793	|	Thesprotia brevis	|	species	|		|	
+1185796	|	1185793	|	Thesprotia caribea	|	species	|		|	
+1185797	|	1185793	|	Thesprotia filum	|	species	|		|	
+1185798	|	1185793	|	Thesprotia fuscipennis	|	species	|		|	
+1185799	|	1185793	|	Thesprotia gigas	|	species	|		|	
+1185800	|	1185793	|	Thesprotia graminis	|	species	|		|	
+1185801	|	1185793	|	Thesprotia infumata	|	species	|		|	
+1185804	|	1185793	|	Thesprotia insolita	|	species	|		|	
+1185805	|	1185793	|	Thesprotia macilenta	|	species	|		|	
+1185806	|	1185793	|	Thesprotia maculata	|	species	|		|	
+1185807	|	1185793	|	Thesprotia pellucida	|	species	|		|	
+1185808	|	1185793	|	Thesprotia simplex	|	species	|		|	
+1185809	|	1185793	|	Thesprotia subhyalina	|	species	|		|	
+1185810	|	1185608	|	Pseudomiopteriginae	|	subfamily	|		|	
+1185811	|	1185810	|	Pseudomiopterigini	|	tribe	|		|	
+1185812	|	1185811	|	Anamiopteryx	|	genus	|		|	
+1185813	|	1185812	|	Anamiopteryx borellii	|	species	|		|	
+1185814	|	1185812	|	Anamiopteryx grandis	|	species	|		|	
+1185815	|	1185812	|	Anamiopteryx tuberculata	|	species	|		|	
+1185817	|	1185811	|	Eumiopteryx	|	genus	|		|	
+1185818	|	1185817	|	Eumiopteryx terrai	|	species	|		|	
+1185819	|	1185817	|	Eumiopteryx bicentenaria	|	species	|		|	
+1185820	|	1185817	|	Eumiopteryx laticollis	|	species	|		|	
+1185821	|	1185817	|	Eumiopteryx magna	|	species	|		|	
+1185823	|	1185811	|	Leptomiopteryx	|	genus	|		|	
+1185824	|	1185823	|	Leptomiopteryx argentina	|	species	|		|	
+1185825	|	1185823	|	Leptomiopteryx dispar	|	species	|		|	
+1185828	|	1185811	|	Palaeothespis	|	genus	|		|	
+1185829	|	1185828	|	Palaeothespis oreophilus	|	species	|		|	
+1185830	|	1185828	|	Palaeothespis pallidus	|	species	|		|	
+1185831	|	1185828	|	Palaeothespis stictus	|	species	|		|	
+1185832	|	1185828	|	Palaeothespis leigongshanensis	|	species	|		|	
+1185833	|	1185811	|	Pizaia	|	genus	|		|	
+1185834	|	1185833	|	Pizaia seabrai	|	species	|		|	
+1185835	|	1185811	|	Pseudomiopteryx	|	genus	|		|	
+1185836	|	1185835	|	Pseudomiopteryx amazonensis	|	species	|		|	
+1185837	|	1185835	|	Pseudomiopteryx bogotensis	|	species	|		|	
+1185838	|	1185835	|	Pseudomiopteryx columbica	|	species	|		|	
+1185839	|	1185835	|	Pseudomiopteryx decipiens	|	species	|		|	
+1185840	|	1185835	|	Pseudomiopteryx festae	|	species	|		|	
+1185841	|	1185835	|	Pseudomiopteryx guyanensis	|	species	|		|	
+1185842	|	1185835	|	Pseudomiopteryx infuscata	|	species	|		|	
+1185843	|	1185835	|	Pseudomiopteryx maculata	|	species	|		|	
+1185844	|	1185835	|	Pseudomiopteryx meridana	|	species	|		|	
+1185845	|	1185835	|	Pseudomiopteryx spinifrons	|	species	|		|	
+1185847	|	1185811	|	Sinomiopteryx	|	genus	|		|	
+1185848	|	1185847	|	Sinomiopteryx brevifrons	|	species	|		|	
+1185849	|	1185847	|	Sinomiopteryx grahami	|	species	|		|	
+1185850	|	1185847	|	Sinomiopteryx guangxiensis	|	species	|		|	
+1185851	|	1185608	|	Thespinae	|	subfamily	|		|	
+1185852	|	1185851	|	Parathespini	|	tribe	|		|	
+1185853	|	1185852	|	Parathespis	|	genus	|		|	
+1185854	|	1185853	|	Parathespis humbertiana	|	species	|		|	
+1185855	|	1185852	|	Eumusonia	|	genus	|		|	
+1185856	|	1185855	|	Eumusonia intermedia	|	species	|		|	
+1185857	|	1185855	|	Eumusonia livida	|	species	|		|	
+1185859	|	1185855	|	Eumusonia viridis	|	species	|		|	
+1185860	|	1185852	|	Galapagia	|	genus	|		|	
+1185861	|	1185860	|	Galapagia amazonica	|	species	|		|	
+1185862	|	1185860	|	Galapagia peruana	|	species	|		|	
+1185863	|	1185860	|	Galapagia solitaria	|	species	|		|	
+1185864	|	1185852	|	Musonia	|	genus	|		|	
+1185865	|	1185864	|	Musonia boliviana	|	species	|		|	
+1185866	|	1185864	|	Musonia costalis	|	species	|		|	
+1185867	|	1185864	|	Musonia fuscescens	|	species	|		|	
+1185868	|	1185864	|	Musonia lineata	|	species	|		|	
+1185869	|	1185864	|	Musonia maculata	|	species	|		|	
+1185870	|	1185864	|	Musonia seclusa	|	species	|		|	
+1185871	|	1185864	|	Musonia sexdentata	|	species	|		|	
+1185872	|	1185864	|	Musonia surinama	|	species	|		|	
+1185875	|	1185852	|	Macromusonia	|	genus	|		|	
+1185876	|	1185875	|	Macromusonia conspersa	|	species	|		|	
+1185877	|	1185875	|	Macromusonia major	|	species	|		|	
+1185879	|	1185852	|	Musoniella	|	genus	|		|	
+1185880	|	1185879	|	Musoniella affinis	|	species	|		|	
+1185881	|	1185879	|	Musoniella argentina	|	species	|		|	
+1185882	|	1185879	|	Musoniella brasiliensis	|	species	|		|	
+1185883	|	1185879	|	Musoniella chopardi	|	species	|		|	
+1185884	|	1185879	|	Musoniella fragilis	|	species	|		|	
+1185885	|	1185879	|	Musoniella iparanga	|	species	|		|	
+1185886	|	1185879	|	Musoniella laevithorax	|	species	|		|	
+1185887	|	1185879	|	Musoniella longicauda	|	species	|		|	
+1185888	|	1185879	|	Musoniella parva	|	species	|		|	
+1185889	|	1185879	|	Musoniella precaria	|	species	|		|	
+1185890	|	1185852	|	Musoniola	|	genus	|		|	
+1185891	|	1185890	|	Musoniola conservatrix	|	species	|		|	
+1185892	|	1185890	|	Musoniola dohrniana	|	species	|		|	
+1185893	|	1185676	|	Chloromiopteryx plurilobata	|	species	|		|	
+1185894	|	1185890	|	Musoniola venezuelana	|	species	|		|	
+1185895	|	1185890	|	Musoniola vicina	|	species	|		|	
+1185896	|	1185852	|	Paramusonia	|	genus	|		|	
+1185897	|	1185896	|	Paramusonia cubensis	|	species	|		|	
+1185898	|	1185852	|	Pseudothespis	|	genus	|		|	
+1185899	|	1185898	|	Pseudothespis meghalayensis	|	species	|		|	
+1185900	|	1185852	|	Thespis	|	genus	|		|	
+1185901	|	1185900	|	Thespis bicolor	|	species	|		|	
+1185902	|	1185900	|	Thespis disparilis	|	species	|		|	
+1185903	|	1185900	|	Thespis dissimilis	|	species	|		|	
+1185904	|	1185900	|	Thespis exposita	|	species	|		|	
+1185905	|	1185900	|	Thespis major	|	species	|		|	
+1185906	|	1185900	|	Thespis media	|	species	|		|	
+1185907	|	1185900	|	Thespis metae	|	species	|		|	
+1185908	|	1185900	|	Thespis parva	|	species	|		|	
+1185912	|	1182267	|	Toxoderidae	|	family	|		|	
+1185913	|	1185912	|	Toxoderinae	|	subfamily	|		|	
+1185914	|	1185913	|	Aethalochroaini	|	tribe	|		|	
+1185915	|	1185914	|	Aethalochroa	|	genus	|		|	
+1185916	|	1185915	|	Aethalochroa affinis	|	species	|		|	
+1185917	|	1185915	|	Aethalochroa ashmoliana	|	species	|		|	
+1185918	|	1185915	|	Aethalochroa insignis	|	species	|		|	
+1185919	|	1185915	|	Aethalochroa simplicipes	|	species	|		|	
+1185920	|	1185915	|	Aethalochroa spinipes	|	species	|		|	
+1185924	|	1230039	|	Belomantis	|	genus	|		|	
+1185925	|	1185924	|	Belomantis helenae	|	species	|		|	
+1185926	|	1185913	|	Toxoderini	|	tribe	|		|	
+1185927	|	1185926	|	Protoxodera	|	genus	|		|	
+1185928	|	1185927	|	Protoxodera monstrosa	|	species	|		|	
+1185929	|	1185926	|	Stenotoxodera	|	genus	|		|	
+1185930	|	1185929	|	Stenotoxodera pluto	|	species	|		|	
+1185931	|	1185929	|	Stenotoxodera porioni	|	species	|		|	
+1185932	|	1185926	|	Metatoxodera	|	genus	|		|	
+1185933	|	1185932	|	Metatoxodera subparallela	|	species	|		|	
+1185935	|	1184631	|	Heterochaetula straminea	|	species	|		|	
+1185936	|	1185914	|	Oestomantis	|	genus	|		|	
+1185937	|	1185936	|	Oestomantis anoplonotus	|	species	|		|	
+1185938	|	1185936	|	Oestomantis bacillaris	|	species	|		|	
+1185940	|	1185926	|	Paratoxodera	|	genus	|		|	
+1185941	|	1185940	|	Paratoxodera borneana	|	species	|		|	
+1185942	|	1185940	|	Paratoxodera cornicollis	|	species	|		|	
+1185943	|	1185940	|	Paratoxodera meggitti	|	species	|		|	
+1185944	|	1185940	|	Paratoxodera polyacantha	|	species	|		|	
+1185945	|	1185940	|	Paratoxodera gigliotosi	|	species	|		|	
+1185946	|	1185940	|	Paratoxodera marshallae	|	species	|		|	
+1185947	|	1185914	|	Pareuthyphlebs	|	genus	|		|	
+1185948	|	1185947	|	Pareuthyphlebs arabica	|	species	|		|	
+1185949	|	1185947	|	Pareuthyphlebs occidentalis	|	species	|		|	
+1185950	|	1185947	|	Pareuthyphlebs palmonii	|	species	|		|	
+1185951	|	1185947	|	Pareuthyphlebs popovi	|	species	|		|	
+1185952	|	1185947	|	Pareuthyphlebs scorteccii	|	species	|		|	
+1185953	|	1185947	|	Pareuthyphlebs somalica	|	species	|		|	
+1185954	|	1185947	|	Pareuthyphlebs uvarovi	|	species	|		|	
+1185956	|	1185926	|	Toxodera	|	genus	|		|	
+1185957	|	1185956	|	Toxodera denticulata	|	species	|		|	
+1185959	|	1185956	|	Toxodera fimbriata	|	species	|		|	
+1185961	|	1185956	|	Toxodera integrifolia	|	species	|		|	
+1185962	|	1185956	|	Toxodera maculata	|	species	|		|	
+1185963	|	1185956	|	Toxodera pfanneri	|	species	|		|	
+1185964	|	1185956	|	Toxodera hauseri	|	species	|		|	
+1185965	|	1185956	|	Toxodera beieri	|	species	|		|	
+1185966	|	1185956	|	Toxodera maxima	|	species	|		|	
+1185967	|	1185926	|	Toxoderella	|	genus	|		|	
+1185968	|	1185967	|	Toxoderella fortnumi	|	species	|		|	
+1185969	|	1185926	|	Toxomantis	|	genus	|		|	
+1185970	|	1185969	|	Toxomantis sinensis	|	species	|		|	
+1185971	|	1185969	|	Toxomantis westwoodi	|	species	|		|	
+1185973	|	1230039	|	Calamothespis	|	genus	|		|	
+1185974	|	1185973	|	Calamothespis adusta	|	species	|		|	
+1185975	|	1185973	|	Calamothespis condamini	|	species	|		|	
+1185976	|	1185973	|	Calamothespis lineatipennis	|	species	|		|	
+1185977	|	1185973	|	Calamothespis oxyops	|	species	|		|	
+1185978	|	1185973	|	Calamothespis rourei	|	species	|		|	
+1185979	|	1185973	|	Calamothespis subcornuta	|	species	|		|	
+1185980	|	1185973	|	Calamothespis taylori	|	species	|		|	
+1185981	|	1185973	|	Calamothespis vuattouxi	|	species	|		|	
+1185983	|	1185973	|	Calamothespis congica	|	species	|		|	
+1185984	|	1185926	|	Euthyphleps	|	genus	|		|	
+1185985	|	1185984	|	Euthyphleps curtipes	|	species	|		|	
+1185986	|	1185984	|	Euthyphleps rectivenis	|	species	|		|	
+1185987	|	1185984	|	Euthyphleps tectiformis	|	species	|		|	
+1185989	|	1185915	|	Aethalochroa indica	|	species	|		|	
+1185990	|	1185926	|	Toxoderopsis	|	genus	|		|	
+1185991	|	1185990	|	Toxoderopsis spinigera	|	species	|		|	
+1185992	|	1185990	|	Toxoderopsis taurus	|	species	|		|	
+1185993	|	1182267	|	Santanmantidae	|	family	|		|	
+1185994	|	1185993	|	Santanmantis	|	genus	|		|	
+1185995	|	1185994	|	Santanmantis axelrodi	|	species	|		|	
+1185996	|	1182267	|	Amorphoscelidae	|	family	|		|	
+1185997	|	1185996	|	Amorphoscelinae	|	subfamily	|		|	
+1185998	|	1185997	|	Amorphoscelites	|	genus	|		|	
+1185999	|	1185998	|	Amorphoscelites sharovi	|	species	|		|	
+1186000	|	1185997	|	Amorphoscelini	|	tribe	|		|	
+1186001	|	1186000	|	Amorphoscelis	|	genus	|		|	
+1186002	|	1186001	|	Amorphoscelis pinheyi	|	species	|		|	
+1186003	|	1186001	|	Amorphoscelis asymmetrica	|	species	|		|	
+1186004	|	1186001	|	Amorphoscelis stellulatha	|	species	|		|	
+1186005	|	1186001	|	Amorphoscelis phaesoma	|	species	|		|	
+1186006	|	1186001	|	Amorphoscelis hainana	|	species	|		|	
+1186007	|	1186001	|	Amorphoscelis hamata	|	species	|		|	
+1186008	|	1186001	|	Amorphoscelis kenyensis	|	species	|		|	
+1186009	|	1186001	|	Amorphoscelis sumatrana	|	species	|		|	
+1186010	|	1186001	|	Amorphoscelis huismani	|	species	|		|	
+1186011	|	1186001	|	Amorphoscelis bimaculata	|	species	|		|	
+1186012	|	1186001	|	Amorphoscelis sulawesiana	|	species	|		|	
+1186013	|	1186001	|	Amorphoscelis abyssinica	|	species	|		|	
+1186014	|	1186001	|	Amorphoscelis angolica	|	species	|		|	
+1186015	|	1186001	|	Amorphoscelis annulicornis	|	species	|		|	
+1186018	|	1186001	|	Amorphoscelis austrogermanica	|	species	|		|	
+1186020	|	1186001	|	Amorphoscelis borneana	|	species	|		|	
+1186021	|	1186001	|	Amorphoscelis brunneipennis	|	species	|		|	
+1186022	|	1186001	|	Amorphoscelis chinensis	|	species	|		|	
+1186023	|	1186001	|	Amorphoscelis chopardi	|	species	|		|	
+1186024	|	1186001	|	Amorphoscelis elegans	|	species	|		|	
+1186026	|	1186001	|	Amorphoscelis griffinii	|	species	|		|	
+1186027	|	1186001	|	Amorphoscelis grisea	|	species	|		|	
+1186028	|	1186001	|	Amorphoscelis javana	|	species	|		|	
+1186029	|	1186001	|	Amorphoscelis lamottei	|	species	|		|	
+1186030	|	1186001	|	Amorphoscelis laxeretis	|	species	|		|	
+1186032	|	1186001	|	Amorphoscelis machadoi	|	species	|		|	
+1186033	|	1186001	|	Amorphoscelis naumanni	|	species	|		|	
+1186034	|	1186001	|	Amorphoscelis nigriventer	|	species	|		|	
+1186035	|	1186001	|	Amorphoscelis nubeculosa	|	species	|		|	
+1186036	|	1186001	|	Amorphoscelis opaca	|	species	|		|	
+1186037	|	1186001	|	Amorphoscelis orientalis	|	species	|		|	
+1186039	|	1186001	|	Amorphoscelis pallida	|	species	|		|	
+1186040	|	1186001	|	Amorphoscelis pantherina	|	species	|		|	
+1186041	|	1186001	|	Amorphoscelis papua	|	species	|		|	
+1186042	|	1186001	|	Amorphoscelis parva	|	species	|		|	
+1186043	|	1186001	|	Amorphoscelis pellucida	|	species	|		|	
+1186045	|	1186001	|	Amorphoscelis philippina	|	species	|		|	
+1186046	|	1186001	|	Amorphoscelis pulchella	|	species	|		|	
+1186048	|	1186001	|	Amorphoscelis pulchra	|	species	|		|	
+1186049	|	1186001	|	Amorphoscelis punctata	|	species	|		|	
+1186050	|	1186001	|	Amorphoscelis reticulata	|	species	|		|	
+1186052	|	1186001	|	Amorphoscelis rufula	|	species	|		|	
+1186053	|	1186001	|	Amorphoscelis siebersi	|	species	|		|	
+1186054	|	1186001	|	Amorphoscelis singaporana	|	species	|		|	
+1186055	|	1186001	|	Amorphoscelis spinosa	|	species	|		|	
+1186056	|	1186001	|	Amorphoscelis subnigra	|	species	|		|	
+1186057	|	1186001	|	Amorphoscelis tigrina	|	species	|		|	
+1186058	|	1186001	|	Amorphoscelis tuberculata	|	species	|		|	
+1186059	|	1186001	|	Amorphoscelis villiersi	|	species	|		|	
+1186060	|	1186000	|	Bolivaroscelis	|	genus	|		|	
+1186061	|	1186060	|	Bolivaroscelis bolivari	|	species	|		|	
+1186062	|	1186060	|	Bolivaroscelis carinata	|	species	|		|	
+1186063	|	1186060	|	Bolivaroscelis werneri	|	species	|		|	
+1186064	|	1186000	|	Caudatoscelis	|	genus	|		|	
+1186065	|	1186064	|	Caudatoscelis annulipes	|	species	|		|	
+1186067	|	1186064	|	Caudatoscelis caudata	|	species	|		|	
+1186068	|	1186064	|	Caudatoscelis collarti	|	species	|		|	
+1186069	|	1186064	|	Caudatoscelis lagrecai	|	species	|		|	
+1186070	|	1186064	|	Caudatoscelis marmorata	|	species	|		|	
+1186071	|	1186000	|	Gigliotoscelis	|	genus	|		|	
+1186072	|	1186071	|	Gigliotoscelis simulans	|	species	|		|	
+1186073	|	1186000	|	Maculatoscelis	|	genus	|		|	
+1186074	|	1186073	|	Maculatoscelis maculata	|	species	|		|	
+1186075	|	1186073	|	Maculatoscelis ascalaphoides	|	species	|		|	
+1186076	|	1186073	|	Maculatoscelis gilloni	|	species	|		|	
+1186077	|	1185996	|	Paraoxypilinae	|	subfamily	|		|	
+1186078	|	1186077	|	Paraoxypilini	|	tribe	|		|	
+1186079	|	1186078	|	Cliomantis	|	genus	|		|	
+1186080	|	1186079	|	Cliomantis cornuta	|	species	|		|	
+1186081	|	1186079	|	Cliomantis dispar	|	species	|		|	
+1186082	|	1186079	|	Cliomantis lateralis	|	species	|		|	
+1186083	|	1186079	|	Cliomantis obscura	|	species	|		|	
+1186084	|	1186078	|	Exparoxypilus	|	genus	|		|	
+1186085	|	1186084	|	Exparoxypilus africanus	|	species	|		|	
+1186086	|	1186078	|	Gyromantis	|	genus	|		|	
+1186087	|	1186086	|	Gyromantis kraussii	|	species	|		|	
+1186088	|	1186086	|	Gyromantis occidentalis	|	species	|		|	
+1186089	|	1186078	|	Metoxypilus	|	genus	|		|	
+1186090	|	1186089	|	Metoxypilus costalis	|	species	|		|	
+1186092	|	1186089	|	Metoxypilus lobifrons	|	species	|		|	
+1186093	|	1186089	|	Metoxypilus werneri	|	species	|		|	
+1186094	|	1186078	|	Myrmecomantis	|	genus	|		|	
+1186095	|	1186094	|	Myrmecomantis atra	|	species	|		|	
+1186096	|	1186078	|	Nesoxypilus	|	genus	|		|	
+1186097	|	1186096	|	Nesoxypilus albomaculatus	|	species	|		|	
+1186099	|	1186096	|	Nesoxypilus pseudomyrmex	|	species	|		|	
+1186100	|	1186078	|	Paraoxypilus	|	genus	|		|	
+1186101	|	1186100	|	Paraoxypilus armatus	|	species	|		|	
+1186102	|	1186100	|	Paraoxypilus distinctus	|	species	|		|	
+1186103	|	1186100	|	Paraoxypilus flavifemur	|	species	|		|	
+1186104	|	1186100	|	Paraoxypilus insularis	|	species	|		|	
+1186105	|	1186100	|	Paraoxypilus kimberleyensis	|	species	|		|	
+1186106	|	1186100	|	Paraoxypilus laticollis	|	species	|		|	
+1186107	|	1186100	|	Paraoxypilus tasmaniensis	|	species	|		|	
+1186108	|	1186100	|	Paraoxypilus verreauxii	|	species	|		|	
+1186109	|	1186078	|	Phthersigena	|	genus	|		|	
+1186111	|	1186109	|	Phthersigena centralis	|	species	|		|	
+1186112	|	1186109	|	Phthersigena conspersa	|	species	|		|	
+1186113	|	1186109	|	Phthersigena insularis	|	species	|		|	
+1186114	|	1186109	|	Phthersigena melania	|	species	|		|	
+1186115	|	1186109	|	Phthersigena minor	|	species	|		|	
+1186116	|	1186109	|	Phthersigena nebulosa	|	species	|		|	
+1186117	|	1186109	|	Phthersigena pallidifemur	|	species	|		|	
+1186118	|	1186109	|	Phthersigena timorensis	|	species	|		|	
+1186119	|	1186109	|	Phthersigena unicornis	|	species	|		|	
+1186120	|	1185996	|	Perlamantinae	|	subfamily	|		|	
+1186121	|	1183237	|	Compsothespis	|	genus	|		|	
+1186122	|	1186121	|	Compsothespis abyssinica	|	species	|		|	
+1186123	|	1186121	|	Compsothespis anomala	|	species	|		|	
+1186124	|	1186121	|	Compsothespis australiensis	|	species	|		|	
+1186125	|	1186121	|	Compsothespis brevipennis	|	species	|		|	
+1186126	|	1186121	|	Compsothespis cinnabarina	|	species	|		|	
+1186127	|	1186121	|	Compsothespis ebneri	|	species	|		|	
+1186128	|	1186121	|	Compsothespis falcifera	|	species	|		|	
+1186129	|	1186121	|	Compsothespis hispida	|	species	|		|	
+1186130	|	1186121	|	Compsothespis kilwana	|	species	|		|	
+1186131	|	1186121	|	Compsothespis marginipennis	|	species	|		|	
+1186132	|	1186121	|	Compsothespis michaelseni	|	species	|		|	
+1186133	|	1186121	|	Compsothespis natalica	|	species	|		|	
+1186134	|	1186121	|	Compsothespis occidentalis	|	species	|		|	
+1186135	|	1186121	|	Compsothespis zavattarii	|	species	|		|	
+1186136	|	1186120	|	Perlamantini	|	tribe	|		|	
+1186137	|	1186136	|	Paramorphoscelis	|	genus	|		|	
+1186138	|	1186137	|	Paramorphoscelis gondokorensis	|	species	|		|	
+1186139	|	1186136	|	Perlamantis	|	genus	|		|	
+1186141	|	1186139	|	Perlamantis algerica	|	species	|		|	
+1186142	|	1186139	|	Perlamantis alliberti	|	species	|		|	
+1186145	|	1182267	|	Jersimantis	|	genus	|		|	
+1186146	|	1186145	|	Jersimantis burmiticus	|	species	|		|	
+1186147	|	1186145	|	Jersimantis luzzii	|	species	|		|	
+1186148	|	1182267	|	Burmantis	|	genus	|		|	
+1186149	|	1186148	|	Burmantis asiatica	|	species	|		|	
+1186150	|	1186148	|	Burmantis lebanensis	|	species	|		|	
+1186151	|	1182267	|	Baissomantidae	|	family	|		|	
+1186152	|	1186151	|	Baissomantis	|	genus	|		|	
+1186153	|	1186152	|	Baissomantis maculata	|	species	|		|	
+1186154	|	1186152	|	Baissomantis picta	|	species	|		|	
+1186155	|	1182267	|	Chaeteessidae	|	family	|		|	
+1186156	|	1186155	|	Archaeophlebia	|	genus	|		|	
+1186157	|	1186156	|	Archaeophlebia enigmatica	|	species	|		|	
+1186158	|	1186155	|	Arvernineura	|	genus	|		|	
+1186159	|	1186158	|	Arvernineura insignis	|	species	|		|	
+1186160	|	1186155	|	Chaeteessites	|	genus	|		|	
+1186161	|	1186160	|	Chaeteessites minutissimus	|	species	|		|	
+1186162	|	1186155	|	Cretophotina	|	genus	|		|	
+1186163	|	1186162	|	Cretophotina mongolica	|	species	|		|	
+1186164	|	1186162	|	Cretophotina serotina	|	species	|		|	
+1186165	|	1186162	|	Cretophotina tristriata	|	species	|		|	
+1186166	|	1186155	|	Kazakhophotina	|	genus	|		|	
+1186167	|	1186166	|	Kazakhophotina corrupta	|	species	|		|	
+1186168	|	1186155	|	Megaphotina	|	genus	|		|	
+1186169	|	1186168	|	Megaphotina sichotensis	|	species	|		|	
+1186170	|	1186155	|	Vitimiphotina	|	genus	|		|	
+1186171	|	1186170	|	Vitimiphotina corrugata	|	species	|		|	
+1186173	|	1186155	|	Chaeteessinae	|	subfamily	|		|	
+1186174	|	1186173	|	Chaeteessa	|	genus	|		|	
+1186177	|	1186174	|	Chaeteessa nigromarginata	|	species	|		|	
+1186178	|	1186174	|	Chaeteessa burmeisteri	|	species	|		|	
+1186179	|	1186174	|	Chaeteessa brevialata	|	species	|		|	
+1186180	|	1186174	|	Chaeteessa caudata	|	species	|		|	
+1186181	|	1186174	|	Chaeteessa filata	|	species	|		|	
+1186182	|	1186174	|	Chaeteessa nana	|	species	|		|	
+1186183	|	1186174	|	Chaeteessa valida	|	species	|		|	
+1186184	|	1182267	|	Cretomantidae	|	family	|		|	
+1186185	|	1186184	|	Cretomantis	|	genus	|		|	
+1186186	|	1186185	|	Cretomantis larvalis	|	species	|		|	
+1186187	|	1186184	|	Electromantis	|	genus	|		|	
+1186188	|	1186187	|	Electromantis sukatshevae	|	species	|		|	
+1199196	|	1184772	|	Orthoderella caatingaensis	|	species	|		|	
+1199197	|	1183816	|	Hierodula transcaucasica	|	species	|		|	
+1203913	|	1183416	|	Pseudoyersinia andreae	|	species	|		|	
+1203975	|	1184117	|	Tarachomantis (Tarachomantis)	|	subgenus	|		|	
+1203976	|	1184117	|	Tarachomantis (Madamantis)	|	subgenus	|		|	
+1203977	|	1203976	|	Tarachomantis (Madamantis) analamazoatra	|	species	|		|	
+1203978	|	1203976	|	Tarachomantis (Madamantis) tsaratanana	|	species	|		|	
+1203980	|	1203976	|	Tarachomantis (Madamantis) marojeziensis	|	species	|		|	
+1203981	|	1203976	|	Tarachomantis (Madamantis) sogai	|	species	|		|	
+1204093	|	1182840	|	Pachymantis piceifemur	|	species	|		|	
+1204094	|	1182840	|	Pachymantis maculicoxa	|	species	|		|	
+1207908	|	1182535	|	Oxypiloidea (Oxypiloidea)	|	subgenus	|		|	
+1207909	|	1207908	|	Oxypiloidea (Oxypiloidea) namibiana	|	species	|		|	
+1207910	|	1207908	|	Oxypiloidea (Oxypiloidea) murphyi	|	species	|		|	
+1207915	|	1207908	|	Oxypiloidea (Oxypiloidea) dargei	|	species	|		|	
+1207916	|	1207908	|	Oxypiloidea (Oxypiloidea) denticulata	|	species	|		|	
+1207917	|	1207908	|	Oxypiloidea (Oxypiloidea) angolica	|	species	|		|	
+1207918	|	1207908	|	Oxypiloidea (Oxypiloidea) carvalhoi	|	species	|		|	
+1207920	|	1182534	|	Oxypiloidea (Catasigerpes) maroccana	|	species	|		|	
+1207921	|	1182534	|	Oxypiloidea (Catasigerpes) orientalis	|	species	|		|	
+1207922	|	1182534	|	Oxypiloidea (Catasigerpes) maldesi	|	species	|		|	
+1207923	|	1182534	|	Oxypiloidea (Catasigerpes) ivoirensis	|	species	|		|	
+1207924	|	1182534	|	Oxypiloidea (Catasigerpes) sinuata	|	species	|		|	
+1207925	|	1182534	|	Oxypiloidea (Catasigerpes) centrafricana	|	species	|		|	
+1217205	|	1186001	|	Amorphoscelis morini	|	species	|		|	
+1217324	|	1185516	|	Pseudacanthops centralis	|	species	|		|	
+1217325	|	1185516	|	Pseudacanthops clorindae	|	species	|		|	
+1217326	|	1185516	|	Pseudacanthops huaoranianus	|	species	|		|	
+1217742	|	1183082	|	Fuga	|	genus	|		|	
+1217743	|	1217742	|	Fuga grimaldii	|	species	|		|	
+1217744	|	1183082	|	Velox	|	genus	|		|	
+1217745	|	1217744	|	Velox wielandi	|	species	|		|	
+1217746	|	1183082	|	Corticomantis	|	genus	|		|	
+1217747	|	1183147	|	Liturgusa algorei	|	species	|		|	
+1217748	|	1183147	|	Liturgusa bororum	|	species	|		|	
+1217749	|	1183147	|	Liturgusa cameroni	|	species	|		|	
+1217751	|	1183147	|	Liturgusa cura	|	species	|		|	
+1217752	|	1183147	|	Liturgusa dominica	|	species	|		|	
+1217753	|	1183147	|	Liturgusa fossetti	|	species	|		|	
+1217754	|	1183147	|	Liturgusa kirtlandi	|	species	|		|	
+1217755	|	1183147	|	Liturgusa krattorum	|	species	|		|	
+1217757	|	1183147	|	Liturgusa manausensis	|	species	|		|	
+1217758	|	1183147	|	Liturgusa milleri	|	species	|		|	
+1217759	|	1183147	|	Liturgusa neblina	|	species	|		|	
+1217760	|	1183147	|	Liturgusa purus	|	species	|		|	
+1217761	|	1183147	|	Liturgusa stiewei	|	species	|		|	
+1217762	|	1183147	|	Liturgusa tessae	|	species	|		|	
+1217763	|	1183147	|	Liturgusa trinidadensis	|	species	|		|	
+1217764	|	1183147	|	Liturgusa zoae	|	species	|		|	
+1217953	|	1183083	|	Ciulfina annecharlotteae	|	species	|		|	
+1217955	|	1183083	|	Ciulfina herbersteinae	|	species	|		|	
+1217956	|	1183083	|	Ciulfina ianrichardi	|	species	|		|	
+1217957	|	1183083	|	Ciulfina terrymariceae	|	species	|		|	
+1218081	|	1182718	|	Galinthias rhomboidalis	|	species	|		|	
+1218141	|	1182267	|	Galinthiadidae	|	family	|		|	
+1218357	|	1183580	|	Mythomantis serrata	|	species	|		|	
+1218360	|	1182630	|	Otomantis bolivari	|	species	|		|	
+1218361	|	1182630	|	Otomantis minima	|	species	|		|	
+1218362	|	1182630	|	Otomantis centralis	|	species	|		|	
+1218589	|	1185078	|	Paramantoida	|	genus	|		|	
+1218590	|	1218589	|	Paramantoida amazonica	|	species	|		|	
+1220707	|	1184245	|	Tenospilota	|	genus	|		|	
+1220708	|	1183524	|	Afrothespis kenyana	|	species	|		|	
+1221338	|	1185240	|	Galepsus (Onychogalepsus) cliquennoisi	|	species	|		|	
+1221612	|	1182630	|	Otomantis trimacula	|	species	|		|	
+1222258	|	1184841	|	Parastagmatoptera bororoi	|	species	|		|	
+1222259	|	1184841	|	Parastagmatoptera sottilei	|	species	|		|	
+1222261	|	1184730	|	Margaromantis	|	genus	|		|	
+1222295	|	1222261	|	Margaromantis nigrolineata	|	species	|		|	
+1222668	|	1185536	|	Ovalimantis	|	genus	|		|	
+1222669	|	1222668	|	Ovalimantis maculata	|	species	|		|	
+1223021	|	1183793	|	Rhombomantis	|	genus	|		|	
+1223481	|	1186162	|	Cretophotina santanensis	|	species	|		|	
+1223666	|	1182473	|	Phyllocraniinae	|	subfamily	|		|	
+1223667	|	1182474	|	Otomantini	|	tribe	|		|	
+1223691	|	1182668	|	Anaxarchini	|	tribe	|		|	
+1224149	|	1184559	|	Microthespis sindhensis	|	species	|		|	
+1224150	|	1183114	|	Humbertiella sindhica	|	species	|		|	
+1225164	|	1186148	|	Burmantis zherikhini	|	species	|		|	
+1225165	|	1182267	|	Aragonimantis	|	genus	|		|	
+1225166	|	1225165	|	Aragonimantis aenigma	|	species	|		|	
+1225168	|	1184978	|	Alangularis	|	genus	|		|	
+1225169	|	1185020	|	Vates lobata	|	species	|		|	
+1225172	|	1184895	|	Heterovatini	|	tribe	|		|	
+1225190	|	1183000	|	Cornucollis	|	genus	|		|	
+1225191	|	1225190	|	Cornucollis masoalensis	|	species	|		|	
+1229752	|	1185973	|	Calamothespis aspoeckorum	|	species	|		|	
+1229753	|	1185973	|	Calamothespis guineensis	|	species	|		|	
+1229754	|	1185973	|	Calamothespis kibweziana	|	species	|		|	
+1229755	|	1185973	|	Calamothespis lesnei	|	species	|		|	
+1229994	|	1185973	|	Calamothespis nathani	|	species	|		|	
+1229995	|	1185973	|	Calamothespis prosti	|	species	|		|	
+1229996	|	1185973	|	Calamothespis tanzaniensis	|	species	|		|	
+1229997	|	1185973	|	Calamothespis vansoni	|	species	|		|	
+1230039	|	1185913	|	Calamothespini	|	tribe	|		|	
+1231186	|	1223691	|	Werneriana	|	genus	|		|	
+1231288	|	1185339	|	Paralygdamia gigliotosi	|	species	|		|	
+1231289	|	1185339	|	Paralygdamia nosyensis	|	species	|		|	
+1231290	|	1185339	|	Paralygdamia grandidieri	|	species	|		|	
+1231291	|	1185339	|	Paralygdamia fisheri	|	species	|		|	
+1231292	|	1185339	|	Paralygdamia wintreberti	|	species	|		|	
+1231293	|	1185339	|	Paralygdamia ifatyensis	|	species	|		|	
+1231294	|	1185339	|	Paralygdamia punctata	|	species	|		|	
+1232137	|	1184869	|	Stagmatoptera diana	|	species	|		|	
+1232138	|	1184869	|	Stagmatoptera cerdai	|	species	|		|	
+1232139	|	1184869	|	Stagmatoptera indicator	|	species	|		|	

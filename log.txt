@@ -1,0 +1,1653 @@
+log.tsv|version1
+source_name	source_qid	parity	target_name	target_qid	target_uid	reason	witness	
+Agraeciini	ORTH:1132654	-		null	-	sibling-sink mismatch	null
+Agraeciini	ORTH:1132654	=>	Agraeciini	ORTH:1132654	-677849	reject/absorbed	null
+Haliplectoidea	WOR:834685	=>	Haliplectoidea	WOR:834685	-66488	reject/absorbed	null
+Haliplectoidea	WOR:834685	-		null	-	not-placed/same-taxon	null
+Ancaudellia insularis	BLA:1173633	=>	Ancaudellia insularis	BLA:1173633	-620866	new/import	null
+Anisochaeta	TPL:T1639	=>	Anisochaeta	TPL:T1639	-782757	new/import	null
+Anisochaeta	EET:EOL-Earthworm-Patch-3235	-		null	-	not-placed/does-not-descend	null
+Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	=>	Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	-31246	new/import	null
+Stylophora	WOR:204068	not=>	Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	-31246	not-same/ranks	genus|class
+Stylophora	WOR:204068	=>	Stylophora	WOR:204068	-38810	new/import	null
+Scutarielloidea	WOR:479191	=>	Scutarielloidea	WOR:479191	-335802	new/import	null
+		-	Scutarielloidea	WOR:479191	-335802	rank inversion	null
+Hoploridiidae	COL:1171552	=>	Hoploridiidae	COL:1171552	-600718	new/import	null
+Tyto rosenbergii	IOC:023db1a4276a5ca6d9cf53687e667db2	=>	Tyto rosenbergii	IOC:023db1a4276a5ca6d9cf53687e667db2	-824502	new/import	null
+Meridosternata	WOR:510543	=>	Meridosternata	WOR:510543	-214531	new/refinement	null
+Tyto inexspectata	IOC:808d38d59ad0fb70f8e351fe73469745	=>	Tyto inexspectata	IOC:808d38d59ad0fb70f8e351fe73469745	-824498	new/import	null
+Peltophysa	COL:1171567	=>	Peltophysa	COL:1171567	-628576	new/import	null
+Gymnomera	WOR:729921	=>	Gymnomera	WOR:729921	-330432	new/refinement	null
+		-	Gymnomera	WOR:729921	-330432	rank inversion	null
+Tyto nigrobrunnea	IOC:cd9a63a50d19f298723403aa5513a987	=>	Tyto nigrobrunnea	IOC:cd9a63a50d19f298723403aa5513a987	-824501	new/import	null
+Trabeculus	PSO:1224579	=>	Trabeculus	PSO:1224579	-600521	new/import	null
+Trabeculus	WOR:384820	-		null	-	promoted/internal	Philopteridae
+		-	Trabeculus	PSO:1224579	-600521	move to parent of former container, instead of to container	null
+Sergia	TPL:T15190	=>	Sergia	TPL:T15190	-417326	new/import	null
+Sergia	WOR:106830	=>	Sergia	TPL:T15190	-417326	lumped	null
+Archaeogryllotalpoides	ORTH:1128744	=>	Archaeogryllotalpoides	ORTH:1128744	-677326	new/import	null
+Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	=>	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-329367	new/import	null
+Anisoptera	TPL:T1654	not=>	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-329367	not-same/ranks	genus|suborder
+Anisoptera	TPL:T1654	=>	Anisoptera	TPL:T1654	-393596	new/import	null
+Anisoptera	WOR:890522	not=>	Anisoptera	TPL:T1654	-393596	not-same/ranks	suborder|genus
+Anisoptera	WOR:890522	=>	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-329367	same/parent+parent	Odonata|Odonata
+Acidilobaceae	trunk:5e042cf4-a107-47f7-87b9-4c0783300074	=>	Acidilobaceae	trunk:5e042cf4-a107-47f7-87b9-4c0783300074	-12478	new/import	null
+Acidilobaceae	WOR:573325	=>	Acidilobaceae	trunk:5e042cf4-a107-47f7-87b9-4c0783300074	-12478	same/parent+parent	Acidilobales|Acidilobales
+Stenocoris (Pseudoleptocorisa) erraticus	COR:1186591	=>	Stenocoris (Pseudoleptocorisa) erraticus	COR:1186591	-723772	new/import	null
+Metataxis bare	EET:EOL-Earthworm-Patch-1904	=>	Metataxis bare	EET:EOL-Earthworm-Patch-1904	-181782	new/import	null
+Zorotypus (Zorotypus) cramptoni	ZOR:1218749	=>	Zorotypus (Zorotypus) cramptoni	ZOR:1218749	-626393	new/import	null
+Hydatica petiolaris	TPL:tro-29101122	=>	Hydatica petiolaris	TPL:tro-29101122	-396362	new/import	null
+Caldisphaeraceae	trunk:45c297b1-1d71-404c-b0e4-4963f03ae076	=>	Caldisphaeraceae	trunk:45c297b1-1d71-404c-b0e4-4963f03ae076	-12479	new/import	null
+Metoligotoma reducta subtropica	EMB:1171929	=>	Metoligotoma reducta subtropica	EMB:1171929	-626085	new/import	null
+Ekmania	TPL:T6140	=>	Ekmania	TPL:T6140	-782767	new/import	null
+Ekmania	WOR:123496	-		null	-	not-placed/does-not-descend	null
+Myodochini	LYG:1215251	-		null	-	sibling-sink mismatch	null
+Myodochini	LYG:1215251	=>	Myodochini	LYG:1215251	-628337	reject/absorbed	null
+Delaya leruthi	EET:EOL-Earthworm-Patch-1871	=>	Delaya leruthi	EET:EOL-Earthworm-Patch-1871	-181779	new/import	null
+Coreinae	COR:1187113	=>	Coreinae	COR:1187113	-651107	new/refinement	null
+Nilomantis floweri	MNT:1183071	=>	Nilomantis floweri	MNT:1183071	-642388	new/import	null
+Bradburia	TPL:T2899	=>	Bradburia	TPL:T2899	-782307	new/import	null
+Bradburia	WOR:479544	-		null	-	not-placed/does-not-descend	null
+Scapteriscus headsi	ORTH:1128777	=>	Scapteriscus headsi	ORTH:1128777	-712015	new/import	null
+Fusulinida	WOR:592502	=>	Fusulinida	WOR:592502	-16980	reject/absorbed	null
+Fusulinida	WOR:592502	-		null	-	not-placed/same-taxon	null
+Guembelina midwayensis	WOR:911020	=>	Guembelina midwayensis	WOR:911020	-27	new/import	null
+Tyto tenebricosa tenebricosa	IOC:a8344f0e551e2567b387f703108fbd23	=>	Tyto tenebricosa tenebricosa	IOC:a8344f0e551e2567b387f703108fbd23	-830178	new/import	null
+Digenea	WOR:108400	=>	Digenea	WOR:108400	-180672	new/refinement	null
+		-	Digenea	WOR:108400	-180672	rank inversion	null
+Digenea	WOR:143909	=>	Digenea	WOR:143909	-27602	new/import	null
+Lunaceps	PSO:1224431	=>	Lunaceps	PSO:1224431	-600519	new/import	null
+Lunaceps	WOR:384807	-		null	-	promoted/internal	Philopteridae
+		-	Lunaceps	PSO:1224431	-600519	move to parent of former container, instead of to container	null
+Brachylaimoidea	WOR:468885	=>	Brachylaimoidea	WOR:468885	-335694	reject/inconsistent	null
+Timema cristinae	PHA:1203886	=>	Timema cristinae	PHA:1203886	-676876	new/import	null
+Hydatica	TPL:T8336	=>	Hydatica	TPL:T8336	-348603	new/import	null
+Phyllophoridae	WOR:123188	-		null	-	sibling-sink mismatch	null
+Phyllophoridae	WOR:123188	=>	Phyllophoridae	WOR:123188	-65690	reject/absorbed	null
+Stuhlmannia	TPL:T15991	=>	Stuhlmannia	TPL:T15991	-752925	new/import	null
+Stuhlmannia	EET:EOL-Earthworm-Patch-1633	-		null	-	not-placed/does-not-descend	null
+Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	=>	Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	-822084	new/import	null
+Ensifera	ORTH:1121518	not=>	Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	-822084	not-same/ranks	suborder|genus
+Ensifera	ORTH:1121518	=>	Ensifera	ORTH:1121518	-581717	new/import	null
+Philoceanus	PSO:1224514	=>	Philoceanus	PSO:1224514	-600523	new/import	null
+Philoceanus	WOR:384816	-		null	-	promoted/internal	Philopteridae
+		-	Philoceanus	PSO:1224514	-600523	move to parent of former container, instead of to container	null
+Semenoviolidae	DER:1180049	=>	Semenoviolidae	DER:1180049	-598658	new/import	null
+Chroicopterinae	MNT:1183633	=>	Chroicopterinae	MNT:1183633	-593004	new/refinement	null
+Timema podura	PHA:1203897	=>	Timema podura	PHA:1203897	-676877	new/import	null
+Ancaudellia shawi	BLA:1173643	=>	Ancaudellia shawi	BLA:1173643	-620865	new/import	null
+Metrodorinae	ORTH:1100864	=>	Metrodorinae	ORTH:1100864	-664008	reject/inconsistent	null
+Eurypetalum	TPL:T6636	=>	Eurypetalum	TPL:T6636	-752544	new/import	null
+Eurypetalum	WOR:512641	-		null	-	not-placed/does-not-descend	null
+Conocephalinae	ORTH:1132630	=>	Conocephalinae	ORTH:1132630	-663861	new/refinement	null
+Dipteris	PPG:Pteridophyte-Phylogeny-Group1-92	=>	Dipteris	PPG:Pteridophyte-Phylogeny-Group1-92	-135501	new/import	null
+Dipteris	TPL:T5719	=>	Dipteris	PPG:Pteridophyte-Phylogeny-Group1-92	-135501	same/parent+parent	Dipteridaceae|Dipteridaceae
+Cladonotinae	ORTH:1100584	=>	Cladonotinae	ORTH:1100584	-664023	new/refinement	null
+Kenguronympha lenta	GRY:1220965	=>	Kenguronympha lenta	GRY:1220965	-582043	new/import	null
+Stenocoris (Stenocoris) braziliensis	COR:1186562	=>	Stenocoris (Stenocoris) braziliensis	COR:1186562	-723776	new/import	null
+Laganiformes	WOR:510558	=>	Laganiformes	WOR:510558	-328637	new/refinement	null
+Nematophora	trunk:fcef29b5-2551-4a8a-9042-213f6275432d	=>	Nematophora	trunk:fcef29b5-2551-4a8a-9042-213f6275432d	-330448	new/import	null
+Nematophora	WOR:369931	not=>	Nematophora	trunk:fcef29b5-2551-4a8a-9042-213f6275432d	-330448	not-same/ranks	genus|superorder
+Nematophora	WOR:888574	=>	Nematophora	trunk:fcef29b5-2551-4a8a-9042-213f6275432d	-330448	same/parent+parent	Eugnatha|Eugnatha
+Nematophora	WOR:369931	=>	Nematophora	WOR:369931	-27684	new/import	null
+Stenocoris (Stenocoris) sordidus	COR:1186575	=>	Stenocoris (Stenocoris) sordidus	COR:1186575	-723775	new/import	null
+Mesonotoperla	PLE:1152781	=>	Mesonotoperla	PLE:1152781	-419211	new/import	null
+Micrelytrini	COR:1186592	-		null	-	sibling-sink mismatch	null
+Micrelytrini	COR:1186592	=>	Micrelytrini	COR:1186592	-670375	reject/absorbed	null
+Holasteridae	WOR:510770	-		null	-	sibling-sink mismatch	null
+Holasteridae	WOR:510770	=>	Holasteridae	WOR:510770	-328712	reject/absorbed	null
+Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	=>	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-10774	new/import	null
+Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	=>	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-10391	new/import	null
+Thermotogae	WOR:414722	-	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-10391	noinfo	null
+Thermotogae	WOR:414722	-	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-10774	noinfo	null
+Thermotogae	WOR:414722	-		null	-	ambiguous internal	2
+Thermotogae	WOR:414721	-	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-10391	noinfo	null
+Thermotogae	WOR:414721	-	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-10774	noinfo	null
+Thermotogae	WOR:414721	-		null	-	ambiguous internal	2
+Thermotogae	WOR:414722	=>	Thermotogae	WOR:414722	-11507	reject/absorbed	null
+Thermotogae	WOR:414721	=>	Thermotogae	WOR:414721	-11508	reject/absorbed	null
+		-	Thermotogae	WOR:414721	-11508	rank inversion	null
+Pyragrinae	DER:1181775	-		null	-	sibling-sink mismatch	null
+Pyragrinae	DER:1181775	=>	Pyragrinae	DER:1181775	-645798	reject/absorbed	null
+Copiphorini	ORTH:1133737	-		null	-	sibling-sink mismatch	null
+Copiphorini	ORTH:1133737	=>	Copiphorini	ORTH:1133737	-677848	reject/absorbed	null
+Sticherus	PPG:Pteridophyte-Phylogeny-Group1-98	=>	Sticherus	PPG:Pteridophyte-Phylogeny-Group1-98	-135496	new/import	null
+Sticherus	TPL:T15866	=>	Sticherus	PPG:Pteridophyte-Phylogeny-Group1-98	-135496	same/parent+parent	Gleicheniaceae|Gleicheniaceae
+Phyllacanthina	WOR:510913	-		null	-	sibling-sink mismatch	null
+Phyllacanthina	WOR:510913	=>	Phyllacanthina	WOR:510913	-214578	reject/absorbed	null
+Batrachideinae	ORTH:1100428	-		null	-	sibling-sink mismatch	null
+Batrachideinae	ORTH:1100428	=>	Batrachideinae	ORTH:1100428	-664009	reject/absorbed	null
+Awightipsocus minimus	PSO:1222968	=>	Awightipsocus minimus	PSO:1222968	-584081	new/import	null
+Kargarella subcostalis	GRY:1221110	=>	Kargarella subcostalis	GRY:1221110	-582042	new/import	null
+Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-12199	new/import	null
+Ctenophora	WOR:956065	not=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-12199	not-same/ranks	genus|phylum
+Ctenophora	WOR:956054	not=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-12199	not-same/ranks	genus|phylum
+Ctenophora	WOR:1248	=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-12199	same/primary-name	Ctenophora
+Ctenophora	WOR:956065	=>	Ctenophora	WOR:956065	-23407	new/import	null
+Ctenophora	WOR:956054	=>	Ctenophora	WOR:956054	-32512	new/import	null
+Timema morongensis	PHA:1203893	=>	Timema morongensis	PHA:1203893	-676879	new/import	null
+Turanodermatidae	DER:1179462	=>	Turanodermatidae	DER:1179462	-598657	new/import	null
+Timema landelsensis	PHA:1203891	=>	Timema landelsensis	PHA:1203891	-676874	new/import	null
+Zorotypus (Zorotypus) huxleyi	ZOR:1218754	=>	Zorotypus (Zorotypus) huxleyi	ZOR:1218754	-626390	new/import	null
+Schistosomatoidea	WOR:108419	=>	Schistosomatoidea	WOR:108419	-335690	reject/inconsistent	null
+Zorotypus (Zorotypus) congensis	ZOR:1218747	=>	Zorotypus (Zorotypus) congensis	ZOR:1218747	-626389	new/import	null
+Rotulidae	WOR:510563	-		null	-	sibling-sink mismatch	null
+Rotulidae	WOR:510563	=>	Rotulidae	WOR:510563	-382494	reject/absorbed	null
+Hemiowoodwardia wilsoni	COL:1171584	=>	Hemiowoodwardia wilsoni	COL:1171584	-651299	new/import	null
+Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	=>	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-10749	new/import	null
+Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	=>	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-10376	new/import	null
+Gemmatimonadetes	WOR:571299	-	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-10749	noinfo	null
+Gemmatimonadetes	WOR:571299	-	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-10376	noinfo	null
+Gemmatimonadetes	WOR:571299	-		null	-	ambiguous internal	2
+Gemmatimonadetes	WOR:571298	-	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-10749	noinfo	null
+Gemmatimonadetes	WOR:571298	-	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-10376	noinfo	null
+Gemmatimonadetes	WOR:571298	-		null	-	ambiguous internal	2
+Gemmatimonadetes	WOR:571299	=>	Gemmatimonadetes	WOR:571299	-11471	reject/absorbed	null
+Gemmatimonadetes	WOR:571298	=>	Gemmatimonadetes	WOR:571298	-11472	reject/absorbed	null
+		-	Gemmatimonadetes	WOR:571298	-11472	rank inversion	null
+Grylloblattina	GRY:1220119	=>	Grylloblattina	GRY:1220119	-581875	new/import	null
+Grylloblattina	GRY:1219995	-		null	-	sibling-sink mismatch	null
+Grylloblattina	GRY:1219995	=>	Grylloblattina	GRY:1219995	-419171	reject/absorbed	null
+Plinthisus (Dasythisus) lativentris	LYG:1212417	=>	Plinthisus (Dasythisus) lativentris	LYG:1212417	-701943	new/import	null
+Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-10746	new/import	null
+Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-10375	new/import	null
+Acidobacteria	WOR:571177	-	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-10375	noinfo	null
+Acidobacteria	WOR:571177	-	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-10746	noinfo	null
+Acidobacteria	WOR:571177	-		null	-	ambiguous internal	2
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-10746	same/overlaps	Acidobacteriaceae|Acanthopleuribacteraceae
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-10375	same/is-subsumed-by	null
+Acidobacteria	WOR:571177	=>	Acidobacteria	WOR:571177	-11466	reject/absorbed	null
+Rhyparochrominae	LYG:1212523	=>	Rhyparochrominae	LYG:1212523	-650827	reject/inconsistent	null
+Ancaudellia depilis	BLA:1173630	=>	Ancaudellia depilis	BLA:1173630	-620867	new/import	null
+Delaya corbarensis	EET:EOL-Earthworm-Patch-1870	=>	Delaya corbarensis	EET:EOL-Earthworm-Patch-1870	-181778	new/import	null
+Metoligotoma pentanesiana	EMB:1171904	=>	Metoligotoma pentanesiana	EMB:1171904	-598342	new/import	null
+Delaya cantabronensis	EET:EOL-Earthworm-Patch-1869	=>	Delaya cantabronensis	EET:EOL-Earthworm-Patch-1869	-181775	new/import	null
+Pseudophyllinae	ORTH:1139643	=>	Pseudophyllinae	ORTH:1139643	-663864	new/refinement	null
+Dipteridaceae	PPG:Pteridophyte-Phylogeny-Group1-90	=>	Dipteridaceae	PPG:Pteridophyte-Phylogeny-Group1-90	-85362	new/import	null
+Dipteridaceae	TPL:T464	=>	Dipteridaceae	PPG:Pteridophyte-Phylogeny-Group1-90	-85362	same/is-subsumed-by	null
+Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	=>	Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	-660584	new/import	null
+		-	Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	-660584	rank inversion	null
+Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-25630	new/import	null
+Phyllacantha	WOR:370036	not=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-25630	not-same/ranks	genus|suborder
+Phyllacantha	WOR:367303	=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-25630	same/parent+parent	Arthracanthida|Arthracanthida
+Phyllacantha	WOR:370036	=>	Phyllacantha	WOR:370036	-12044	new/import	null
+Timema shepardi	PHA:1203900	=>	Timema shepardi	PHA:1203900	-676881	new/import	null
+Epaphrodita	MNT:1182655	=>	Epaphrodita	MNT:1182655	-580615	new/import	null
+Naubates	PSO:1224453	=>	Naubates	PSO:1224453	-600526	new/import	null
+Naubates	WOR:384808	-		null	-	promoted/internal	Philopteridae
+		-	Naubates	PSO:1224453	-600526	move to parent of former container, instead of to container	null
+Hemiodoecus	COL:1171579	=>	Hemiodoecus	COL:1171579	-628575	new/import	null
+Plinthisus (Dasythisus)	LYG:1212412	=>	Plinthisus (Dasythisus)	LYG:1212412	-684286	new/import	null
+Plinthisus (Dasythisus) vestitus	LYG:1212262	=>	Plinthisus (Dasythisus) vestitus	LYG:1212262	-701939	new/import	null
+Liturgusinae	MNT:1183081	=>	Liturgusinae	MNT:1183081	-592979	new/refinement	null
+Lygaeidae	LYG:1209918	=>	Lygaeidae	LYG:1209918	-628433	new/refinement	null
+Lygaeidae	WOR:151137	=>	Lygaeidae	LYG:1209918	-628433	same/parent+parent	Heteroptera|Heteroptera
+Turanoderma	DER:1179464	=>	Turanoderma	DER:1179464	-626215	new/import	null
+Mertensiidae	WOR:106323	=>	Mertensiidae	WOR:106323	-26263	reject/inconsistent	null
+Heterochaetella glandularis	EET:EOL-Earthworm-Patch-1899	=>	Heterochaetella glandularis	EET:EOL-Earthworm-Patch-1899	-181780	new/import	null
+Heterochaetella glandularis	EET:EOL-Earthworm-Patch-3566	=>	Heterochaetella glandularis	EET:EOL-Earthworm-Patch-3566	-234099	new/import	null
+Cratotetraspinus fossorius	ORTH:1128750	=>	Cratotetraspinus fossorius	ORTH:1128750	-692252	new/import	null
+Guembelina midwayensis nammalensis	WOR:929771	=>	Guembelina midwayensis nammalensis	WOR:929771	-7581	new/import	null
+Tellima glabra	TPL:tro-50310656	=>	Tellima glabra	TPL:tro-50310656	-396366	new/import	null
+Metataxis eliae	EET:EOL-Earthworm-Patch-1907	=>	Metataxis eliae	EET:EOL-Earthworm-Patch-1907	-181781	new/import	null
+Metataxis brinkhursti	EET:EOL-Earthworm-Patch-1905	=>	Metataxis brinkhursti	EET:EOL-Earthworm-Patch-1905	-181783	new/import	null
+Aspidogastrioidea	WOR:468878	=>	Aspidogastrioidea	WOR:468878	-335483	reject/inconsistent	null
+Tellima tenella	TPL:tro-50308668	=>	Tellima tenella	TPL:tro-50308668	-396365	new/import	null
+Actiniidae	WOR:100653	=>	Actiniidae	WOR:100653	-415726	reject/inconsistent	null
+Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	=>	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-580003	new/import	null
+		-	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-580003	rank inversion	null
+Mammalia	WOR:1837	=>	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-580003	same/parent+parent	Tetrapoda|Tetrapoda
+Lobata	WOR:1258	=>	Lobata	WOR:1258	-20335	new/refinement	null
+Bosbequius	LYG:1214151	=>	Bosbequius	LYG:1214151	-669613	new/import	null
+Epaphrodita undulata	MNT:1182658	=>	Epaphrodita undulata	MNT:1182658	-592957	new/import	null
+Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	=>	Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	-383873	new/import	null
+Dicliptera	TPL:T5479	not=>	Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	-383873	not-same/ranks	genus|order
+Dicliptera	TPL:T5479	=>	Dicliptera	TPL:T5479	-414805	new/import	null
+Saxifragella bicuspidata	TPL:tro-29100825	=>	Saxifragella bicuspidata	TPL:tro-29100825	-396363	new/import	null
+Raptophasma kerneggeri	MAN:1220600	=>	Raptophasma kerneggeri	MAN:1220600	-620508	new/import	null
+Faujasia	TPL:T6753	=>	Faujasia	TPL:T6753	-783097	new/import	null
+Faujasia	WOR:512642	-		null	-	not-placed/does-not-descend	null
+Loveniidae	WOR:123175	-		null	-	sibling-sink mismatch	null
+Loveniidae	WOR:123175	=>	Loveniidae	WOR:123175	-382611	reject/absorbed	null
+Rhyparochromidae	LYG:1212214	=>	Rhyparochromidae	LYG:1212214	-628423	new/refinement	null
+Periplaneta granulata	BLA:1179273	=>	Periplaneta granulata	BLA:1179273	-580839	new/import	null
+Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	=>	Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	-620479	new/import	null
+		-	Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	-620479	rank inversion	null
+Limnotyphloplanida	WOR:853129	=>	Limnotyphloplanida	WOR:853129	-230549	reject/inconsistent	null
+Nanoarchaeota	trunk:b4356493-8818-40da-b0fa-137bb079d9dc	=>	Nanoarchaeota	trunk:b4356493-8818-40da-b0fa-137bb079d9dc	-10367	new/import	null
+Telesonix heucheriformis	TPL:tro-29101040	=>	Telesonix heucheriformis	TPL:tro-29101040	-396359	new/import	null
+Plinthisus (Dasythisus) bembidioides	LYG:1212413	=>	Plinthisus (Dasythisus) bembidioides	LYG:1212413	-701942	new/import	null
+Raptophasmatinae	MAN:1220577	=>	Raptophasmatinae	MAN:1220577	-580553	new/import	null
+Ancaudellia pygmaea	BLA:1173639	=>	Ancaudellia pygmaea	BLA:1173639	-620862	new/import	null
+Matonia	PPG:Pteridophyte-Phylogeny-Group1-88	=>	Matonia	PPG:Pteridophyte-Phylogeny-Group1-88	-135504	new/import	null
+Stenocoris (Stenocoris) tipuloides	COR:1186563	=>	Stenocoris (Stenocoris) tipuloides	COR:1186563	-723773	new/import	null
+Zorotypus (Octozoros) hudae	ZOR:1220647	=>	Zorotypus (Octozoros) hudae	ZOR:1220647	-626386	new/import	null
+Tanzaniophasmatinae	MAN:1220575	=>	Tanzaniophasmatinae	MAN:1220575	-580552	new/import	null
+Adicophasma spinosa	MAN:1220586	=>	Adicophasma spinosa	MAN:1220586	-592726	new/import	null
+Tarachodinae	MNT:1185170	=>	Tarachodinae	MNT:1185170	-592970	new/refinement	null
+Securigera	TPL:T15117	=>	Securigera	TPL:T15117	-752797	new/import	null
+Securigera	ORTH:1116224	-		null	-	not-placed/does-not-descend	null
+Asteropsis	TPL:T2134	=>	Asteropsis	TPL:T2134	-781995	new/import	null
+Asteropsis	WOR:203861	-		null	-	not-placed/does-not-descend	null
+Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	-		null	-	sibling-sink mismatch	null
+Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	=>	Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	-181580	reject/absorbed	null
+Temnopleuridea	WOR:510536	=>	Temnopleuridea	WOR:510536	-214448	new/refinement	null
+Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	=>	Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	-660582	new/import	null
+		-	Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	-660582	rank inversion	null
+Tyto tenebricosa arfaki	IOC:d6e80476a94cd1bd1e3a533b04d56295	=>	Tyto tenebricosa arfaki	IOC:d6e80476a94cd1bd1e3a533b04d56295	-830177	new/import	null
+Adicophasma grylloblattoides	MAN:1220587	=>	Adicophasma grylloblattoides	MAN:1220587	-592727	new/import	null
+Carex arenaria	TPL:kew-224609	=>	Carex arenaria	TPL:kew-224609	-356574	new/import	null
+Carex arenaria	TPL:kew-224611	=>	Carex arenaria	TPL:kew-224611	-357910	new/import	null
+Carex arenaria	WOR:438828	-	Carex arenaria	TPL:kew-224609	-356574	noinfo	null
+Carex arenaria	WOR:438828	-	Carex arenaria	TPL:kew-224611	-357910	noinfo	null
+Carex arenaria	WOR:438828	-		null	-	ambiguous tip	2
+Semenovioloides capitatus	DER:1181930	=>	Semenovioloides capitatus	DER:1181930	-645734	new/import	null
+Hemiodoecus acutus	COL:1171580	=>	Hemiodoecus acutus	COL:1171580	-651295	new/import	null
+Pygidicranidae	DER:1181774	=>	Pygidicranidae	DER:1181774	-626236	new/refinement	null
+Arbusculina	ORTH:1120996	-		null	-	sibling-sink mismatch	null
+Arbusculina	ORTH:1120996	=>	Arbusculina	ORTH:1120996	-696723	reject/absorbed	null
+Blaberoidea	BLA:1172574	=>	Blaberoidea	BLA:1172574	-580836	reject/absorbed	null
+Gleichenia	PPG:Pteridophyte-Phylogeny-Group1-97	=>	Gleichenia	PPG:Pteridophyte-Phylogeny-Group1-97	-135494	new/import	null
+Gleichenia	TPL:T7188	=>	Gleichenia	PPG:Pteridophyte-Phylogeny-Group1-97	-135494	same/parent+parent	Gleicheniaceae|Gleicheniaceae
+Creaphis	APH:1159070	=>	Creaphis	APH:1159070	-670501	new/import	null
+Chroicopterini	MNT:1183634	-		null	-	sibling-sink mismatch	null
+Chroicopterini	MNT:1183634	=>	Chroicopterini	MNT:1183634	-620780	reject/absorbed	null
+Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-8461	new/import	null
+Bacteria	PHA:1202154	not=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-8461	not-same/ranks	genus|domain
+Bacteria	PHA:1202154	=>	Bacteria	PHA:1202154	-677237	new/import	null
+Bacteria	WOR:6	not=>	Bacteria	PHA:1202154	-677237	not-same/ranks	kingdom|genus
+Bacteria	WOR:6	=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-8461	same/overlaps	Thermodesulfobacteriaceae|Montanoa
+Blaberidae	BLA:1172575	=>	Blaberidae	BLA:1172575	-580687	reject/absorbed	null
+Trigonidiini	ORTH:1126891	-		null	-	sibling-sink mismatch	null
+Trigonidiini	ORTH:1126891	=>	Trigonidiini	ORTH:1126891	-677359	reject/absorbed	null
+Jurocallis longipes	APH:1159042	=>	Jurocallis longipes	APH:1159042	-628523	new/import	null
+Tyto capensis	IOC:2bebab1948f124e3a3acf793dbe781a3	=>	Tyto capensis	IOC:2bebab1948f124e3a3acf793dbe781a3	-824499	new/import	null
+Zorotypus machadoi	ZOR:1218781	=>	Zorotypus machadoi	ZOR:1218781	-626391	new/import	null
+Ectobiidae	BLA:1174509	=>	Ectobiidae	BLA:1174509	-580835	reject/absorbed	null
+Turanoderma sepultum	DER:1179465	=>	Turanoderma sepultum	DER:1179465	-645733	new/import	null
+Vossiini	ORTH:1221084	=>	Vossiini	ORTH:1221084	-580993	new/refinement	null
+Koeniginirmus	WOR:385086	=>	Koeniginirmus	WOR:385086	-600528	new/import	null
+		-	Koeniginirmus	WOR:385086	-600528	move to parent of former container, instead of to container	null
+Eucestoda	WOR:104909	=>	Eucestoda	WOR:104909	-180670	new/refinement	null
+		-	Eucestoda	WOR:104909	-180670	rank inversion	null
+Tettigoniidae	ORTH:1132213	=>	Tettigoniidae	ORTH:1132213	-645630	new/refinement	null
+Tettigoniidae	WOR:426335	=>	Tettigoniidae	ORTH:1132213	-645630	same/parent+parent	Orthoptera|Orthoptera
+Saxifragella	TPL:T14816	=>	Saxifragella	TPL:T14816	-348604	new/import	null
+Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	=>	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-10744	new/import	null
+Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	=>	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-10373	new/import	null
+Thermodesulfobacteria	WOR:567371	-	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-10373	noinfo	null
+Thermodesulfobacteria	WOR:567371	-	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-10744	noinfo	null
+Thermodesulfobacteria	WOR:567371	-		null	-	ambiguous internal	2
+Thermodesulfobacteria	WOR:567370	-	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-10373	noinfo	null
+Thermodesulfobacteria	WOR:567370	-	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-10744	noinfo	null
+Thermodesulfobacteria	WOR:567370	-		null	-	ambiguous internal	2
+Thermodesulfobacteria	WOR:567371	=>	Thermodesulfobacteria	WOR:567371	-11451	reject/absorbed	null
+Thermodesulfobacteria	WOR:567370	=>	Thermodesulfobacteria	WOR:567370	-11452	reject/absorbed	null
+		-	Thermodesulfobacteria	WOR:567370	-11452	rank inversion	null
+Plinthisus (Nanoplinthisus) nudus	LYG:1212433	=>	Plinthisus (Nanoplinthisus) nudus	LYG:1212433	-701946	new/import	null
+Zorotypus (Octozoros)	ZOR:1218733	=>	Zorotypus (Octozoros)	ZOR:1218733	-599170	new/import	null
+Parapsocida	PSO:1223091	=>	Parapsocida	PSO:1223091	-419460	new/import	null
+Vossiina	ORTH:1221085	-		null	-	sibling-sink mismatch	null
+Vossiina	ORTH:1221085	=>	Vossiina	ORTH:1221085	-595149	reject/absorbed	null
+Nilomantis edmundsi	MNT:1183070	=>	Nilomantis edmundsi	MNT:1183070	-642389	new/import	null
+Palaeoscapteriscops	ORTH:1128742	=>	Palaeoscapteriscops	ORTH:1128742	-677327	new/import	null
+Asienthomidae	PSO:1223092	=>	Asienthomidae	PSO:1223092	-584079	new/import	null
+Timema californicum	PHA:1203883	=>	Timema californicum	PHA:1203883	-676872	new/import	null
+Awightipsocus	PSO:1222965	=>	Awightipsocus	PSO:1222965	-419462	new/import	null
+Epaphrodita lobivertex	MNT:1182659	=>	Epaphrodita lobivertex	MNT:1182659	-592959	new/import	null
+Semenoviola	DER:1181601	=>	Semenoviola	DER:1181601	-626217	new/import	null
+Zorotypus (Zorotypus) delamarei	ZOR:1218750	=>	Zorotypus (Zorotypus) delamarei	ZOR:1218750	-626388	new/import	null
+Burmantis lebanensis	MNT:1186150	=>	Burmantis lebanensis	MNT:1186150	-592961	new/import	null
+Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	=>	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-10775	new/import	null
+Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	=>	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-10392	new/import	null
+Elusimicrobia	WOR:571255	-	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-10775	noinfo	null
+Elusimicrobia	WOR:571255	-	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-10392	noinfo	null
+Elusimicrobia	WOR:571255	-		null	-	ambiguous internal	2
+Elusimicrobia	WOR:571254	-	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-10775	noinfo	null
+Elusimicrobia	WOR:571254	-	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-10392	noinfo	null
+Elusimicrobia	WOR:571254	-		null	-	ambiguous internal	2
+Elusimicrobia	WOR:571255	=>	Elusimicrobia	WOR:571255	-11510	reject/absorbed	null
+Elusimicrobia	WOR:571254	=>	Elusimicrobia	WOR:571254	-11511	reject/absorbed	null
+		-	Elusimicrobia	WOR:571254	-11511	rank inversion	null
+Miotroctes	PSO:1199170	=>	Miotroctes	PSO:1199170	-419461	new/import	null
+Metoligotoma anomala	EMB:1171914	=>	Metoligotoma anomala	EMB:1171914	-598343	new/import	null
+Streblus sikokuensis	WOR:919878	=>	Streblus sikokuensis	WOR:919878	-26	new/import	null
+Timema ritensis	PHA:1203899	=>	Timema ritensis	PHA:1203899	-676873	new/import	null
+Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	=>	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-660586	new/import	null
+		-	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-660586	rank inversion	null
+Myctophiformes	WOR:10309	=>	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-660586	same/ancestor+parent	Actinopterygii|Teleostei
+Tanzaniophasma subsolana	MAN:1220589	=>	Tanzaniophasma subsolana	MAN:1220589	-620506	new/import	null
+Dendrochirotida	WOR:123111	=>	Dendrochirotida	WOR:123111	-39566	new/refinement	null
+Metoligotoma convergens	EMB:1171916	=>	Metoligotoma convergens	EMB:1171916	-598346	new/import	null
+Raptophasma	MAN:1220585	=>	Raptophasma	MAN:1220585	-592724	new/import	null
+Erianthinae	ORTH:1118145	-		null	-	sibling-sink mismatch	null
+Erianthinae	ORTH:1118145	=>	Erianthinae	ORTH:1118145	-664050	reject/absorbed	null
+Protoperlina	GRY:1219996	-		null	-	sibling-sink mismatch	null
+Protoperlina	GRY:1219996	=>	Protoperlina	GRY:1219996	-419181	reject/absorbed	null
+Echinocyamidae	WOR:510679	-		null	-	sibling-sink mismatch	null
+Echinocyamidae	WOR:510679	=>	Echinocyamidae	WOR:510679	-382505	reject/absorbed	null
+Oiophysella constans	COL:1171598	=>	Oiophysella constans	COL:1171598	-651300	new/import	null
+Pyrodictiaceae	trunk:158665d7-7973-4ed5-af88-0a8e5d932376	=>	Pyrodictiaceae	trunk:158665d7-7973-4ed5-af88-0a8e5d932376	-12481	new/import	null
+Pyrodictiaceae	WOR:573334	=>	Pyrodictiaceae	trunk:158665d7-7973-4ed5-af88-0a8e5d932376	-12481	lumped	null
+Sinolabia longyouensis	DER:1180909	=>	Sinolabia longyouensis	DER:1180909	-581807	new/import	null
+Blatta caraibea	BLA:1179268	=>	Blatta caraibea	BLA:1179268	-580838	new/import	null
+Echinoneidae	WOR:196234	-		null	-	sibling-sink mismatch	null
+Echinoneidae	WOR:196234	=>	Echinoneidae	WOR:196234	-150170	reject/absorbed	null
+Burmantis	MNT:1186148	=>	Burmantis	MNT:1186148	-580616	new/import	null
+Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	=>	Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	-710260	new/import	null
+Pholidota	TPL:T12776	not=>	Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	-710260	not-same/ranks	genus|order
+Pholidota	TPL:T12776	=>	Pholidota	TPL:T12776	-208724	new/import	null
+Asienthomum praecox	PSO:1223094	=>	Asienthomum praecox	PSO:1223094	-626944	new/import	null
+Zorotypus (Octozoros) nascimbenei	ZOR:1218738	=>	Zorotypus (Octozoros) nascimbenei	ZOR:1218738	-626385	new/import	null
+Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	=>	Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	-153536	new/import	null
+Pterygota	WOR:151152	not=>	Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	-153536	not-same/ranks	subclass|genus
+Pterygota	WOR:151152	=>	Pterygota	WOR:151152	-214877	reject/inconsistent	null
+		-	Pterygota	WOR:151152	-214877	rank inversion	null
+Gleicheniaceae	PPG:Pteridophyte-Phylogeny-Group1-93	=>	Gleicheniaceae	PPG:Pteridophyte-Phylogeny-Group1-93	-85361	new/import	null
+Gleicheniaceae	TPL:T512	=>	Gleicheniaceae	PPG:Pteridophyte-Phylogeny-Group1-93	-85361	same/is-subsumed-by	null
+Timema monikensis	PHA:1203892	=>	Timema monikensis	PHA:1203892	-676875	new/import	null
+Tanzaniophasma	MAN:1220581	=>	Tanzaniophasma	MAN:1220581	-592723	new/import	null
+Nummulina djokdjokertae	WOR:901471	=>	Nummulina djokdjokertae	WOR:901471	-31	new/import	null
+Thrinchinae	ORTH:1117310	=>	Thrinchinae	ORTH:1117310	-664087	reject/inconsistent	null
+Permedax	GRY:1219986	=>	Permedax	GRY:1219986	-419183	new/import	null
+Aspidogastrea	WOR:103973	=>	Aspidogastrea	WOR:103973	-180671	new/refinement	null
+		-	Aspidogastrea	WOR:103973	-180671	rank inversion	null
+Delaya navarrensis	EET:EOL-Earthworm-Patch-1872	=>	Delaya navarrensis	EET:EOL-Earthworm-Patch-1872	-181777	new/import	null
+Tarachodini	MNT:1185171	-		null	-	sibling-sink mismatch	null
+Tarachodini	MNT:1185171	=>	Tarachodini	MNT:1185171	-620693	reject/absorbed	null
+Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	=>	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-10745	new/import	null
+Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	=>	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-10374	new/import	null
+Actinobacteria	WOR:559510	-	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-10374	noinfo	null
+Actinobacteria	WOR:559510	-	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-10745	noinfo	null
+Actinobacteria	WOR:559510	-		null	-	ambiguous internal	2
+Actinobacteria	WOR:178057	-	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-10374	noinfo	null
+Actinobacteria	WOR:178057	-	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-10745	noinfo	null
+Actinobacteria	WOR:178057	-		null	-	ambiguous internal	2
+Actinobacteria	WOR:559510	=>	Actinobacteria	WOR:559510	-11463	reject/absorbed	null
+Actinobacteria	WOR:178057	=>	Actinobacteria	WOR:178057	-11464	reject/absorbed	null
+		-	Actinobacteria	WOR:178057	-11464	rank inversion	null
+Sylvaclinicus echinatus	GRY:1220010	=>	Sylvaclinicus echinatus	GRY:1220010	-582044	new/import	null
+Tyto rosenbergii rosenbergii	IOC:9bfd583a18ff662812e43985153148c5	=>	Tyto rosenbergii rosenbergii	IOC:9bfd583a18ff662812e43985153148c5	-830175	new/import	null
+Phaneropterinae	ORTH:1135953	=>	Phaneropterinae	ORTH:1135953	-663846	reject/inconsistent	null
+Goniocotes	PSO:1224348	=>	Goniocotes	PSO:1224348	-600525	new/import	null
+Goniocotes	WOR:385083	-		null	-	promoted/internal	Philopteridae
+		-	Goniocotes	PSO:1224348	-600525	move to parent of former container, instead of to container	null
+Esthiopterum	PSO:1224328	=>	Esthiopterum	PSO:1224328	-600522	new/import	null
+Esthiopterum	WOR:385079	-		null	-	promoted/internal	Philopteridae
+		-	Esthiopterum	PSO:1224328	-600522	move to parent of former container, instead of to container	null
+Platycleidini	ORTH:1142085	=>	Platycleidini	ORTH:1142085	-677831	reject/inconsistent	null
+Mutusca prolixa	COR:1186557	=>	Mutusca prolixa	COR:1186557	-702630	new/import	null
+Marciperla curta	PLE:1152753	=>	Marciperla curta	PLE:1152753	-582074	new/import	null
+Apium graveolens	TPL:kew-2644053	=>	Apium graveolens	TPL:kew-2644053	-504294	new/import	null
+Apium graveolens	TPL:kew-2644054	=>	Apium graveolens	TPL:kew-2644054	-504299	new/import	null
+Apium graveolens	WOR:426131	-	Apium graveolens	TPL:kew-2644053	-504294	noinfo	null
+Apium graveolens	WOR:426131	-	Apium graveolens	TPL:kew-2644054	-504299	noinfo	null
+Apium graveolens	WOR:426131	-		null	-	ambiguous tip	2
+Stenocoris (Stenocoris) v-nigrum	COR:1186576	=>	Stenocoris (Stenocoris) v-nigrum	COR:1186576	-723774	new/import	null
+Petascelini	COR:1189585	-		null	-	sibling-sink mismatch	null
+Petascelini	COR:1189585	=>	Petascelini	COR:1189585	-670451	reject/absorbed	null
+Acidilobales	trunk:e2bf575d-0c18-4387-90e1-45a0ff985754	=>	Acidilobales	trunk:e2bf575d-0c18-4387-90e1-45a0ff985754	-11433	new/import	null
+Acidilobales	WOR:573324	=>	Acidilobales	trunk:e2bf575d-0c18-4387-90e1-45a0ff985754	-11433	same/parent+parent	Thermoprotei|Thermoprotei
+Leguminosae	TPL:T103	=>	Leguminosae	TPL:T103	-753408	reject/inconsistent	null
+Degeeriella	PSO:1224306	=>	Degeeriella	PSO:1224306	-600520	new/import	null
+Degeeriella	WOR:385077	-		null	-	promoted/internal	Philopteridae
+		-	Degeeriella	PSO:1224306	-600520	move to parent of former container, instead of to container	null
+Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-421925	new/import	null
+Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-123860	new/import	null
+Bdelloidea	WOR:17968	-	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-421925	noinfo/lineage	Rotifera|Prostigmata
+Bdelloidea	WOR:17968	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-123860	same/parent+parent	Rotifera|Rotifera
+Bdelloidea	WOR:762069	-	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-123860	noinfo/lineage	Prostigmata|Rotifera
+Bdelloidea	WOR:762069	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-421925	same/parent+parent	Prostigmata|Prostigmata
+Aphidioides succifera	APH:1159021	=>	Aphidioides succifera	APH:1159021	-628522	new/import	null
+Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	=>	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	new/import	null
+Appendicularia	TPL:T1862	not=>	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	not-same/ranks	genus|class
+Appendicularia	TPL:T1862	=>	Appendicularia	TPL:T1862	-392157	new/import	null
+Appendicularia	WOR:103357	not=>	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	not-same/ranks	genus|class
+Appendicularia	WOR:103357	=>	Appendicularia	TPL:T1862	-392157	same/primary-name	Appendicularia
+Appendicularia	WOR:146421	not=>	Appendicularia	TPL:T1862	-392157	not-same/ranks	class|genus
+Appendicularia	WOR:146421	=>	Appendicularia	trunk:9d7c12a6-cb6e-403b-9788-a7fbeb964528	-31265	same/parent+parent	Tunicata|Tunicata
+Sylvaclinicus	GRY:1219985	=>	Sylvaclinicus	GRY:1219985	-419186	new/import	null
+Cucumariidae	WOR:123187	-		null	-	sibling-sink mismatch	null
+Cucumariidae	WOR:123187	=>	Cucumariidae	WOR:123187	-65691	reject/absorbed	null
+Diels	PPG:Pteridophyte-Phylogeny-Group1-95	=>	Diels	PPG:Pteridophyte-Phylogeny-Group1-95	-135493	new/import	null
+Heterochaetella	EET:EOL-Earthworm-Patch-1898	=>	Heterochaetella	EET:EOL-Earthworm-Patch-1898	-125167	new/import	null
+Heterochaetella	EET:EOL-Earthworm-Patch-3565	=>	Heterochaetella	EET:EOL-Earthworm-Patch-3565	-181653	new/import	null
+Hemiuroidea	WOR:108418	=>	Hemiuroidea	WOR:108418	-335647	reject/inconsistent	null
+Delaya bureschi	EET:EOL-Earthworm-Patch-1868	=>	Delaya bureschi	EET:EOL-Earthworm-Patch-1868	-181776	new/import	null
+Tyto multipunctata	IOC:fc0e04bc82a8063e4773cd57ecfb8418	=>	Tyto multipunctata	IOC:fc0e04bc82a8063e4773cd57ecfb8418	-824500	new/import	null
+Compositae	TPL:T101	=>	Compositae	TPL:T101	-783620	reject/inconsistent	null
+Compositae	WOR:867905	=>	Compositae	TPL:T101	-783620	same/primary-name	Compositae
+Canaphis albertensis	APH:1159016	=>	Canaphis albertensis	APH:1159016	-628524	new/import	null
+Glyphocyphidae	WOR:510727	-		null	-	sibling-sink mismatch	null
+Glyphocyphidae	WOR:510727	=>	Glyphocyphidae	WOR:510727	-328534	reject/absorbed	null
+Hemiowoodwardia	COL:1171583	=>	Hemiowoodwardia	COL:1171583	-628577	new/import	null
+Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	=>	Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	-620480	new/import	null
+		-	Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	-620480	rank inversion	null
+Oxyothespinae	MNT:1184627	=>	Oxyothespinae	MNT:1184627	-593014	new/refinement	null
+Sulfolobales	trunk:19e3881d-3fb8-4111-be09-e344d27eef5a	=>	Sulfolobales	trunk:19e3881d-3fb8-4111-be09-e344d27eef5a	-11432	new/import	null
+Sulfolobales	WOR:559454	=>	Sulfolobales	trunk:19e3881d-3fb8-4111-be09-e344d27eef5a	-11432	same/parent+parent	Thermoprotei|Thermoprotei
+Tyto aurantia	IOC:abc391fa4086e6f18568b6913f9cb18a	=>	Tyto aurantia	IOC:abc391fa4086e6f18568b6913f9cb18a	-824503	new/import	null
+Muelleriella	TPL:T10943	=>	Muelleriella	TPL:T10943	-204553	new/import	null
+Muelleriella	WOR:771279	=>	Muelleriella	TPL:T10943	-204553	lumped	null
+Muelleriella	WOR:602540	=>	Muelleriella	TPL:T10943	-204553	same/primary-name	Muelleriella
+Muelleriella	WOR:602540	=>	Muelleriella	TPL:T10943	-204553	lumped	null
+Oliva circinata tostesi	WOR:448062	=>	Oliva circinata tostesi	WOR:448062	-24	new/import	null
+Pseudotrocha	WOR:368541	=>	Pseudotrocha	WOR:368541	-229182	reject/absorbed	null
+		-	Pseudotrocha	WOR:368541	-229182	rank inversion	null
+Stromatopteris	PPG:Pteridophyte-Phylogeny-Group1-99	=>	Stromatopteris	PPG:Pteridophyte-Phylogeny-Group1-99	-135495	new/import	null
+Archaeogryllotalpoides ornatus	ORTH:1128745	=>	Archaeogryllotalpoides ornatus	ORTH:1128745	-692253	new/import	null
+Timema coffmani	PHA:1203885	=>	Timema coffmani	PHA:1203885	-676882	new/import	null
+Libellulidae	trunk:f01c411c-63da-423b-a0f0-a9d883628c6c	=>	Libellulidae	trunk:f01c411c-63da-423b-a0f0-a9d883628c6c	-419542	new/import	null
+Libellulidae	WOR:404098	=>	Libellulidae	trunk:f01c411c-63da-423b-a0f0-a9d883628c6c	-419542	lumped	null
+Dryopteridacae	TPL:T645	=>	Dryopteridacae	TPL:T645	-259101	reject/absorbed	null
+Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	=>	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-329005	new/import	null
+Anura	TPL:T1772	not=>	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-329005	not-same/ranks	genus|order
+Anura	TPL:T1772	=>	Anura	TPL:T1772	-782028	new/import	null
+Anura	WOR:448306	not=>	Anura	TPL:T1772	-782028	not-same/ranks	order|genus
+Anura	WOR:448306	=>	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-329005	same/parent+parent	Tetrapoda|Tetrapoda
+Crangonyctidira	WOR:720160	=>	Crangonyctidira	WOR:720160	-585718	new/import	null
+		-	Crangonyctidira	WOR:720160	-585718	rank inversion	null
+Polystemma	TPL:T13391	=>	Polystemma	TPL:T13391	-416266	new/import	null
+Polystemma	WOR:176906	=>	Polystemma	TPL:T13391	-416266	lumped	null
+Lemmatophorina	GRY:1219997	-		null	-	sibling-sink mismatch	null
+Lemmatophorina	GRY:1219997	=>	Lemmatophorina	GRY:1219997	-419143	reject/absorbed	null
+Margattea minuta	BLA:1179261	=>	Margattea minuta	BLA:1179261	-580840	new/import	null
+Hemiodoecus leai	COL:1171582	=>	Hemiodoecus leai	COL:1171582	-651297	new/import	null
+Blattellinae	BLA:1174511	-		null	-	sibling-sink mismatch	null
+Blattellinae	BLA:1174511	=>	Blattellinae	BLA:1174511	-580764	reject/absorbed	null
+Marchandiinae	ORTH:1128741	=>	Marchandiinae	ORTH:1128741	-663755	new/import	null
+Paleognathae	trunk:3f2181a8-9ce2-4963-8991-e7c1f1bec190	=>	Paleognathae	trunk:3f2181a8-9ce2-4963-8991-e7c1f1bec190	-2	new/import	null
+Paleognathae	IOC:2b4e5e944dabbf41930904d59ab8feb3	=>	Paleognathae	trunk:3f2181a8-9ce2-4963-8991-e7c1f1bec190	-2	same/primary-name	Paleognathae
+Marchandia magnifica	ORTH:1128747	=>	Marchandia magnifica	ORTH:1128747	-692255	new/import	null
+Potamogeton filiformis	TPL:kew-308563	=>	Potamogeton filiformis	TPL:kew-308563	-280061	new/import	null
+Potamogeton filiformis	TPL:kew-308564	=>	Potamogeton filiformis	TPL:kew-308564	-280073	new/import	null
+Potamogeton filiformis	WOR:558769	-	Potamogeton filiformis	TPL:kew-308563	-280061	noinfo	null
+Potamogeton filiformis	WOR:558769	-	Potamogeton filiformis	TPL:kew-308564	-280073	noinfo	null
+Potamogeton filiformis	WOR:558769	-		null	-	ambiguous tip	2
+Lophotrochozoa	trunk:7e391b0d-0363-4460-8b06-f8e7a9e09d85	=>	Lophotrochozoa	trunk:7e391b0d-0363-4460-8b06-f8e7a9e09d85	-1	new/import	null
+Micrelytrinae	COR:1186515	=>	Micrelytrinae	COR:1186515	-651098	new/refinement	null
+Juramantophasma	MAN:1220689	=>	Juramantophasma	MAN:1220689	-592725	new/import	null
+Zorotypus (Octozoros) acanthothorax	ZOR:1218737	=>	Zorotypus (Octozoros) acanthothorax	ZOR:1218737	-626387	new/import	null
+Moreauiidae	trunk:8ebe283c-cb9e-46e2-aaf7-3440f28c3883	=>	Moreauiidae	trunk:8ebe283c-cb9e-46e2-aaf7-3440f28c3883	-335537	new/import	null
+Moreauiidae	WOR:731136	=>	Moreauiidae	trunk:8ebe283c-cb9e-46e2-aaf7-3440f28c3883	-335537	lumped	null
+Tyto soumagnei	IOC:9692d45833a25240182ce9cb92f7415e	=>	Tyto soumagnei	IOC:9692d45833a25240182ce9cb92f7415e	-824504	new/import	null
+Mesonotoperla sinuata	PLE:1152782	=>	Mesonotoperla sinuata	PLE:1152782	-582076	new/import	null
+Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-10925	new/import	null
+Nitrospira	WOR:743074	not=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-10925	not-same/ranks	genus|class
+Nitrospira	WOR:571374	=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-10925	same/parent+parent	Nitrospirae|Nitrospirae
+Nitrospira	WOR:743074	=>	Nitrospira	WOR:743074	-15251	new/import	null
+Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	=>	Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	-10776	new/import	null
+Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	=>	Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	-10393	new/import	null
+Chlamydiae	WOR:564164	-	Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	-10776	noinfo	null
+Chlamydiae	WOR:564164	-	Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	-10393	noinfo	null
+Chlamydiae	WOR:564164	-		null	-	ambiguous internal	2
+Chlamydiae	WOR:564164	=>	Chlamydiae	WOR:564164	-11514	reject/absorbed	null
+		-	Chlamydiae	WOR:564164	-11514	rank inversion	null
+Raptophasma groehni	MAN:1220601	=>	Raptophasma groehni	MAN:1220601	-620507	new/import	null
+Craspedonirmus	PSO:1224296	=>	Craspedonirmus	PSO:1224296	-600524	new/import	null
+Craspedonirmus	WOR:384799	-		null	-	promoted/internal	Philopteridae
+		-	Craspedonirmus	PSO:1224296	-600524	move to parent of former container, instead of to container	null
+Yontala camura	GRY:1220935	=>	Yontala camura	GRY:1220935	-582040	new/import	null
+Hemiodoecus crassus	COL:1171581	=>	Hemiodoecus crassus	COL:1171581	-651296	new/import	null
+Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-646554	new/import	null
+Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	=>	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-107354	new/import	null
+Heterocheilidae	WOR:593484	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-107354	noinfo/lineage	Sciomyzoidea|Spirurida
+Heterocheilidae	WOR:593484	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-646554	same/parent+parent	Sciomyzoidea|Sciomyzoidea
+Heterocheilidae	WOR:458824	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-107354	noinfo	null
+Heterocheilidae	WOR:458824	-	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-646554	noinfo	null
+Heterocheilidae	WOR:458824	-		null	-	ambiguous internal	2
+Heterocheilidae	WOR:458824	=>	Heterocheilidae	WOR:458824	-107412	new/import	null
+Plinthisus (Dasythisus) acanthothorax	LYG:1212415	=>	Plinthisus (Dasythisus) acanthothorax	LYG:1212415	-701941	new/import	null
+Hoploridium	COL:1171553	=>	Hoploridium	COL:1171553	-628574	new/import	null
+Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	=>	Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	-419248	new/import	null
+Polyphaga	BLA:1178116	not=>	Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	-419248	not-same/ranks	genus|suborder
+Polyphaga	BLA:1178116	=>	Polyphaga	BLA:1178116	-643845	new/import	null
+Diplaziopsidaceae	TPL:T519	=>	Diplaziopsidaceae	TPL:T519	-135600	reject/inconsistent	null
+Metoligotoma brevispina	EMB:1171915	=>	Metoligotoma brevispina	EMB:1171915	-598348	new/import	null
+Epaphrodita musarum	MNT:1182656	=>	Epaphrodita musarum	MNT:1182656	-592958	new/import	null
+Bosbequius latus	LYG:1214152	=>	Bosbequius latus	LYG:1214152	-684285	new/import	null
+Peltophysa minor	COL:1171568	=>	Peltophysa minor	COL:1171568	-651298	new/import	null
+Pyrgomorphini	ORTH:1120928	=>	Pyrgomorphini	ORTH:1120928	-678594	new/refinement	null
+Perlapsocidae	PLE:1152758	=>	Perlapsocidae	PLE:1152758	-419210	new/import	null
+Metakinetoplastina	trunk:88a67777-de93-4c00-a989-26b871039523	=>	Metakinetoplastina	trunk:88a67777-de93-4c00-a989-26b871039523	-22216	new/import	null
+		-	Metakinetoplastina	trunk:88a67777-de93-4c00-a989-26b871039523	-22216	rank inversion	null
+Metakinetoplastina	WOR:562566	=>	Metakinetoplastina	trunk:88a67777-de93-4c00-a989-26b871039523	-22216	same/parent+parent	Kinetoplastea|Kinetoplastea
+Holmaniella	APH:1159446	=>	Holmaniella	APH:1159446	-600638	new/import	null
+Zetoborinae	BLA:1172686	-		null	-	sibling-sink mismatch	null
+Zetoborinae	BLA:1172686	=>	Zetoborinae	BLA:1172686	-580652	reject/absorbed	null
+Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	=>	Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	-31247	new/import	null
+Rhombifera	WOR:103468	not=>	Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	-31247	not-same/ranks	genus|class
+Rhombifera	WOR:103468	=>	Rhombifera	WOR:103468	-105134	new/import	null
+Fervidicoccales	trunk:542e26b9-1fc0-4544-9eb3-aef04c601f10	=>	Fervidicoccales	trunk:542e26b9-1fc0-4544-9eb3-aef04c601f10	-11431	new/import	null
+Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-43153	new/import	null
+Machaeridia	ORTH:1111910	not=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-43153	not-same/ranks	genus|class
+Machaeridia	ORTH:1111910	=>	Machaeridia	ORTH:1111910	-678854	new/import	null
+Machaeridia	WOR:819076	not=>	Machaeridia	ORTH:1111910	-678854	not-same/ranks	class|genus
+Machaeridia	WOR:819076	=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-43153	same/parent+parent	Annelida|Annelida
+Delaya	EET:EOL-Earthworm-Patch-1867	=>	Delaya	EET:EOL-Earthworm-Patch-1867	-125166	new/import	null
+Hygrophila	TPL:T8377	=>	Hygrophila	TPL:T8377	-415018	new/import	null
+Hygrophila	WOR:382243	not=>	Hygrophila	TPL:T8377	-415018	not-same/ranks	order|genus
+Hygrophila	WOR:382243	=>	Hygrophila	WOR:382243	-78412	new/import	null
+Blatta albifrons	BLA:1179264	=>	Blatta albifrons	BLA:1179264	-580837	new/import	null
+Tetrigidae	ORTH:1100424	=>	Tetrigidae	ORTH:1100424	-645667	new/refinement	null
+Tetrigidae	WOR:426346	=>	Tetrigidae	ORTH:1100424	-645667	same/parent+parent	Orthoptera|Orthoptera
+Aegle	TPL:T1041	=>	Aegle	TPL:T1041	-391057	new/import	null
+Aegle	WOR:450041	=>	Aegle	TPL:T1041	-391057	lumped	null
+Lygaeinae	LYG:1210512	=>	Lygaeinae	LYG:1210512	-650861	reject/inconsistent	null
+Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	new/import	null
+Proboscidea	TPL:T13542	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	not-same/ranks	genus|order
+Proboscidea	TPL:T13542	=>	Proboscidea	TPL:T13542	-414024	new/import	null
+Proboscidea	WOR:325990	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	not-same/ranks	genus|order
+Proboscidea	WOR:325990	=>	Proboscidea	TPL:T13542	-414024	same/primary-name	Proboscidea
+Proboscidea	WOR:595705	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-675677	not-same/ranks	genus|order
+Proboscidea	WOR:595705	=>	Proboscidea	TPL:T13542	-414024	same/primary-name	Proboscidea
+Proboscidea	WOR:595705	=>	Proboscidea	TPL:T13542	-414024	lumped	null
+Parastaffella schlykovae	WOR:919186	=>	Parastaffella schlykovae	WOR:919186	-25	new/import	null
+Mutusca	COR:1186555	=>	Mutusca	COR:1186555	-684868	new/import	null
+Ricinidae	PSO:1223817	-		null	-	sibling-sink mismatch	null
+Ricinidae	PSO:1223817	=>	Ricinidae	PSO:1223817	-600491	reject/absorbed	null
+Burmantis zherikhini	MNT:1225164	=>	Burmantis zherikhini	MNT:1225164	-592962	new/import	null
+Oxyphyllum	TPL:T12044	=>	Oxyphyllum	TPL:T12044	-781812	new/import	null
+Oxyphyllum	ORTH:1100590	-		null	-	not-placed/does-not-descend	null
+Tithonia	TPL:T16613	=>	Tithonia	TPL:T16613	-781879	new/import	null
+Tithonia	WOR:512733	-		null	-	not-placed/does-not-descend	null
+Metoligotoma reducta reducta	EMB:1171928	=>	Metoligotoma reducta reducta	EMB:1171928	-626083	new/import	null
+Zorotypus (Zorotypus) goeleti	ZOR:1218743	=>	Zorotypus (Zorotypus) goeleti	ZOR:1218743	-626392	new/import	null
+Marchandia	ORTH:1128746	=>	Marchandia	ORTH:1128746	-677328	new/import	null
+Holmaniella papillata	APH:1159447	=>	Holmaniella papillata	APH:1159447	-628525	new/import	null
+Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	=>	Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	-13795	new/import	null
+Pronoctiluca	WOR:109487	not=>	Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	-13795	not-same/ranks	genus|class
+Pronoctiluca	WOR:109487	=>	Pronoctiluca	WOR:109487	-25747	new/import	null
+Micropsis	TPL:T10639	=>	Micropsis	TPL:T10639	-782211	new/import	null
+Micropsis	WOR:764241	-		null	-	not-placed/does-not-descend	null
+Polyopisthocotylea	WOR:119220	=>	Polyopisthocotylea	WOR:119220	-180667	new/refinement	null
+		-	Polyopisthocotylea	WOR:119220	-180667	rank inversion	null
+Paraclisis	PSO:1224487	=>	Paraclisis	PSO:1224487	-600518	new/import	null
+Paraclisis	WOR:384811	-		null	-	promoted/internal	Philopteridae
+		-	Paraclisis	PSO:1224487	-600518	move to parent of former container, instead of to container	null
+Tettigoniinae	ORTH:1141619	=>	Tettigoniinae	ORTH:1141619	-663859	new/refinement	null
+Trigonidiinae	ORTH:1126753	=>	Trigonidiinae	ORTH:1126753	-663760	new/refinement	null
+Thespis	TPL:T16484	=>	Thespis	TPL:T16484	-781943	new/import	null
+Thespis	MNT:1185900	-		null	-	not-placed/does-not-descend	null
+Sulfolobaceae	trunk:81ffcd54-7131-41e3-ae24-72a3936a7eaa	=>	Sulfolobaceae	trunk:81ffcd54-7131-41e3-ae24-72a3936a7eaa	-12477	new/import	null
+Sulfolobaceae	WOR:559455	=>	Sulfolobaceae	trunk:81ffcd54-7131-41e3-ae24-72a3936a7eaa	-12477	same/parent+parent	Sulfolobales|Sulfolobales
+Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-105546	new/import	null
+Diplura	WOR:369589	not=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-105546	not-same/ranks	genus|class
+Diplura	WOR:369589	=>	Diplura	WOR:369589	-22828	new/import	null
+Ancaudellia integerrima	BLA:1173634	=>	Ancaudellia integerrima	BLA:1173634	-620864	new/import	null
+Tyto rosenbergii pelengensis	IOC:399f0db83453353c841d005baf5d49e0	=>	Tyto rosenbergii pelengensis	IOC:399f0db83453353c841d005baf5d49e0	-830176	new/import	null
+Metoligotoma bidens	EMB:1171917	=>	Metoligotoma bidens	EMB:1171917	-598345	new/import	null
+Awightipsocus megaloi	PSO:1222967	=>	Awightipsocus megaloi	PSO:1222967	-584082	new/import	null
+Mutusca attenuata	COR:1186558	=>	Mutusca attenuata	COR:1186558	-702632	new/import	null
+Zorotypus cretatus	ZOR:1218734	=>	Zorotypus cretatus	ZOR:1218734	-599169	new/import	null
+Permedax effertus	GRY:1220011	=>	Permedax effertus	GRY:1220011	-582041	new/import	null
+Neodermata	WOR:853123	=>	Neodermata	WOR:853123	-124857	reject/absorbed	null
+		-	Neodermata	WOR:853123	-124857	rank inversion	null
+Metoligotoma extorris	EMB:1171905	=>	Metoligotoma extorris	EMB:1171905	-598349	new/import	null
+Echinostomatoidea	WOR:108404	=>	Echinostomatoidea	WOR:108404	-335637	reject/inconsistent	null
+Bedfordiella	PSO:1224237	=>	Bedfordiella	PSO:1224237	-627064	new/import	null
+Bedfordiella	WOR:384796	-		null	-	promoted/internal	Menoponidae
+Platycleis	ORTH:1142516	=>	Platycleis	ORTH:1142516	-663874	new/import	null
+Platycleis	WOR:426336	-		null	-	promoted/internal	Tettigoniidae
+Psocidae	PSO:1196728	=>	Psocidae	PSO:1196728	-600578	new/refinement	null
+Tellima breviloba	TPL:tro-50328428	=>	Tellima breviloba	TPL:tro-50328428	-396364	new/import	null
+Neognathostomata	WOR:510501	=>	Neognathostomata	WOR:510501	-104979	new/refinement	null
+Palaeoscapteriscops cretacea	ORTH:1128743	=>	Palaeoscapteriscops cretacea	ORTH:1128743	-692254	new/import	null
+Ancaudellia undulata	BLA:1173645	=>	Ancaudellia undulata	BLA:1173645	-620861	new/import	null
+Musapsocus simlae	PSO:1198509	=>	Musapsocus simlae	PSO:1198509	-665624	new/import	null
+Perlapsocus formosoi	PLE:1152760	=>	Perlapsocus formosoi	PLE:1152760	-599154	new/import	null
+Telesonix	TPL:T16288	=>	Telesonix	TPL:T16288	-348602	new/import	null
+Burmantis asiatica	MNT:1186149	=>	Burmantis asiatica	MNT:1186149	-592960	new/import	null
+Telesonix jamesii var. heucheriformis	TPL:tro-29100648	=>	Telesonix jamesii var. heucheriformis	TPL:tro-29100648	-396360	new/import	null
+Perlopsis oppressa	PLE:1152775	=>	Perlopsis oppressa	PLE:1152775	-599155	new/import	null
+Echinoneoida	WOR:510525	=>	Echinoneoida	WOR:510525	-105003	new/refinement	null
+Cynthia crinitistellata	WOR:252695	=>	Cynthia crinitistellata	WOR:252695	-30	new/import	null
+Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	=>	Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	-660585	new/import	null
+		-	Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	-660585	rank inversion	null
+Fervidicoccaceae	trunk:5161155f-5cb2-4ab8-95ad-25eaf94c38d2	=>	Fervidicoccaceae	trunk:5161155f-5cb2-4ab8-95ad-25eaf94c38d2	-12476	new/import	null
+Psocinae	PSO:1197043	-		null	-	sibling-sink mismatch	null
+Psocinae	PSO:1197043	=>	Psocinae	PSO:1197043	-628081	reject/absorbed	null
+Mutusca brevicornis	COR:1186556	=>	Mutusca brevicornis	COR:1186556	-702631	new/import	null
+Telesonix jamesii	TPL:tro-29100647	=>	Telesonix jamesii	TPL:tro-29100647	-396361	new/import	null
+Yontala	GRY:1220934	=>	Yontala	GRY:1220934	-419182	new/import	null
+Leucotheidae	WOR:264862	-		null	-	sibling-sink mismatch	null
+Leucotheidae	WOR:264862	=>	Leucotheidae	WOR:264862	-26293	reject/absorbed	null
+Haplopterum majus	GRY:1222152	=>	Haplopterum majus	GRY:1222152	-582045	new/import	null
+Richteria	TPL:T14434	=>	Richteria	TPL:T14434	-782750	new/import	null
+Richteria	WOR:771400	=>	Richteria	TPL:T14434	-782750	lumped	null
+Richteria	WOR:768820	-		null	-	not-placed/does-not-descend	null
+Richteria	WOR:771400	-		null	-	not-placed/does-not-descend	null
+Simsia	TPL:T15326	=>	Simsia	TPL:T15326	-783157	new/import	null
+Simsia	EET:EOL-Earthworm-Patch-4605	-		null	-	not-placed/does-not-descend	null
+Catantopinae	ORTH:1107471	=>	Catantopinae	ORTH:1107471	-664096	reject/inconsistent	null
+Cribrina	WOR:267346	=>	Cribrina	WOR:267346	-135656	reject/inconsistent	null
+Scutelliformes	WOR:510561	=>	Scutelliformes	WOR:510561	-328634	new/refinement	null
+Creaphidinae	APH:1159069	=>	Creaphidinae	APH:1159069	-651117	new/import	null
+Microcentrini	ORTH:1220721	-		null	-	sibling-sink mismatch	null
+Microcentrini	ORTH:1220721	=>	Microcentrini	ORTH:1220721	-580928	reject/absorbed	null
+Liturgusini	MNT:1183082	-		null	-	sibling-sink mismatch	null
+Liturgusini	MNT:1183082	=>	Liturgusini	MNT:1183082	-620714	reject/absorbed	null
+Canaphis	APH:1159015	=>	Canaphis	APH:1159015	-600637	new/import	null
+Cydippida	WOR:1251	=>	Cydippida	WOR:1251	-20330	new/refinement	null
+Gnesiotrocha	WOR:368540	=>	Gnesiotrocha	WOR:368540	-180086	reject/inconsistent	null
+Eodermaptera	DER:1182188	=>	Eodermaptera	DER:1182188	-419133	new/import	null
+Metoligotoma pugionifer	EMB:1171918	=>	Metoligotoma pugionifer	EMB:1171918	-598347	new/import	null
+Stenocoris (Stenocoris) schaeferi	COR:1217696	=>	Stenocoris (Stenocoris) schaeferi	COR:1217696	-723777	new/import	null
+Schlechtendalia	TPL:T14936	=>	Schlechtendalia	TPL:T14936	-783486	new/import	null
+Schlechtendalia	APH:1161563	-		null	-	not-placed/does-not-descend	null
+Metoligotoma reducta	EMB:1171927	=>	Metoligotoma reducta	EMB:1171927	-598344	new/import	null
+Calantica	TPL:T3171	=>	Calantica	TPL:T3171	-392550	new/import	null
+Calantica	WOR:182933	=>	Calantica	TPL:T3171	-392550	lumped	null
+Cestodaria	WOR:370473	=>	Cestodaria	WOR:370473	-180669	new/refinement	null
+		-	Cestodaria	WOR:370473	-180669	rank inversion	null
+Semenovioloides	DER:1180047	=>	Semenovioloides	DER:1180047	-626216	new/import	null
+Rhaphidophorinae	ORTH:1129902	=>	Rhaphidophorinae	ORTH:1129902	-645619	new/refinement	null
+Carduiceps	PSO:1224252	=>	Carduiceps	PSO:1224252	-600527	new/import	null
+Carduiceps	WOR:722888	-		null	-	promoted/internal	Philopteridae
+		-	Carduiceps	PSO:1224252	-600527	move to parent of former container, instead of to container	null
+Scapteriscus oxydactylus	ORTH:1128759	=>	Scapteriscus oxydactylus	ORTH:1128759	-712016	new/import	null
+Semenovioloidea	DER:1180048	=>	Semenovioloidea	DER:1180048	-581806	new/import	null
+Truncatulina scarenaensis	WOR:919115	=>	Truncatulina scarenaensis	WOR:919115	-29	new/import	null
+Semenoviola karatavica	DER:1181927	=>	Semenoviola karatavica	DER:1181927	-645735	new/import	null
+Chloracantha	TPL:T4006	=>	Chloracantha	TPL:T4006	-782509	new/import	null
+Chloracantha	ORTH:1140905	-		null	-	not-placed/does-not-descend	null
+Chloracantha	WOR:415195	=>	Chloracantha	TPL:T4006	-782509	same/primary-name	Chloracantha
+Coulterella	TPL:T4642	=>	Coulterella	TPL:T4642	-782181	new/import	null
+Coulterella	WOR:156025	-		null	-	not-placed/does-not-descend	null
+Ancaudellia hanitschi	BLA:1173632	=>	Ancaudellia hanitschi	BLA:1173632	-620863	new/import	null
+Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	=>	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-22217	new/import	null
+		-	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-22217	rank inversion	null
+Prokinetoplastina	WOR:582203	=>	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-22217	same/parent+parent	Kinetoplastea|Kinetoplastea
+Dinizia	TPL:T5619	=>	Dinizia	TPL:T5619	-753002	new/import	null
+Dinizia	WOR:479573	-		null	-	not-placed/does-not-descend	null
+Perlapsocus	PLE:1152759	=>	Perlapsocus	PLE:1152759	-582075	new/import	null
+Stenocoris (Pseudoleptocorisa)	COR:1186590	=>	Stenocoris (Pseudoleptocorisa)	COR:1186590	-702633	new/import	null
+Gleichenella	PPG:Pteridophyte-Phylogeny-Group1-96	=>	Gleichenella	PPG:Pteridophyte-Phylogeny-Group1-96	-135497	new/import	null
+Gleichenella	TPL:T7187	=>	Gleichenella	PPG:Pteridophyte-Phylogeny-Group1-96	-135497	same/parent+parent	Gleicheniaceae|Gleicheniaceae
+Asienthomum	PSO:1223093	=>	Asienthomum	PSO:1223093	-600486	new/import	null
+Timema nakipa	PHA:1203894	=>	Timema nakipa	PHA:1203894	-676878	new/import	null
+Juramantophasma sinica	MAN:1220690	=>	Juramantophasma sinica	MAN:1220690	-620509	new/import	null
+Spatangoidea	WOR:852322	=>	Spatangoidea	WOR:852322	-328743	new/refinement	null
+Marciperla	PLE:1152752	=>	Marciperla	PLE:1152752	-419209	new/import	null
+Timema dorotheae	PHA:1203887	=>	Timema dorotheae	PHA:1203887	-676880	new/import	null
+Philopteridae	PSO:1223819	=>	Philopteridae	PSO:1223819	-600490	reject/inconsistent	null
+Philopteridae	WOR:384784	=>	Philopteridae	PSO:1223819	-600490	same/parent+parent	Pterygota|Pterygota
+Cidaridae	WOR:123158	=>	Cidaridae	WOR:123158	-150173	new/refinement	null
+Thaumatophora	GRY:1221651	=>	Thaumatophora	GRY:1221651	-419159	new/import	null
+Thaumatophora	PLE:1152750	-		null	-	not-placed/does-not-descend	null
+Nanopsocetae	PSO:1198720	=>	Nanopsocetae	PSO:1198720	-584085	new/refinement	null
+Arenaria serpyllifolia	TPL:kew-2650139	=>	Arenaria serpyllifolia	TPL:kew-2650139	-822733	new/import	null
+Arenaria serpyllifolia	TPL:kew-2650140	=>	Arenaria serpyllifolia	TPL:kew-2650140	-822895	new/import	null
+Arenaria serpyllifolia	WOR:438825	-	Arenaria serpyllifolia	TPL:kew-2650139	-822733	noinfo	null
+Arenaria serpyllifolia	WOR:438825	-	Arenaria serpyllifolia	TPL:kew-2650140	-822895	noinfo	null
+Arenaria serpyllifolia	WOR:438825	-		null	-	ambiguous tip	2
+Camoensia	TPL:T3335	=>	Camoensia	TPL:T3335	-752475	new/import	null
+Camoensia	ORTH:1120652	-		null	-	not-placed/does-not-descend	null
+Oligochaeta	TPL:T11681	=>	Oligochaeta	TPL:T11681	-782604	new/import	null
+Oligochaeta	WOR:2036	not=>	Oligochaeta	TPL:T11681	-782604	not-same/ranks	subclass|genus
+Oligochaeta	WOR:2036	=>	Oligochaeta	WOR:2036	-80005	reject/absorbed	null
+Cheiropleuria	PPG:Pteridophyte-Phylogeny-Group1-91	=>	Cheiropleuria	PPG:Pteridophyte-Phylogeny-Group1-91	-135502	new/import	null
+Cheiropleuria	TPL:T3923	=>	Cheiropleuria	PPG:Pteridophyte-Phylogeny-Group1-91	-135502	same/parent+parent	Dipteridaceae|Dipteridaceae
+Rhaphidophorini	ORTH:1129904	-		null	-	sibling-sink mismatch	null
+Rhaphidophorini	ORTH:1129904	=>	Rhaphidophorini	ORTH:1129904	-663828	reject/absorbed	null
+Leptothyra eroopolitana	WOR:767162	=>	Leptothyra eroopolitana	WOR:767162	-23	new/import	null
+Trepaxonemata	WOR:853117	=>	Trepaxonemata	WOR:853117	-42095	reject/inconsistent	null
+Cratotetraspinus	ORTH:1128748	=>	Cratotetraspinus	ORTH:1128748	-677325	new/import	null
+Pseudophyllini	ORTH:1140472	-		null	-	sibling-sink mismatch	null
+Pseudophyllini	ORTH:1140472	=>	Pseudophyllini	ORTH:1140472	-677871	reject/absorbed	null
+Dicranopteris	PPG:Pteridophyte-Phylogeny-Group1-94	=>	Dicranopteris	PPG:Pteridophyte-Phylogeny-Group1-94	-135498	new/import	null
+Dicranopteris	TPL:T5498	=>	Dicranopteris	PPG:Pteridophyte-Phylogeny-Group1-94	-135498	same/parent+parent	Gleicheniaceae|Gleicheniaceae
+Kargarella	GRY:1221109	=>	Kargarella	GRY:1221109	-419184	new/import	null
+Oxyothespini	MNT:1184628	-		null	-	sibling-sink mismatch	null
+Oxyothespini	MNT:1184628	=>	Oxyothespini	MNT:1184628	-620802	reject/absorbed	null
+Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	=>	Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	-660583	new/import	null
+		-	Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	-660583	rank inversion	null
+Cleistostoma	TPL:T4248	=>	Cleistostoma	TPL:T4248	-135031	new/import	null
+Cleistostoma	WOR:450376	=>	Cleistostoma	TPL:T4248	-135031	lumped	null
+Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-26236	new/import	null
+Vertebrata	WOR:182675	not=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-26236	not-same/ranks	subgenus|subphylum
+Vertebrata	WOR:370321	not=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-26236	not-same/ranks	genus|subphylum
+Vertebrata	WOR:146419	=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-26236	same/parent+parent	Chordata|Chordata
+Vertebrata	WOR:182675	=>	Vertebrata	WOR:182675	-609374	new/import	null
+Vertebrata	WOR:370321	=>	Vertebrata	WOR:370321	-32237	new/import	null
+Dugesia	TPL:T5990	=>	Dugesia	TPL:T5990	-782995	new/import	null
+Dugesia	WOR:181568	-		null	-	not-placed/does-not-descend	null
+Kuhnia	TPL:T9033	=>	Kuhnia	TPL:T9033	-783205	new/import	null
+Kuhnia	WOR:119369	-		null	-	not-placed/does-not-descend	null
+Desulfurococcaceae	trunk:de7e0226-86a4-4f84-82d4-8074ff55f857	=>	Desulfurococcaceae	trunk:de7e0226-86a4-4f84-82d4-8074ff55f857	-12480	new/import	null
+Desulfurococcaceae	WOR:559443	=>	Desulfurococcaceae	trunk:de7e0226-86a4-4f84-82d4-8074ff55f857	-12480	same/parent+parent	Desulfurococcales|Desulfurococcales
+Rhachidosoraceae	TPL:T702	=>	Rhachidosoraceae	TPL:T702	-206577	reject/absorbed	null
+Echinacea	TPL:T6069	=>	Echinacea	TPL:T6069	-782458	new/import	null
+Echinacea	WOR:149855	not=>	Echinacea	TPL:T6069	-782458	not-same/ranks	superorder|genus
+Echinacea	WOR:149855	=>	Echinacea	WOR:149855	-104977	new/import	null
+Plinthisus (Nanoplinthisus) tindalis	LYG:1212438	=>	Plinthisus (Nanoplinthisus) tindalis	LYG:1212438	-701945	new/import	null
+Metoligotoma reducta acuta	EMB:1171930	=>	Metoligotoma reducta acuta	EMB:1171930	-626084	new/import	null
+Aphidioides	APH:1159020	=>	Aphidioides	APH:1159020	-600635	new/import	null
+Jacksonia	TPL:T8720	=>	Jacksonia	TPL:T8720	-753058	new/import	null
+Jacksonia	APH:1168012	-		null	-	not-placed/does-not-descend	null
+Perlopsis filicornis	PLE:1152776	=>	Perlopsis filicornis	PLE:1152776	-599157	new/import	null
+Robulus limbosensis	WOR:521976	=>	Robulus limbosensis	WOR:521976	-32	new/import	null
+Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	=>	Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	-620481	new/import	null
+		-	Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	-620481	rank inversion	null
+Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-41912	new/import	null
+Acanthocephala	COR:1190351	not=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-41912	not-same/ranks	genus|phylum
+Acanthocephala	COR:1190351	=>	Acanthocephala	COR:1190351	-685184	new/import	null
+Acanthocephala	WOR:18814	not=>	Acanthocephala	COR:1190351	-685184	not-same/ranks	phylum|genus
+Acanthocephala	WOR:18814	=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-41912	same/overlaps	Quadrigyridae|Acanthocephalus
+Cota	TPL:T4629	=>	Cota	TPL:T4629	-783018	new/import	null
+Cota	ORTH:1100646	-		null	-	not-placed/does-not-descend	null
+Xerophyllini	ORTH:1102887	-		null	-	sibling-sink mismatch	null
+Xerophyllini	ORTH:1102887	=>	Xerophyllini	ORTH:1102887	-678468	reject/absorbed	null
+Creaphis theodora	APH:1159071	=>	Creaphis theodora	APH:1159071	-685534	new/import	null
+Chorotypidae	ORTH:1118065	=>	Chorotypidae	ORTH:1118065	-645676	new/refinement	null
+Awightipsocus jarzembowskii	PSO:1222966	=>	Awightipsocus jarzembowskii	PSO:1222966	-584083	new/import	null
+Plinthisus (Dasythisus) kanyukovae	LYG:1212414	=>	Plinthisus (Dasythisus) kanyukovae	LYG:1212414	-701940	new/import	null
+Jurocallis	APH:1159041	=>	Jurocallis	APH:1159041	-600636	new/import	null
+Gabonella basispinata	WOR:896461	=>	Gabonella basispinata	WOR:896461	-28	new/import	null
+Monopisthocotylea	WOR:119219	=>	Monopisthocotylea	WOR:119219	-180668	new/refinement	null
+		-	Monopisthocotylea	WOR:119219	-180668	rank inversion	null
+Plinthisus (Nanoplinthisus) acrocephalus	LYG:1212425	=>	Plinthisus (Nanoplinthisus) acrocephalus	LYG:1212425	-701944	new/import	null
+Nilomantis	MNT:1183069	=>	Nilomantis	MNT:1183069	-620681	new/import	null
+Perlopsis calamitosa	PLE:1152774	=>	Perlopsis calamitosa	PLE:1152774	-599156	new/import	null
+Perlopsis	PLE:1152773	=>	Perlopsis	PLE:1152773	-582077	new/import	null
+Miotroctes rousei	PSO:1199171	=>	Miotroctes rousei	PSO:1199171	-584080	new/import	null
+Pygaulidae	WOR:510822	-		null	-	sibling-sink mismatch	null
+Pygaulidae	WOR:510822	=>	Pygaulidae	WOR:510822	-150095	reject/absorbed	null
+Kenguronympha	GRY:1220964	=>	Kenguronympha	GRY:1220964	-419185	new/import	null
+log.tsv|version2
+source_name	source_qid	parity	target_name	target_qid	target_uid	reason	witness	
+Agraeciini	ORTH:1132654	-		null	-	sibling-sink mismatch	null
+Agraeciini	ORTH:1132654	=>	Agraeciini	ORTH:1132654	-974581	reject/absorbed	null
+Karabasiidae	COL:1171555	=>	Karabasiidae	COL:1171555	-873874	new/import	null
+Victoriellidae	WOR:414918	=>	Victoriellidae	WOR:414918	-45241	new/refinement	null
+Haliplectoidea	WOR:834685	=>	Haliplectoidea	WOR:834685	-47849	reject/absorbed	null
+Haliplectoidea	WOR:834685	-		null	-	not-placed/same-taxon	null
+Pseudodiphasium	PPG:Pteridophyte-Phylogeny-Group1-16	=>	Pseudodiphasium	PPG:Pteridophyte-Phylogeny-Group1-16	-63220	new/import	null
+Pseudodiphasium	TPL:T18485	=>	Pseudodiphasium	PPG:Pteridophyte-Phylogeny-Group1-16	-63220	same/primary-name	Pseudodiphasium
+Anisochaeta	TPL:T1992	=>	Anisochaeta	TPL:T1992	-121894	new/import	null
+Anisochaeta	EET:EOL-Earthworm-Patch-3235	-		null	-	not-placed/does-not-descend	null
+Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	=>	Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	-24460	new/import	null
+Stylophora	WOR:204068	not=>	Stylophora	trunk:76e098b5-218a-4a7c-99f5-3edc5c0d438b	-24460	not-same/ranks	genus|class
+Stylophora	WOR:204068	=>	Stylophora	WOR:204068	-44535	new/import	null
+Biolleya mexicana	BLA:1179259	=>	Biolleya mexicana	BLA:1179259	-563908	new/impornull
+Hoploridiidae	COL:1171552	=>	Hoploridiidae	COL:1171552	-873873	new/import	null
+Paraphenopterum unicolor	GRY:1220164	=>	Paraphenopterum unicolor	GRY:1220164	-567555	new/import	null
+Lonchodini	PHA:1200525	-		null	-	sibling-sink mismatch	null
+Lonchodini	PHA:1200525	=>	Lonchodini	PHA:1200525	-957352	reject/absorbed	null
+Acervulinoidea	WOR:465825	=>	Acervulinoidea	WOR:465825	-25629	new/refinement	null
+Cristellaria obtusa	WOR:925572	=>	Cristellaria obtusa	WOR:925572	-10	new/impornull
+Scabina philippinensis	BLA:1179280	=>	Scabina philippinensis	BLA:1179280	-563900	new/impornull
+Hyalymenus (Hyalymenus) gracilispinus	COR:1186459	=>	Hyalymenus (Hyalymenus) gracilispinus	COR:1186459	-959471	new/import	null
+Chaeteessidae	MNT:1186155	-		null	-	sibling-sink mismatch	null
+Chaeteessidae	MNT:1186155	=>	Chaeteessidae	MNT:1186155	-563799	reject/absorbed	null
+Callilepis	TPL:T4133	=>	Callilepis	TPL:T4133	-123497	new/import	null
+Callilepis	SPI:G0912	-		null	-	not-placed/does-not-descend	null
+Gymnosphaerida	WOR:590813	=>	Gymnosphaerida	WOR:590813	-9042	reject/absorbed	null
+Gymnosphaerida	WOR:590813	-		null	-	not-placed/same-taxon	null
+Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	=>	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-284089	new/import	null
+Anisoptera	TPL:T2008	not=>	Anisoptera	trunk:0559c4eb-c019-432c-ab9a-2dc07ce8dd35	-284089	not-same/ranks	genus|suborder
+Anisoptera	TPL:T2008	=>	Anisoptera	TPL:T2008	-546381	new/import	null
+Nucleohelea	WOR:590587	=>	Nucleohelea	WOR:590587	-6638	reject/absorbed	null
+Nucleohelea	WOR:590586	=>	Nucleohelea	WOR:590586	-6639	reject/absorbed	null
+Zorotypus (Zorotypus) cramptoni	ZOR:1218749	=>	Zorotypus (Zorotypus) cramptoni	ZOR:1218749	-902213	new/import	null
+Arthrocnemum macrostachyum	TPL:kew-2653807	=>	Arthrocnemum macrostachyum	TPL:kew-2653807	-519580	new/import	null
+Arthrocnemum macrostachyum	TPL:kew-2653806	=>	Arthrocnemum macrostachyum	TPL:kew-2653806	-519587	new/import	null
+Arthrocnemum macrostachyum	WOR:382485	-	Arthrocnemum macrostachyum	TPL:kew-2653806	-519587	noinfo	null
+Arthrocnemum macrostachyum	WOR:382485	-	Arthrocnemum macrostachyum	TPL:kew-2653807	-519580	noinfo	null
+Arthrocnemum macrostachyum	WOR:382485	-		null	-	ambiguous tip	2
+Idiastogyia	PLE:1152756	=>	Idiastogyia	PLE:1152756	-495422	new/import	null
+Tritogenia lunata	EET:EOL-Earthworm-Patch-5714	=>	Tritogenia lunata	EET:EOL-Earthworm-Patch-5714	-161094	new/import	null
+Prinos reticulatus	TPL:kew-2405245	=>	Prinos reticulatus	TPL:kew-2405245	-618511	new/impornull
+Metoligotoma reducta subtropica	EMB:1171929	=>	Metoligotoma reducta subtropica	EMB:1171929	-902346	new/import	null
+Synedrella	TPL:T21843	=>	Synedrella	TPL:T21843	-122627	new/import	null
+Synedrella	WOR:593803	-		null	-	not-placed/does-not-descend	null
+Myodochini	LYG:1215251	-		null	-	sibling-sink mismatch	null
+Myodochini	LYG:1215251	=>	Myodochini	LYG:1215251	-910185	reject/absorbed	null
+Coreinae	COR:1187113	=>	Coreinae	COR:1187113	-934748	new/refinement	null
+Katablepharidales	WOR:582425	=>	Katablepharidales	WOR:582425	-6898	new/impornull
+Biwadrilus	EET:EOL-Earthworm-Patch-1319	=>	Biwadrilus	EET:EOL-Earthworm-Patch-1319	-114634	new/import	null
+Syracosphaerales	WOR:493820	=>	Syracosphaerales	WOR:493820	-8944	reject/absorbed	null
+Therea lateralis	BLA:1179277	=>	Therea lateralis	BLA:1179277	-563902	new/impornull
+Progonopsocus pusillus	PSO:1223123	=>	Progonopsocus pusillus	PSO:1223123	-874288	new/impornull
+Schizoneurites brevirostris	APH:1159427	=>	Schizoneurites brevirostris	APH:1159427	-962317	new/import	null
+Orthojonvirus	ictv:ICTV:Orthojonvirus	=>	Orthojonvirus	ictv:ICTV:Orthojonvirus	-1479	new/impornull
+Metapsocidium	PSO:1223115	=>	Metapsocidium	PSO:1223115	-567268	new/import	null
+Heliocypha nubecula	ODO:S0078-7	=>	Heliocypha nubecula	ODO:S0078-7	-880578	new/impornull
+Pseudoparrellidae	WOR:465843	=>	Pseudoparrellidae	WOR:465843	-45218	new/refinement	null
+Cretomantis larvalis	MNT:1186186	=>	Cretomantis larvalis	MNT:1186186	-902735	new/impornull
+Archidermapteron	DER:1181925	=>	Archidermapteron	DER:1181925	-902257	new/impornull
+Epiperipatus betheli	ONY:G002-5	=>	Epiperipatus betheli	ONY:G002-5	-66250	new/impornull
+Hackeriella	COL:1171571	=>	Hackeriella	COL:1171571	-909921	new/import	null
+Palaeocixius antiquus	GRY:1221500	=>	Palaeocixius antiquus	GRY:1221500	-866410	new/impornull
+Zachaenus parvulus	AMP:2740	=>	Zachaenus parvulus	AMP:2740	-559	new/impornull
+Epallage	TPL:T8260	=>	Epallage	TPL:T8260	-121274	new/import	null
+Epallage	ODO:G0099	-		null	-	not-placed/does-not-descend	null
+Sibylla (Sibylla) dolosa	MNT:1185117	=>	Sibylla (Sibylla) dolosa	MNT:1185117	-951291	new/import	null
+Stuhlmannia	TPL:T21677	=>	Stuhlmannia	TPL:T21677	-1041215	new/import	null
+Stuhlmannia	EET:EOL-Earthworm-Patch-1633	-		null	-	not-placed/does-not-descend	null
+Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	=>	Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	-1086762	new/import	null
+Ensifera	ORTH:1121518	not=>	Ensifera	IOC:29879e81d88ca5845ee90290cc7e6e9d	-1086762	not-same/ranks	suborder|genus
+Ensifera	ORTH:1121518	=>	Ensifera	ORTH:1121518	-565016	new/import	null
+Myrionemataceae	WOR:143683	-		null	-	sibling-sink mismatch	null
+Myrionemataceae	WOR:143683	=>	Myrionemataceae	WOR:143683	-15245	reject/absorbed	null
+Chroicopterinae	MNT:1183633	=>	Chroicopterinae	MNT:1183633	-866804	new/refinement	null
+Hackeriella brachycephala	COL:1171574	=>	Hackeriella brachycephala	COL:1171574	-934400	new/import	null
+Palaeocixius pygmaea	GRY:1221459	=>	Palaeocixius pygmaea	GRY:1221459	-866409	new/impornull
+Timema chumash	PHA:1203884	=>	Timema chumash	PHA:1203884	-975981	new/import	null
+Clypeodon	WOR:385073	=>	Clypeodon	WOR:385073	-873787	new/import	null
+		-	Clypeodon	WOR:385073	-873787	move to parent of former container, instead of to container	null
+Metrodorinae	ORTH:1100864	=>	Metrodorinae	ORTH:1100864	-957303	reject/inconsistent	null
+Miomantinae	MNT:1184358	=>	Miomantinae	MNT:1184358	-866788	new/refinement	null
+Conocephalinae	ORTH:1132630	=>	Conocephalinae	ORTH:1132630	-956999	new/refinement	null
+Cyrtophoraceae	WOR:368878	-		null	-	sibling-sink mismatch	null
+Cyrtophoraceae	WOR:368878	=>	Cyrtophoraceae	WOR:368878	-26612	reject/absorbed	null
+Cithaeron praedonius	SPI:S06062	=>	Cithaeron praedonius	SPI:S06062	-856656	new/impornull
+Sorellembia estherae	EMB:1172304	=>	Sorellembia estherae	EMB:1172304	-865666	new/impornull
+Micrelytrini	COR:1186592	-		null	-	sibling-sink mismatch	null
+Micrelytrini	COR:1186592	=>	Micrelytrini	COR:1186592	-959500	reject/absorbed	null
+Atopderma	DER:1182247	=>	Atopderma	DER:1182247	-495393	new/import	null
+Electromantis	MNT:1186187	=>	Electromantis	MNT:1186187	-866758	new/import	null
+Nome phantom orthophasmavirus	ictv:ICTV:20164808	=>	Nome phantom orthophasmavirus	ictv:ICTV:20164808	-2639	new/import	null
+Tritogenia monosticha	EET:EOL-Earthworm-Patch-5717	=>	Tritogenia monosticha	EET:EOL-Earthworm-Patch-5717	-161098	new/import	null
+Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	=>	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-2219	new/import	null
+Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	=>	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-1307	new/import	null
+Thermotogae	WOR:414722	-	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-1307	noinfo	null
+Thermotogae	WOR:414722	-	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-2219	noinfo	null
+Thermotogae	WOR:414722	-		null	-	ambiguous internal	2
+Thermotogae	WOR:414721	-	Thermotogae	trunk:70fa171d-45d9-4670-a528-9e832b1198d5	-1307	noinfo	null
+Thermotogae	WOR:414721	-	Thermotogae	trunk:fab35211-fa6e-4832-bd30-a0a0585fc919	-2219	noinfo	null
+Thermotogae	WOR:414721	-		null	-	ambiguous internal	2
+Thermotogae	WOR:414722	=>	Thermotogae	WOR:414722	-6240	reject/absorbed	null
+Thermotogae	WOR:414721	=>	Thermotogae	WOR:414721	-6241	reject/absorbed	null
+		-	Thermotogae	WOR:414721	-6241	rank inversion	null
+Hackeriella veitchi	COL:1171576	=>	Hackeriella veitchi	COL:1171576	-934402	new/impornull
+Pyragrinae	DER:1181775	-		null	-	sibling-sink mismatch	null
+Pyragrinae	DER:1181775	=>	Pyragrinae	DER:1181775	-927015	reject/absorbed	null
+Dromaius novaehollandiae baudinianus	IOC:97596385a36874e8e8a3c95812278ff6	=>	Dromaius novaehollandiae baudinianus	IOC:97596385a36874e8e8a3c95812278ff6	-1094229	new/import	null
+Copiphorini	ORTH:1133737	-		null	-	sibling-sink mismatch	null
+Copiphorini	ORTH:1133737	=>	Copiphorini	ORTH:1133737	-974579	reject/absorbed	null
+Progonopsocus	PSO:1223121	=>	Progonopsocus	PSO:1223121	-567269	new/import	null
+Ensiferophasma	MAN:1220579	=>	Ensiferophasma	MAN:1220579	-563937	new/import	null
+Lepidotermes scalenus	TER:S0117-7	=>	Lepidotermes scalenus	TER:S0117-7	-953668	new/impornull
+Hacrobia	WOR:582418	=>	Hacrobia	WOR:582418	-1366	reject/inconsistent	null
+Nummulitoidea	WOR:519456	=>	Nummulitoidea	WOR:519456	-25640	new/refinement	null
+Palaeocixius	GRY:1221461	=>	Palaeocixius	GRY:1221461	-563758	new/import	null
+Iotonchidae	trunk:1834ad7d-2677-4a4d-a4f9-e3cf5c8f48c5	=>	Iotonchidae	trunk:1834ad7d-2677-4a4d-a4f9-e3cf5c8f48c5	-64145	new/import	null
+Iotonchidae	WOR:834839	=>	Iotonchidae	trunk:1834ad7d-2677-4a4d-a4f9-e3cf5c8f48c5	-64145	lumped	null
+Cristellaria obtusa subalata	WOR:929996	=>	Cristellaria obtusa subalata	WOR:929996	-580	new/import	null
+Tettoedischiidae	ORTH:1143982	=>	Tettoedischiidae	ORTH:1143982	-908344	new/impornull
+Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-6493	new/import	null
+Ctenophora	WOR:956054	not=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-6493	not-same/ranks	genus|phylum
+Ctenophora	WOR:1248	=>	Ctenophora	trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123	-6493	same/primary-name	Ctenophora
+Ctenophora	WOR:956054	=>	Ctenophora	WOR:956054	-46485	new/import	null
+Aphidinae	APH:1164335	=>	Aphidinae	APH:1164335	-937797	new/refinement	null
+Timema nevadense	PHA:1203895	=>	Timema nevadense	PHA:1203895	-975985	new/impornull
+Amphipsocinae	PSO:1193871	=>	Amphipsocinae	PSO:1193871	-909694	new/refinement	null
+Heliocypha mariae	ODO:S0078-6	=>	Heliocypha mariae	ODO:S0078-6	-880574	new/impornull
+Zorotypus (Zorotypus) huxleyi	ZOR:1218754	=>	Zorotypus (Zorotypus) huxleyi	ZOR:1218754	-902210	new/import	null
+Wuchang cockroach orthophasmavirus 1	ictv:ICTV:20164810	=>	Wuchang cockroach orthophasmavirus 1	ictv:ICTV:20164810	-2641	new/import	null
+Cristellaria arcuatula	WOR:895743	=>	Cristellaria arcuatula	WOR:895743	-11	new/impornull
+Ancistrona	PSO:1230545	=>	Ancistrona	PSO:1230545	-873784	new/import	null
+Ancistrona	WOR:384794	-		null	-	promoted/internal	Menoponidae
+		-	Ancistrona	PSO:1230545	-873784	move to parent of former container, instead of to container	null
+Macrosiphini	APH:1166294	-		null	-	sibling-sink mismatch	null
+Macrosiphini	APH:1166294	=>	Macrosiphini	APH:1166294	-962578	reject/absorbed	null
+Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	=>	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-2245	new/import	null
+Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	=>	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-1317	new/import	null
+Gemmatimonadetes	WOR:571299	-	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-2245	noinfo	null
+Gemmatimonadetes	WOR:571299	-	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-1317	noinfo	null
+Gemmatimonadetes	WOR:571299	-		null	-	ambiguous internal	2
+Gemmatimonadetes	WOR:571298	-	Gemmatimonadetes	trunk:2bad50de-087a-4e34-9bf5-b645349a401e	-2245	noinfo	null
+Gemmatimonadetes	WOR:571298	-	Gemmatimonadetes	trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0	-1317	noinfo	null
+Gemmatimonadetes	WOR:571298	-		null	-	ambiguous internal	2
+Gemmatimonadetes	WOR:571299	=>	Gemmatimonadetes	WOR:571299	-6340	reject/absorbed	null
+Gemmatimonadetes	WOR:571298	=>	Gemmatimonadetes	WOR:571298	-6341	reject/absorbed	null
+		-	Gemmatimonadetes	WOR:571298	-6341	rank inversion	null
+Grylloblattina	GRY:1220119	=>	Grylloblattina	GRY:1220119	-563671	new/import	null
+Grylloblattina	GRY:1219995	-		null	-	sibling-sink mismatch	null
+Grylloblattina	GRY:1219995	=>	Grylloblattina	GRY:1219995	-495476	reject/absorbed	null
+Ancylopsocus insolitus	PSO:1223126	=>	Ancylopsocus insolitus	PSO:1223126	-874290	new/impornull
+Sibylla (Sibylla) dives	MNT:1185116	=>	Sibylla (Sibylla) dives	MNT:1185116	-951289	new/impornull
+Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-2384	new/import	null
+Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-1320	new/import	null
+Acidobacteria	WOR:571177	-	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-1320	noinfo	null
+Acidobacteria	WOR:571177	-	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-2384	noinfo	null
+Acidobacteria	WOR:571177	-		null	-	ambiguous internal	2
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08	-2384	same/overlaps	Acidobacteriaceae|Acanthopleuribacteraceae
+Acidobacteria	WOR:564402	=>	Acidobacteria	trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57	-1320	same/is-subsumed-by	null
+Acidobacteria	WOR:571177	=>	Acidobacteria	WOR:571177	-6412	reject/absorbed	null
+Ferak orthoferavirus	ictv:ICTV:20164769	=>	Ferak orthoferavirus	ictv:ICTV:20164769	-2638	new/import	null
+Rhyparochrominae	LYG:1212523	=>	Rhyparochrominae	LYG:1212523	-936032	reject/inconsistent	null
+Tritogenia annetteae	EET:EOL-Earthworm-Patch-5698	=>	Tritogenia annetteae	EET:EOL-Earthworm-Patch-5698	-161093	new/import	null
+Sibylla (Sibylla) pretiosa	MNT:1185123	=>	Sibylla (Sibylla) pretiosa	MNT:1185123	-951290	new/import	null
+Temnopterix minor	BLA:1179260	=>	Temnopterix minor	BLA:1179260	-563905	new/impornull
+Pinguiophycidae	WOR:591211	-		null	-	sibling-sink mismatch	null
+Pinguiophycidae	WOR:591211	=>	Pinguiophycidae	WOR:591211	-9537	reject/absorbed	null
+Zachaenus roseus	AMP:2741	=>	Zachaenus roseus	AMP:2741	-557	new/impornull
+Pseudophyllinae	ORTH:1139643	=>	Pseudophyllinae	ORTH:1139643	-957003	new/refinement	null
+Phyllodromia forceps	BLA:1179272	=>	Phyllodromia forceps	BLA:1179272	-563907	new/impornull
+Cerconychia livida	PLE:1157920	=>	Cerconychia livida	PLE:1157920	-950326	new/impornull
+Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	=>	Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	-967535	new/import	null
+		-	Paracanthomorphacea	trunk:9c78b12e-7c74-48b3-b305-7359ccf954c9	-967535	rank inversion	null
+Lestinogomphus	ODO:G0433	-		null	-	sibling-sink mismatch	null
+Lestinogomphus	ODO:G0433	=>	Lestinogomphus	ODO:G0433	-567651	reject/absorbed	null
+Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-20884	new/import	null
+Phyllacantha	WOR:370036	not=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-20884	not-same/ranks	genus|suborder
+Phyllacantha	WOR:367303	=>	Phyllacantha	trunk:38fae62d-e067-4582-8184-737671069053	-20884	same/parent+parent	Arthracanthida|Arthracanthida
+Phyllacantha	WOR:370036	=>	Phyllacantha	WOR:370036	-6702	new/import	null
+Paenula	TPL:T16298	=>	Paenula	TPL:T16298	-122353	new/import	null
+Paenula	SPI:G1961	-		null	-	not-placed/does-not-descend	null
+Paenula	WOR:769762	=>	Paenula	TPL:T16298	-122353	same/primary-name	Paenula
+Paenula	WOR:769762	-		null	-	not-placed/does-not-descend	null
+Chloroflexaceae	trunk:a20ac3ac-c5eb-48a0-9df6-2a65700fd793	=>	Chloroflexaceae	trunk:a20ac3ac-c5eb-48a0-9df6-2a65700fd793	-7835	new/import	null
+Chloroflexaceae	WOR:571105	=>	Chloroflexaceae	trunk:a20ac3ac-c5eb-48a0-9df6-2a65700fd793	-7835	same/parent+parent	Chloroflexales|Chloroflexales
+Sauria	TPL:T20026	=>	Sauria	TPL:T20026	-503160	new/import	null
+Sauria	WOR:342632	not=>	Sauria	TPL:T20026	-503160	not-same/ranks	order|genus
+Sauria	WOR:342632	=>	Sauria	WOR:342632	-983417	reject/absorbed	null
+Borokiae	WOR:591170	=>	Borokiae	WOR:591170	-9497	new/import	null
+		-	Borokiae	WOR:591170	-9497	rank inversion	null
+Pirkimerus philippinensis	LYG:1223042	=>	Pirkimerus philippinensis	LYG:1223042	-961278	new/import	null
+Liturgusinae	MNT:1183081	=>	Liturgusinae	MNT:1183081	-866826	new/refinement	null
+Tertiapatus dominicanus	ONY:G052-1	=>	Tertiapatus dominicanus	ONY:G052-1	-66321	new/impornull
+Cyrenobatissa	WOR:818201	=>	Cyrenobatissa	WOR:818201	-12	new/import	null
+Lygaeidae	LYG:1209918	=>	Lygaeidae	LYG:1209918	-910212	new/refinement	null
+Lygaeidae	WOR:151137	=>	Lygaeidae	LYG:1209918	-910212	same/parent+parent	Heteroptera|Heteroptera
+Karabasia	COL:1171556	=>	Karabasia	COL:1171556	-909919	new/import	null
+Alydinae	COR:1186238	-		null	-	sibling-sink mismatch	null
+Alydinae	COR:1186238	=>	Alydinae	COR:1186238	-934745	reject/absorbed	null
+Zorotypus (Zorotypus) magnicaudelli	ZOR:1220634	=>	Zorotypus (Zorotypus) magnicaudelli	ZOR:1220634	-902216	new/import	null
+Lepidotermes mtwalumi	TER:S0117-4	=>	Lepidotermes mtwalumi	TER:S0117-4	-953671	new/impornull
+Globulina	TPL:T9433	=>	Globulina	TPL:T9433	-97580	new/import	null
+Globulina	WOR:604146	=>	Globulina	TPL:T9433	-97580	lumped	null
+Alophycidae	WOR:591210	=>	Alophycidae	WOR:591210	-9539	new/refinement	null
+Necrosciinae	PHA:1202647	=>	Necrosciinae	PHA:1202647	-931959	new/refinement	null
+Timema boharti	PHA:1203882	=>	Timema boharti	PHA:1203882	-975986	new/import	null
+Epiperipatus evansi	ONY:G002-12	=>	Epiperipatus evansi	ONY:G002-12	-66247	new/impornull
+Tettoedischioidea	ORTH:1143981	=>	Tettoedischioidea	ORTH:1143981	-871577	new/impornull
+Cithaeron delimbatus	SPI:S06058	=>	Cithaeron delimbatus	SPI:S06058	-856655	new/impornull
+Cryptophyta	WOR:17638	=>	Cryptophyta	WOR:17638	-2604	reject/inconsistent	null
+Lepidotermes amydrus	TER:S0117-1	=>	Lepidotermes amydrus	TER:S0117-1	-953673	new/impornull
+Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	=>	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-576528	new/import	null
+		-	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-576528	rank inversion	null
+Mammalia	WOR:1837	=>	Mammalia	trunk:bfa972eb-53d1-4768-a4c3-a587459659ef	-576528	same/parent+parent	Tetrapoda|Tetrapoda
+Aulacoseirales	WOR:148957	-		null	-	sibling-sink mismatch	null
+Aulacoseirales	WOR:148957	=>	Aulacoseirales	WOR:148957	-21872	reject/absorbed	null
+Thermodesulfobacteriaceae	trunk:616810f8-ed4c-4255-8e6d-6d70e3ac36d4	=>	Thermodesulfobacteriaceae	trunk:616810f8-ed4c-4255-8e6d-6d70e3ac36d4	-7832	new/import	null
+Thermodesulfobacteriaceae	WOR:567373	=>	Thermodesulfobacteriaceae	trunk:616810f8-ed4c-4255-8e6d-6d70e3ac36d4	-7832	same/parent+parent	Thermodesulfobacteriales|Thermodesulfobacteriales
+Metoligotoma illawarrae telocera	EMB:1171909	=>	Metoligotoma illawarrae telocera	EMB:1171909	-902347	new/import	null
+Lordhowea	TPL:T13076	=>	Lordhowea	TPL:T13076	-122447	new/import	null
+Lordhowea	SPI:G0662	-		null	-	not-placed/does-not-descend	null
+Labyrinthulida	WOR:591177	=>	Labyrinthulida	WOR:591177	-9557	reject/absorbed	null
+Tettoedischia minuta	ORTH:1143985	=>	Tettoedischia minuta	ORTH:1143985	-974158	new/impornull
+Timema genevievae	PHA:1203889	=>	Timema genevievae	PHA:1203889	-975989	new/impornull
+Epiperipatus simoni	ONY:G002-19	=>	Epiperipatus simoni	ONY:G002-19	-66248	new/impornull
+Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	=>	Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	-420504	new/import	null
+Dicliptera	TPL:T7141	not=>	Dicliptera	trunk:41012c56-e40a-469e-9003-0f9a34f4f16f	-420504	not-same/ranks	genus|order
+Dicliptera	TPL:T7141	=>	Dicliptera	TPL:T7141	-505176	new/import	null
+Raptophasma kerneggeri	MAN:1220600	=>	Raptophasma kerneggeri	MAN:1220600	-904228	new/impornull
+Jersimantis burmiticus	MNT:1186146	=>	Jersimantis burmiticus	MNT:1186146	-866760	new/impornull
+Goniomonadales	WOR:22578	=>	Goniomonadales	WOR:22578	-6897	new/import	null
+Rhyparochromidae	LYG:1212214	=>	Rhyparochromidae	LYG:1212214	-910217	new/refinement	null
+Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	=>	Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	-923400	new/import	null
+		-	Gonorynchiformes	trunk:a49142da-8515-4f4c-a272-64a429ca6c82	-923400	rank inversion	null
+Lepidotermes lounsburyi	TER:S0117-3	=>	Lepidotermes lounsburyi	TER:S0117-3	-953676	new/impornull
+Bigyra	WOR:449151	=>	Bigyra	WOR:449151	-14	reject/inconsistent	null
+Nitzschia	PSO:1230650	=>	Nitzschia	PSO:1230650	-495693	new/import	null
+Nitzschia	WOR:119270	=>	Nitzschia	PSO:1230650	-495693	lumped	null
+Nitzschia	WOR:149045	-		null	-	not-placed/does-not-descend	null
+Nitzschia	WOR:119270	-		null	-	not-placed/does-not-descend	null
+Pavonia	TPL:T16657	=>	Pavonia	TPL:T16657	-545968	new/import	null
+Pavonia	WOR:415782	=>	Pavonia	TPL:T16657	-545968	lumped	null
+Stylopyga biolleyi	BLA:1179267	=>	Stylopyga biolleyi	BLA:1179267	-563909	new/impornull
+Zorotypus (Zorotypus) gurneyi	ZOR:1218751	=>	Zorotypus (Zorotypus) gurneyi	ZOR:1218751	-902215	new/import	null
+Antonaphis brachycera	APH:1159435	=>	Antonaphis brachycera	APH:1159435	-962312	new/impornull
+Hyalymenus (Hyalymenus) vespiformis	COR:1186461	=>	Hyalymenus (Hyalymenus) vespiformis	COR:1186461	-959470	new/import	null
+Tanzaniophasmatinae	MAN:1220575	=>	Tanzaniophasmatinae	MAN:1220575	-563938	new/impornull
+Permentomum tenuiforme	PSO:1223120	=>	Permentomum tenuiforme	PSO:1223120	-874291	new/impornull
+Palaeocixiidae	GRY:1221792	=>	Palaeocixiidae	GRY:1221792	-495491	new/import	null
+Tarachodinae	MNT:1185170	=>	Tarachodinae	MNT:1185170	-866806	new/refinement	null
+Huperzia	PPG:Pteridophyte-Phylogeny-Group1-20	=>	Huperzia	PPG:Pteridophyte-Phylogeny-Group1-20	-63228	new/import	null
+Huperzia	TPL:T10959	=>	Huperzia	PPG:Pteridophyte-Phylogeny-Group1-20	-63228	same/primary-name	Huperzia
+Securigera	TPL:T20462	=>	Securigera	TPL:T20462	-1041059	new/import	null
+Securigera	ORTH:1116224	-		null	-	not-placed/does-not-descend	null
+Pentapsocidium	PSO:1223117	=>	Pentapsocidium	PSO:1223117	-567267	new/import	null
+Ichthyophis laosensis	AMP:1989	=>	Ichthyophis laosensis	AMP:1989	-576782	new/impornull
+Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	-		null	-	sibling-sink mismatch	null
+Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	=>	Ocnerodrilinae	EET:EOL-Earthworm-Patch-5081	-114536	reject/absorbed	null
+Hyalymenus (Hyalymenus) melanocephalus	COR:1186460	=>	Hyalymenus (Hyalymenus) melanocephalus	COR:1186460	-959472	new/import	null
+Atava ovata	GRY:1221190	=>	Atava ovata	GRY:1221190	-567557	new/import	null
+Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	=>	Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	-967537	new/import	null
+		-	Polymixiacea	trunk:6805a7b7-7adb-4d13-90da-a5508b70d6b6	-967537	rank inversion	null
+Scabina luzonica	BLA:1179257	=>	Scabina luzonica	BLA:1179257	-563903	new/impornull
+Cithaeron contentum	SPI:S06057	=>	Cithaeron contentum	SPI:S06057	-856653	new/impornull
+Rhaponeidales	WOR:149063	=>	Rhaponeidales	WOR:149063	-26542	reject/absorbed	null
+Rhaponeidales	WOR:149063	-		null	-	not-placed/does-not-descend	null
+Epideigma elegans	GRY:1220163	=>	Epideigma elegans	GRY:1220163	-567556	new/impornull
+Casuarius	IOC:20d5f08ee9e1251a50884ed72d65da71	=>	Casuarius	IOC:20d5f08ee9e1251a50884ed72d65da71	-1085316	new/import	null
+Staticobium	APH:1168903	=>	Staticobium	APH:1168903	-937801	new/import	null
+Staticobium	WOR:504235	-		null	-	promoted/internal	Aphididae
+Pygidicranidae	DER:1181774	=>	Pygidicranidae	DER:1181774	-902264	new/refinement	null
+Jersimantis luzzii	MNT:1186147	=>	Jersimantis luzzii	MNT:1186147	-866761	new/impornull
+Epiperipatus hilkae	ONY:G002-13	=>	Epiperipatus hilkae	ONY:G002-13	-66249	new/impornull
+Casuarius casuarius	IOC:6e715f2c26d8f0966ce6476173a81b2b	=>	Casuarius casuarius	IOC:6e715f2c26d8f0966ce6476173a81b2b	-1088340	new/import	null
+Diphasium	PPG:Pteridophyte-Phylogeny-Group1-13	=>	Diphasium	PPG:Pteridophyte-Phylogeny-Group1-13	-63221	new/import	null
+Diphasium	TPL:T7360	=>	Diphasium	PPG:Pteridophyte-Phylogeny-Group1-13	-63221	same/primary-name	Diphasium
+Chroicopterini	MNT:1183634	-		null	-	sibling-sink mismatch	null
+Chroicopterini	MNT:1183634	=>	Chroicopterini	MNT:1183634	-902819	reject/absorbed	null
+Paratitan	ORTH:1144039	=>	Paratitan	ORTH:1144039	-908345	new/import	null
+Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-613	new/import	null
+Bacteria	PHA:1202154	not=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-613	not-same/ranks	genus|domain
+Bacteria	PHA:1202154	=>	Bacteria	PHA:1202154	-976261	new/import	null
+Bacteria	WOR:6	not=>	Bacteria	PHA:1202154	-976261	not-same/ranks	kingdom|genus
+Bacteria	WOR:6	=>	Bacteria	trunk:07fe5571-8649-4657-88dc-e0c32f2fea95	-613	same/overlaps	Nitrospiraceae|Stella
+Trapellitermes loxomastax	TER:S0312-1	=>	Trapellitermes loxomastax	TER:S0312-1	-953667	new/import	null
+Tara	TPL:T22003	=>	Tara	TPL:T22003	-1041156	new/import	null
+Tara	SPI:G3934	-		null	-	not-placed/does-not-descend	null
+Pirkimerus javanus	LYG:1223039	=>	Pirkimerus javanus	LYG:1223039	-961279	new/impornull
+Plagiacanthidae	WOR:345898	=>	Plagiacanthidae	WOR:345898	-20853	reject/inconsistent	null
+Heterokonta	WOR:368898	=>	Heterokonta	WOR:368898	-15	reject/inconsistent	null
+Blaberidae	BLA:1172575	=>	Blaberidae	BLA:1172575	-866988	reject/inconsistent	null
+Actinochrysia	WOR:591212	=>	Actinochrysia	WOR:591212	-15371	new/refinement	null
+Cithaeron	SPI:G0520	=>	Cithaeron	SPI:G0520	-561740	new/import	null
+Heliocypha fenestrata	ODO:S0078-5	=>	Heliocypha fenestrata	ODO:S0078-5	-880573	new/impornull
+Trigonidiini	ORTH:1126891	-		null	-	sibling-sink mismatch	null
+Trigonidiini	ORTH:1126891	=>	Trigonidiini	ORTH:1126891	-974989	reject/absorbed	null
+Pirkimerus pulcher	LYG:1223044	=>	Pirkimerus pulcher	LYG:1223044	-961283	new/impornull
+Ectobiidae	BLA:1174509	=>	Ectobiidae	BLA:1174509	-866989	new/refinement	null
+Vossiini	ORTH:1221084	=>	Vossiini	ORTH:1221084	-564061	new/refinement	null
+Alydidae	COR:1186237	=>	Alydidae	COR:1186237	-910031	new/refinement	null
+Tettigoniidae	ORTH:1132213	=>	Tettigoniidae	ORTH:1132213	-931851	new/refinement	null
+Saccamminidae	WOR:394018	=>	Saccamminidae	WOR:394018	-60062	new/refinement	null
+Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	=>	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-2206	new/import	null
+Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	=>	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-1303	new/import	null
+Thermodesulfobacteria	WOR:567371	-	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-1303	noinfo	null
+Thermodesulfobacteria	WOR:567371	-	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-2206	noinfo	null
+Thermodesulfobacteria	WOR:567371	-		null	-	ambiguous internal	2
+Thermodesulfobacteria	WOR:567370	-	Thermodesulfobacteria	trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da	-1303	noinfo	null
+Thermodesulfobacteria	WOR:567370	-	Thermodesulfobacteria	trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106	-2206	noinfo	null
+Thermodesulfobacteria	WOR:567370	-		null	-	ambiguous internal	2
+Thermodesulfobacteria	WOR:567371	=>	Thermodesulfobacteria	WOR:567371	-6220	reject/absorbed	null
+Thermodesulfobacteria	WOR:567370	=>	Thermodesulfobacteria	WOR:567370	-6221	reject/absorbed	null
+		-	Thermodesulfobacteria	WOR:567370	-6221	rank inversion	null
+Phyllobacteriaceae	trunk:b530ffe2-03cd-40de-95b6-cbc8c198412f	=>	Phyllobacteriaceae	trunk:b530ffe2-03cd-40de-95b6-cbc8c198412f	-7916	new/import	null
+Phyllobacteriaceae	WOR:567523	=>	Phyllobacteriaceae	trunk:b530ffe2-03cd-40de-95b6-cbc8c198412f	-7916	lumped	null
+Vossiina	ORTH:1221085	-		null	-	sibling-sink mismatch	null
+Vossiina	ORTH:1221085	=>	Vossiina	ORTH:1221085	-867405	reject/absorbed	null
+Chromista incertae sedis	WOR:598929	=>	Chromista incertae sedis	WOR:598929	-16	new/import	null
+Timema californicum	PHA:1203883	=>	Timema californicum	PHA:1203883	-975987	new/impornull
+Longicerciata	DER:1182208	=>	Longicerciata	DER:1182208	-902258	new/import	null
+Timema douglasi	PHA:1203888	=>	Timema douglasi	PHA:1203888	-975983	new/import	null
+Schizoneurites electri	APH:1159426	=>	Schizoneurites electri	APH:1159426	-962318	new/impornull
+Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	=>	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-2388	new/import	null
+Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	=>	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-1323	new/import	null
+Elusimicrobia	WOR:571255	-	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-2388	noinfo	null
+Elusimicrobia	WOR:571255	-	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-1323	noinfo	null
+Elusimicrobia	WOR:571255	-		null	-	ambiguous internal	2
+Elusimicrobia	WOR:571254	-	Elusimicrobia	trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0	-2388	noinfo	null
+Elusimicrobia	WOR:571254	-	Elusimicrobia	trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1	-1323	noinfo	null
+Elusimicrobia	WOR:571254	-		null	-	ambiguous internal	2
+Elusimicrobia	WOR:571255	=>	Elusimicrobia	WOR:571255	-6419	reject/absorbed	null
+Elusimicrobia	WOR:571254	=>	Elusimicrobia	WOR:571254	-6420	reject/absorbed	null
+		-	Elusimicrobia	WOR:571254	-6420	rank inversion	null
+Paratitan libelluloides	ORTH:1144040	=>	Paratitan libelluloides	ORTH:1144040	-931832	new/impornull
+Cerconychia sinensis	PLE:1157922	=>	Cerconychia sinensis	PLE:1157922	-950324	new/impornull
+Styloperla spinicercia	PLE:1157925	=>	Styloperla spinicercia	PLE:1157925	-950327	new/impornull
+Sunopterites hejinensis	GRY:1221237	=>	Sunopterites hejinensis	GRY:1221237	-563759	new/impornull
+Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	=>	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-967533	new/import	null
+		-	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-967533	rank inversion	null
+Myctophiformes	WOR:10309	=>	Myctophiformes	trunk:6fdd2c8c-888c-4b5a-845b-ca4b8823d602	-967533	same/ancestor+parent	Actinopterygii|Teleostei
+Tanzaniophasma subsolana	MAN:1220589	=>	Tanzaniophasma subsolana	MAN:1220589	-904225	new/import	null
+Longicerciata mesozoica	DER:1182209	=>	Longicerciata mesozoica	DER:1182209	-927005	new/impornull
+Raptophasma	MAN:1220585	=>	Raptophasma	MAN:1220585	-866993	new/import	null
+Hackeriella echina	COL:1171575	=>	Hackeriella echina	COL:1171575	-934401	new/impornull
+Cyathobodoniae	WOR:591171	=>	Cyathobodoniae	WOR:591171	-9496	reject/absorbed	null
+		-	Cyathobodoniae	WOR:591171	-9496	rank inversion	null
+Protoperlina	GRY:1219996	-		null	-	sibling-sink mismatch	null
+Protoperlina	GRY:1219996	=>	Protoperlina	GRY:1219996	-495490	reject/absorbed	null
+Kigluaik phantom orthophasmavirus	ictv:ICTV:20164807	=>	Kigluaik phantom orthophasmavirusictv:ICTV:20164807	-2643	new/import	null
+Lepidotermes simplex	TER:S0117-8	=>	Lepidotermes simplex	TER:S0117-8	-953672	new/impornull
+Zorotypus (Zorotypus) hubbardi	ZOR:1218753	=>	Zorotypus (Zorotypus) hubbardi	ZOR:1218753	-902208	new/import	null
+Sorellembiidae	EMB:1172302	=>	Sorellembiidae	EMB:1172302	-495432	new/import	null
+Skalskiana	APH:1159440	=>	Skalskiana	APH:1159440	-937644	new/import	null
+Karabasia paucinervis	COL:1171557	=>	Karabasia paucinervis	COL:1171557	-934398	new/impornull
+Cerconychia brunnea	PLE:1157921	=>	Cerconychia brunnea	PLE:1157921	-950325	new/impornull
+Ichthyophis billitonensis	AMP:1979	=>	Ichthyophis billitonensis	AMP:1979	-576780	new/import	null
+Corbiculina	WOR:818186	=>	Corbiculina	WOR:818186	-13	new/import	null
+Arinemia lanceolata	TPL:kew-2651059	=>	Arinemia lanceolata	TPL:kew-2651059	-618507	new/impornull
+Rhizosolenianae	WOR:591196	-		null	-	sibling-sink mismatch	null
+Rhizosolenianae	WOR:591196	=>	Rhizosolenianae	WOR:591196	-21870	reject/absorbed	null
+Colpocephalum	PSO:1230572	=>	Colpocephalum	PSO:1230572	-873789	new/import	null
+Colpocephalum	WOR:385074	-		null	-	promoted/internal	Menoponidae
+		-	Colpocephalum	PSO:1230572	-873789	move to parent of former container, instead of to container	null
+Timema knulli	PHA:1203890	=>	Timema knulli	PHA:1203890	-975982	new/import	null
+Actinophryida	WOR:590588	=>	Actinophryida	WOR:590588	-6637	reject/absorbed	null
+Permentomum	PSO:1223119	=>	Permentomum	PSO:1223119	-567271	new/import	null
+Mirperus jaculus	COR:1186363	=>	Mirperus jaculus	COR:1186363	-934493	new/impornull
+Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	=>	Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	-1015855	new/import	null
+Pholidota	TPL:T17231	not=>	Pholidota	trunk:44c0fffb-1330-4beb-970f-83e9c22b00f8	-1015855	not-same/ranks	genus|order
+Pholidota	TPL:T17231	=>	Pholidota	TPL:T17231	-256040	new/import	null
+Lestoidea	trunk:8c9577ff-ff17-4acb-a5c3-07c444e5957c	=>	Lestoidea	trunk:8c9577ff-ff17-4acb-a5c3-07c444e5957c	-420483	new/import	null
+Lestoidea	ODO:G0107	not=>	Lestoidea	trunk:8c9577ff-ff17-4acb-a5c3-07c444e5957c	-420483	not-same/ranks	genus|superfamily
+Lestoidea	ODO:G0107	=>	Lestoidea	ODO:G0107	-568214	new/import	null
+Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	=>	Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	-100989	new/import	null
+Pterygota	WOR:151152	not=>	Pterygota	trunk:fa2fcee5-5e29-4d86-a478-28060f286801	-100989	not-same/ranks	subclass|genus
+Pterygota	WOR:151152	=>	Pterygota	WOR:151152	-154708	reject/inconsistent	null
+		-	Pterygota	WOR:151152	-154708	rank inversion	null
+Placididia	WOR:590693	=>	Placididia	WOR:590693	-9499	new/import	null
+		-	Placididia	WOR:590693	-9499	rank inversion	null
+Timema monikensis	PHA:1203892	=>	Timema monikensis	PHA:1203892	-975991	new/impornull
+Inthaeron	SPI:G0521	=>	Inthaeron	SPI:G0521	-561739	new/import	null
+Potentilla anserina	TPL:rjp-33550	=>	Potentilla anserina	TPL:rjp-33550	-813968	new/impornull
+Potentilla anserina	TPL:rjp-724	=>	Potentilla anserina	TPL:rjp-724	-814450	new/impornull
+Potentilla anserina	WOR:535789	-	Potentilla anserina	TPL:rjp-33550	-813968	noinfo	null
+Potentilla anserina	WOR:535789	-	Potentilla anserina	TPL:rjp-724	-814450	noinfo	null
+Potentilla anserina	WOR:535789	-		null	-	ambiguous tip	2
+Tanzaniophasma	MAN:1220581	=>	Tanzaniophasma	MAN:1220581	-866991	new/import	null
+Eurycotis tristani	BLA:1179287	=>	Eurycotis tristani	BLA:1179287	-563906	new/impornull
+Coscinodiscanae	WOR:591190	=>	Coscinodiscanae	WOR:591190	-21878	reject/inconsistent	null
+Anisacanthini	PHA:1200199	-		null	-	sibling-sink mismatch	null
+Anisacanthini	PHA:1200199	=>	Anisacanthini	PHA:1200199	-976037	reject/absorbed	null
+Pirkimerus burmanus	LYG:1223036	=>	Pirkimerus burmanus	LYG:1223036	-961282	new/impornull
+Zorotypus (Zorotypus) confirmans	ZOR:1224042	=>	Zorotypus (Zorotypus) confirmans	ZOR:1224042	-902211	new/import	null
+Tajmyrella cretacea	APH:1159439	=>	Tajmyrella cretacea	APH:1159439	-962314	new/impornull
+Thrinchinae	ORTH:1117310	=>	Thrinchinae	ORTH:1117310	-957231	reject/inconsistent	null
+Freya	TPL:T9058	=>	Freya	TPL:T9058	-121433	new/import	null
+Freya	SPI:G3572	-		null	-	not-placed/does-not-descend	null
+Oscillochloridaceae	trunk:47a400dd-521d-482c-a696-7f8433867af6	=>	Oscillochloridaceae	trunk:47a400dd-521d-482c-a696-7f8433867af6	-7836	new/import	null
+Oscillochloridaceae	WOR:571381	=>	Oscillochloridaceae	trunk:47a400dd-521d-482c-a696-7f8433867af6	-7836	same/parent+parent	Chloroflexales|Chloroflexales
+Paratitan ovalis	ORTH:1144041	=>	Paratitan ovalis	ORTH:1144041	-931831	new/impornull
+Sclerocypha	ODO:G0088	=>	Sclerocypha	ODO:G0088	-568244	new/import	null
+Heliocypha bisignata	ODO:S0078-4	=>	Heliocypha bisignata	ODO:S0078-4	-880571	new/impornull
+Anisodiplatys	DER:1181923	=>	Anisodiplatys	DER:1181923	-902256	new/import	null
+Tarachodini	MNT:1185171	-		null	-	sibling-sink mismatch	null
+Tarachodini	MNT:1185171	=>	Tarachodini	MNT:1185171	-902826	reject/absorbed	null
+Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	=>	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-2241	new/import	null
+Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	=>	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-1315	new/import	null
+Actinobacteria	WOR:559510	-	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-1315	noinfo	null
+Actinobacteria	WOR:559510	-	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-2241	noinfo	null
+Actinobacteria	WOR:559510	-		null	-	ambiguous internal	2
+Actinobacteria	WOR:178057	-	Actinobacteria	trunk:06075375-d7d2-4331-afee-8269352078f7	-1315	noinfo	null
+Actinobacteria	WOR:178057	-	Actinobacteria	trunk:861183ef-48d2-48c8-891d-556c4dbed66e	-2241	noinfo	null
+Actinobacteria	WOR:178057	-		null	-	ambiguous internal	2
+Actinobacteria	WOR:559510	=>	Actinobacteria	WOR:559510	-6334	reject/absorbed	null
+Actinobacteria	WOR:178057	=>	Actinobacteria	WOR:178057	-6335	reject/absorbed	null
+		-	Actinobacteria	WOR:178057	-6335	rank inversion	null
+Phaneropterinae	ORTH:1135953	=>	Phaneropterinae	ORTH:1135953	-956979	reject/inconsistent	null
+Ensiferophasmatidae	MAN:1220574	=>	Ensiferophasmatidae	MAN:1220574	-495520	new/impornull
+Goniocotes	PSO:1224348	=>	Goniocotes	PSO:1224348	-873793	new/import	null
+Goniocotes	WOR:385083	-		null	-	promoted/internal	Philopteridae
+		-	Goniocotes	PSO:1224348	-873793	move to parent of former container, instead of to container	null
+Millettia	TPL:T14279	=>	Millettia	TPL:T14279	-1040579	new/import	null
+Millettia	WOR:484675	-		null	-	not-placed/does-not-descend	null
+Eumastacopini	ORTH:1119463	-		null	-	sibling-sink mismatch	null
+Eumastacopini	ORTH:1119463	=>	Eumastacopini	ORTH:1119463	-975196	reject/absorbed	null
+Cerconychia	PLE:1157919	=>	Cerconychia	PLE:1157919	-927083	new/import	null
+Platycleidini	ORTH:1142085	=>	Platycleidini	ORTH:1142085	-974599	reject/inconsistent	null
+Pelagophycia	WOR:591213	-		null	-	sibling-sink mismatch	null
+Pelagophycia	WOR:591213	=>	Pelagophycia	WOR:591213	-15370	reject/absorbed	null
+Arinemia	TPL:T2473	=>	Arinemia	TPL:T2473	-504347	new/import	null
+Menopon	PSO:1225507	=>	Menopon	PSO:1225507	-873786	new/import	null
+Menopon	WOR:385089	-		null	-	promoted/internal	Menoponidae
+		-	Menopon	PSO:1225507	-873786	move to parent of former container, instead of to container	null
+Pentapsocidium indistinctum	PSO:1223118	=>	Pentapsocidium indistinctum	PSO:1223118	-874286	new/import	null
+Petascelini	COR:1189585	-		null	-	sibling-sink mismatch	null
+Petascelini	COR:1189585	=>	Petascelini	COR:1189585	-959505	reject/absorbed	null
+Electromantis sukatshevae	MNT:1186188	=>	Electromantis sukatshevae	MNT:1186188	-902734	new/import	null
+Lonchodinae	PHA:1200524	=>	Lonchodinae	PHA:1200524	-931946	new/refinement	null
+Leguminosae	TPL:T103	=>	Leguminosae	TPL:T103	-1041638	reject/inconsistent	null
+Antonaphis	APH:1159433	=>	Antonaphis	APH:1159433	-937642	new/import	null
+Pirkimerus bellus	LYG:1223035	=>	Pirkimerus bellus	LYG:1223035	-961280	new/impornull
+Prinos confertus	TPL:kew-2405280	=>	Prinos confertus	TPL:kew-2405280	-618509	new/impornull
+Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-491862	new/import	null
+Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-70650	new/import	null
+Bdelloidea	WOR:762069	-	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-70650	noinfo/lineage	Prostigmata|Rotifera
+Bdelloidea	WOR:762069	=>	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-491862	same/parent+parent	Prostigmata|Prostigmata
+Bdelloidea	WOR:17968	-	Bdelloidea	trunk:5a05401e-9044-41ef-b0ba-cee8a1b4c191	-491862	noinfo/lineage	Rotifera|Prostigmata
+Bdelloidea	WOR:17968	=>	Bdelloidea	trunk:df98f01e-4de5-497b-9306-349555e441aa	-70650	same/parent+parent	Rotifera|Rotifera
+Pirkimerus japonicus	LYG:1208656	=>	Pirkimerus japonicus	LYG:1208656	-961284	new/impornull
+Diptera	trunk:c613e906-c036-49bb-8edf-5ce10346abb4	=>	Diptera	trunk:c613e906-c036-49bb-8edf-5ce10346abb4	-420395	new/import	null
+Diptera	TPL:T7454	not=>	Diptera	trunk:c613e906-c036-49bb-8edf-5ce10346abb4	-420395	not-same/ranks	genus|order
+Diptera	TPL:T7454	=>	Diptera	TPL:T7454	-439896	new/import	null
+Diptera	WOR:118088	not=>	Diptera	TPL:T7454	-439896	not-same/ranks	order|genus
+Diptera	WOR:118088	=>	Diptera	trunk:c613e906-c036-49bb-8edf-5ce10346abb4	-420395	same/parent+parent	Pterygota|Pterygota
+Appendicularia	TPL:T2310	=>	Appendicularia	TPL:T2310	-542463	new/import	null
+Appendicularia	WOR:146421	not=>	Appendicularia	TPL:T2310	-542463	not-same/ranks	class|genus
+Appendicularia	WOR:146421	=>	Appendicularia	WOR:146421	-24514	new/import	null
+Cretomantis	MNT:1186185	=>	Cretomantis	MNT:1186185	-866759	new/import	null
+Feraviridae	ictv:ICTV:Feraviridae	=>	Feraviridae	ictv:ICTV:Feraviridae	-1155	new/impornull
+Ischnoptera vitticollis	BLA:1179293	=>	Ischnoptera vitticollis	BLA:1179293	-563899	new/impornull
+Heliocypha perforata	ODO:S0078-8	=>	Heliocypha perforata	ODO:S0078-8	-880576	new/impornull
+Pirkimerus esakii	LYG:1208597	=>	Pirkimerus esakii	LYG:1208597	-961276	new/impornull
+Amphibia	AMP:Amphibia	=>	Amphibia	AMP:Amphibia	-316493	reject/absorbed	null
+Amphibia	WOR:178701	=>	Amphibia	AMP:Amphibia	-316493	same/parent+parent	Tetrapoda|Tetrapoda
+Opalozoa	WOR:582466	=>	Opalozoa	WOR:582466	-6640	reject/absorbed	null
+Compositae	TPL:T101	=>	Compositae	TPL:T101	-123665	reject/inconsistent	null
+Compositae	WOR:867905	=>	Compositae	TPL:T101	-123665	same/primary-name	Compositae
+Mirperus	COR:1186359	=>	Mirperus	COR:1186359	-909975	new/import	null
+Necrosciini	PHA:1202648	-		null	-	sibling-sink mismatch	null
+Necrosciini	PHA:1202648	=>	Necrosciini	PHA:1202648	-957393	reject/absorbed	null
+Pseudolycopodium	PPG:Pteridophyte-Phylogeny-Group1-17	=>	Pseudolycopodium	PPG:Pteridophyte-Phylogeny-Group1-17	-63227	new/import	null
+Pseudolycopodium	TPL:T18530	=>	Pseudolycopodium	PPG:Pteridophyte-Phylogeny-Group1-17	-63227	same/primary-name	Pseudolycopodium
+Succinipatopsis balticus	ONY:G051-1	=>	Succinipatopsis balticus	ONY:G051-1	-66320	new/import	null
+Galbulimima belgraveana	TPL:kew-246675	=>	Galbulimima belgraveana	TPL:kew-246675	-394015	new/impornull
+Ennepta myricoides	TPL:kew-2789402	=>	Ennepta myricoides	TPL:kew-2789402	-618506	new/impornull
+Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	=>	Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	-923402	new/import	null
+		-	Characiphysae	trunk:5925858f-7c0a-4bd6-bd23-3c288ab42d42	-923402	rank inversion	null
+Zachaenus	AMP:Zachaenus	=>	Zachaenus	AMP:Zachaenus	-2	new/import	null
+Bicosoecia	WOR:582465	=>	Bicosoecia	WOR:582465	-9501	reject/absorbed	null
+		-	Bicosoecia	WOR:582465	-9501	rank inversion	null
+Perlodini	PLE:1157429	-		null	-	sibling-sink mismatch	null
+Perlodini	PLE:1157429	=>	Perlodini	PLE:1157429	-950394	reject/absorbed	null
+Oxyothespinae	MNT:1184627	=>	Oxyothespinae	MNT:1184627	-866800	new/refinement	null
+Acantharia	trunk:c2ca5b46-1953-463a-a2b4-50bfde9f2353	=>	Acantharia	trunk:c2ca5b46-1953-463a-a2b4-50bfde9f2353	-9051	new/import	null
+Acantharia	TPL:T792	not=>	Acantharia	trunk:c2ca5b46-1953-463a-a2b4-50bfde9f2353	-9051	not-same/ranks	genus|class
+Acantharia	TPL:T792	=>	Acantharia	TPL:T792	-1040706	new/import	null
+Acantharia	WOR:586732	not=>	Acantharia	TPL:T792	-1040706	not-same/ranks	class|genus
+Acantharia	WOR:586732	=>	Acantharia	trunk:c2ca5b46-1953-463a-a2b4-50bfde9f2353	-9051	same/parent+parent	Rhizaria|Rhizaria
+Astrorhizoidea	WOR:465767	=>	Astrorhizoidea	WOR:465767	-45212	new/refinement	null
+Dromaius novaehollandiae diemenensis	IOC:7edb27c25724c0a8b6e7633b280ebe52	=>	Dromaius novaehollandiae diemenensis	IOC:7edb27c25724c0a8b6e7633b280ebe52	-1094231	new/import	null
+Paraphenopterum	GRY:1220067	=>	Paraphenopterum	GRY:1220067	-495906	new/import	null
+Heliocypha biseriata	ODO:S0078-3	=>	Heliocypha biseriata	ODO:S0078-3	-880575	new/impornull
+Galbulimima	TPL:T9139	=>	Galbulimima	TPL:T9139	-257852	new/import	null
+Ancylopsocus	PSO:1223125	=>	Ancylopsocus	PSO:1223125	-567270	new/import	null
+Ancylopsocus	PSO:1198513	=>	Ancylopsocus	PSO:1198513	-931989	new/import	null
+Timema coffmani	PHA:1203885	=>	Timema coffmani	PHA:1203885	-975984	new/import	null
+Dryopteridacae	TPL:T661	=>	Dryopteridacae	TPL:T661	-410804	reject/absorbed	null
+		-	Dryopteridacae	TPL:T661	-410804	rank inversion	null
+Cithaeron jocqueorum	SPI:S06061	=>	Cithaeron jocqueorum	SPI:S06061	-856657	new/impornull
+Schizoneurites robustus	APH:1159424	=>	Schizoneurites robustus	APH:1159424	-962319	new/impornull
+Chaetocerotanae	WOR:591197	-		null	-	sibling-sink mismatch	null
+Chaetocerotanae	WOR:591197	=>	Chaetocerotanae	WOR:591197	-21869	reject/absorbed	null
+Tritogenia karkloofia	EET:EOL-Earthworm-Patch-5710	=>	Tritogenia karkloofia	EET:EOL-Earthworm-Patch-5710	-161097	new/import	null
+Herpetosiphonaceae	trunk:c5a42849-bba1-42d2-ac18-82167f6b46e6	=>	Herpetosiphonaceae	trunk:c5a42849-bba1-42d2-ac18-82167f6b46e6	-7833	new/import	null
+Herpetosiphonaceae	WOR:564348	=>	Herpetosiphonaceae	trunk:c5a42849-bba1-42d2-ac18-82167f6b46e6	-7833	same/parent+parent	Herpetosiphonales|Herpetosiphonales
+Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	=>	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-316489	new/import	null
+Anura	TPL:T2183	not=>	Anura	trunk:6527b635-082d-4a45-bf06-7610708705c9	-316489	not-same/ranks	genus|order
+Anura	TPL:T2183	=>	Anura	TPL:T2183	-122429	new/import	null
+Fragilariophycanae	WOR:591199	=>	Fragilariophycanae	WOR:591199	-21864	reject/inconsistent	null
+Timema poppensis	PHA:1203898	=>	Timema poppensis	PHA:1203898	-975990	new/impornull
+Cerconychia sapa	PLE:1157923	=>	Cerconychia sapa	PLE:1157923	-950323	new/impornull
+Lemmatophorina	GRY:1219997	-		null	-	sibling-sink mismatch	null
+Lemmatophorina	GRY:1219997	=>	Lemmatophorina	GRY:1219997	-495480	reject/absorbed	null
+Blattellinae	BLA:1174511	=>	Blattellinae	BLA:1174511	-904154	reject/inconsistent	null
+Jonviridae	ictv:ICTV:Jonviridae	=>	Jonviridae	ictv:ICTV:Jonviridae	-1154	new/impornull
+Sorellembia	EMB:1172303	=>	Sorellembia	EMB:1172303	-563462	new/import	null
+Paleognathae	IOC:2b4e5e944dabbf41930904d59ab8feb3	=>	Paleognathae	IOC:2b4e5e944dabbf41930904d59ab8feb3	-1041655	reject/absorbed	null
+Archidermapteron martynovi	DER:1181926	=>	Archidermapteron martynovi	DER:1181926	-927004	new/import	null
+Temnomastacinae	ORTH:1119665	=>	Temnomastacinae	ORTH:1119665	-957155	new/refinement	null
+Cretoperipatus	ONY:G050	=>	Cretoperipatus	ONY:G050	-48026	new/import	null
+Hyalymenus (Hyalymenus) walkeri	COR:1186462	=>	Hyalymenus (Hyalymenus) walkeri	COR:1186462	-959473	new/import	null
+Micrelytrinae	COR:1186515	=>	Micrelytrinae	COR:1186515	-934746	new/refinement	null
+Juramantophasma	MAN:1220689	=>	Juramantophasma	MAN:1220689	-866992	new/import	null
+Pseudonirmus	PSO:1224527	=>	Pseudonirmus	PSO:1224527	-873792	new/import	null
+Pseudonirmus	WOR:384817	-		null	-	promoted/internal	Philopteridae
+		-	Pseudonirmus	PSO:1224527	-873792	move to parent of former container, instead of to container	null
+Pirkimerus qadrii	LYG:1223043	=>	Pirkimerus qadrii	LYG:1223043	-961281	new/impornull
+Telonemea	WOR:582426	=>	Telonemea	WOR:582426	-2434	reject/absorbed	null
+Leptotettigini	ORTH:1139701	-		null	-	sibling-sink mismatch	null
+Leptotettigini	ORTH:1139701	=>	Leptotettigini	ORTH:1139701	-974617	reject/absorbed	null
+Austromenopon	PSO:1230554	=>	Austromenopon	PSO:1230554	-873791	new/import	null
+Austromenopon	WOR:384795	-		null	-	promoted/internal	Menoponidae
+		-	Austromenopon	PSO:1230554	-873791	move to parent of former container, instead of to container	null
+Atopderma ellipta	DER:1182172	=>	Atopderma ellipta	DER:1182172	-563348	new/impornull
+Thermodesulfobacteriales	trunk:95ef4264-5b7e-4193-8672-0a04aeb558d3	=>	Thermodesulfobacteriales	trunk:95ef4264-5b7e-4193-8672-0a04aeb558d3	-6219	new/import	null
+Thermodesulfobacteriales	WOR:567372	=>	Thermodesulfobacteriales	trunk:95ef4264-5b7e-4193-8672-0a04aeb558d3	-6219	same/parent+parent	Bacteria|Bacteria
+Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-2382	new/import	null
+Nitrospira	WOR:743074	not=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-2382	not-same/ranks	genus|class
+Nitrospira	WOR:571374	=>	Nitrospira	trunk:5361fb20-0654-4709-9376-e87a468b6873	-2382	same/parent+parent	Nitrospirae|Nitrospirae
+Nitrospira	WOR:743074	=>	Nitrospira	WOR:743074	-10970	new/import	null
+Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	=>	Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	-2386	new/import	null
+Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	=>	Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	-1321	new/import	null
+Chlamydiae	WOR:564164	-	Chlamydiae	trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6	-2386	noinfo	null
+Chlamydiae	WOR:564164	-	Chlamydiae	trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d	-1321	noinfo	null
+Chlamydiae	WOR:564164	-		null	-	ambiguous internal	2
+Chlamydiae	WOR:564164	=>	Chlamydiae	WOR:564164	-6416	reject/absorbed	null
+		-	Chlamydiae	WOR:564164	-6416	rank inversion	null
+Raptophasma groehni	MAN:1220601	=>	Raptophasma groehni	MAN:1220601	-904227	new/impornull
+Sigmella	BLA:1175612	=>	Sigmella	BLA:1175612	-866905	new/import	null
+Sigmella	WOR:721995	-		null	-	not-placed/does-not-descend	null
+Dendrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-11	=>	Dendrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-11	-63224	new/import	null
+Dendrolycopodium	TPL:T6913	=>	Dendrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-11	-63224	same/primary-name	Dendrolycopodium
+Heterochaetinae	MNT:1184962	-		null	-	sibling-sink mismatch	null
+Heterochaetinae	MNT:1184962	=>	Heterochaetinae	MNT:1184962	-866785	reject/absorbed	null
+Diphasiastrum	PPG:Pteridophyte-Phylogeny-Group1-12	=>	Diphasiastrum	PPG:Pteridophyte-Phylogeny-Group1-12	-63226	new/import	null
+Diphasiastrum	TPL:T7358	=>	Diphasiastrum	PPG:Pteridophyte-Phylogeny-Group1-12	-63226	same/primary-name	Diphasiastrum
+Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	=>	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-64465	new/import	null
+Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-937918	new/import	null
+Heterocheilidae	WOR:458824	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-64465	noinfo	null
+Heterocheilidae	WOR:458824	-	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-937918	noinfo	null
+Heterocheilidae	WOR:458824	-		null	-	ambiguous internal	2
+Heterocheilidae	WOR:593484	-	Heterocheilidae	trunk:7202fa6a-75e7-4f62-adb3-a9c0cca08e73	-64465	noinfo/lineage	Sciomyzoidea|Spirurida
+Heterocheilidae	WOR:593484	=>	Heterocheilidae	trunk:75acc2e8-5e02-4860-967a-161d4ad5f537	-937918	same/parent+parent	Sciomyzoidea|Sciomyzoidea
+Heterocheilidae	WOR:458824	=>	Heterocheilidae	WOR:458824	-64435	new/import	null
+Minititan	ORTH:1144042	=>	Minititan	ORTH:1144042	-908346	new/import	null
+Zorotypus (Zorotypus) medoensis	ZOR:1218761	=>	Zorotypus (Zorotypus) medoensis	ZOR:1218761	-902214	new/import	null
+Wuhan mosquito orthophasmavirus 2	ictv:ICTV:20164812	=>	Wuhan mosquito orthophasmavirus 2ictv:ICTV:20164812	-2642	new/import	null
+Hoploridium	COL:1171553	=>	Hoploridium	COL:1171553	-909918	new/import	null
+Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	=>	Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	-495852	new/import	null
+Polyphaga	BLA:1178116	not=>	Polyphaga	trunk:061089ae-20a9-4ead-831b-77b81dd7e55f	-495852	not-same/ranks	genus|suborder
+Polyphaga	BLA:1178116	=>	Polyphaga	BLA:1178116	-928745	new/import	null
+Heliocypha angusta	ODO:S0078-1	=>	Heliocypha angusta	ODO:S0078-1	-880572	new/impornull
+Diplaziopsidaceae	TPL:T547	=>	Diplaziopsidaceae	TPL:T547	-140225	reject/inconsistent	null
+Zichya	TPL:T24019	=>	Zichya	TPL:T24019	-1040220	new/import	null
+Zichya	ORTH:1132612	-		null	-	not-placed/does-not-descend	null
+Epideigma	GRY:1220065	=>	Epideigma	GRY:1220065	-495907	new/import	null
+Perlapsocidae	PLE:1152758	=>	Perlapsocidae	PLE:1152758	-495423	new/import	null
+Zetoborinae	BLA:1172686	-		null	-	sibling-sink mismatch	null
+Zetoborinae	BLA:1172686	=>	Zetoborinae	BLA:1172686	-866954	reject/absorbed	null
+Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	=>	Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	-24456	new/import	null
+Rhombifera	WOR:103468	not=>	Rhombifera	trunk:100a4ddf-a06a-4e05-9fd7-a8494e9c65c2	-24456	not-same/ranks	genus|class
+Rhombifera	WOR:103468	=>	Rhombifera	WOR:103468	-24495	new/import	null
+Ichthyophis mindanaoensis	AMP:1992	=>	Ichthyophis mindanaoensis	AMP:1992	-576786	new/import	null
+Bohadschia	TPL:T3503	=>	Bohadschia	TPL:T3503	-545763	new/import	null
+Bohadschia	WOR:528629	=>	Bohadschia	TPL:T3503	-545763	lumped	null
+Ichthyophis chaloensis	AMP:8303	=>	Ichthyophis chaloensis	AMP:8303	-576781	new/impornull
+Labyrinthulea	WOR:449154	=>	Labyrinthulea	WOR:449154	-9558	reject/absorbed	null
+Jonchet orthojonvirus	ictv:ICTV:20164801	=>	Jonchet orthojonvirus	ictv:ICTV:20164801	-2637	new/import	null
+Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-30944	new/import	null
+Machaeridia	ORTH:1111910	not=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-30944	not-same/ranks	genus|class
+Machaeridia	ORTH:1111910	=>	Machaeridia	ORTH:1111910	-564676	new/import	null
+Machaeridia	WOR:819076	not=>	Machaeridia	ORTH:1111910	-564676	not-same/ranks	class|genus
+Machaeridia	WOR:819076	=>	Machaeridia	trunk:eaa191cf-6fd1-4c25-9d33-8f11f1c6514f	-30944	same/parent+parent	Annelida|Annelida
+Succinipatopsis	ONY:G051	=>	Succinipatopsis	ONY:G051	-48024	new/import	null
+Phaeoceros	TPL:T17077	=>	Phaeoceros	TPL:T17077	-95191	new/import	null
+Phaeoceros	WOR:163030	=>	Phaeoceros	TPL:T17077	-95191	lumped	null
+Longimenopon	PSO:1230634	=>	Longimenopon	PSO:1230634	-873783	new/import	null
+Longimenopon	WOR:384797	-		null	-	promoted/internal	Menoponidae
+		-	Longimenopon	PSO:1230634	-873783	move to parent of former container, instead of to container	null
+Hygrophila	TPL:T11040	=>	Hygrophila	TPL:T11040	-505326	new/import	null
+Hygrophila	WOR:382243	not=>	Hygrophila	TPL:T11040	-505326	not-same/ranks	order|genus
+Hygrophila	WOR:382243	=>	Hygrophila	WOR:382243	-72211	new/import	null
+Mesoforficula	DER:1181595	=>	Mesoforficula	DER:1181595	-495394	new/import	null
+Phaeodaria	WOR:345868	=>	Phaeodaria	WOR:345868	-17773	reject/absorbed	null
+		-	Phaeodaria	WOR:345868	-17773	rank inversion	null
+Ennepta	TPL:T8225	=>	Ennepta	TPL:T8225	-504346	new/import	null
+Ichthyophis atricollaris	AMP:1974	=>	Ichthyophis atricollaris	AMP:1974	-576784	new/import	null
+Prinos punctatus	TPL:kew-2405274	=>	Prinos punctatus	TPL:kew-2405274	-618508	new/impornull
+Lygaeinae	LYG:1210512	=>	Lygaeinae	LYG:1210512	-935993	reject/inconsistent	null
+Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-983276	new/import	null
+Proboscidea	TPL:T18309	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-983276	not-same/ranks	genus|order
+Proboscidea	TPL:T18309	=>	Proboscidea	TPL:T18309	-504923	new/import	null
+Proboscidea	WOR:325990	not=>	Proboscidea	trunk:1057d03c-267c-4e0b-a4fb-55ec14a4620a	-983276	not-same/ranks	genus|order
+Proboscidea	WOR:325990	=>	Proboscidea	TPL:T18309	-504923	same/primary-name	Proboscidea
+Tertiapatus	ONY:G052	=>	Tertiapatus	ONY:G052	-48025	new/import	null
+Lycopodioideae	PPG:Pteridophyte-Phylogeny-Group1-9	=>	Lycopodioideae	PPG:Pteridophyte-Phylogeny-Group1-9	-47228	new/import	null
+Ricinidae	PSO:1223817	-		null	-	sibling-sink mismatch	null
+Ricinidae	PSO:1223817	=>	Ricinidae	PSO:1223817	-873755	reject/absorbed	null
+Oomycota	WOR:22154	=>	Oomycota	WOR:22154	-15339	reject/inconsistent	null
+		-	Oomycota	WOR:22154	-15339	rank inversion	null
+Hyalochaete	TPL:T10975	=>	Hyalochaete	TPL:T10975	-123287	new/import	null
+Hyalochaete	WOR:370366	-		null	-	not-placed/does-not-descend	null
+Oxyphyllum	TPL:T16200	=>	Oxyphyllum	TPL:T16200	-123138	new/import	null
+Oxyphyllum	ORTH:1100590	-		null	-	not-placed/does-not-descend	null
+Millerieae	WOR:867943	=>	Millerieae	WOR:867943	-123666	new/import	null
+		-	Millerieae	WOR:867943	-123666	move to parent of former container, instead of to container	null
+Tritogenia zuluensis	EET:EOL-Earthworm-Patch-5731	=>	Tritogenia zuluensis	EET:EOL-Earthworm-Patch-5731	-161096	new/import	null
+Penicillaria	TPL:T16765	=>	Penicillaria	TPL:T16765	-336153	new/import	null
+Penicillaria	WOR:366466	not=>	Penicillaria	TPL:T16765	-336153	not-same/ranks	order|genus
+Penicillaria	WOR:366466	=>	Penicillaria	WOR:366466	-17586	new/import	null
+Metoligotoma reducta reducta	EMB:1171928	=>	Metoligotoma reducta reducta	EMB:1171928	-902344	new/import	null
+Timema tahoe	PHA:1203901	=>	Timema tahoe	PHA:1203901	-975988	new/import	null
+name	TPL:9999	=>	name	TPL:9999	-15640	reject/inconsistent	null
+Hyalymenus (Hyalymenus) dentatus	COR:1186456	=>	Hyalymenus (Hyalymenus) dentatus	COR:1186456	-959474	new/import	null
+Tritogenia ngomensis	EET:EOL-Earthworm-Patch-5721	=>	Tritogenia ngomensis	EET:EOL-Earthworm-Patch-5721	-161092	new/import	null
+Austrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-10	=>	Austrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-10	-63225	new/import	null
+Austrolycopodium	TPL:T2871	=>	Austrolycopodium	PPG:Pteridophyte-Phylogeny-Group1-10	-63225	same/primary-name	Austrolycopodium
+Metapsocidium loxoneurum	PSO:1223116	=>	Metapsocidium loxoneurum	PSO:1223116	-874287	new/import	null
+Schizoneurites similis	APH:1159425	=>	Schizoneurites similis	APH:1159425	-962316	new/impornull
+Lycopodiastrum	PPG:Pteridophyte-Phylogeny-Group1-14	=>	Lycopodiastrum	PPG:Pteridophyte-Phylogeny-Group1-14	-63222	new/import	null
+Lycopodiastrum	TPL:T13220	=>	Lycopodiastrum	PPG:Pteridophyte-Phylogeny-Group1-14	-63222	same/primary-name	Lycopodiastrum
+Unplaced extinct	ONY:P001	=>	Unplaced extinct	ONY:P001	-30863	new/impornull
+Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	=>	Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	-9122	new/import	null
+Pronoctiluca	WOR:109487	not=>	Pronoctiluca	trunk:e27fb695-ed5d-4417-8a1b-ba73a012c7b5	-9122	not-same/ranks	genus|class
+Pronoctiluca	WOR:109487	=>	Pronoctiluca	WOR:109487	-21198	new/import	null
+Actinella	TPL:T1020	=>	Actinella	TPL:T1020	-121871	new/import	null
+Actinella	WOR:593829	-		null	-	not-placed/does-not-descend	null
+Dromaius novaehollandiae novaehollandiae	IOC:3378e0456dfbfcc5f66cd71571439a2e	=>	Dromaius novaehollandiae novaehollandiae	IOC:3378e0456dfbfcc5f66cd71571439a2e	-1094230	new/import	null
+Inthaeron rossi	SPI:S06064	=>	Inthaeron rossi	SPI:S06064	-856651	new/import	null
+Bicosidia	WOR:591169	=>	Bicosidia	WOR:591169	-9498	reject/absorbed	null
+		-	Bicosidia	WOR:591169	-9498	rank inversion	null
+Heterotheca	TPL:T10594	=>	Heterotheca	TPL:T10594	-122316	new/import	null
+Heterotheca	WOR:556140	-		null	-	not-placed/does-not-descend	null
+Tettigoniinae	ORTH:1141619	=>	Tettigoniinae	ORTH:1141619	-957001	new/refinement	null
+Ichthyophis sumatranus	AMP:2001	=>	Ichthyophis sumatranus	AMP:2001	-576783	new/impornull
+Trigonidiinae	ORTH:1126753	=>	Trigonidiinae	ORTH:1126753	-957103	new/refinement	null
+Thespis	TPL:T22349	=>	Thespis	TPL:T22349	-121728	new/import	null
+Thespis	MNT:1185900	-		null	-	not-placed/does-not-descend	null
+Zorotypus (Zorotypus) philippinensis	ZOR:1218766	=>	Zorotypus (Zorotypus) philippinensis	ZOR:1218766	-902209	new/import	null
+Zachaenus carvalhoi	AMP:2739	=>	Zachaenus carvalhoi	AMP:2739	-558	new/impornull
+Bruguiera parviflora	TPL:kew-2684048	=>	Bruguiera parviflora	TPL:kew-2684048	-762031	new/impornull
+Bruguiera parviflora	TPL:tro-27600059	=>	Bruguiera parviflora	TPL:tro-27600059	-762037	new/import	null
+Bruguiera parviflora	WOR:235084	-	Bruguiera parviflora	TPL:kew-2684048	-762031	noinfo	null
+Bruguiera parviflora	WOR:235084	-	Bruguiera parviflora	TPL:tro-27600059	-762037	noinfo	null
+Bruguiera parviflora	WOR:235084	-		null	-	ambiguous tip	2
+Metoligotoma rooksi	EMB:1171902	=>	Metoligotoma rooksi	EMB:1171902	-865670	new/impornull
+Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-64706	new/import	null
+Diplura	SPI:G0804	not=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-64706	not-same/ranks	genus|class
+Diplura	SPI:G0804	=>	Diplura	SPI:G0804	-419951	new/import	null
+Diplura	WOR:369589	not=>	Diplura	trunk:02259fc5-8d31-4c96-9d10-3870f51aba6a	-64706	not-same/ranks	genus|class
+Diplura	WOR:369589	=>	Diplura	SPI:G0804	-419951	same/primary-name	Diplura
+Casuarius bennetti	IOC:a97db864c2ecf826028f5a599f6c698d	=>	Casuarius bennetti	IOC:a97db864c2ecf826028f5a599f6c698d	-1088338	new/import	null
+Proteomyxidea	WOR:591230	=>	Proteomyxidea	WOR:591230	-14610	reject/absorbed	null
+		-	Proteomyxidea	WOR:591230	-14610	rank inversion	null
+Mesoforficula sinkianensis	DER:1181596	=>	Mesoforficula sinkianensis	DER:1181596	-563349	new/import	null
+Heliocypha biforata	ODO:S0078-2	=>	Heliocypha biforata	ODO:S0078-2	-880579	new/impornull
+Antonaphis affinis	APH:1159434	=>	Antonaphis affinis	APH:1159434	-962313	new/impornull
+Pirkimerus parviceps	LYG:1208599	=>	Pirkimerus parviceps	LYG:1208599	-961277	new/impornull
+Lepidotermes vastus	TER:S0117-9	=>	Lepidotermes vastus	TER:S0117-9	-953669	new/impornull
+Actornithophilus	PSO:1230535	=>	Actornithophilus	PSO:1230535	-873790	new/impornull
+Actornithophilus	WOR:384793	-		null	-	promoted/internal	Menoponidae
+		-	Actornithophilus	PSO:1230535	-873790	move to parent of former container, instead of to container	null
+Bedfordiella	PSO:1224237	=>	Bedfordiella	PSO:1224237	-873785	new/import	null
+Bedfordiella	WOR:384796	-		null	-	promoted/internal	Menoponidae
+		-	Bedfordiella	PSO:1224237	-873785	move to parent of former container, instead of to container	null
+Oxystigma	TPL:T16211	=>	Oxystigma	TPL:T16211	-1040418	new/import	null
+Oxystigma	ODO:G0104	-		null	-	not-placed/does-not-descend	null
+Psocidae	PSO:1196728	=>	Psocidae	PSO:1196728	-873847	new/refinement	null
+Kolbeini	PSO:1193872	-		null	-	sibling-sink mismatch	null
+Kolbeini	PSO:1193872	=>	Kolbeini	PSO:1193872	-932540	reject/absorbed	null
+Trapellitermes	TER:G0312	=>	Trapellitermes	TER:G0312	-928019	new/import	null
+Tettoedischiinae	ORTH:1143983	=>	Tettoedischiinae	ORTH:1143983	-931830	new/impornull
+Perlapsocus formosoi	PLE:1152760	=>	Perlapsocus formosoi	PLE:1152760	-865651	new/impornull
+Pterophyllini	ORTH:1140788	-		null	-	sibling-sink mismatch	null
+Pterophyllini	ORTH:1140788	=>	Pterophyllini	ORTH:1140788	-974619	reject/absorbed	null
+Cithaeron indicus	SPI:S06060	=>	Cithaeron indicus	SPI:S06060	-856652	new/impornull
+Bicoecea	WOR:590695	=>	Bicoecea	WOR:590695	-9500	reject/absorbed	null
+		-	Bicoecea	WOR:590695	-9500	rank inversion	null
+Spinulum	PPG:Pteridophyte-Phylogeny-Group1-18	=>	Spinulum	PPG:Pteridophyte-Phylogeny-Group1-18	-63219	new/import	null
+Spinulum	TPL:T21162	=>	Spinulum	PPG:Pteridophyte-Phylogeny-Group1-18	-63219	same/primary-name	Spinulum
+Tritogenia qudeni	EET:EOL-Earthworm-Patch-5724	=>	Tritogenia qudeni	EET:EOL-Earthworm-Patch-5724	-161095	new/import	null
+Herpetosiphonales	trunk:214cdb92-8691-4463-8d8e-28c032fa7d32	=>	Herpetosiphonales	trunk:214cdb92-8691-4463-8d8e-28c032fa7d32	-6222	new/import	null
+Herpetosiphonales	WOR:564347	=>	Herpetosiphonales	trunk:214cdb92-8691-4463-8d8e-28c032fa7d32	-6222	same/parent+parent	Chloroflexi|Chloroflexi
+Dromaius novaehollandiae	IOC:11bc12441402e6cf2229a5dddd382c9a	=>	Dromaius novaehollandiae	IOC:11bc12441402e6cf2229a5dddd382c9a	-1088341	new/import	null
+Rhacophysa	COL:1171569	=>	Rhacophysa	COL:1171569	-909920	new/import	null
+Lycopodium	PPG:Pteridophyte-Phylogeny-Group1-15	=>	Lycopodium	PPG:Pteridophyte-Phylogeny-Group1-15	-63223	new/import	null
+Lycopodium	TPL:T13224	=>	Lycopodium	PPG:Pteridophyte-Phylogeny-Group1-15	-63223	same/primary-name	Lycopodium
+Sunopterites	GRY:1221122	=>	Sunopterites	GRY:1221122	-495492	new/import	null
+Shuangao insect orthophasmavirus 2	ictv:ICTV:20164809	=>	Shuangao insect orthophasmavirus ictv:ICTV:20164809	-2640	new/import	null
+Loftusioidea	WOR:465785	=>	Loftusioidea	WOR:465785	-60428	new/refinement	null
+Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	=>	Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	-967536	new/import	null
+		-	Lampridacea	trunk:e6ce01dd-6f19-4ea3-8b65-4a48712ea05f	-967536	rank inversion	null
+Orthoferavirus	ictv:ICTV:Orthoferavirus	=>	Orthoferavirus	ictv:ICTV:Orthoferavirus	-1480	new/import	null
+Aulopiformes	trunk:762b60a7-85c8-414f-b635-ad7a4d63d35d	=>	Aulopiformes	trunk:762b60a7-85c8-414f-b635-ad7a4d63d35d	-946466	new/import	null
+		-	Aulopiformes	trunk:762b60a7-85c8-414f-b635-ad7a4d63d35d	-946466	rank inversion	null
+Aulopiformes	WOR:10308	=>	Aulopiformes	trunk:762b60a7-85c8-414f-b635-ad7a4d63d35d	-946466	same/ancestor+parent	Actinopterygii|Teleostei
+Goniomonadophyceae	WOR:582422	=>	Goniomonadophyceae	WOR:582422	-2599	new/impornull
+Psocinae	PSO:1197043	-		null	-	sibling-sink mismatch	null
+Psocinae	PSO:1197043	=>	Psocinae	PSO:1197043	-909788	reject/absorbed	null
+Centrohelea	WOR:582428	=>	Centrohelea	WOR:582428	-2435	reject/absorbed	null
+Termitoidae	TER:R0001	=>	Termitoidae	TER:R0001	-866846	reject/absorbed	null
+Anisacanthinae	PHA:1200198	=>	Anisacanthinae	PHA:1200198	-957345	new/refinement	null
+Termes	BLA:1178164	=>	Termes	BLA:1178164	-928015	new/import	null
+Termes	TER:C0006	=>	Termes	BLA:1178164	-928015	lumped	null
+Biwadrilus bathybates	EET:EOL-Earthworm-Patch-1320	=>	Biwadrilus bathybates	EET:EOL-Earthworm-Patch-1320	-161710	new/import	null
+Myriactis	TPL:T14739	=>	Myriactis	TPL:T14739	-121441	new/import	null
+Myriactis	WOR:267608	=>	Myriactis	TPL:T14739	-121441	lumped	null
+Myriactis	WOR:369922	-		null	-	not-placed/does-not-descend	null
+Myriactis	WOR:267608	-		null	-	not-placed/does-not-descend	null
+Heliozoa	WOR:341274	=>	Heliozoa	WOR:341274	-2439	reject/absorbed	null
+Xiphophoraceae	WOR:599654	-		null	-	sibling-sink mismatch	null
+Xiphophoraceae	WOR:599654	=>	Xiphophoraceae	WOR:599654	-15274	reject/absorbed	null
+Simsia	TPL:T20755	=>	Simsia	TPL:T20755	-123126	new/import	null
+Simsia	EET:EOL-Earthworm-Patch-4605	-		null	-	not-placed/does-not-descend	null
+Chloroflexales	trunk:3d6e8b4a-1fad-4b3d-8e00-9cd61c87ad6d	=>	Chloroflexales	trunk:3d6e8b4a-1fad-4b3d-8e00-9cd61c87ad6d	-6223	new/import	null
+Chloroflexales	WOR:571104	=>	Chloroflexales	trunk:3d6e8b4a-1fad-4b3d-8e00-9cd61c87ad6d	-6223	same/parent+parent	Chloroflexi|Chloroflexi
+Mirperus demetrii	COR:1186362	=>	Mirperus demetrii	COR:1186362	-934494	new/impornull
+Hyalymenus (Hyalymenus) dubius	COR:1186458	=>	Hyalymenus (Hyalymenus) dubius	COR:1186458	-959469	new/import	null
+Catantopinae	ORTH:1107471	=>	Catantopinae	ORTH:1107471	-957251	reject/inconsistent	null
+Centropogon australis	TPL:kew-366870	=>	Centropogon australis	TPL:kew-366870	-578208	new/impornull
+Centropogon australis	TPL:tro-5501809	=>	Centropogon australis	TPL:tro-5501809	-578239	new/impornull
+Centropogon australis	WOR:280056	-	Centropogon australis	TPL:kew-366870	-578208	noinfo	null
+Centropogon australis	WOR:280056	-	Centropogon australis	TPL:tro-5501809	-578239	noinfo	null
+Centropogon australis	WOR:280056	-		null	-	ambiguous tip	2
+Microcentrini	ORTH:1220721	-		null	-	sibling-sink mismatch	null
+Microcentrini	ORTH:1220721	=>	Microcentrini	ORTH:1220721	-563952	reject/absorbed	null
+Lessertia	TPL:T12650	=>	Lessertia	TPL:T12650	-1041623	new/import	null
+Lessertia	SPI:G3042	-		null	-	not-placed/does-not-descend	null
+Liturgusini	MNT:1183082	-		null	-	sibling-sink mismatch	null
+Liturgusini	MNT:1183082	=>	Liturgusini	MNT:1183082	-902867	reject/absorbed	null
+Lepidotermes goliathi	TER:S0117-2	=>	Lepidotermes goliathi	TER:S0117-2	-953674	new/impornull
+Rotaliidae	WOR:111948	=>	Rotaliidae	WOR:111948	-45308	new/refinement	null
+Metoligotoma pugionifer	EMB:1171918	=>	Metoligotoma pugionifer	EMB:1171918	-865669	new/impornull
+Prinos rugosus	TPL:kew-2405244	=>	Prinos rugosus	TPL:kew-2405244	-618512	new/import	null
+Schlechtendalia	TPL:T20208	=>	Schlechtendalia	TPL:T20208	-122606	new/import	null
+Schlechtendalia	APH:1161563	-		null	-	not-placed/does-not-descend	null
+Metoligotoma reducta	EMB:1171927	=>	Metoligotoma reducta	EMB:1171927	-865667	new/impornull
+Viruses	trunk:569ff377-7016-4092-a55f-c0d58e237bbc	=>	Viruses	trunk:569ff377-7016-4092-a55f-c0d58e237bbc	-531	new/import	null
+Viruses	ictv:ICTV:Viruses	=>	Viruses	trunk:569ff377-7016-4092-a55f-c0d58e237bbc	-531	same/primary-name	Viruses
+Viruses	WOR:10	=>	Viruses	trunk:569ff377-7016-4092-a55f-c0d58e237bbc	-531	same/primary-nameViruses
+Panesthia minutipennis	BLA:1179262	=>	Panesthia minutipennis	BLA:1179262	-563904	new/impornull
+Chitinosiphon	APH:1167254	=>	Chitinosiphon	APH:1167254	-874130	new/import	null
+Chitinosiphon	WOR:596051	-		null	-	not-placed/does-not-descend	null
+Rhaphidophorinae	ORTH:1129902	=>	Rhaphidophorinae	ORTH:1129902	-931884	new/refinement	null
+Lepidotermes pretoriensis	TER:S0117-6	=>	Lepidotermes pretoriensis	TER:S0117-6	-953670	new/import	null
+Ensiferophasma velociraptor	MAN:1220588	=>	Ensiferophasma velociraptor	MAN:1220588	-866990	new/import	null
+Macroedischia elongata	ORTH:1143987	=>	Macroedischia elongata	ORTH:1143987	-974157	new/impornull
+Ramirezia	TPL:T19087	=>	Ramirezia	TPL:T19087	-1040736	new/import	null
+Ramirezia	WOR:267798	=>	Ramirezia	TPL:T19087	-1040736	lumped	null
+Ramirezia	WOR:836479	-		null	-	not-placed/does-not-descend	null
+Ramirezia	WOR:267798	-		null	-	not-placed/does-not-descend	null
+Rivetinini	MNT:1184500	-		null	-	sibling-sink mismatch	null
+Rivetinini	MNT:1184500	=>	Rivetinini	MNT:1184500	-902782	reject/absorbed	null
+Goniomonadaceae	WOR:22579	=>	Goniomonadaceae	WOR:22579	-9929	new/import	null
+Procellariphaga	PSO:1230668	=>	Procellariphaga	PSO:1230668	-873788	new/import	null
+Procellariphaga	WOR:385094	-		null	-	promoted/internal	Menoponidae
+		-	Procellariphaga	PSO:1230668	-873788	move to parent of former container, instead of to container	null
+Perlodinae	PLE:1157353	=>	Perlodinae	PLE:1157353	-927120	new/refinement	null
+Chloracantha	TPL:T5195	=>	Chloracantha	TPL:T5195	-123183	new/import	null
+Chloracantha	ORTH:1140905	-		null	-	not-placed/does-not-descend	null
+Thraustochytriida	WOR:591176	=>	Thraustochytriida	WOR:591176	-9554	reject/absorbed	null
+Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	=>	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-17672	new/import	null
+		-	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-17672	rank inversion	null
+Prokinetoplastina	WOR:582203	=>	Prokinetoplastina	trunk:a47d07ab-2176-4c8c-9f9a-6503a01d641b	-17672	same/parent+parent	Kinetoplastea|Kinetoplastea
+Prinos lacunosa	TPL:kew-2405316	=>	Prinos lacunosa	TPL:kew-2405316	-618510	new/import	null
+Perlapsocus	PLE:1152759	=>	Perlapsocus	PLE:1152759	-563451	new/import	null
+Lepidotermes planifacies	TER:S0117-5	=>	Lepidotermes planifacies	TER:S0117-5	-953675	new/import	null
+Lithodesmiophycanae	WOR:591193	-		null	-	sibling-sink mismatch	null
+Lithodesmiophycanae	WOR:591193	=>	Lithodesmiophycanae	WOR:591193	-21871	reject/absorbed	null
+Juramantophasma sinica	MAN:1220690	=>	Juramantophasma sinica	MAN:1220690	-904226	new/impornull
+Zorotypus (Zorotypus) guineensis	ZOR:1218739	=>	Zorotypus (Zorotypus) guineensis	ZOR:1218739	-902212	new/import	null
+Macroedischia	ORTH:1143986	=>	Macroedischia	ORTH:1143986	-956897	new/import	null
+Cretomantidae	MNT:1186184	=>	Cretomantidae	MNT:1186184	-563874	new/import	null
+Zonarieae	WOR:163008	-		null	-	sibling-sink mismatch	null
+Zonarieae	WOR:163008	=>	Zonarieae	WOR:163008	-21681	reject/absorbed	null
+Cyclamminidae	WOR:414796	=>	Cyclamminidae	WOR:414796	-85440	new/refinement	null
+Philopteridae	PSO:1223819	=>	Philopteridae	PSO:1223819	-873756	reject/inconsistent	null
+Philopteridae	WOR:384784	=>	Philopteridae	PSO:1223819	-873756	same/parent+parent	Pterygota|Pterygota
+Anaplecta sosia	BLA:1179286	=>	Anaplecta sosia	BLA:1179286	-563901	new/import	null
+Cithaeron dippenaarae	SPI:S06059	=>	Cithaeron dippenaarae	SPI:S06059	-856658	new/impornull
+Lutodrilus	EET:EOL-Earthworm-Patch-2642	=>	Lutodrilus	EET:EOL-Earthworm-Patch-2642	-114502	new/import	null
+Thaumatophora	GRY:1221651	=>	Thaumatophora	GRY:1221651	-495473	new/import	null
+Thaumatophora	PLE:1152750	-		null	-	not-placed/does-not-descend	null
+Nanopsocetae	PSO:1198720	=>	Nanopsocetae	PSO:1198720	-567185	new/refinement	null
+Zorotypus (Zorotypus) novobritannicus	ZOR:1220637	=>	Zorotypus (Zorotypus) novobritannicus	ZOR:1220637	-902207	new/import	null
+Kapanga wiltoni	SPI:S12778	=>	Kapanga wiltoni	SPI:S12778	-859571	new/import	null
+Menoponidae	PSO:1223816	-		null	-	sibling-sink mismatch	null
+Menoponidae	PSO:1223816	=>	Menoponidae	PSO:1223816	-873757	reject/absorbed	null
+Menoponidae	WOR:384783	=>	Menoponidae	PSO:1223816	-873757	same/parent+parent	Pterygota|Pterygota
+Heliconema	TPL:T10276	=>	Heliconema	TPL:T10276	-97800	new/import	null
+Heliconema	WOR:22894	=>	Heliconema	TPL:T10276	-97800	lumped	null
+Sagenista	WOR:449152	=>	Sagenista	WOR:449152	-9559	reject/absorbed	null
+		-	Sagenista	WOR:449152	-9559	rank inversion	null
+Vesicularia	TPL:T23448	=>	Vesicularia	TPL:T23448	-140598	new/import	null
+Vesicularia	WOR:604643	=>	Vesicularia	TPL:T23448	-140598	lumped	null
+Vesicularia	WOR:111024	=>	Vesicularia	TPL:T23448	-140598	same/primary-name	Vesicularia
+Vesicularia	WOR:111024	=>	Vesicularia	TPL:T23448	-140598	lumped	null
+Pirkimerus nicobarensis	LYG:1208598	=>	Pirkimerus nicobarensis	LYG:1208598	-961286	new/impornull
+Ichthyophis paucisulcus	AMP:1995	=>	Ichthyophis paucisulcus	AMP:1995	-576785	new/impornull
+Metoligotoma ingens	EMB:1171903	=>	Metoligotoma ingens	EMB:1171903	-865668	new/impornull
+Camoensia	TPL:T4295	=>	Camoensia	TPL:T4295	-1040481	new/import	null
+Camoensia	ORTH:1120652	-		null	-	not-placed/does-not-descend	null
+Roseiflexaceae	trunk:b908a4d0-591e-4c54-8c4c-e883a09fc973	=>	Roseiflexaceae	trunk:b908a4d0-591e-4c54-8c4c-e883a09fc973	-7834	new/import	null
+Rhaphidophorini	ORTH:1129904	-		null	-	sibling-sink mismatch	null
+Rhaphidophorini	ORTH:1129904	=>	Rhaphidophorini	ORTH:1129904	-957079	reject/absorbed	null
+Limnista	WOR:591205	=>	Limnista	WOR:591205	-6644	reject/inconsistent	null
+Coscinodiscophycidae	WOR:148971	=>	Coscinodiscophycidae	WOR:148971	-21883	reject/inconsistent	null
+Cyrenobatissa subsulcata	WOR:872537	=>	Cyrenobatissa subsulcata	WOR:872537	-581	new/import	null
+Polytaxis	TPL:T18101	=>	Polytaxis	TPL:T18101	-121147	new/import	null
+Polytaxis	WOR:721399	-		null	-	not-placed/does-not-descend	null
+Lutodrilus multivesiculatus	EET:EOL-Earthworm-Patch-2643	=>	Lutodrilus multivesiculatus	EET:EOL-Earthworm-Patch-2643	-160310	new/import	null
+Casuarius bennetti bennetti	IOC:78aacf5048654822af005e7566f1e94f	=>	Casuarius bennetti bennetti	IOC:78aacf5048654822af005e7566f1e94f	-1094226	new/import	null
+Tettoedischia	ORTH:1143984	=>	Tettoedischia	ORTH:1143984	-956898	new/import	null
+Longicerciata rumpens	DER:1182210	=>	Longicerciata rumpens	DER:1182210	-927006	new/impornull
+Rhacophysa taylori	COL:1171570	=>	Rhacophysa taylori	COL:1171570	-934399	new/impornull
+Hyalymenus (Hyalymenus)	COR:1186455	=>	Hyalymenus (Hyalymenus)	COR:1186455	-934495	new/impornull
+Progonopsocus permidnus	PSO:1223122	=>	Progonopsocus permidnus	PSO:1223122	-874289	new/impornull
+Cretozperipatus burmiticus	ONY:G050-1	=>	Cretozperipatus burmiticus	ONY:G050-1	-66322	new/import	null
+Pseudophyllini	ORTH:1140472	-		null	-	sibling-sink mismatch	null
+Pseudophyllini	ORTH:1140472	=>	Pseudophyllini	ORTH:1140472	-974618	reject/absorbed	null
+Oxyothespini	MNT:1184628	-		null	-	sibling-sink mismatch	null
+Oxyothespini	MNT:1184628	=>	Oxyothespini	MNT:1184628	-902810	reject/absorbed	null
+Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	=>	Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	-967534	new/import	null
+		-	Euacanthomorphacea	trunk:786273e5-3db4-448a-89dd-c7ba0160048b	-967534	rank inversion	null
+Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-17337	new/import	null
+Vertebrata	WOR:370321	not=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-17337	not-same/ranks	genus|subphylum
+Vertebrata	WOR:182675	not=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-17337	not-same/ranks	subgenus|subphylum
+Vertebrata	WOR:146419	=>	Vertebrata	trunk:9b03d0ca-fb17-47cc-bea9-0dd19978ea44	-17337	same/parent+parent	Chordata|Chordata
+Vertebrata	WOR:370321	=>	Vertebrata	WOR:370321	-46967	new/import	null
+Vertebrata	WOR:182675	=>	Vertebrata	WOR:182675	-882616	new/import	null
+Idiastogyia fatisca	PLE:1152757	=>	Idiastogyia fatisca	PLE:1152757	-563450	new/impornull
+Tibetia	TPL:T22456	=>	Tibetia	TPL:T22456	-1040524	new/import	null
+Tibetia	SPI:G1782	-		null	-	not-placed/does-not-descend	null
+Rhachidosoraceae	TPL:T713	=>	Rhachidosoraceae	TPL:T713	-262185	reject/absorbed	null
+Echinacea	TPL:T7916	=>	Echinacea	TPL:T7916	-121527	new/import	null
+Echinacea	WOR:149855	not=>	Echinacea	TPL:T7916	-121527	not-same/ranks	superorder|genus
+Echinacea	WOR:149855	=>	Echinacea	WOR:149855	-72796	new/import	null
+Sclerocypha bisignata	ODO:S0088-1	=>	Sclerocypha bisignata	ODO:S0088-1	-880570	new/impornull
+Tajmyrella	APH:1159438	=>	Tajmyrella	APH:1159438	-937643	new/import	null
+Plagiotriptinae	ORTH:1118827	=>	Plagiotriptinae	ORTH:1118827	-957174	new/refinement	null
+Metoligotoma reducta acuta	EMB:1171930	=>	Metoligotoma reducta acuta	EMB:1171930	-902345	new/import	null
+Pamphagidae	ORTH:1116656	=>	Pamphagidae	ORTH:1116656	-931917	new/refinement	null
+Chaetoceros	WOR:148985	-		null	-	sibling-sink mismatch	null
+Chaetoceros	WOR:148985	=>	Chaetoceros	WOR:148985	-46813	reject/absorbed	null
+Mantidae	MNT:1183195	=>	Mantidae	MNT:1183195	-563884	new/refinement	null
+Cosmophyllum	TPL:T6000	=>	Cosmophyllum	TPL:T6000	-122942	new/import	null
+Cosmophyllum	ORTH:1136642	-		null	-	not-placed/does-not-descend	null
+Jacksonia	TPL:T11500	=>	Jacksonia	TPL:T11500	-1040429	new/import	null
+Jacksonia	APH:1168012	-		null	-	not-placed/does-not-descend	null
+Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	=>	Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	-923401	new/import	null
+		-	Cypriniphysae	trunk:6d8de153-1658-4ffe-b462-1dbb3fc700bb	-923401	rank inversion	null
+Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-31945	new/import	null
+Acanthocephala	COR:1190351	not=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-31945	not-same/ranks	genus|phylum
+Acanthocephala	COR:1190351	=>	Acanthocephala	COR:1190351	-977716	new/import	null
+Acanthocephala	WOR:18814	not=>	Acanthocephala	COR:1190351	-977716	not-same/ranks	phylum|genus
+Acanthocephala	WOR:18814	=>	Acanthocephala	trunk:3787eccf-6b14-4018-ae1d-0510678cb063	-31945	same/primary-name	Acanthocephala
+Cota	TPL:T6011	=>	Cota	TPL:T6011	-122271	new/import	null
+Cota	ORTH:1100646	-		null	-	not-placed/does-not-descend	null
+Chorotypidae	ORTH:1118065	=>	Chorotypidae	ORTH:1118065	-931905	new/refinement	null
+Skalskiana malakiae	APH:1159441	=>	Skalskiana malakiae	APH:1159441	-962315	new/impornull
+Anisodiplatys speciosus	DER:1181924	=>	Anisodiplatys speciosus	DER:1181924	-927003	new/impornull
+Conocephalini	ORTH:1133365	-		null	-	sibling-sink mismatch	null
+Conocephalini	ORTH:1133365	=>	Conocephalini	ORTH:1133365	-974580	reject/absorbed	null
+Khakista	WOR:576884	=>	Khakista	WOR:576884	-6651	reject/inconsistent	null
+Dromaius novaehollandiae minor	IOC:10f0dc7fb36bbb959ad7d70cfc11fc30	=>	Dromaius novaehollandiae minor	IOC:10f0dc7fb36bbb959ad7d70cfc11fc30	-1094228	new/import	null
+Zorotypus (Zorotypus) brasiliensis	ZOR:1218745	=>	Zorotypus (Zorotypus) brasiliensis	ZOR:1218745	-902217	new/import	null
+Casuarius unappendiculatus	IOC:3b14d806e79795a02438ca304eb72936	=>	Casuarius unappendiculatuIOC:3b14d806e79795a02438ca304eb72936	-1088339	new/import	null
+Andreaeidae	WOR:886266	=>	Andreaeidae	WOR:886266	-47244	reject/absorbed	null
+		-	Andreaeidae	WOR:886266	-47244	rank inversion	null
+Hyalymenus (Tivarbus) potens	COR:1186479	=>	Hyalymenus (Tivarbus) potens	COR:1186479	-959475	new/import	null
+Pirkimerus papuensis	LYG:1223041	=>	Pirkimerus papuensis	LYG:1223041	-961285	new/impornull
+Heliocypha vantoli	ODO:S0078-9	=>	Heliocypha vantoli	ODO:S0078-9	-880577	new/impornull
+Cithaeron reimoseri	SPI:S06063	=>	Cithaeron reimoseri	SPI:S06063	-856654	new/impornull
+Casuarius bennetti papuanus	IOC:98af78f4bb17f32d84cfcb59b7b61206	=>	Casuarius bennetti papuanus	IOC:98af78f4bb17f32d84cfcb59b7b61206	-1094227	new/import	null
+Jersimantis	MNT:1186145	=>	Jersimantis	MNT:1186145	-563875	new/import	null

@@ -1,0 +1,777 @@
+id	typeStatus	typeDesignatedBy	scientificName	institutionCode	catalogNumber	locality	sex	recordedBy	verbatimEventDate	verbatimLongitude	verbatimLatitude
+1208708	typeGenus	Barber, H.G. & S.C. Bruner. 1933. A new subfamily of Lygaeidae including a new genus & two new species of Pamphantus Stal (Hemiptera-Heteroptera: Lygaeidae). Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Pamphantinae Barber & Bruner, 1933								
+1209925	typeGenus	Drake, C.J. & N.T. Davis. 1959. A new subfamily, genus, & species of Lygaeidae (Hemiptera-Heteroptera) from Australia. J. Wash. Acad. Sci.	Slaterellinae Drake & Davis, 1959								
+1216653	typeGenus	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Colobathristidae Stal, 1865								
+1207956	typeSpecies	Zou. 1985. 83-86	Equatobursa nigra Zou, 1985								
+1207958	typeSpecies	Scudder, G.G.E. 1968. A new genus of Heterogastrinae (Hem. Lyg.) for Rhyparochromus strictus Walker, 1872. Entomol. Monthly Mag.	Rhyparochromus strictus Walker, 1872								
+1207961	typeSpecies	Slater, J.A. 1981. Two new genera of Lygaeidae from Northern Australia including the first member of the Pamphantini from the Eastern Hemisphere (Hemiptera: Heteroptera). J. Aust. Entomol. Soc. 115-118	Woodwardothignus gracilis Slater, 1981								
+1207963	typeSpecies	Scudder, G.G.E. 1957. New genera and species of Heterogastrinae (Hemiptera, Lygaeidae) with a revision of the genus Dinomachus. Opusc. Ent.	Eranchiellus slateri (Scudder, 1957)								
+1207966	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Boccharis significatus (Distant, 1904)								
+1207968	typeSpecies	Scudder, G.G.E. 1957. New genera and species of Heterogastrinae (Hemiptera, Lygaeidae) with a revision of the genus Dinomachus. Opusc. Ent.	Thyrothanus niger (Scudder, 1957)								
+1207970	typeSpecies	Distant, W.L. 1906. On some Ethiopian Rhynchota & synonymical notes. Ann. Mag. Nat. Hist.	Masoas transvaaliensis (Distant, 1906)								
+1207972	typeSpecies	Scudder, G.G.E. 1962. New Heterogastrinae (Hemiptera) with a key to the genera of the world. Opusc. Ent.	Heteropynellus tropicus (Scudder, 1962)								
+1207974	typeSpecies	Distant, W.L. 1903. On some underscribed Rhynchota. Ann. Mag. Nat. Hist.	Artemidorus pressus (Distant, 1903)								
+1207980	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Cholula bicolor (Distant, 1882)								
+1207985	typeSpecies	Scudder, G.G.E. 1962. New Heterogastrinae (Hemiptera) with a key to the genera of the world. Opusc. Ent.	Trinithignus brevirostris (Scudder, 1962)								
+1207987	typeSpecies	Stal, C. 1859. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III (Zoologi, Insekter) 219-298	Phygadicus kinbergi Stal, 1859								
+1208005	typeSpecies	Fieber. 1860.	Heterogaster salviae Schilling, 1829								
+1208012	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Sadoletus validus (Distant, 1904)								
+1208023	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Nerthus dudgeoni (Distant, 1909)								
+1208026	typeSpecies	Scudder, G.G.E. 1957. New genera and species of Heterogastrinae (Hemiptera, Lygaeidae) with a revision of the genus Dinomachus. Opusc. Ent.	Heterogaster signifer Walker, 1872								
+1208033	typeSpecies	Schilling. 1829. Hemiptera Heteroptera Silesiae systematice disposuit Schilling. Beitr. Ent.	Cimex urticae (Fabricius, 1775)								
+1208115	typeSpecies	Scudder, G.G.E. 1962. New Heterogastrinae (Hemiptera) with a key to the genera of the world. Opusc. Ent.	Minigellus cheesmani (Scudder, 1962)								
+1208117	typeSpecies	Scudder, G.G.E. 1962. New Heterogastrinae (Hemiptera) with a key to the genera of the world. Opusc. Ent.	Depressignus browni (Scudder, 1962)								
+1208119	typeSpecies	Distant, W.L. 1913. Rept. Percy Sladen Trust Expedition to the Indian Ocean in 1905 Vol. 5. No. IX. Rhynchota. Pt.I: Suborder Heteroptera. Trans. Linn. Soc. Lond. Zool.	Hyginellus gayei (Distant, 1913)								
+1208122	typeSpecies	Distant, W.L. 1906. On some Ethiopian Rhynchota & synonymical notes. Ann. Mag. Nat. Hist.	Tamasanka limbata Distant, 1906								
+1208124	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Dinomachus marshalli (Distant, 1901)								
+1208144	typeSpecies	Scudder, G.G.E. 1957. New genera and species of Heterogastrinae (Hemiptera, Lygaeidae) with a revision of the genus Dinomachus. Opusc. Ent.	Dinomachellus maculatus (Scudder, 1957)								
+1208149	typeSpecies	Slater, J.A. 1986. Two new genera and species of plesiomorphic Blissinae from Australia and southeast Asia (Hemiptera: Lygaeidae: Blissinae). J. Kansas Entomol. Soc. 629-631	Archaeodemus woodwardi Slater, 1986								
+1208151	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 108-111	Ischnodemus capeneri Slater, 1964								
+1208162	typeSpecies	Slater, J.A. 1986. Aulacoblissus, a new genus of micropterous Blissinae from Venezuela (Hemiptera: Lygaeidae). Fla. Entomol. 662-665	Aulacoblissus brailovskyi Slater, 1986								
+1208164	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 17-21	Barademus attenuatus Slater, 1967								
+1208166	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 108, 115-116	Ischnodemus castanea Slater, 1964								
+1208172	typeSpecies	Slater, J.A. & M.H. Sweet. 1972. Capodemus, a new genus of Blissinae from South Africa with the description of twelve new species (Hemiptera: Lygaeidae). J. Entomol. Soc. sth. Afr.	Blissus rusticus (Stal, 1865)								
+1208190	typeSpecies	Slater, J.A. & D.B. Wilcox. 1968. New genera and species of Neotropical Blissinae (Hemiptera: Lygaeidae). Proc. Entomol. Soc. Washington 43-45	Caveloblissus americanus Slater & Wilcox, 1968								
+1208192	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Micropus spinolae Signoret, 1857								
+1208266	typeSpecies	Slater, J.A., P.D. Ashlock & D.B. Wilcox. 1969. The Blissinae of Thailand and Indochina (Hemiptera: Lygaeidae). Pacif. Insects. 698-700	Extaramorphus magnatarsus Slater, Ashlock & Wilcox, 1969								
+1208268	typeSpecies	Slater, J.A. & D.B. Wilcox. 1969. Two new genera of Blissinae from Madagascar (Hemiptera: Lygaeidae). J. Kansas Entomol. Soc. 434-439	Gelastoblissus rugosus Slater & Wilcox, 1969								
+1208270	typeSpecies	Ghauri, M.S.K. 1982. Hasanobochrus hasani gen. et sp. n. from India (Heteroptera: Lygaeidae: Blissinae). Reichenbachia 159	Hasanobochrus hasani Ghauri, 1982								
+1208273	typeSpecies	Stys, P. 1991. First apterous genus and species of Lygaeidae: Blissinae (Heteroptera). Act. Entomol. Bohem. 269	Howdenoblissus slateri Stys, 1991								
+1208275	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 11-13	Lemuriblissus acuminatus Slater, 1967								
+1208277	typeSpecies	Slater, J.A. 1968. A contribution to the systematics of Oriental and Australian Blissinae (Hem. Lyg.). Pacif. Insects. 281-283	Lucerocoris nigrotibialis Slater, 1968								
+1208280	typeSpecies	Slater, J.A. & D.B. Wilcox. 1973. The Blissinae or chinch bugs of South Africa (Hemiptera: Lygaeidae). Mem. Entomol. Soc. sth. Afr.	Blissus diplopterus (Distant, 1903)								
+1208287	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 16-18	Merinademus baraoides Slater, 1967								
+1208289	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 34-35	Micaredemus elegans Slater, 1967								
+1208309	typeSpecies	Slater, J.A. & I. Ahmad. 1971. Neotropical Blissinae: Patritiodemus, a new genus with six new species (Hemiptera: Lygaeidae). Act. Entomol. Mus. Nat. Pragae	Ischnodemus dilutipes (Stal, 1858)								
+1208319	typeSpecies	Slater, J.A. 1966. New micropterous Blissinae from South America (Hem.Lyg.). U. Conn. Occ. Papers Sci. Ser. l:  l: 3-9	Praetorblissus gigas Slater, 1966								
+1208324	typeSpecies	Slater, J.A. & D.B. Wilcox. 1966. An analysis of three new genera of Neotropical Blissinae. Ann. Entomol. Soc. Amer. 69-70, 74-75	Procellademus venenatus Slater & Wilcox, 1966								
+1208327	typeSpecies	Slater, J.A. 1986. Two new genera and species of plesiomorphic Blissinae from Australia and southeast Asia (Hemiptera: Lygaeidae: Blissinae). J. Kansas Entomol. Soc. 631-633	Propinquidemus malaisei Slater, 1986								
+1208329	typeSpecies	Slater, J.A. 1979. The systematics, phylogeny and zoogeography of the Blissinae of the World (Hemiptera, Lygaeidae). Bulletin of the American Museum of Natural History (Bull. Amer. Mus. Nat. Hist.) 51-53	Blissus trispinosus Slater, 1967								
+1208331	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 24-26	Ramadademus multispinosus Slater, 1967								
+1208335	typeSpecies	Slater, J.A. & D.B. Wilcox. 1966. An analysis of three new genera of Neotropical Blissinae. Ann. Entomol. Soc. Amer. 71-75	Reticulatodemus calcar Slater & Wilcox, 1966								
+1208341	typeSpecies	Slater, J.A. & D.B. Wilcox. 1969. Scansidemus, a new genus of Oriental Blissinae (Hemiptera: Lygaeidae). Spolia Zeylanica 2-5	Scansidemus taprobanes Slater & Wilcox, 1969								
+1208344	typeSpecies	Slater, J.A. 1968. A contribution to the systematics of Oriental and Australian Blissinae (Hem. Lyg.). Pacif. Insects. 285-287	Scintillademus gemmatus Slater, 1968								
+1208346	typeSpecies	Slater, J.A. & D.B. Wilcox. 1973. The Blissinae or chinch bugs of South Africa (Hemiptera: Lygaeidae). Mem. Entomol. Soc. sth. Afr. 89-92	Blissus cydnoides Slater, 1964								
+1208350	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Toonglasa forficuloides (Distant, 1882)								
+1208364	typeSpecies	Slater, J.A. & D.B. Wilcox. 1966. An analysis of three new genera of Neotropical Blissinae. Ann. Entomol. Soc. Amer.	Micropus collaris Signoret, 1857								
+1208379	typeSpecies	Hidaka, T. 1959. Studies on the Lygaeidae XVIII. A new genus of the subfamily Blissinae from Japan. Kontyu 27: 269-271	Geoblissus rotundatus Hidaka, 1959								
+1208381	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Heinsius explicatus (Distant, 1901)								
+1208384	typeSpecies	Haglund. 1895. Verzeichniss der von Yngve Sjostedt im nordwestlichen Kamerungebiete eingesammelten Hemipteren Pt.II. Ofvers. VetenskAcad. forh., Stockh. N.	Ischnocoridella picipes (Haglund, 1895)								
+1208386	typeSpecies	Distant, W.L. 1903. Contributions to a knowledge of the Rhynchota. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.) 47:43-65	Cavelerius illustris (Distant, 1903)								
+1208388	typeSpecies	Barber, H.G. 1958. Insects of Micronesia Heteroptera: Lygaeidae. Insects Micronesia (B.P. Bishop Mus.) 187-8	Caenoblissus pilosus Barber, 1958								
+1208390	typeSpecies	Fieber, F.X. 1837. Beitrage zur Kenntniss der Schnabelkerfen IV. Familie Lygaeodea. Beitr. ges. Natur- u. Heilwissenschaft	Ischnodemus quadratus (Fieber, 1837)								
+1208590	typeSpecies	Horvath, G. 1892. Hemiptera nova Africana. Term-Tud. Fuz.	Ischnocoridea elegans (Horvath, 1892)								
+1208592	typeSpecies	Slater, J.A. 1961. Dentisblissus: a new genus of Blissinae from New Guinea (Hemiptera: Lygaeidae). Pacif. Insects.	Ischnodemus venosus Breddin, 1900								
+1208596	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Pirkimerus sesquipedalis (Distant, 1904)								
+1208601	typeSpecies	Spinola, M. 1839. No title. In Guerin: Mag. Zool.	Chelochirus atrox (Spinola, 1839)								
+1208605	typeSpecies	Motschulsky, V. 1859. II. Entomologie speciale. Insectes des Indes orientales, & de contrees analogues. Etud. Ent.	Macropes spinimanus (Motschulsky, 1859)								
+1208653	typeSpecies	Barber, H.G. 1954. Some neotropical 'Lygaeidae'. Rev. brasil. Biol.	Xenoblissus lutzi (Barber, 1954)								
+1208655	typeSpecies	Hidaka, T. 1961. Studies on the Lygaeidae XXV. A new genus of the subfamily Blissinae from Japan. Kontyu	Ischnomorphus japonicus (Hidaka, 1961)								
+1208657	typeSpecies	Kormilev, N. 1949. Riggiella vianai n. g., n. sp. de la Argentina (Hemiptera, Lygaeidae, Blissinae). Commun. Inst. nac. Invest. Cienc. nat., Buenos Aires (Zool.)	Riggiella vianai (Kormilev, 1949)								
+1208659	typeSpecies	Stal, C. 1861. Miscellanea Hemipterologica. Stettin. Entomol. Ztg.	Bochrus poecilopterus (Stal, 1861)								
+1208664	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Iphicrates subauratus (Distant, 1903)								
+1208676	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Anisosoma lativentris Bergroth, 1918								
+1208677	typeSpecies	Barber, H.G. 1954. Some neotropical 'Lygaeidae'. Rev. brasil. Biol. 14: 2: 221-3	Heteroblissus anomilis Barber, 1954								
+1208679	typeSpecies	Bergroth, E. 1903. Neue myrmecophile Hemipteren. Wien. ent. Ztg	Neoblissus parasitaster (Bergroth, 1903)								
+1208684	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Rhabdomorphus longurio Bergroth, 1918								
+1208686	typeSpecies	Slater, J.A. & M.H. Sweet. 1963. Australodemus, a new genus of Blissinae from Australia, with a description of a new species of Heinsius (Hemiptera:Lygaeidae). J. ent. Soc. Qd.	Australodemus elongatus (Slater & Sweet, 1963)								
+1208688	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Ischnodemus sulcatus Walker, 1872								
+1208692	typeSpecies	Barber, H.G. 1949. A new genus in the subfamily Blissinae from Mexico & a new Nysius from the Northwest (Lygaeidae: Hemiptera-Heteroptera). Bull. Brooklyn ent. Soc.	Praeblissus albopictus (Barber, 1949)								
+1208695	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist. 162-3	[?] grossus (Haglund, 1868)								
+1208701	typeSpecies	Slater & Wilcox. 1969.	[?] cochlear (Slater & Wilcox, 1969)								
+1208703	typeSpecies	Slater, J.A. 1967. Insectes Heteropteres Lygaeidae Blissinae. Fauna de Madagascar 9	Aradademus mirificus Slater, 1967								
+1208711	typeSpecies	Brailovsky. 1989.	Tropicoparapamphantus amazonicus (Brailovsky, 1989)								
+1208713	typeSpecies	Barber, H.G. 1954. The family Lygaeidae (Hemiptera-Heteroptera) of the island of Cuba & the Isle of Pines--Part II. Mem. Soc. cubana Hist. nat.	Abpamphantus gibbosus (Barber, 1954)								
+1208715	typeSpecies	Barber, H.G. & S.C. Bruner. 1933. A new subfamily of Lygaeidae including a new genus & two new species of Pamphantus Stal (Hemiptera-Heteroptera: Lygaeidae). Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Neopamphantus maculatus (Barber & Bruner, 1933)								
+1208718	typeSpecies	Barber, H.G. 1954. Some neotropical 'Lygaeidae'. Rev. brasil. Biol.	Parapamphantus braziliensis (Barber, 1954)								
+1208728	typeSpecies	Stal. 1858.	Cattarus insignis (Stal, 1858)								
+1208732	typeSpecies	Lindberg, H. 1953. Hemiptera Insularum Canariensium (Systematik, Okologie & Verbreitung der Kanarischen Heteropteren & Cicadinen). Societas Scietiarum Fennica Commentationes Biologicae (Comment. biol., Helsingf.)	Bethylimorphus leucophaes (Lindberg, 1953)								
+1208734	typeSpecies	Reuter, O.M. 1878. Note sur une nouvelle espece d'Hemiptere. Ann. Soc. ent. Fr.	Bledionotus systellonotoides (Reuter, 1878)								
+1208738	typeSpecies	Bergroth, E. 1912. An American genus of Henestarinae (Hem., Myodochidae). Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Coriantipus inopinatus (Bergroth, 1912)								
+1208740	typeSpecies	Fieber, F.X. 1864. Neuere Entdeckungen in Europaischen Hemipteren. A. Gattungen. Weiner Entomologische Monatschrift (Wien. Ent. Mschr.)	Engistus brucki (Fieber, 1864)								
+1208766	typeSpecies	Spinola, M. 1837. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin. ou Rhyngotes. Fab. et a la section Heteropteres, Dufour. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin...Fab. et a la section Heteropteres, Dufour. Genes: Chez Yves Gravier Imprimeur-Libraire. pp.	Henestaris genei (Spinola, 1837)								
+1208793	typeSpecies	Bergroth, E. 1921. An aberrant genus of Geocorinae. Entomologist’s Monthly Magazine (Ent. mon. Mag.)	Sympeplus curculiunculus (Bergroth, 1921)								
+1208796	typeSpecies	Breddin In Schumacher. 1913.	Psammium mica (Breddin, 1913)								
+1208800	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Ninyas strabo (Distant, 1882)								
+1208808	typeSpecies	Bergroth, E. 1916. Heteropterous Hemiptera collected by Prof. W. Baldwin Spencer during the Horn expedition into central Australia. Proc. roy. Soc. Vict.	Ophthalmocoris dissidens Montandon, 1907								
+1208812	typeSpecies	Montandon, A.L. 1913. Nouvelles etudes sur les Geocorinae (Hemipt.). Bull. Acad. Roumaine	Stylogeocoris biroi (Montandon, 1913)								
+1208814	typeSpecies	Oshanin. 1912. Katalog der palaarktischen Hemipteren (Heteroptera, Homoptera-Auchenorhyncha & Psylloideae). Katalog der palaarktischen Hemipteren (Heteroptera, Homoptera-Auchenorhyncha & Psylloideae). Berlin: xvi +	Cimex grylloides (Linnaeus, 1761)								
+1209202	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Salda erythrocephala Lepelitier & Serville, 1825								
+1209237	typeSpecies	Montandon, A.L. 1913. Nouvelles formes de Geocorinae appartenant aux collections du Museum National Hongrois. Ann. hist.-nat. Mus. hung.	Pseudogeocoris fallaciosus (Montandon, 1913)								
+1209239	typeSpecies	Costa, A. 1875. Relazione di un viaggio per l'egitto, la Palestina e le coste della turchia asiatica per ricerche zoologiche. Atti Accad. Sci. fis. mat. Napoli.	Stenophthalmicus fajoumensis (Costa, 1875)								
+1209249	typeSpecies	Montandon, A.L. 1913. Nouvelles formes de Geocorinae appartenant aux collections du Museum National Hongrois. Ann. hist.-nat. Mus. hung.	Stenogeocoris horvathi (Montandon, 1913)								
+1209251	typeSpecies	Stal, C. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettin. Entomol. Ztg.	Henestaris kinbergi Stal, 1859								
+1209299	typeSpecies	Montandon, A.L. 1913. Nouvelles etudes sur les Geocorinae (Hemipt.). Bull. Acad. Roumaine 29:36	Germalus montandoni Bergroth, 1916								
+1209300	typeSpecies	Montandon, A.L. 1907. Nouveaux genres & especes du groupe des Geocorinae. Ann. hist.-nat. Mus. hung.	Ophthalmocoris bipunctatus Montandon, 1907								
+1209301	typeSpecies	Distant, W.L. 1918. The fauna of British India, including Ceylon & Burma. The fauna of British India, including Ceylon & Burma. Rhynchota Vol. XII. Homoptera: Appendix: Heteroptera: Addenda pp.	Geocoroides polytretus (Distant, 1918)								
+1209303	typeSpecies	Montandon, A.L. 1907. Nouveaux genres & especes du groupe des Geocorinae. Ann. hist.-nat. Mus. hung.	Apennocoris pilosulus (Montandon, 1907)								
+1209305	typeSpecies	Montandon, A.L. 1913. Nouvelles etudes sur les Geocorinae (Hemipt.). Bull. Acad. Roumaine	Germalus violaceus Signoret, 1881								
+1209318	typeSpecies	McAtee, W.L. 1914. Key to the nearctic genera & species of Geocorinae (Heteroptera: Lygaeidae). Proc. biol. Soc. Wash. 780-781	Salda picea Say, 1831								
+1209499	typeSpecies	Linnavuori, R. 1972. On the taxonomy of the genus Geocoris (Het. Lygaeidae). Ann. Entomol. Fenn. 55:425-6	Piocoris confalonierii Bergevin, 1932								
+1209540	typeSpecies	Scudder, G.G.E. 1957. A new genus and species of Rhyparochrominae (Hem., Lygaeidae) from Australia. Entomologist’s Monthly Magazine (Ent. mon. Mag.)	Dilompus robustus (Scudder, 1957)								
+1209544	typeSpecies	Kiritshenko, A.N. 1913. Hemiptera-Heteroptera Turanica Nova II. Rev. russe Ent.	Artheneidea tenuicornis (Kiritshenko, 1913)								
+1209546	typeSpecies	Fieber. 1860.	Cymus saturejae Kolenati, 1845								
+1209555	typeSpecies	Fieber, F.X. 1864. Neuere Entdeckungen in Europaischen Hemipteren. A. Gattungen. Weiner Entomologische Monatschrift (Wien. Ent. Mschr.)	Heterogaster typhae Perris, 1857								
+1209559	typeSpecies	Spinola, M. 1837. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin. ou Rhyngotes. Fab. et a la section Heteropteres, Dufour. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin...Fab. et a la section Heteropteres, Dufour. Genes: Chez Yves Gravier Imprimeur-Libraire. pp.	Artheneis foveolata (Spinola, 1837)								
+1209579	typeSpecies	Miller. 1956. Correction. Ann. Mag. Nat. Hist.	Barberia risbeci Miller, 1951								
+1209588	typeSpecies	Dispons. 1963.	Garamans mirei (Dispons, 1963)								
+1209590	typeSpecies	Kerzhner. 1964.	Barberocoris myrmica (Kerzhner, 1964)								
+1209592	typeSpecies	Slater. 1974.	Neaplax mexicana (Slater, 1974)								
+1209594	typeSpecies	Hoberlandt. 1987.	Camptotelus aeonii (Lindberg, 1953)								
+1209597	typeSpecies	Kerzhner. 1964.	Stenogaster costalis Herrich-Schaeffer, 1850								
+1209601	typeSpecies	Hopp. 1987.	[?] pterosticta (Hopp, 1987)								
+1209603	typeSpecies	Sahlberg, R.F. 1848. Monographia Geocorisarum Fenniae. Monographia Geocorisarum Fenniae. Helsingforsiae: Frenckelliana. pp.	Philomyrmex insignis (Sahlberg, 1848)								
+1209606	typeSpecies	Reuter, O.M. 1907. Eine neue palaarktische Lygaeiden-Gattung von der Unterfamilie Oxycarenina Stal. Annu. Mus. zool. Acad. St. Petersb.	Bianchiella adelungi (Reuter, 1907)								
+1209609	typeSpecies	Uhler, P.R. 1901. Some new genera and species of North American Hemiptera. Proc. ent. Soc. Wash.	Dycoderus picturatus (Uhler, 1901)								
+1209611	typeSpecies	Fieber. 1860.	Oxycarenus plagiatus Fieber, 1837								
+1209620	typeSpecies	Fieber. 1860.	Brachyplax albidus (Fieber, 1861)								
+1209631	typeSpecies	Fieber. 1860.	Pachymerus ditomoides Costa, 1847								
+1209641	typeSpecies	Reuter, O.M. 1900. Hemiptera Gymnocerata in Algeria meridionalia DD. Dr. H. Kraus & Dr. J. Vosseler collecta. Ofvers. finska VetenskSoc. Forh.	Leptodemus minutus variety  pallidula Reuter, 1900								
+1209660	typeSpecies	Fieber. 1860.	Oxycarenus preyssleri Fieber, 1837								
+1209688	typeSpecies	Horvath, G. 1891. Eine neue Hemipterengattung aus der Familie der Lygaeiden. Wien. ent. Ztg	Microplax conspersa Jakovlev, 1885								
+1209694	typeSpecies	Amyot & A. Serville. 1843. Histoire naturelle des insectes; Hemipteres. Histoire naturelle des insectes Hemipteres. Paris: Fain et Thunot.	Anomaloptera helianthemi (Amyot & Serville, 1843)								
+1209699	typeSpecies	Fieber. 1860.	Heterogaster lineolatus Schilling, 1829								
+1209711	typeSpecies	Distant, W.L. 1914. Rhynchota from New Caledonia & the surrounding islands. In: Sarasin & Roux Nova Caledonia Zool.	Lachnophoroides ornatipennis (Distant, 1914)								
+1209717	typeSpecies	Van Duzee, E.P. 1910. Monograph of genus Crophius Stal. Bulletin of the Buffalo Society of Natural Sciences (Bull. Buffalo Soc. nat. Sci.)	Lygaeus disconotus Say, 1831								
+1209735	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Mayana costata Distant, 1882								
+1209737	typeSpecies	Puton, A. 1875. Description d'un genre nouveau d'Hemipteres de la famille des Ligaeides. Pet. Nouv. Ent.	Anomaloptera setulosa Jakovlev, 1874								
+1209739	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Procrophius communis (Scudder, 1890)								
+1209745	typeSpecies	Fieber, F.X. 1837. Beitrage zur Kenntniss der Schnabelkerfen IV. Familie Lygaeodea. Beitr. ges. Natur- u. Heilwissenschaft	Stenogaster tardus Hahn, 1831								
+1209871	typeSpecies	Hahn. 1831. Die Wanzenartigen Insecten. Die Wanzenartigen Insekten. Nurnberg: C. H. Zeh'schen Buchhandlung	Stenogaster tardus Hahn, 1831								
+1209872	typeSpecies	Distant, W.L. 1910. The fauna of British India, including Ceylon & Burma. The fauna of British India, including Ceylon & Burma. Rhynchota Vol. V. Heteroptera: Appendix	Maruthas saniosus Distant, 1910								
+1209881	typeSpecies	Samy. 1969.	Stenogaster pallens Herrich-Schaeffer, 1850								
+1209888	typeSpecies	Slater, J.A. 1957. Nomenclatorial considerations in the family Lygaeidae (Hemiptera; Heteroptera). Bull. Brooklyn ent. Soc.	Oxycarenus inermis Fieber, 1852								
+1209913	typeSpecies	Reuter, O.M. 1890. Adnotationes Hemipterologicae. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Bycanistes naso Stal, 1872								
+1209921	typeSpecies	Slater, J.A., T.E. Woodward & M.H. Sweet. 1962. A contribution to the classification of the Lygaeidae, with the description of a new genus from New Zealand (Hemiptera:Heteroptera). Ann. ent. Soc. Amer.	Nothochromus maoricus Slater, Woodward & Sweet, 1962								
+1209926	typeSpecies	Drake, C.J. & N.T. Davis. 1959. A new subfamily, genus, & species of Lygaeidae (Hemiptera-Heteroptera) from Australia. J. Wash. Acad. Sci.	Slaterellus hackeri (Drake & Davis, 1959)								
+1209931	typeSpecies	Kirkaldy, G.W. 1908. A list of the described Hemiptera (excluding Aleyrodidae & Coccidae) of the Hawaiian Islands. Proc. Hawaii. Ent. Soc.	Metrarga contracta Blackburn, 1889								
+1209937	typeSpecies	White, F.B. 1878. Descriptions of new species of Heteropterous Hemiptera collected in the Hawaiian Islands by the Rev. T. Blackburn no. 2. Ann. Mag. Nat. Hist.	Metrarga nuda (White, 1878)								
+1209948	typeSpecies	Kirkaldy, G.W. 1908. A list of the described Hemiptera (excluding Aleyrodidae & Coccidae) of the Hawaiian Islands. Proc. Hawaii. Ent. Soc.	Metrarga villosa White, 1878								
+1209955	typeSpecies	Ashlock. 1967. 39-40	Balionysius maculatus Ashlock, 1967								
+1209957	typeSpecies	Ashlock. 1967. 40-41	Coleonysius dimorphus Ashlock, 1967								
+1209959	typeSpecies	Ashlock. 1967. 2:556	Nysius (Nysius) marginalis Dallas, 1852								
+1209963	typeSpecies	Ashlock & Lattin. 1963.	Nysius californicus (Stal, 1859)								
+1209997	typeSpecies	Ashlock. 1967. 23-24	Lepionysius grossi Ashlock, 1967								
+1210001	typeSpecies	Barber, H.G. 1954. Some neotropical 'Lygaeidae'. Rev. brasil. Biol.	Aborsillus insignis (Barber, 1954)								
+1210003	typeSpecies	Slater, J.A. 1962. Ethiopian Lygaeidae III. A new genus of Orsillinae from South Africa. Proc. ent. Soc. Wash.	Hyalonysius pallidomaculatus (Slater, 1962)								
+1210015	typeSpecies	Kirkaldy, G.W. 1910. Hemiptera: supplement to fauna Hawaiiensis. Hemiptera: supplement to fauna Hawaiiensis.	Nysius nimbatus Kirkaldy, 1910								
+1210046	typeSpecies	Uhler, P.R. 1871. Notices of some Heteroptera in the collection of Dr. T. W. Harris. Proc. Boston Soc. Nat. Hist. 14:93-109	Lygaeus numenius Say, 1831								
+1210053	typeSpecies	Dallas, W.S. 1852. List of the specimens of Hemipterous insects in the collection of the British Museum. List of the specimens of Hemipterous insects in the collection of the British Museum. Part. II., Taylor & Francis Inc., London 2:369-592	Orsillus depressus (Dallas, 1852)								
+1210071	typeSpecies	Evans, J.W. 1929. A new species of Nysius (Hem. Lygaeidae) from Australia. Bulletin of Entomological Research (Bull. ent. Res.)	Nysius anceps White, 1878								
+1210073	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Heterogaster punctipennis Herrich-Schaeffer, 1850								
+1210099	typeSpecies	Kirkaldy, G.W. 1910. Hemiptera: supplement to fauna Hawaiiensis. Hemiptera: supplement to fauna Hawaiiensis. 9:3:443	Nysius kirkaldyi Usinger, 1937								
+1210136	typeSpecies	Usinger, R.L. 1942. The genus Nysius and its allies in the Hawaiian Islands (Hemiptera, Lygaeidae, Orsillini). Bull. Bishop Mus.	Nysius haleakalae Perkins, 1912								
+1210139	typeSpecies	Usinger, R.L. 1942. The genus Nysius and its allies in the Hawaiian Islands (Hemiptera, Lygaeidae, Orsillini). Bull. Bishop Mus.	Nysius ochriasis Kirkaldy, 1902								
+1210143	typeSpecies	Usinger, R.L. 1942. The genus Nysius and its allies in the Hawaiian Islands (Hemiptera, Lygaeidae, Orsillini). Bull. Bishop Mus.	Nysius hiloensis Perkins, 1912								
+1210170	typeSpecies	Usinger, R.L. 1942. The genus Nysius and its allies in the Hawaiian Islands (Hemiptera, Lygaeidae, Orsillini). Bull. Bishop Mus.	Neseis (Physonysius) ampliatus (Usinger, 1942)								
+1210173	typeSpecies	Horvath, G. 1890. Synopsis des Nysius Palearctiques. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Heterogaster jacobaeae Schilling, 1829								
+1210178	typeSpecies	Kirkaldy, G.W. 1907. On some Hawaiian Hemiptera-Heteroptera. Canadian Entomologist (Canad. Ent.)	Nesomartis psammophila (Kirkaldy, 1907)								
+1210180	typeSpecies	Usinger, R.L. 1938. A new genus and species of Orsillini from China (Hemiptera, Lygaeidae). Pan-Pacif. Ent.	Sinorsillus piliferus (Usinger, 1938)								
+1210445	typeSpecies	Usinger, R.L. 1942. The genus Nysius and its allies in the Hawaiian Islands (Hemiptera, Lygaeidae, Orsillini). Bull. Bishop Mus.	Nysius hylaeus Kirkaldy, 1910								
+1210450	typeSpecies	Puton, A. 1886. Catalogue des Hemipteres de la faune Palearctique (Heteropteres, Cicadines et Psyllides) 3rd ed. Catalogue des Hemipteres de la faune Palearctique (Heteropteres, Cicadines et Psyllides)	Nysius longicornis Puton, 1874								
+1210470	typeSpecies	Ashlock. 1967. 30-31	Austronysius sericus Ashlock, 1967								
+1210472	typeSpecies	Ashlock, P.D. 1967. A generic classification of the Orsillinae of the World (Hemiptera: Heteroptera: Lygaeidae). Univ. Cal. Publ. Entomol. 31-32	Eurynysius meschioides Ashlock, 1967								
+1210475	typeSpecies	Hamilton. 1983.	Lygaeus scolopax Say, 1831								
+1210499	typeSpecies	Malipatil. 1979. 237-239	Lepiorsillus tekapoensis Malipatil, 1979								
+1210513	typeSpecies	Spinola, M. 1837. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin. ou Rhyngotes. Fab. et a la section Heteropteres, Dufour. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin...Fab. et a la section Heteropteres, Dufour. Genes: Chez Yves Gravier Imprimeur-Libraire. pp. 256-257	Lygaeosoma sardae Spinola, 1837								
+1210567	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl.	Cimex famelicus (Fabricius, 1781)								
+1210646	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus fasciatus Dallas, 1852								
+1210661	typeSpecies	Horvath, G. 1914. Miscellanea Hemipterologica XIII-XVII. Ann. hist.-nat. Mus. hung.	Stictocricus mimus (Horvath, 1914)								
+1210663	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl.	Lygaeus marginatus Thunberg, 1822								
+1210668	typeSpecies	China, W.E. 1925. The Hemiptera collected by Prof. J. W. Gregory's expedition to Yunnan, with synonymic notes on allied species. Ann. Mag. Nat. Hist.	Emphanisis cuprea (China, 1925)								
+1210670	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl.	Cimex leucurus (Fabricius, 1787)								
+1210688	typeSpecies	Breddin, G. 1901. Die Hemipteren von Celebes. Abh. Naturf. Ges. Halle	Aspilogeton nubicola (Breddin, 1901)								
+1210690	typeSpecies	Fabricius, J.C. 1794. Entomologia systematica emendata & aucta IV. Entomologia systematica emendata & aucta IV. Hafniae: C. G. Proft pp. 4:434 pp	Cimex equestris (Linnaeus, 1758)								
+1210791	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl. 149	Microspilus kafferensis Slater, 1964								
+1210798	typeSpecies	Mulsant, E. & C. Rey. 1866. Description d'une espece nouvelle de Geocorise. Constituant un genre nouveau parmi les Ligeides. Ann. Soc. linn. Lyon ns.	Apterola kunckeli (Mulsant & Rey, 1866)								
+1210810	typeSpecies	Pelaez. 1942. Estudio monografico de las especies espanolas del genero Apterola Muls. & Rey (Hem. Lyg.). Rev. Soc. Mex. Hist. Nat.	Apterola (Parapterola) ramburi (Pelaez, 1942)								
+1210839	typeSpecies	Horvath, G. 1914. Miscellanea Hemipterologica XIII-XVII. Ann. hist.-nat. Mus. hung.	Caenocoris (Acrobrachys) angustus Horvath, 1914								
+1210841	typeSpecies	Horvath, G. 1914. Miscellanea Hemipterologica XIII-XVII. Ann. hist.-nat. Mus. hung.	[?] marginatus (Thunberg, 1822)								
+1210845	typeSpecies	Horvath, G. 1895. Hemipteres nouveaux d'Europe & des pays Limitrophes. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Paranysius fraterculus (Horvath, 1895)								
+1210857	typeSpecies	Barber, H.G. 1921. Revision of the genus Lygaeus Fab. (Hemiptera-Heteroptera). Proc. ent. Soc. Wash.	Aphanus tripunctatus Dallas, 1852								
+1210864	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl. 126-127	[?] pandurus (Scopoli, 1763)								
+1210962	typeSpecies	Horvath, G. 1884. Diagnoses Hemipterorum. Term-Tud. Fuz.	Hormopleurus nysioides (Horvath, 1884)								
+1210964	typeSpecies	Breddin, G. 1900. Nova studia Hemipterologica. Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.) 171-172	Microcaenocoris nanus Breddin, 1900								
+1210966	typeSpecies	Slater, J.A. 1964. A Catalogue of the Lygaeidae of the World.  2 Vols. U. Connecticut. Storrs. 1688 pp. A Catalogue of the Lygaeidae of the World.	Lygaeus coxalis Stal, 1858								
+1210994	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl.	Cimex servus (Fabricius, 1787)								
+1211083	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Lygaeus fulvipes Dallas, 1852								
+1211089	typeSpecies	Kirkaldy, G.W. 1908. A catalogue of the Hemiptera of Fiji. Proc. Linn. Soc. N. S. W.	Stalagmostethus (Nesostethus) ornatus Kirkaldy, 1908								
+1211092	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Cimex albomaculatus (Goeze, 1778)								
+1211198	typeSpecies	Boisduval. 1835. Voyage de decouvertes de L'Astrolabe faune entomologique de L'Ocean Pacifique. Voyage de decouvertes de L'Astrolabe faune entomologique de L'Ocean Pacifique. Part	Astacops australis (Boisduval, 1835)								
+1211256	typeSpecies	Spinola, M. 1837. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin. ou Rhyngotes. Fab. et a la section Heteropteres, Dufour. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin...Fab. et a la section Heteropteres, Dufour. Genes: Chez Yves Gravier Imprimeur-Libraire. pp.	Lygaeus melanocephalus Fabricius, 1798								
+1211315	typeSpecies	Distant, W.L. 1888. An enumeration of the Rhynchota received from Baron von Muller & collected by Mr. Sayer in New Guinea during Mr. Cuthbertson's Expedition. Trans. R. ent. Soc. Lond. 483	Montaltus tricolor Distant, 1888								
+1211317	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl. 365-366	[?] excavatus (Fabricius, 1781)								
+1211323	typeSpecies	Horvath, G. 1924. Heteroptera nova Madagascariensia. Ann. hist.-nat. Mus. hung.	Lygaeodema breviceps (Horvath, 1924)								
+1211328	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull. 228-229, 234-235	Neacoryphus beutelspacheri (Brailovsky, 1979)								
+1211331	typeSpecies	Scudder, G.G.E. 1963. A revision of the genus Astacops. Pacif. Insects.	Aethalotus apicimaculatus (Distant, 1918)								
+1211338	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus formosus (Blanchard, 1840)								
+1211371	typeSpecies	Barber, H.G. 1914. New Hemiptera - Heteroptera with comments upon the distribution of certain known species. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Orsillacis producta (Barber, 1914)								
+1211374	typeSpecies	Brailovsky, H. 1982. Un nuevo arreglo nomenclatorial descripcion de tres nuevos generos y dos nuevas especies americanas de la subfamilia Lygaeinae (Hemiptera-Heteroptera-Lygaeidae). An. Inst. Biol. Univ. Auton. de Mexico	Lygaeus (Ochrostomus) subcarinatus (Stal, 1874)								
+1211380	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Astacops afzelii Stal, 1865								
+1211390	typeSpecies	Brailovsky, H. 1982. Revision del complejo Ochrimnus, con descripcion de nuevas especies y nuevos generos (Hemiptera-Heteroptera-Lygaeidae-Lygaeinae). Folia Entomol. Mexicana	Lygaeus (Ochrostomus) plagiatus (Distant, 1882)								
+1211401	typeSpecies	Brailovsky, H. 1982. Revision del complejo Ochrimnus, con descripcion de nuevas especies y nuevos generos (Hemiptera-Heteroptera-Lygaeidae-Lygaeinae). Folia Entomol. Mexicana	Lygaeus (Ochrostomus) guatemalanus (Distant, 1882)								
+1211406	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus (Ochrostomus) cruentatus (Distant, 1882)								
+1211409	typeSpecies	Stys, P. 1972. Two new genera and species of pterygopolymorphic Lygaeinae from Ethiopia and W. Pakistan (Het.Lyg.). Act. Entomol. Bohem. 252-258	Gondarius inexpectatus Stys, 1972								
+1211411	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus collaris Fabricius, 1803								
+1211485	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus pallidocinctus Stal, 1862								
+1211497	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull. 31	Stalagmostethus neotropicalis Kirkaldy, 1909								
+1211504	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus carnosulus Van Duzee, 1914								
+1211528	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus pallescens Stal, 1862								
+1211573	typeSpecies		Scopiastes (Xestonotellus) cruentus (Horvath, 1914)								
+1211583	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus pulchellus Fabricius, 1794								
+1211636	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus fasciativentris Stal, 1858								
+1211651	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus xanthostaurus Herrich-Schaeffer, 1850								
+1211661	typeSpecies	Slater Alex. 1992. A genus level revision of western hemisphere Lygaeinae (Heteroptera: Lygaeidae) with keys to species. U. Kansas Sci. Bull.	Lygaeus teapensis Distant, 1882								
+1211668	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus concinnus Dallas, 1852								
+1211725	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus discoidalis Signoret, 1860								
+1211728	typeSpecies	Stys, P. 1972. Two new genera and species of pterygopolymorphic Lygaeinae from Ethiopia and W. Pakistan (Het.Lyg.). Act. Entomol. Bohem. 258-264	Karachicoris seidenstueckeri Stys, 1972								
+1211730	typeSpecies	Brailovsky, H. 1982. Revision del complejo Ochrimnus, con descripcion de nuevas especies y nuevos generos (Hemiptera-Heteroptera-Lygaeidae-Lygaeinae). Folia Entomol. Mexicana 310	Lygaeus vittiscutis Stal, 1862								
+1211737	typeSpecies	Slater Alex. 1988. A new genus and two new species of Lygaeinae (Heteroptera: Lygaeidae). J. Kansas Entomol. Soc.	Lygaeus lateralis Dallas, 1852								
+1211755	typeSpecies	Stal, C. 1868. Hemiptera Fabricana I. Hemiptera Fabricana I. K. svenska VetenskAkad. Handl.	Lygaeus mactans Stal, 1867								
+1211767	typeSpecies	Gross, G.F. 1965. On the identity of Lygaeus mutilatus Erichson (Hemiptera; Lygaeidae). J. Entomol. Soc. Qld.	Lygaeus mutilatus Erichson, 1842								
+1211771	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus bicolor Herrich-Schaeffer, 1850								
+1211786	typeSpecies	Brailovsky, H. 1978. Un nuevo genero y una nueva especie de Lygaeinae (Hemiptera-Heteroptera-Lygaeidae) de Peru. An. Inst. Biol. Univ. Nal. Auton. Mexico 117-119	Kalinchacoris matucanae Brailovsky, 1978								
+1211800	typeSpecies	Scudder, G.G.E. 1965. Neacoryphus Scudder, a new genus of Lygaeinae (Hem.: Lyg.). Proc. Entomol. Soc. Brit. Columbia	Lygaeus bicrucis Say, 1825								
+1211847	typeSpecies	Brailovsky, H. 1982. Un nuevo arreglo nomenclatorial descripcion de tres nuevos generos y dos nuevas especies americanas de la subfamilia Lygaeinae (Hemiptera-Heteroptera-Lygaeidae). An. Inst. Biol. Univ. Auton. de Mexico 266-269	Oxygranulobaphus willinki Brailovsky, 1982								
+1211849	typeSpecies	Brailovsky, H. 1982. Un nuevo arreglo nomenclatorial descripcion de tres nuevos generos y dos nuevas especies americanas de la subfamilia Lygaeinae (Hemiptera-Heteroptera-Lygaeidae). An. Inst. Biol. Univ. Auton. de Mexico	Acroleucus vicinalis (Distant, 1882)								
+1211852	typeSpecies	Seidenstucker, G. 1964. Psileula mimica n.gen. n.sp. und die mikropteren Lygaeinen (Het., Lyg.). Reichenbachia 204-206	Psileula mimica Seidenstucker, 1964								
+1211854	typeSpecies	Seidenstucker, G. 1964. Psileula mimica n.gen. n.sp. und die mikropteren Lygaeinen (Het., Lyg.). Reichenbachia	Apterola angusticollis (Lindberg, 1939)								
+1211859	typeSpecies	Slater, J.A. 1964. Hemiptera (Heteroptera) Lygaeidae. In: Handstrom, Brinck & Rudebeck (Eds.). South African Animal Life	Aspilocoryphus signatus (Distant, 1918)								
+1211860	typeSpecies	Brailovsky, H. 1982. Revision del complejo Ochrimnus, con descripcion de nuevas especies y nuevos generos (Hemiptera-Heteroptera-Lygaeidae-Lygaeinae). Folia Entomol. Mexicana	Coreus striatus (Fabricius, 1803)								
+1211877	typeSpecies	Slater Alex. 1985. A taxonomic revision of the Lygaeinae of Australia (Heteroptera: Lygaeidae). Univ. Kansas Sci. Bull. 380-301	Woodwardiastes exilis Slater Alex, 1985								
+1211881	typeSpecies	Slater. 1970.	Saxicoris verrucosus Slater, 1970								
+1211887	typeSpecies	Hong. 1980.	[?] damiaoense (Hong, 1980)								
+1211889	typeSpecies	Hong. 1980.	[?] naevius (Hong, 1980)								
+1211891	typeSpecies	Popov, G.A. 1961. New subfamily of terrestrial Heteroptera from the upper deposits of Karatau (Hemiptera-Gymnocerata, Lygaeidae). Doklady Acad. Sci. 1211-1213	Lygaenocoris prynadi Popov, 1961								
+1211894	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Madrorgus malagasicus (Scudder, 1962)								
+1211898	typeSpecies	China, W.E. 1930. Insects of Samoa & other Samoan terrestrial Arthropoda Pt. II. Insects of Samoa & other Samoan terrestrial Arthropoda Pt. II. Hemiptera. Fasc. 2(3):81-162	Neocrompus kellersi (China, 1930)								
+1211900	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Oreolorgus lineatus (Scudder, 1962)								
+1211902	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Rhiophila breviceps (Bergroth, 1918)								
+1211904	typeSpecies	Scudder, G.G.E. 1958. The Australian Ischnorhynchini (Hemiptera:Lygaeidae). Proc. roy. Soc. Qd.	Koscocrompus obscurus (Scudder, 1958)								
+1211906	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Crompus oculatus (Stal, 1874)								
+1211909	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Cymus lineola Dallas, 1852								
+1211911	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Kualisompus longulus (Scudder, 1962)								
+1211913	typeSpecies	Scudder, G.G.E. 1958. The Australian Ischnorhynchini (Hemiptera:Lygaeidae). Proc. roy. Soc. Qd.	Cerocrompus typicus (Scudder, 1958)								
+1211915	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Congolorgus tropicus (Scudder, 1962)								
+1211917	typeSpecies	Bergroth, E. 1921. Notes on some Cyminae. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Syzygitis reflexa (Bergroth, 1921)								
+1211919	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	[?] colon (Thunberg, 1784)								
+1211950	typeSpecies	Scudder, G.G.E. 1958. The Australian Ischnorhynchini (Hemiptera:Lygaeidae). Proc. roy. Soc. Qd.	Acanthocrompus grandis (Scudder, 1958)								
+1211954	typeSpecies	Kirkaldy, G.W. 1904. Bibliographical & nomenclatorial notes on the Hemiptera N.3. Entomologist	Imbrius ferruginosus Stal, 1874								
+1211961	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Imbrius ferruginosus Stal, 1874								
+1212015	typeSpecies	Scudder, G.G.E. 1962. The Ischnorhynchinae of the world (Hemiptera:Lygaeidae). Trans. R. ent. Soc. Lond.	Ischnorhynchus godmani Distant, 1882								
+1212033	typeSpecies	Slater, J.A. 1962. Darwinocoris, a new genus of Pachygronthinae from Australia, with a description of the type species, D. australicus sp. n. (Hemiptera: Lygaeidae). J. ent. Soc. Qd.	Darwinocoris australicus (Slater, 1962)								
+1212035	typeSpecies	Reuter, O.M. 1887. Ad cognitionem Heteropterorum Madagascariensium. Ent. Tidskr.	Paristhmius vitticollis (Reuter, 1887)								
+1212037	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Phlegyas annulicrus (Stal, 1869)								
+1212047	typeSpecies	Fieber, F.X. 1870. Dodecas neuer Gattungen & neuer Arten europaischer Hemiptera. Verh. zool.-bot. Ges. Wien	Cymophyes ochroleuca (Fieber, 1870)								
+1212052	typeSpecies	Linnavuori, R. 1978. Hemiptera of the Sudan, with remarks on some species of the adjacent countries 6. Aradidae, Meziridae, Aneuridae, Pyrrhocoridae, Stenocephalidae, Coreidae, Alydidae, Rhopalidae, Lygaeidae. Act. Zool. Fenn.	Stenophyella africana Lindberg, 1958								
+1212055	typeSpecies	Horvath, G. 1914. Miscellanea Hemipterologica XIII-XVII. Ann. hist.-nat. Mus. hung.	Stenophyella macreta (Horvath, 1914)								
+1212062	typeSpecies	Stal, C. 1858. Orthoptera och Hemiptera fran sodra Afrika. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Teracrius namaquensis (Stal, 1858)								
+1212069	typeSpecies	Slater, J.A. 1955. A revision of the subfamily Pachygronthinae of the world (Hemiptera: Lygaeidae). Philipp. J. Sci. 463	Helonotocoris modigliani Lethierry, 1889								
+1212075	typeSpecies	Slater, J.A. 1956. Notes on Australian Pachygronthinae with the description of a new genus (Hemiptera:Lygaeidae). Proc. roy. Soc. Qd.	Stenophlegyas woodwardi (Slater, 1956)								
+1212078	typeSpecies	Bergroth, E. 1894. Rhynchota Aethiopica II. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Opisthostenus ochreipennis Reuter, 1882								
+1212097	typeSpecies	Germar, E.F. 1837. Hemiptera Heteroptera Promontorii Bonae Spei. Nundum Descripta, Quae Collegit C. F. Drege. Silbermann's Rev. Entomologique	Pachygrontha lineata (Germar, 1837)								
+1212166	typeSpecies	Montrousier. 1864. --. Ann. Soc. linn. Lyon ns. 11(2):226-227	Dilophos solieri Montrousier, 1864								
+1212169	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Ischnodemus pallidipennis Stal, 1859								
+1212171	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist. 474-475	Magninus typicus Distant, 1901								
+1212173	typeSpecies	Amyot & A. Serville. 1843. Histoire naturelle des insectes; Hemipteres. Histoire naturelle des insectes Hemipteres. Paris: Fain et Thunot.	Lygaeus crassimana Fabricius, 1803								
+1212190	typeSpecies	Sailer, R.I. & Carvalho. 1957. Miocene arthropods from the Mojave Desert California. Order Hemiptera-Suborder Heteroptera. In: Palmer, A. R. Geol. Survey Professional Paper	Procymophyes lithax (Sailer & Carvalho, 1957)								
+1212195	typeSpecies	Stys, P. 1963. Notes on the taxonomy, distribution, and evolution of the Chauliopinae (Lygaeidae, Heteroptera). Act. Univ. Carolin.-Biol.	Chauliops laciniata Bergroth, 1916								
+1212198	typeSpecies	Scott, J. 1874. On a collection of Hemiptera-Heteroptera from Japan, descriptions of various new genera and species. Ann. Mag. Nat. Hist.	Chauliops fallax (Scott, 1874)								
+1212208	typeSpecies	Stal, C. 1859. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III (Zoologi, Insekter) 219-298	Malcus flavidipes (Stal, 1859)								
+1212224	typeSpecies	Stephens, J.F. 1829. A systematic catalogue of British insects. A systematic catalogue of British insects. London: Baldwin and Cradock pp.	Lygaeus brevipennis Latreille, 1807								
+1212412	typeSpecies	Wagner. 1964.	Plinthisus lativentris Horvath, 1906								
+1212424	typeSpecies	Wagner. 1963.	Plinthisus (Plinthisomus) fasciatus (Horvath, 1882)								
+1212525	typeSpecies	Scudder. 1968.	Drymus slateri (Southwood, 1963)								
+1212528	typeSpecies	Jakovlev, B.E. 1877. Novlia Polujestkokruilia Hemiptera Heteroptera, Astrachanskoi faunoi. Bull. Soc. Nat. Moscou	Rhyparochromus glaberrimus Walker, 1872								
+1212539	typeSpecies	Slater, J.A. & T.E. Woodward. 1974. A new genus and four new species of Rhyparochrominae (Hemiptera: Lygaeidae) from Australia. J. Aust. Entomol. Soc. 305-310	Exomyocara trispinosum Slater & Woodward, 1974								
+1212542	typeSpecies	Scudder, G.G.E. 1971. New Lygaeidae (Hemiptera) from the Niokolo-Koba National Park, Senegal. Bull. Inst. Fond. Afr. Noire. 722-723	Lampropunctus hirsutus Scudder, 1971								
+1212544	typeSpecies	Woodward, T.E. & M.B. Malipatil. 1977. A new genus and two new species of Lethaeini (Hemiptera: Lygaeidae: Rhyparochrominae). J. Aust. Entomol. Soc. 342-344	Paramyocara iridescens Woodward & Malipatil, 1977								
+1212547	typeSpecies	Scudder, G.G.E. 1971. New Lygaeidae (Hemiptera) from the Niokolo-Koba National Park, Senegal. Bull. Inst. Fond. Afr. Noire. 724-725	Porrectolethaeus rugosus Scudder, 1971								
+1212549	typeSpecies	O'Donnell, J.E. 1991. A new coleopteroid lethaeine from southern South America (Hemiptera: Lygaeidae: Rhyparochrominae). J. N.Y. Entomol. Soc. 88-93	Stictolethaeus slateri O'Donnell, 1991								
+1212551	typeSpecies	Slater, J.A. 1972. Sweetolethaeus, a new genus of Lethaeini from South Africa, with the description of two new species, one from termite nests (Hemiptera: Lygaeidae). Proc. Entomol. Soc. Washington 155-161	Sweetolethaeus macchiaensis Slater, 1972								
+1212554	typeSpecies	Bergroth, E. 1916. New genera & species of Australian Hemiptera. Proc. roy. Soc. Vict. 567-568	Rhyparochromus acuminatus Dallas, 1852								
+1212559	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Rhyparochromus terginus Stal, 1858								
+1212564	typeSpecies	Distant, W.L. 1909. LXV. Oriental Rhynchota Heteroptera. Ann. Mag. Nat. Hist.	Adauctus cupreus (Distant, 1909)								
+1212567	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Rhyparochromus diffinis Walker, 1872								
+1212569	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Atkinsonianus reticulatus (Distant, 1909)								
+1212571	typeSpecies	Woodward, T.E. 1962. A new genus of Rhyparochrominae (Hemiptera: Lygaeidae) from Queensland. J. ent. Soc. Qd.	Austroxestus carnarvoni (Woodward, 1962)								
+1212573	typeSpecies	Distant. 1893.	Bubaces castaneus (Distant, 1893)								
+1212575	typeSpecies	Gross, G.F. 1958. Australian beetle-mimicking bugs of the family Lygaeidae (subfamily Rhyparochrominae-tribe Lethaeini). Rec. S. Aust. Mus.	Carabocoris biplagiatus (Gross, 1958)								
+1212577	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Lygaeus (Platygaster) signoretii (Guerin-Meneville, 1857)								
+1212582	typeSpecies	Gross, G.F. 1958. Australian beetle-mimicking bugs of the family Lygaeidae (subfamily Rhyparochrominae-tribe Lethaeini). Rec. S. Aust. Mus.	Coleocoris triplagiatus (Gross, 1958)								
+1212586	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Cryphula parallelogramma (Stal, 1874)								
+1212600	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Lethaeus robustus Bergroth, 1918								
+1212602	typeSpecies	Dallas, W.S. 1852. List of the specimens of Hemipterous insects in the collection of the British Museum. List of the specimens of Hemipterous insects in the collection of the British Museum. Part. II., Taylor & Francis Inc., London 2:369-592	Lethaeus africanus (Dallas, 1852)								
+1212669	typeSpecies	Berg, C. 1879. Hemiptera Argentina enumeravit speciesque novas. Hemiptera Argentina enumeravit speciesque novas. Bonariae: Pauli E. Coni pp.	Lipostemmata humeralis (Berg, 1879)								
+1212672	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Neolethaeus typicus (Distant, 1909)								
+1212678	typeSpecies	Woodward, T.E. & J.A. Slater. 1962. A new genus of Lethaeini common to Australia and South Africa with descriptions of two new species (Heteroptera: Lygaeidae). J. ent. Soc. Qd.	Noteolethaeus armstrongi (Woodward & Slater, 1962)								
+1212681	typeSpecies	Barber, H.G. 1939. Scientific survey of Porto Rico & the Virgin Islands: Insects of Porto Rico & the Virgin Islands: Hemiptera-Heteroptera (excepting the Miridae & Corixidae). Scientific Survey of Porto Rico (Sci. Surv. P. Rico) 14:263-441	Gonatas divergens Distant, 1882								
+1212684	typeSpecies	Distant. 1893.	Petissius assimilandus (Distant, 1893)								
+1212690	typeSpecies	Wagner, E. 1961. Ein neues genus und ein neuer tribus aus der familie Lygaeidae (Hem. Het.). Acta Entomologica Musei Nationalis Prague (A. Entomol. Musei Nat. Prague)	Ptilocamptocera franzi (Wagner, 1961)								
+1212693	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Pachymerus quadricollis Spinola, 1852								
+1212697	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.2. Journal of the New York Entomological Society (J. New York Entomol. Soc.) 407	Petissius diversus Distant, 1893								
+1212702	typeSpecies	Van Duzee, E.P. 1906. New North American Heteroptera. Entomological News (Ent. News) 17:384-391	Xestocoris nitens (Van Duzee, 1906)								
+1212707	typeSpecies	Kiritshenko, A.N. 1931. Hemiptera-Heteroptera of the third Mount Everest Expedition, 1924. I. Ann. Mag. Nat. Hist.	Hexatrichocoris melleus (Kiritshenko, 1931)								
+1212709	typeSpecies	Reuter, O.M. 1882. Ad cognitionem Heteropterorum Africae occidentalis. Ofvers. finska VetenskSoc. Forh.	Lamproceps apicalis (Reuter, 1882)								
+1212723	typeSpecies	Bergroth, E. 1894. Rhynchota Aethiopica II. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Lethaeus marginatus Signoret, 1860								
+1212726	typeSpecies	Slater, J.A. 1957. Nomenclatorial considerations in the family Lygaeidae (Hemiptera; Heteroptera). Bull. Brooklyn ent. Soc.	Gonatas typicus Distant, 1882								
+1212734	typeSpecies	Bergroth, E. 1893. Mission scientifique de M. Ch. Alluaud aux iles Sechelles. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Dinia glabrata Stal, 1874								
+1212760	typeSpecies	Sailer, R.I. & Carvalho. 1957. Miocene arthropods from the Mojave Desert California. Order Hemiptera-Suborder Heteroptera. In: Palmer, A. R. Geol. Survey Professional Paper 256-257	Miogonates subimpunctatus Sailer & Carvalho, 1957								
+1212765	typeSpecies	Gross. 1965.	Austrodrymus flindersi (Gross, 1965)								
+1212767	typeSpecies	Scudder. 1969.	Bexiocoris linnavuorii (Scudder, 1969)								
+1212769	typeSpecies	Gross. 1965.	Brachydrymus lateabundans (Gross, 1965)								
+1212771	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Scolopostethus putoni White, 1878								
+1212785	typeSpecies	Gross. 1965.	Taphropeltus australis (Bergroth, 1916)								
+1212787	typeSpecies	Slater. 1995.	Carvalhodrymus elegans (Slater, 1995)								
+1212789	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	[?] abietis (Linnaeus, 1758)								
+1212882	typeSpecies	Scudder. 1969.	[?] refractarius (Scudder, 1969)								
+1212885	typeSpecies	Gross. 1965.	[?] enigmatica (Gross, 1965)								
+1212892	typeSpecies	Scudder. 1978.	[?] angulatus (Scudder, 1978)								
+1212895	typeSpecies	Scudder. 1963.	[?] absolutus (Scudder, 1963)								
+1212902	typeSpecies	Gross. 1965.	[?] terraereginae (Gross, 1965)								
+1212904	typeSpecies	Scudder. 1978.	[?] nodosa (Scudder, 1978)								
+1212907	typeSpecies	Scudder. 1968.	Entisberus esakii (Slater & Hidaka, 1958)								
+1212913	typeSpecies	Scudder. 1968.	Mizaldus lewisi (Distant, 1901)								
+1212918	typeSpecies	Bergroth. 1916.	[?] exilirostris (Bergroth, 1916)								
+1212925	typeSpecies	Scudder. 1969.	[?] furfurosus (Scudder, 1969)								
+1212927	typeSpecies	Gross. 1965.	[?] florestalis (Gross, 1965)								
+1212929	typeSpecies	Gross. 1965.	[?] abundans (Gross, 1965)								
+1212931	typeSpecies	Slater. 1993.	[?] deemingi (Slater, 1993)								
+1212933	typeSpecies	Distant. 1893.	Acolhua championi (Distant, 1893)								
+1212940	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Lemnius ovatus (Distant, 1904)								
+1212946	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Ophthalmicus cincticornis Walker, 1872								
+1212956	typeSpecies	China, W.E. 1935. CVII. The terrestrial Hemiptera of the German Limnological Sunda-Expedition. Ark. Hydrobiol. Supp. Bd.	Chotekia typica (China, 1935)								
+1212958	typeSpecies	Breddin, G. 1901. Die Hemipteren von Celebes. Abh. Naturf. Ges. Halle	Coracodrymus muscicola Breddin, 1901								
+1212961	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Drymus pilipes (Fieber, 1861)								
+1213015	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Rhyparochromus luteicornis Walker, 1872								
+1213019	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Dudia comptula (Bergroth, 1918)								
+1213021	typeSpecies	Distant, W.L. 1903. On some underscribed Rhynchota. Ann. Mag. Nat. Hist.	Entisberus archetypus (Distant, 1903)								
+1213025	typeSpecies	Douglas, J.W. & J. Scott. 1868. British Hemiptera: additions & corrections. Entomologist’s Monthly Magazine (Ent. mon. Mag.)	Pachymerus (Pachymerus) piceus Flor, 1860								
+1213037	typeSpecies	China, W.E. 1935. CVII. The terrestrial Hemiptera of the German Limnological Sunda-Expedition. Ark. Hydrobiol. Supp. Bd.	Retoka minuta (China, 1935)								
+1213039	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Geocoris ceylonicus Lethierry & Severin, 1894								
+1213044	typeSpecies	Bergroth, E. 1906. Neue Hemiptera aus Madagaskar. Wien. ent. Ztg	Salaciola nana (Bergroth, 1906)								
+1213046	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Scolopostethus cognatus (Fieber, 1861)								
+1213098	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Ischnocoris punctulatus (Fieber, 1861)								
+1213120	typeSpecies	Distant, W.L. 1910. The fauna of British India, including Ceylon & Burma. The fauna of British India, including Ceylon & Burma. Rhynchota Vol. V. Heteroptera: Appendix	Potamiaena aurifera (Distant, 1910)								
+1213122	typeSpecies	Distant, W.L. 1906. Oriental Heteroptera. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Kanigara flavomarginata (Distant, 1906)								
+1213126	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Mizaldus woodwardi Slater & Carayon, 1963								
+1213133	typeSpecies	Breddin, G. 1907. Bertiden & Myodochiden von Ceylon aus der Sammelausbeute von Dr. W. Horn (Rhynch. het.) II. Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.)	Notochilaster teres (Breddin, 1907)								
+1213135	typeSpecies	Fieber, F.X. 1864. Neuere Entdeckungen in Europaischen Hemipteren. A. Gattungen. Weiner Entomologische Monatschrift (Wien. Ent. Mschr.)	Pachymerus ferrugineus Mulsant & Rey, 1852								
+1213165	typeSpecies	Fieber, F.X. 1870. Dodecas neuer Gattungen & neuer Arten europaischer Hemiptera. Verh. zool.-bot. Ges. Wien	Rhyparochromus marginicollis Lucas, 1849								
+1213182	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Thebanus politus (Distant, 1904)								
+1213190	typeSpecies	Barber, H.G. 1928. Two new Lygaeidae from the western United States (Hemiptera-Lygaeidae). Bull. Brooklyn ent. Soc.	Thylochromus nitidulus (Barber, 1928)								
+1213192	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.2. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Eremocoris wrighti Van Duzee, 1914								
+1213196	typeSpecies	Lindberg, H. 1927. Zur Kenntnis der Heteropteren-Fauna von Kamtschatka sowie der Amur- & Ussuri-Gebiete. Acta Soc. Fauna Flora fenn.	Trichodrymus pameroides (Lindberg, 1927)								
+1213202	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Udalricus scutellatus (Distant, 1904)								
+1213204	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Uzza karenia (Distant, 1909)								
+1213206	typeSpecies	Distant. 1893.	Scythinus splendens (Distant, 1893)								
+1213208	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Aphanus capensis Dallas, 1852								
+1213215	typeSpecies	Bergroth, E. 1893. Mission scientifique de M. Ch. Alluaud aux iles Sechelles. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Stilbocoris solivagus (Bergroth, 1893)								
+1213219	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Lygaeus (Drymus) hamulatus (Thomson, 1870)								
+1213242	typeSpecies	Westwood. 1840. An introduction to the modern classification of Insects: founded on the natural habits and corresponding organization of the different families. An introduction to the modern classification of Insects: founded on the natural habits and corresponding organization of the different families. Vol. II. London: Longman, Orme, Brown, Green and Longmans. 33:183	Gastrodes (Gastrodes) abietum Bergroth, 1914								
+1213276	typeSpecies	Kiritshenko & Scudder. 1973.	[?] testaceus (Kiritshenko & Scudder, 1973)								
+1213282	typeSpecies	Brailovsky. 1978.	[?] slateri (Brailovsky, 1978)								
+1213284	typeSpecies	Kiritshenko & Scudder. 1973.	[?] fax (Kiritshenko & Scudder, 1973)								
+1213286	typeSpecies	Scudder. 1984.	Sphragisticus simulatus (Barber, 1918)								
+1213289	typeSpecies	Horvath, G. 1884. Diagnoses Hemipterorum. Term-Tud. Fuz.	Alampes longiusculus (Horvath, 1884)								
+1213291	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Pachymerus bivirgatus Costa, 1855								
+1213299	typeSpecies	Laporte & de Castelnau. 1832. Essai d'une classification systematique de l'ordre des Hemipteres (Hemipteres Heteropteres, Latr.). Mag. Zool.	[?] [?]   (Linnaeus, 1758)								
+1213329	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus marginepunctatus Wolff, 1800								
+1213350	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus verbasci Fabricius, 1803								
+1213414	typeSpecies	Jakovlev, B.E. 1874. Hemiptera-Heteroptera Astrachanskago Chraia. Bull. Soc. Nat. Moscou	Hyalocoris pilicornis (Jakovlev, 1874)								
+1213422	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Pachymerus hirticornis Herrich-Schaeffer, 1850								
+1213431	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.2. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Trapezonotus rufipes Stal, 1874								
+1213439	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus varius Wolff, 1800								
+1213455	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Cimex arenarius (Linnaeus, 1758)								
+1213503	typeSpecies	Fieber, F.X. 1864. Neuere Entdeckungen in Europaischen Hemipteren. A. Gattungen. Weiner Entomologische Monatschrift (Wien. Ent. Mschr.)	Diomphalus hispidulus (Fieber, 1864)								
+1213510	typeSpecies	Reuter, O.M. 1885. Ad cognitionem Lygaeidarum Palaearcticarum. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Rhyparochromus beckeri Frey-Gessner, 1863								
+1213518	typeSpecies	Amyot & A. Serville. 1843. Histoire naturelle des insectes; Hemipteres. Histoire naturelle des insectes Hemipteres. Paris: Fain et Thunot.	Pachymerus staphyliniformis Schilling, 1829								
+1213541	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Rhyparochromus micropterus Curtis, 1836								
+1213554	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Rhyparochromus brachiidens Dufour, 1851								
+1213562	typeSpecies	Bergroth, E. 1893. Notes Hemipterologiques. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Dorachosa illuminatus Distant, 1893								
+1213567	typeSpecies	Reuter. 1885.	Parapolycrates ciliatus (Reuter, 1885)								
+1213888	typeSpecies	Scudder. 1984.	[?] stellatus (Scudder, 1984)								
+1213890	typeSpecies	Eyles & Scudder. 1968.	[?] sinuosus (Eyles & Scudder, 1968)								
+1213899	typeSpecies	Eyles. 1968.	[?] paxillus (Eyles, 1968)								
+1213903	typeSpecies	Scudder. 1963.	[?] flavescens (Scudder, 1963)								
+1213906	typeSpecies	Sweet, M.H. 1991. A new genus and new species of Rhyparochrominae (Hemiptera: Lygaeidae) from western North America. J. N.Y. Entomol. Soc. 473, 474-476	Orphnotrechus slateri Sweet, 1991								
+1213914	typeSpecies	Scudder. 1963.	[?] erectus (Scudder, 1963)								
+1213917	typeSpecies	Eyles. 1970.	[?] brevirostris (Eyles, 1970)								
+1213927	typeSpecies	Dohrn, F.A. 1860. Hemipterologische Miscellaneen. Stettiner Entomologische Zeitung (Stettin ent. Ztg) 21:99-109	Dieuches syriacus (Dohrn, 1860)								
+1214087	typeSpecies	Reuter, O.M. 1882. Ad cognitionem Heteropterorum Africae occidentalis. Ofvers. finska VetenskSoc. Forh.	Anepsiodes nitidus (Reuter, 1882)								
+1214089	typeSpecies	Amyot & A. Serville. 1843. Histoire naturelle des insectes; Hemipteres. Histoire naturelle des insectes Hemipteres. Paris: Fain et Thunot.	Cimex maritimus (Scopoli, 1763)								
+1214151	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Bosbequius latus (Distant, 1904)								
+1214154	typeSpecies	Reuter, O.M. 1887. Ad cognitionem Heteropterorum Madagascariensium. Ent. Tidskr.	Perimeda dimidiata (Reuter, 1887)								
+1214156	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Beosus angusticollis Sahlberg, 1848								
+1214224	typeSpecies	Wagner, E. 1961. Einige neue Lygaeiden-Gattungen und Arten aus der Tschadsee-Republik (Hemiptera Heteroptera). Polsk. Akad. Nauk Inst. zool, Fragm. faun.	Lophoraglius notatus (Wagner, 1961)								
+1214226	typeSpecies	Distant, W.L. 1918. Contributions to a further knowledge of the Rhynchotal family Lygaeidae. Ann. Mag. Nat. Hist.	Dieuches dispar Haglund, 1895								
+1214228	typeSpecies	Scott, J. 1874. On a collection of Hemiptera-Heteroptera from Japan, descriptions of various new genera and species. Ann. Mag. Nat. Hist.	Metochus abbreviatus (Scott, 1874)								
+1214246	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Rhyparochromus apicalis Dallas, 1852								
+1214251	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Naudarensia pedata (Distant, 1904)								
+1214256	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Peritrechus aeruginosus Distant, 1904								
+1214258	typeSpecies	Distant, W.L. 1883. First report on the Rhynchota collected in Japan by Mr. George Lewis. Trans. R. ent. Soc. Lond.	Paradieuches lewisi (Distant, 1883)								
+1214262	typeSpecies	Horvath, G. 1908. Remarques sur quelques Hemipteres de l'Amerique du Nord. Ann. hist.-nat. Mus. hung.	Rhyparochromus floralis Gillette & Baker, 1895								
+1214264	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Aphanus orientalis Distant, 1904								
+1214266	typeSpecies	Kiritshenko, A.N. 1926. Beitrage zur Kenntnis palaearktischer Hemipteren. Konowia	Aphanus fuentei Puton, 1894								
+1214274	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Prolygaeus inundatus (Scudder, 1890)								
+1214276	typeSpecies	Wagner, E. 1961. Noch eine neue Lygaeiden-Gattung aus dem Tschadsee-Gebiet (Hem. Het.). Z. Arbeitges. Osterr. Ent.	Acroraglius dentatus (Wagner, 1961)								
+1214278	typeSpecies	Distant, W.L. 1918. Contributions to a further knowledge of the Rhynchotal family Lygaeidae. Ann. Mag. Nat. Hist.	Exopamera aethiopica (Distant, 1918)								
+1214281	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Cimex lynceus (Fabricius, 1775)								
+1214298	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Poeantius gracilicornis (Reuter, 1882)								
+1214314	typeSpecies	Reuter, O.M. 1885. Ad cognitionem Lygaeidarum Palaearcticarum. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Pachymerus delineatus Rambur, 1839								
+1214323	typeSpecies	Bergroth, E. 1915. Hemiptera from the Bombay presidency. J. Bombay nat. Hist. Soc.	Lanchnophorus guttulatus Reuter, 1887								
+1214337	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Narbo longipes (Stal, 1867)								
+1214347	typeSpecies	Wolff, J.F. 1800. Icones Cimicum descriptionibus illustratae. Erlangae: apud Joann. Icones Cimicum descriptionibus illustratae. Erlangae: apud Joann. Jacobum Palm	Cimex atratus (Goeze, 1778)								
+1214370	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Beosus albofasciatus Stal, 1865								
+1214412	typeSpecies	Reuter, O.M. 1885. Ad cognitionem Lygaeidarum Palaearcticarum. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Rhyparochromus leucodermus Fieber, 1861								
+1214422	typeSpecies	Kiritshenko, A.N. 1911. Neue & noch wenig bekannte Hemipteren der russischen Fauna. Rev. russe Ent. 14:192	Aphanus (Plinthurgus) sogdianus Kiritshenko, 1914								
+1214427	typeSpecies	Kiritshenko, A.N. 1951. True Hemiptera of European USSR. Key & bibliography. Opred. Faune SSSR	Pachymerus adspersus Mulsant & Rey, 1852								
+1214434	typeSpecies	Seidenstucker, G. 1963. Uber Rhyparochromus subgen. Microtomideus in Kleinasien (Heteroptera, Lygaeidae). Acta Entomologica Musei Nationalis Prague (A. Entomol. Musei Nat. Prague) 35:424-5	Rhyparochromus (Aellopideus) nigritus Seidenstucker, 1963								
+1214437	typeSpecies	Horvath, G. 1906. Hemipteren (in Penther & Zederbauer, Reise zum Erdschias-Dagh). Ann. naturh. (Mus.) Hofmns. Wien	Rhyparochromus nigroruber Stal, 1858								
+1214440	typeSpecies	Wagner, E. 1961. Einige neue Lygaeiden-Gattungen und Arten aus der Tschadsee-Republik (Hemiptera Heteroptera). Polsk. Akad. Nauk Inst. zool, Fragm. faun.	Nysius novitius Distant, 1892								
+1214442	typeSpecies	Reuter, O.M. 1885. Ad cognitionem Lygaeidarum Palaearcticarum. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Calyptonotus walkeri Saunders, 1876								
+1214445	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Lygaeus quadratus Fabricius, 1798								
+1214498	typeSpecies	Slater & Woodward. 1979.	Lilliputocoris exiguus (Slater, 1979)								
+1214511	typeSpecies	Slater. 1980.	Antillocoris obscurus (Barber, 1954)								
+1214515	typeSpecies	Baranowski & Slater. 1987.	[?] pileacola (Baranowski & Slater, 1987)								
+1214517	typeSpecies	Slater. 1983.	Baeocoris molliculus (Slater, 1983)								
+1214521	typeSpecies	Scudder. 1962.	Bocundostethus aethiopicus (Scudder, 1962)								
+1214525	typeSpecies	Baranowski & Slater. 1987.	Gemmocoris nitens (Baranowski & Slater, 1987)								
+1214528	typeSpecies	Scudder. 1962.	Kinundastethus brachypterus (Scudder, 1962)								
+1214530	typeSpecies	Malipatil & Woodward. 1989.	Lethaeastroides sarawakensis (Malipatil & Woodward, 1989)								
+1214533	typeSpecies	Scudder. 1962.	Microlugenocoris brunneus (Scudder, 1962)								
+1214535	typeSpecies	Slater. 1980.	Paradema oculata (Slater, 1980)								
+1214542	typeSpecies	Slater. 1980.	Paurocoris wygodzinskyi (Slater, 1980)								
+1214548	typeSpecies	Scudder. 1968.	Pachymerus brevis Lethierry, 1883								
+1214554	typeSpecies	Slater. 1980.	Terenocoris nitidus (Slater, 1980)								
+1214556	typeSpecies	Slater. 1980.	Trachinocoris crassus (Slater, 1980)								
+1214558	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Pachymerus holosericus Scholtz, 1846								
+1214590	typeSpecies	Distant. 1893.	Cligenes distinctus (Distant, 1893)								
+1214630	typeSpecies	Horvath, G. 1884. Diagnoses Hemipterorum. Term-Tud. Fuz.	Homoscelis ruficollis (Horvath, 1884)								
+1214632	typeSpecies	Lindberg, H. 1927. Zur Kenntnis der Heteropteren-Fauna von Kamtschatka sowie der Amur- & Ussuri-Gebiete. Acta Soc. Fauna Flora fenn.	Iodinus ferrugineus (Lindberg, 1927)								
+1214634	typeSpecies	Bergroth, E. 1908. Neue indische Hemiptera. Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.)	Microcoris sexnotatus (Bergroth, 1908)								
+1214636	typeSpecies	Woodward, T.E. 1959. Two new species of Megalonotinae from New Guinea (Hemiptera: Lygaeidae). Proc. roy. Soc. Qd.	Nympholethaeus papuensis (Woodward, 1959)								
+1214638	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Sinierus vitiensis Kirkaldy, 1908								
+1214640	typeSpecies	Woodward, T.E. 1963. A new species of Tomocoris Woodward and a new related genus (Hemiptera: Lygaeidae: Rhyparochrominae). Pap. Dep. Ent. Univ. Qd., Brisbane	Tomocoroides fijianus (Woodward, 1963)								
+1214642	typeSpecies	Kirkaldy, G.W. 1904. Bibliographical & nomenclatorial notes on the Hemiptera N.3. Entomologist	Aphanus diluticornis Stal, 1858								
+1214652	typeSpecies	Kirkaldy, G.W. 1904. Bibliographical & nomenclatorial notes on the Hemiptera N.3. Entomologist	Pygaeus pallidus Uhler, 1894								
+1214670	typeSpecies	Woodward. 1978.	Australotarma hirsuta (Woodward, 1978)								
+1214673	typeSpecies	Scudder. 1978.	Calotargemus longirostris (Scudder, 1978)								
+1214675	typeSpecies	Malipatil. 1977.	Geratarma eylesi (Malipatil, 1977)								
+1214680	typeSpecies	Eyles. 1967.	Millerocoris ductus (Eyles, 1967)								
+1214683	typeSpecies	Eyles. 1967.	Millerocoris ductus (Eyles, 1967)								
+1214684	typeSpecies	Malipatil. 1983.	Paramirrhina watti (Malipatil, 1983)								
+1214686	typeSpecies	Malipatil. 1977.	Tomocoris insularis (Woodward, 1953)								
+1214689	typeSpecies	Woodward. 1978.	Popondetta monteithi (Woodward, 1978)								
+1214691	typeSpecies	Woodward. 1978.	Targarops noahi (Woodward, 1978)								
+1214693	typeSpecies	Woodward. 1978.	Truncaloides slateri (Woodward, 1978)								
+1214695	typeSpecies	Malipatil. 1977.	Regatarma forsteri evagorata (Woodward, 1953)								
+1214709	typeSpecies	Distant, W.L. 1914. Rhynchota from New Caledonia & the surrounding islands. In: Sarasin & Roux Nova Caledonia Zool.	Baladeana macularia (Distant, 1914)								
+1214711	typeSpecies	Woodward, T.E. 1953. New genera and species of Rhyparochrominae from New Zealand (Heteroptera: Lygaeidae). Rec. Canterbury (N.Z.) Mus.	Forsterocoris bisinuatus (Woodward, 1953)								
+1214714	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Lethaeus aurantiacus Distant, 1914								
+1214716	typeSpecies	Breddin, G. 1905. Rhynchota Heteroptera aus Java. Mitt. naturh. Mus. Hamburg	Lethaeaster anthocoroides (Breddin, 1905)								
+1214719	typeSpecies	White, F.B. 1878. List of the Hemiptera of New Zealand. Entomologist’s Monthly Magazine (Ent. mon. Mag.) 15:31-34, 73-76, 130-133, 159-161	Metagerra obscura (White, 1878)								
+1214724	typeSpecies	Distant, W.L. 1920. Rhynchota from New Caledonia. Ann. Mag. Nat. Hist. (9):6:155	Mirrhina albicollis Distant, 1920								
+1214730	typeSpecies	Woodward, T.E. 1953. New genera and species of Rhyparochrominae from New Zealand (Heteroptera: Lygaeidae). Rec. Canterbury (N.Z.) Mus.	Regatarma forsteri (Woodward, 1953)								
+1214744	typeSpecies	Woodward, T.E. 1953. New genera and species of Rhyparochrominae from New Zealand (Heteroptera: Lygaeidae). Rec. Canterbury (N.Z.) Mus.	Trypetocoris rudis (Woodward, 1953)								
+1214748	typeSpecies	Miller. 1956. The biology of the Heteroptera. The biology of the Heteroptera. London: Leonard Hill (Books) Limited pp.	Ruavatua insignis (Miller, 1956)								
+1214750	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Cligenes niveomaculatus Distant, 1920								
+1214752	typeSpecies	White, F.B. 1878. List of the Hemiptera of New Zealand. Entomologist’s Monthly Magazine (Ent. mon. Mag.) 15:31-34, 73-76, 130-133, 159-161	Targarema stali (White, 1878)								
+1214755	typeSpecies	Woodward, T.E. 1953. New genera and species of Rhyparochrominae from New Zealand (Heteroptera: Lygaeidae). Rec. Canterbury (N.Z.) Mus.	Tomocoris truncatus (Woodward, 1953)								
+1214773	typeSpecies	Slater. 1982.	[?] brunneus (Slater, 1982)								
+1214775	typeSpecies	Slater & Sweet. 1970.	[?] tafelbergensis (Slater & Sweet, 1970)								
+1214777	typeSpecies	Slater & Sweet. 1970.	[?] emlembei (Slater & Sweet, 1970)								
+1214783	typeSpecies	Slater. 1964.	[?] capensis (Slater, 1964)								
+1214785	typeSpecies	O'Rourke. 1974.	[?] parafenestratus (O'Rourke, 1974)								
+1214802	typeSpecies	Slater & Sweet. 1970.	[?] truganinae (Slater & Sweet, 1970)								
+1214804	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp.	Arrianus excavatus (Distant, 1904)								
+1214806	typeSpecies	Uhler, P.R. 1893. A List of the Hemiptera-Heteroptera collected in the Island of St. Vincent by Mr. Herbert H. Smith; with descriptions of new genera and species. Proceedings of the Zoological Society of London (Proc. zool. Soc. Lond.)	Bathydema socia (Uhler, 1893)								
+1214813	typeSpecies	Reuter, O.M. 1890. Adnotationes Hemipterologicae. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Drymus lathridioides Puton, 1889								
+1214817	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Cymus ovatulus Costa, 1855								
+1214824	typeSpecies	Wagner, E. 1961. Ein neues genus und ein neuer tribus aus der familie Lygaeidae (Hem. Het.). Acta Entomologica Musei Nationalis Prague (A. Entomol. Musei Nat. Prague)	Lasiosomoidea nitens Wagner, 1961								
+1214826	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi, 1:46	Aphanus enervis Herrich-Schaeffer, 1835								
+1214839	typeSpecies	White, F.B. 1878. List of the Hemiptera of New Zealand. Entomologist’s Monthly Magazine (Ent. mon. Mag.) 15:31-34, 73-76, 130-133, 159-161	Margareta dominica (White, 1878)								
+1214842	typeSpecies	Douglas, J.W. & J. Scott. 1865. The British Hemiptera Vol. 1. Hemiptera-Heteroptera. The British Hemiptera Vol. xii + 627 pp	Lygaeus rusticus Fallen, 1807								
+1214881	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus rufipes Wolff, 1800								
+1214902	typeSpecies	Malipatil. 1981.	Clerada ferruginea (Horvath, 1909)								
+1214907	typeSpecies	Malipatil. 1981.	[?] neboissi (Malipatil, 1981)								
+1214910	typeSpecies	Scudder. 1969.	[?] inamatus (Scudder, 1969)								
+1214912	typeSpecies	Scudder. 1963.	[?] nitida (Scudder, 1963)								
+1214917	typeSpecies	Scudder. 1963.	[?] dolora (Scudder, 1963)								
+1214919	typeSpecies	Malipatil. 1981.	Clerada laticollis (Horvath, 1909)								
+1214930	typeSpecies	Malipatil. 1981.	[?] westraliensis (Malipatil, 1981)								
+1214933	typeSpecies	Malipatil. 1981.	Clerada rufangula (Bergroth, 1895)								
+1214947	typeSpecies	Harrington, B.J. 1988.	[?] indonesensis (Harrington, 1988)								
+1214949	typeSpecies	Distant, W.L. 1906. Oriental Heteroptera. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Lygaeus dissimilis Walker, 1872								
+1214953	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Rhyparochromus phaeophilus Walker, 1872								
+1214955	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Pactye ciconia (Stal, 1867)								
+1214961	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Panchaea depressa (Stal, 1865)								
+1214963	typeSpecies	Deboutteville & Paulian. 1952. Recherches sur la fauna des nids & des terriers en Basse Cote d'Ivoire. In: Encyclopedie biogeographique & ecologique. Paris: Paul Lechevalier pp.	Pholeolygaeus inquilinus (Deboutteville & Paulian, 1952)								
+1214967	typeSpecies	Signoret, V. 1863. Hemiptera: In Maillard, Notes sur l'Ile de la Reunion. Hemiptera: In Maillard, Notes sur l'Ile de la Reunion. (Bourbon) Insectes. Paris. 28-9	Clerada apicicornis Signoret, 1863								
+1214983	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Edulica ornata Distant, 1903								
+1214986	typeSpecies	White, F.B. 1878. Descriptions of new species of Heteropterous Hemiptera collected in the Hawaiian Islands by the Rev. T. Blackburn no. 2. Ann. Mag. Nat. Hist.	Reclada moesta White, 1878								
+1214992	typeSpecies	Slater & Brailovsky. 1983.	[?] mexicana (Slater & Brailovsky, 1983)								
+1214994	typeSpecies	Slater. 1994.	[?] curculionoides (Slater, 1994)								
+1214996	typeSpecies	Slater. 1982.	[?] brevirostris (Slater, 1982)								
+1214998	typeSpecies	Scudder. 1963.	[?] rugosus (Scudder, 1963)								
+1215004	typeSpecies	Slater & Zheng. 1985.	[?] intimidator (Slater & Zheng, 1985)								
+1215006	typeSpecies	Slater. 1985.	[?] montanus (Slater, 1985)								
+1215008	typeSpecies	Ashlock & Slater. 1982.	[?] englemani (Ashlock & Slater, 1981)								
+1215010	typeSpecies	Zheng. 1981.	[?] megaspina (Zheng, 1981)								
+1215012	typeSpecies	Ashlock & Slater. 1982.	[?] veovatus (Ashlock & Slater, 1982)								
+1215014	typeSpecies	Ashlock. 1985.	Micrymenus kuscheli (Kormilev, 1952)								
+1215019	typeSpecies	Breddin, G. 1897. Hemipteren: Hamburger Magalhaensische Sammelreise. Hemipteren: Hamburger Magalhaensische Sammelreise. Hamburg: L. Friederichsen & Co. pp.	Pachymerus polychromus Spinola, 1852								
+1215025	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.) 49:6-7	Pamera alboannulata Champion, 1913								
+1215028	typeSpecies	Bergroth, E. 1921. The first Heteropteron from Juan Fernandez. Ent. Tidskr.	Micrymenus seclusus (Bergroth, 1921)								
+1215032	typeSpecies	Hesse. 1925. A list of the Heteropterous & Homopterous Hemiptera of Southwest Africa. Ann. S. Afr. Mus.	Migdilybs furcifer (Hesse, 1925)								
+1215046	typeSpecies	Bergroth, E. 1916. Neue Myodochidae (Hem. Het.). Wien. ent. Ztg	Omacrus ardelio (Bergroth, 1916)								
+1215049	typeSpecies	Uhler, P.R. 1871. Notices of some Heteroptera in the collection of Dr. T. W. Harris. Proc. Boston Soc. Nat. Hist. 14:93-109	Ozophora picturata (Uhler, 1871)								
+1215155	typeSpecies	Scott, J. 1874. On a collection of Hemiptera-Heteroptera from Japan, descriptions of various new genera and species. Ann. Mag. Nat. Hist.	Prosomoeus brunneus (Scott, 1874)								
+1215158	typeSpecies	Distant. 1893.	Balboa variabilis (Distant, 1893)								
+1215162	typeSpecies	Distant, W.L. 1903. Report on the Rhynchota. Part I. Heteroptera. In: Annandale & Robertson Fascicles of Malayan Zoology. I:(	Porta gracilis (Distant, 1903)								
+1215164	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Plociomerus bispinus Motschulsky, 1863								
+1215168	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Tachytatus prolixicornis (Bergroth, 1918)								
+1215170	typeSpecies	Distant, W.L. 1903. Contributions to a knowledge of the Rhynchota. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.) 47:43-65	Vertomannus capitatus (Distant, 1903)								
+1215173	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Bedunia cuspidata (Stal, 1874)								
+1215186	typeSpecies	Slater, J.A. 1957. Nomenclatorial considerations in the family Lygaeidae (Hemiptera; Heteroptera). Bull. Brooklyn ent. Soc.	Bryanella longicornis China, 1930								
+1215190	typeSpecies	Puton, A. & Lethierry. 1887. Hemipteres nouveaux de l'Algerie. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.) 6:303	Marmottania simonis Puton & Lethierry, 1887								
+1215197	typeSpecies	Slater. 1978.	[?] menziesi (Slater, 1978)								
+1215199	typeSpecies	Bergroth, E. 1918. Studies in Philippine Heteroptera I. Philipp. J. Sci.	Pachymerus nigroaeneus Erichson, 1842								
+1215203	typeSpecies	Gross, G.F. 1962. Aberrant Australian brachypterous myodochine bugs (Lygaeidae: Rhyparochrominae). Rec. S. Aust. Mus.	Porander scudderi (Gross, 1962)								
+1215205	typeSpecies	Lindberg, H. 1958. Hemiptera Insularum Caboverdensium. Systematik, Ökologie und Verbreitung der Heteropteren und Cicadinen der Kapverdischen Inseln. Societas Scietiarum Fennica Commentationes Biologicae (Comment. biol., Helsingf.) 19:1-246	Serranegra petrophila (Lindberg, 1958)								
+1215207	typeSpecies	Gross, G.F. 1962. Aberrant Australian brachypterous myodochine bugs (Lygaeidae: Rhyparochrominae). Rec. S. Aust. Mus.	Lamprodema vittata Distant, 1901								
+1215209	typeSpecies	Spinola, M. 1852. Hemipteros: In Gay, Historia de Chile zoologica 7:113-320. In Gay, Historia de Chile zoologica	Astemmoplitus gayi (Spinola, 1852)								
+1215212	typeSpecies	Distant. 1893.	Bathycles maculatus (Distant, 1893)								
+1215216	typeSpecies	Gross, G.F. 1962. Aberrant Australian brachypterous myodochine bugs (Lygaeidae: Rhyparochrominae). Rec. S. Aust. Mus. 14 (2): 375, 382-3	Cryptocoris fasciata Gross, 1962								
+1215218	typeSpecies	Signoret. 1881.	Daerlac tricolor (Signoret, 1881)								
+1215228	typeSpecies	Stal, C. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettin. Entomol. Ztg.	Rhyparochromus sidnicus Stal, 1859								
+1215235	typeSpecies	Herrich-Schaeffer, G.H.W. 1850. Die Wanzenartigen Insekten. Die Wanzenartigen Insekten. Nurnberg: C. H. Zeh'schen Buchhandlung	Laryngodus australiae (Herrich-Schaeffer, 1850)								
+1215237	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Tempyra biguttula (Stal, 1874)								
+1215244	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Pachymerus lacertosus Erichson, 1842								
+1215252	typeSpecies	China, W.E. 1936. A remarkable new ant-like Lygaeid from Egypt (Hemiptera Heteroptera). Proc. R. ent. Soc. Lond.	Aegyptocoris myrmecoides (China, 1936)								
+1215258	typeSpecies	Scudder. 1962.	[?] elongatus (Scudder, 1962)								
+1215260	typeSpecies	Harrington, B.J. 1980.	Cnemodus sobrius Uhler, 1894								
+1215265	typeSpecies	Harrington, B.J. 1980.	Pamera globiceps (Stal, 1874)								
+1215268	typeSpecies	Brailovsky. 1979.	[?] ocellatus (Brailovsky, 1979)								
+1215275	typeSpecies	Harrington, B.J. 1980.	Exptochiomera arizonensis (Barber, 1932)								
+1215279	typeSpecies	Hedge. 1990.	[?] indicus (Hedge, 1990)								
+1215281	typeSpecies	Malipatil. 1978.	[?] misimensis (Malipatil, 1978)								
+1215283	typeSpecies	Scudder. 1963.	[?] elatus (Scudder, 1963)								
+1215290	typeSpecies	Harrington, B.J. 1980.	Ligyrocoris multispinus (Stal, 1874)								
+1215301	typeSpecies	Malipatil. 1986.	[?] longirostrum (Malipatil, 1986)								
+1215303	typeSpecies	Malipatil. 1978.	[?] yeoi (Malipatil, 1978)								
+1215331	typeSpecies	Harrington, B.J. 1980.	Orthaea cephalotes Kiritshenko, 1931								
+1215334	typeSpecies	Scudder. 1978.	[?] magnificus (Scudder, 1978)								
+1215336	typeSpecies	Harrington, B.J. 1980.	[?] englemani (Harrington, 1980)								
+1215338	typeSpecies	Scudder. 1975.	[?] ashlocki (Scudder, 1975)								
+1215341	typeSpecies	Malipatil. 1978.	[?] monteithi (Malipatil, 1978)								
+1215388	typeSpecies	Malipatil. 1978.	Pamera thoracica (Distant, 1901)								
+1215406	typeSpecies	Harrington, B.J. 1980.	Neocattarus thoracicus (Distant, 1893)								
+1215450	typeSpecies	Malipatil. 1980.	[?] pippeti (Malipatil, 1980)								
+1215457	typeSpecies	Malipatil. 1978.	Rhyparochromus gutta Dallas, 1852								
+1215481	typeSpecies	Slater & Brailovsky. 1993.	[?] kolenetoides (Slater & Brailovsky, 1993)								
+1215497	typeSpecies	Harrington, B.J. 1980.	Neocattarus gracilis (Distant, 1882)								
+1215500	typeSpecies	Distant, W.L. 1904. Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). Fauna of British India, including Ceylon & Burma Rhynchota. Vol. II. (Heteroptera). London: Taylor & Francis pp. 36:79	Rhyparochromus fusconervosus Motschulsky, 1863								
+1215505	typeSpecies	Slater & B.J. Harrington. 1974.	[?] myrmeforme (Slater & Harrington, 1974)								
+1215507	typeSpecies	Brailovsky. 1984.	[?] figueroai (Brailovsky, 1984)								
+1215509	typeSpecies	Malipatil. 1978.	[?] queenslandicus (Malipatil, 1978)								
+1215511	typeSpecies	Distant, W.L. 1903. On some underscribed Rhynchota. Ann. Mag. Nat. Hist.	Altomarus greeni (Distant, 1903)								
+1215513	typeSpecies	Distant. 1893.	Catenes porrectus (Distant, 1893)								
+1215515	typeSpecies	Herrich-Schaeffer, G.H.W. 1850. Die Wanzenartigen Insekten. Die Wanzenartigen Insekten. Nurnberg: C. H. Zeh'schen Buchhandlung	[?] mavortia (Say, 1831)								
+1215525	typeSpecies	Kirkaldy, G.W. 1908. A catalogue of the Hemiptera of Fiji. Proc. Linn. Soc. N. S. W.	Insulicola oceanicus (Kirkaldy, 1908)								
+1215528	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.1. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Pseudopamera forreri Distant, 1893								
+1215530	typeSpecies	Bergroth, E. 1894. Rhynchota orientalia. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Caridops gibbus (Bergroth, 1894)								
+1215536	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Carpilis ferruginea (Stal, 1874)								
+1215540	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Pephysena insignis Distant, 1882								
+1215542	typeSpecies	Signoret, V. 1863. Revision des Hemipteres du Chile. Annales de la Société Entomologique de France (Ann. Soc. Entomol. Fr.) 4(3):541-588	Erlacda arhaphaeoides (Signoret, 1863)								
+1215574	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.2. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Rhyparochromus plenus Distant, 1882								
+1215576	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Cimex sylvestris (Linnaeus, 1758)								
+1215628	typeSpecies	Barber, H.G. 1924. Corrections & comments Hemiptera-Heteroptera. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Esuris castanea Barber, 1911								
+1215633	typeSpecies	Hahn. 1826. Icones ad monographiam Cimicum. Icones ad monographiam Cimicum. Nurnberg: Lechner.	Pachybrachius luridus Hahn, 1826								
+1215849	typeSpecies	Stal, C. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettin. Entomol. Ztg.	Rhyparochromus malayus Stal, 1859								
+1215852	typeSpecies	Distant. 1893.	Prytanes globosus (Distant, 1893)								
+1215856	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.2. Journal of the New York Entomological Society (J. New York Entomol. Soc.) 4:153	Plociomera puberula Stal, 1874								
+1215861	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Rhyparochromus nigritulus Walker, 1872								
+1215872	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Pephysena levis (Distant, 1882)								
+1215877	typeSpecies	Distant. 1893.	Perigenes dispositus (Distant, 1893)								
+1215885	typeSpecies	Distant. 1893.	Phaeax formicarius (Distant, 1893)								
+1215888	typeSpecies	Barber, H.G. 1911. Descriptions of some new Hemiptera-Heteroptera. Journal of the New York Entomological Society (J. New York Entomol. Soc.) 19:23-31	Pterotmetus canadensis Provancher, 1885-1890								
+1215892	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Pseudopamera aurivilliana (Distant, 1882)								
+1215925	typeSpecies	Lindberg, H. 1927. Zur Kenntnis der Heteropteren-Fauna von Kamtschatka sowie der Amur- & Ussuri-Gebiete. Acta Soc. Fauna Flora fenn.	Stigmatonotum sparsum (Lindberg, 1927)								
+1215933	typeSpecies	Bergroth, E. 1906. A new genus of Lygaeidae from Japan. Ent. News.	Togo victor (Bergroth, 1906)								
+1215937	typeSpecies	Poppius & E. Bergroth. 1921. Beitrage zur Kenntnis der Myrmecoiden Heteropteren. Ann. hist.-nat. Mus. hung. 18:75-6	Xenydrium formiciforme Poppius & Bergroth, 1921								
+1215940	typeSpecies	Barber, H.G. 1918. Concerning Lygaeidae--No.1. Journal of the New York Entomological Society (J. New York Entomol. Soc.)	Perigenes costalis Van Duzee, 1909								
+1215943	typeSpecies	Barber, H.G. 1948. Some new Lygaeidae chiefly from the United States. Pan-Pacif. Ent.	Zeropamera nigra (Barber, 1948)								
+1215945	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Cophocoris tenebricosus (Scudder, 1890)								
+1215947	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Ctereacoris primigenus (Scudder, 1890)								
+1215949	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Eucorites serescens (Scudder, 1890)								
+1215951	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Lithocoris evulsus (Scudder, 1890)								
+1215953	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Procoris bechleri (Scudder, 1890)								
+1215956	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Stenopamera tenebrosa (Scudder, 1890)								
+1215959	typeSpecies	Breddin, G. 1904. Eine termitophile Lygaide. Soc. Ent.	Fontejanus wasmanni (Breddin, 1904)								
+1215961	typeSpecies	Stal, C. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettin. Entomol. Ztg.	Lygaeus (Plociomerus) triguttatus Guerin-Meneville, 1857								
+1215979	typeSpecies	Latreille, P.A. 1807. Genera crustaceorum & insectorum etc. Genera crustaceorum & insectorum etc. Vol.III. Paris: Amand Koenig pp.	Myodochus serripes (Olivier, 1811)								
+1216000	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Stenocoris gracilis Rambur, 1839								
+1216034	typeSpecies	Poppius & E. Bergroth. 1921. Beitrage zur Kenntnis der Myrmecoiden Heteropteren. Ann. hist.-nat. Mus. hung.	Mimobius capito (Poppius & Bergroth, 1921)								
+1216038	typeSpecies	Distant. 1893.	Sisamnes contractus (Distant, 1893)								
+1216046	typeSpecies	Say, T. 1831. Descriptions of new species of Heteropterous Hemiptera of North America. Descriptions of new species of Heteropterous Hemiptera of North America. New Harmony Indiana.	Ptochiomera nodosa Say, 1831								
+1216056	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Catopamera angheyi (Scudder, 1890)								
+1216059	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Phrudopamera wilsoni (Scudder, 1890)								
+1216063	typeSpecies	Slater & Sweet. 1973.	[?] convergens (Slater & Sweet, 1973)								
+1216069	typeSpecies	Scudder, G.G.E. 1962. The world Rhyparochrominae (Hemiptera: Lygaeidae) II. new genera for previously described species. Canadian Entomologist (Canad. Ent.)	Rhyparochromus heteronotus Puton, 1886								
+1216072	typeSpecies	Puton, A. 1886. Catalogue des Hemipteres de la faune Palearctique (Heteropteres, Cicadines et Psyllides) 3rd ed. Catalogue des Hemipteres de la faune Palearctique (Heteropteres, Cicadines et Psyllides)	Anepsius encaustus Puton, 1869								
+1216075	typeSpecies	Jakovlev, B.E. 1881. (Oshanin's no.28a). Trud. Ent. Ross.	Lasiocoris diversipes Kiritshenko, 1922								
+1216080	typeSpecies	Jakovlev, B.E. 1881. (Oshanin's no.28a). Trud. Ent. Ross.	Leptomelus dorsatus (Jakovlev, 1881)								
+1216083	typeSpecies	Stal, C. 1865. Hemiptera Africana II. Hemiptera Africana II. Stockholm: Norstedtiana. pp.	Pachymerus consutus Germar, 1837								
+1216096	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Pachymerus suberythropus Costa, 1841								
+1216109	typeSpecies	Stal, C. 1872. Genera Lygaeidarum Europae disposuit. Öfversigt Vetenskaps-Akademiens Förhandlingar (Ofvers. VetenskAkad. Forh., Stockh.)	Lygaeus nebulosus Fallen, 1807								
+1216113	typeSpecies	Reuter, O.M. 1884. Genera nova Hemipterorum III. Metastenothorax novum genus Lygaeidarum (Myodochinorum) e Graecia. Wien. ent. Ztg	Metastenothorax punctatipennis (Reuter, 1884)								
+1216115	typeSpecies	Lindberg, H. 1958. Hemiptera Insularum Caboverdensium. Systematik, Ökologie und Verbreitung der Heteropteren und Cicadinen der Kapverdischen Inseln. Societas Scietiarum Fennica Commentationes Biologicae (Comment. biol., Helsingf.) 19:1-246	Microthisus wollastoni (Lindberg, 1958)								
+1216124	typeSpecies	Fieber, F.X. 1870. Dodecas neuer Gattungen & neuer Arten europaischer Hemiptera. Verh. zool.-bot. Ges. Wien	Pachymerus staphylinus Rambur, 1839								
+1216143	typeSpecies	Bergroth, E. 1894. Rhynchota Aethiopica II. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Rhyparochromus crassifemur Stal, 1855								
+1216250	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus maurus Fabricius, 1803								
+1216269	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Pachymerus anomalus Kolenati, 1845								
+1216291	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Icus angularis (Fieber, 1861)								
+1216305	typeSpecies	Bergroth, E. 1916. New genera & species of Australian Hemiptera. Proc. roy. Soc. Vict.	Getes fusciceps (Bergroth, 1916)								
+1216308	typeSpecies	Horvath, G. 1888. Materiaux pour servir a l'etude des Hemipteres de la faune Palearctique. Revue de d’Entomologie, Caen. (Rev. Ent., Caen.)	Liabaris reuteri (Horvath, 1888)								
+1216310	typeSpecies	Bergroth, E. 1905. Rhynchota Aethiopica IV. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.)	Nesodromus pleuriticus (Bergroth, 1905)								
+1216312	typeSpecies	Reuter, O.M. 1893. A new mimetic genus of Lygaeidae. Entomologist’s Monthly Magazine (Ent. mon. Mag.)	Prostemmidea mimica (Reuter, 1893)								
+1216314	typeSpecies	Distant, W.L. 1901. Rhynchotal notes. XI. Heteroptera: Fam. Lygaeidae. Ann. Mag. Nat. Hist.	Speusippas splendens (Distant, 1901)								
+1216317	typeSpecies	Kiritshenko, A.N. 1938. Die echten halbflugler (Hemiptera) der Nachitschewan Assr. Trudy Zool. Inst.	Phasmosomus araxis (Kiritshenko, 1938)								
+1216319	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Coptochromus manium (Scudder, 1890)								
+1216321	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Cryptochromus letatus (Scudder, 1890)								
+1216323	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr. 408	Exitelus exsangius Scudder, 1890								
+1216326	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Necrochromus cockerelli (Scudder, 1890)								
+1216330	typeSpecies	Theobald, N. 1937. Les insects fossiles des terrains oligocenes de France. Bull. Soc. Sci. Nancy	Praenotochilus parallelus (Theobald, 1937)								
+1216332	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Tiromerus torpefactus (Scudder, 1890)								
+1216335	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Linnaea carcerata (Scudder, 1890)								
+1216342	typeSpecies	Scudder, S.H. 1890. The tertiary insects of North America. Rept. U.S. Geol. Surv. Terr.	Lithochromus gardneri (Scudder, 1890)								
+1216347	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist. 8:341-2	Usilanus burmanicus Distant, 1909								
+1216353	typeSpecies	Montrouzier. 1858. Description de quelques Hemipteres de la nouvelle Caledonie. Ann. Soc. linn. Lyon ns.	Amicrops casuarina (Montrouzier, 1858)								
+1216355	typeSpecies	Walker, F. 1872. Catalogue of the specimens of Hemiptera Heteroptera in the collection of the British Museum. Catalogue of the specimens of Hemiptera Heteroptera in the collection of the British Museum. London:	Anisocoris punctifer (Walker, 1872)								
+1216357	typeSpecies	Distant, W.L. 1910. The fauna of British India, including Ceylon & Burma. The fauna of British India, including Ceylon & Burma. Rhynchota Vol. V. Heteroptera: Appendix	Meschia pugnax (Distant, 1910)								
+1216368	typeSpecies	Scudder, G.G.E. 1957. A revision of Ninini (Hemiptera-Heteroptera, Lygaeidae) including the description of a new species from Angola. Publ. cult. Comp. Diam. Angola. N.	Paraninus gracilis (Scudder, 1957)								
+1216370	typeSpecies	Distant, W.L. 1882. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biol. cent.-amer. London (v)-xx,	Neoninus illustris (Distant, 1882)								
+1216373	typeSpecies	Lindberg, H. 1934. Verzeichnis der von R. Malaise im Jahre 1930 bei Vladivostok gesammelten Heteropteren. Notul. ent., Helsingf.	Ninomimus lundbladi (Lindberg, 1934)								
+1216378	typeSpecies	Breddin, G. 1907. Berytiden & Myodochiden von Ceylon aus der Sammelausbeute von Dr. W. Horn (Rhynch. het.). Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.) 1907:34-47	Cymoninus subunicolor (Breddin, 1907)								
+1216393	typeSpecies	Stal. 1860.	Ninus insignis (Stal, 1860)								
+1216413	typeSpecies	Hahn. 1831. Die Wanzenartigen Insecten. Die Wanzenartigen Insekten. Nurnberg: C. H. Zeh'schen Buchhandlung	Lygaeus claviculus Fallen, 1807								
+1216507	typeSpecies	Stal, C. 1859. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III. Hemiptera species novas descriptsit. Konglika Svenska Fregattens Eugenies resa omkring jorden. III (Zoologi, Insekter) 219-298	Cryptorhamphus orbus (Stal, 1859)								
+1216510	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Gonystus nasutus (Stal, 1874)								
+1216512	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Ontiscus australis (Stal, 1874)								
+1216520	typeSpecies	Kirkaldy, G.W. 1902. Hemiptera. Fauna Hawaiiensis.	Cymus criniger White, 1881								
+1216523	typeSpecies	Van Duzee, E.P. 1932. New Hemiptera-Heteroptera from the Marquesas. Bull. Bishop Mus.	Neocymus insularis (Van Duzee, 1932)								
+1216533	typeSpecies	Van Duzee, E.P. 1936. A Report on some Heteroptera from the Hawaiian Islands, with descriptions of new species. Proc. Hawaii. Ent. Soc.	Pseudocymus giffardi (Van Duzee, 1936)								
+1216535	typeSpecies	Kirkaldy, G.W. 1907. On some Hawaiian Hemiptera-Heteroptera. Canadian Entomologist (Canad. Ent.)	Cymus calvus White, 1881								
+1216537	typeSpecies	Herrich-Schaeffer, G.H.W. 1850. Die Wanzenartigen Insekten. Die Wanzenartigen Insekten. Nurnberg: C. H. Zeh'schen Buchhandlung	Epipolops frondosus (Herrich-Schaeffer, 1850)								
+1216547	typeSpecies	Stal, C. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettin. Entomol. Ztg.	[?] oculuscancri (DeGeer, 1773)								
+1216550	typeSpecies	Hamid, A. 1975. A systematic revision of the Cyminae (Heteroptera: Lygaeidae) of the World with a discussion of the morphology, biology, phylogeny and zoogeography. Occ. Publ. Entomol. Soc. Nigeria 54-55	Ashlockia longicorialis Hamid, 1975								
+1216552	typeSpecies	Popov, G.A. 1986. Insects in the early Cretaceous ecosystems of the West Mongolia. Trans. Joint Soviet-Mongolian Paleont. Exped. 76	Cymocoris basalis Popov, 1986								
+1216555	typeSpecies	Hamid, A. 1975. A systematic revision of the Cyminae (Heteroptera: Lygaeidae) of the World with a discussion of the morphology, biology, phylogeny and zoogeography. Occ. Publ. Entomol. Soc. Nigeria 65	Cymus sulcicollis Bergroth, 1918								
+1216558	typeSpecies	Heer. 1853. Die Insektenfauna der Tertiargebilde von Oeningen & von Rabodoj in Croatien Part III. Rhynchoten. Die Insektenfauna der Tertiargebilde von Oeningen & von Rabodoj in Croatien Part III. Rhynchoten. Leipzig: Wilhelm Engelmann pp.	Cephalocoris pilosus (Heer, 1853)								
+1216560	typeSpecies	Usinger, R.L. 1940. Fossil Lygaeidae (Hemiptera) from Florissant. J. Paleont.	Procymus cockerelli (Usinger, 1940)								
+1218724	typeSpecies	Hahn. 1826. Icones ad monographiam Cimicum. Icones ad monographiam Cimicum. Nurnberg: Lechner. 10:448	[?] [?]   (Linnaeus, 1758)								
+1220388	typeSpecies	Dallas, W.S. 1852. List of the specimens of Hemipterous insects in the collection of the British Museum. List of the specimens of Hemipterous insects in the collection of the British Museum. Part. II., Taylor & Francis Inc., London 2:369-592	Lygaeus thymi Wolff, 1804								
+1220395	typeSpecies	Woodward, T.E. 1953. New genera and species of Rhyparochrominae from New Zealand (Heteroptera: Lygaeidae). Rec. Canterbury (N.Z.) Mus.	Truncala hirsuta (Woodward, 1953)								
+1220398	typeSpecies	Fieber. 1860.	Lygaeus nerii Germar, 1847								
+1220403	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):1-186	Astacops degeeri Stal, 1865								
+1220405	typeSpecies	Barber, H.G. 1953. A revision of the genus Kleidocerys Stephens in the United States (Hemiptera, Lygaeidae). Proc. ent. Soc. Wash.	Lygaeus resedae Panzer, 1793								
+1222043	typeSpecies	Fieber, F.X. 1861. Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Die Europaischen Hemiptera. Halbflugler (Rhynchota Heteroptera). Wien: Gerold vi,	Lygaeus chiragra Fabricius, 1794								
+1222136	typeSpecies	Henry, P. M. Dellapé & G.G.E. Scudder. 2015. Resurrection of the Genera Crophius Stål and Mayana Distant from Synonymy Under Anomaloptera Amyot and Serville, Description of a New Genus, and a Key to the New World Oxycarenid Genera (Hemiptera: Heteroptera: Oxycarenidae). Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 117(3):367-380	Crophius heidemanni Van Duzee, 1910								
+1222909	typeSpecies	Distant, W.L. 1909. Rhynchotal notes. XLVII. Ann. Mag. Nat. Hist.	Maramaldus admistus Distant, 1909								
+1222998	typeSpecies	Spinola, M. 1837. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin. ou Rhyngotes. Fab. et a la section Heteropteres, Dufour. Essai sur les genres d'insectes appartenants a l'orde des Hemipteres Lin...Fab. et a la section Heteropteres, Dufour. Genes: Chez Yves Gravier Imprimeur-Libraire. pp. 215	Cymodema tabida Spinola, 1837								
+1228198	typeSpecies	Fieber, F.X. 1859. Dier Familie der Berytidae. Wiener Entomologische Monatschrift 3:2006	Apoplymus pectoralis Fieber, 1859								
+1228199	typeSpecies	Stusak. 1989. New and little known Oriental Stilt bugs (Heteroptera: Berytidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 86:111-120	Berytoplymus nepalensis Stusak, 1989								
+1228200	typeSpecies	Stusak. 1989. Two new genera and one new subgenus of Berytinae, with nomenclatorial changes (Heteroptera, Bertyidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 86:31	Neides wakefieldi White, 1878								
+1228201	typeSpecies	Stusak. 1989. Two new genera and one new subgenus of Berytinae, with nomenclatorial changes (Heteroptera, Bertyidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 86:56	Neides lushanicus Hsiao, 1974								
+1228202	typeSpecies	Kirkaldy, G.W. 1902. Memoirs on Oriental Rhynchota. J. Bombay nat. Hist. Soc. 14:303	Hubertiella cardamomi Kirkaldy, 1902								
+1228203	typeSpecies	Latreille, P.A. 1802. Histoire naturelle general & particuliere des crustaces & du insectes. Histoire naturelle general & particuliere des crustaces & du insectes. Vol.III. Paris: F. Dufart. (i)-xii plus 3:451	[?] tipularius (Linnaeus, 1758)								
+1228204	typeSpecies	Stusak. 1989. Two new genera and one new subgenus of Berytinae, with nomenclatorial changes (Heteroptera, Bertyidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 86:13	Berytus muticus Say, 1832								
+1228205	typeSpecies	Distant, W.L. 1902. The Fauna of British India Including Burma. Rhynchota- Vol. I (Heteroptera). The Fauna of British India Including Burma. Rhynchota- Vol. I (Heteroptera), Taylor and Francis, London 422	Paleologus feanus Distant, 1902								
+1228206	typeSpecies	Stusak. 1965. Berytidae (Heteroptera) of Congo (Léopoldville), Rwanda and Burundi. Acta Entomologica Musei Nationalis Pragae (Acta Entomol Musei Nat Prag) 36:516	Paraberytus mirabilis Stusak, 1965								
+1228207	typeSpecies	Stusak. 1976. 6. Family Berytidae. pp. 410-427. La faune terrestre de l'Ile de Sainte-Helene. Troisieme Partie. Annales Musée Royale L'Afrique Centrale, Tervuren, Belg. 8 Sci. Zool. No. 215.:411	Plyapomus longus Stusak, 1976								
+1228208	typeSpecies	Hsiao, T.Y. 1977. Handbook for the Determination of the Chinese Hemiptera-Heteroptera, vol. 1, Science Press, Beijing 60	Metatropis dispar (Hsiao, 1974)								
+1228210	typeSpecies	Kirkaldy, G.W. 1900. Bibliographical & nomenclatorial notes on the Rhynchota No.1. Entomologist 33:729	[?] clavipes (Fabricius, 1775)								
+1228213	typeSpecies	Henry. 1997. Cladistic analysis and revision of the Stilt Bugs of the world (Heteroptera: Berytidae). Contributions of the American Entomological Institute 30(1):324	Protacanthus halei (Gross, 1950)								
+1228214	typeSpecies	Josifov, M. & Stusak. 1987. A new genus and two new species of Afrotropical Metacanthinae (Heteroptera, Berytidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 84:288	Gampsoacantha beroni Josifov & Stusak, 1987								
+1228216	typeSpecies	Lindberg, H. 1958. Hemiptera Insularum Caboverdensium. Systematik, Ökologie und Verbreitung der Heteropteren und Cicadinen der Kapverdischen Inseln. Societas Scietiarum Fennica Commentationes Biologicae (Comment. biol., Helsingf.) 19:75	Micrometacanthus trichoferus Lindberg, 1958								
+1228218	typeSpecies	Henry. 1996. Two new genera and two new species of New World stilt bugs (Heteroptera: Berytidae). Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 98:536	Diabolonotus pilosus Henry, 1996								
+1228219	typeSpecies	Stal, C. 1874. Enumeratio Hemipterorum pt. 4. Enumeratio Hemipterorum pt. 12(1):555	Neides spinosissimus Signoret, 1863								
+1228220	typeSpecies	Stusak. 1977. A new neotropical stilt bug--Metajalysus horvathi gen. et sp. n. (Heteroptera: Berytidae). Acta Zoologica Academiae Scientiarum Hungaricae 23:422	Metajalysus horvathi Stusak, 1977								
+1228221	typeSpecies	Henry. 1996. Two new genera and two new species of New World stilt bugs (Heteroptera: Berytidae). Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 98:537	Oedalocanthus ornatus Henry, 1996								
+1228222	typeSpecies	Distant, W.L. 1883. Insecta. Rhynchota. Hemiptera-Heteroptera. Vol. I. Biologia Centrali-Americana, London 163	Parajalysus spinosus Distant, 1883								
+1228223	typeSpecies	Harris, H.M. 1943. Art. XVI. New Neididae (Hemiptera) from South America, with notes on some little-known species. Annals of the Carnegie Museum. (Annals of the Carnegie Museum) 29:446	Phaconotus ensis Harris, 1943								
+1228224	typeSpecies	Uhler, P.R. 1893. Hemiptera Heteroptera of the Death Valley Expedition. North American Fauna No. 7 (N. Amer. Fauna No. 7) 260	Pronotacantha annulata Uhler, 1893								
+1228225	typeSpecies	Harris, H.M. 1943. Art. XVI. New Neididae (Hemiptera) from South America, with notes on some little-known species. Annals of the Carnegie Museum. (Annals of the Carnegie Museum) 29:444	Xenoloma princeps Harris, 1943								
+1228228	typeSpecies	Stusak. 1967. New stilt bugs from the tropics (Heteroptera, Berytidae). Acta Entomologica Musei Nationalis Pragae (Acta Entomol Musei Nat Prag) 37:291	Cametanthus madagascarensis Stusak, 1967								
+1228229	typeSpecies	Breddin, G. 1907. Berytiden & Myodochiden von Ceylon aus der Sammelausbeute von Dr. W. Horn (Rhynch. het.). Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.) 1907:37	Capyella horni Breddin, 1907								
+1228230	typeSpecies	Stusak. 1965. Berytidae (Heteroptera) of Congo (Léopoldville), Rwanda and Burundi. Acta Entomologica Musei Nationalis Pragae (Acta Entomol Musei Nat Prag) 36:510	Dimorphoberytus variabilis Stusak, 1965								
+1228231	typeSpecies	Van Duzee, E.P. 1916. Check list of the Hemiptera (excepting the Aphididae, Aleurodidae and Coccidae) of America, north of Mexico. Check list of the Hemiptera (excepting the Aphididae, Aleurodidae and Coccidae) of America, north of Mexico. New York: N. Y. Ent. Soc. 236	Metacanthus macer Stal, 1859								
+1228233	typeSpecies	Horvath, G. 1905. Berytidae novae a Dre G. Horváth descriptae. Annales Musei Nationalis Hungarici 3:59	Pneustocerus nigricornis Horvath, 1905								
+1228234	typeSpecies	Stusak. 1964. Contribution to the knowledge of stilt-bugs of Angola (Heteroptera, Berytidae). Companhia de Diamantes de Angola Publicações Culturais 68:109	Tirybenus machadoi Stusak, 1964								
+1228235	typeSpecies	Horvath, G. 1905. Berytidae novae a Dre G. Horváth descriptae. Annales Musei Nationalis Hungarici 3:58	Triconulus aegyptius Horvath, 1905								
+1228236	typeSpecies	Horvath, G. 1905. Berytidae novae a Dre G. Horváth descriptae. Annales Musei Nationalis Hungarici 3:56	Yemma exilis Horvath, 1905								
+1228237	typeSpecies	Stusak. 1972. Yemmalysus parallelus gen. n., sp. n.-- a new Oriental stilt bug from China (Heteroptera, Berytinidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 69:374	Yemmalysus parallelus Stusak, 1972								
+1228238	typeSpecies	Stusak. 1965. Berytidae (Heteroptera) of Congo (Léopoldville), Rwanda and Burundi. Acta Entomologica Musei Nationalis Pragae (Acta Entomol Musei Nat Prag) 36:537	Neometacanthus congoensis Stusak, 1965								
+1228239	typeSpecies	Costa, A. 1847. Cimicum Regni Neapolitani centuria. Atti del Reale Instituto d'Incorragiamento alle scienze Naturali (Atti Ist. Sci. nat. Napoli) 259	Metacanthus elegans Costa, 1847								
+1228240	typeSpecies	Fieber, F.X. 1859. Dier Familie der Berytidae. Wiener Entomologische Monatschrift 3:208	Cardopostethus annulosus Fieber, 1859								
+1228242	typeSpecies	Fieber, F.X. 1859. Dier Familie der Berytidae. Wiener Entomologische Monatschrift 3:43	Berytus rufescens Herrich-Schaeffer, 1835								
+1228903	typeSpecies	Mulsant & Rey. 1871. Coreides, Alydides, Berytides, Stenocephalides. Histoire naturelle des punaises de France., Savy & Deyrolle, Paris 3:355	Neides hirticornis Brulle, 1835								
+1228905	typeSpecies	Mulsant & Rey. 1871. Coreides, Alydides, Berytides, Stenocephalides. Histoire naturelle des punaises de France., Savy & Deyrolle, Paris 3:88	Berytus montivagus Meyer, 1841								
+1228912	typeSpecies	Stichel, W. 1957. Illustrierte Bestimmungstabellin der Wanzen. II. Europae (Hemiptera-Heteroptera Europae) Vol. 4. Illustrierte Bestimmungstabellin der Wanzen. II. Europae (Hemiptera-Heteroptera Europae) Vol. 4:88	Berytus montivagus Meyer, 1841								
+1229190	typeSpecies	Uhler, P.R. 1893. A List of the Hemiptera-Heteroptera collected in the Island of St. Vincent by Mr. Herbert H. Smith; with descriptions of new genera and species. Proceedings of the Zoological Society of London (Proc. zool. Soc. Lond.) 708	Protacanthus decorus Uhler, 1893								
+1229197	typeSpecies	Josifov, M. 1965. Zur systematik der Gattung Gampsocoris Fuss, 1852 (Heteroptera, Berytidae). Reichenbachia 5:73	Gampsocoris pallidipes Lindberg, 1958								
+1229262	typeSpecies	Horvath, G. 1922. Colobathristidae novae in Museo nationali Hungarico. Ann. Mus. nat. Hung. 19:159	Dayakiella brevicornis Horvath, 1922								
+1229412	typeSpecies	Uhler, P.R. 1893. Hemiptera Heteroptera of the Death Valley Expedition. North American Fauna No. 7 (N. Amer. Fauna No. 7) 261	Acanthophysa echinata Uhler, 1893								
+1229414	typeSpecies	McAtee, W.L. 1919. Key to the Nearctic genera and species of Berytidae (Heteroptera). Journal of the New York Entomological Society (J. New York Entomol. Soc.) 27:91	Saurocoris instans McAtee, 1919								
+1229415	typeSpecies	Stusak. 1968. A new genus of Neotropical stilt-bugs (Hemiptera: Berytidae). Journal of the New York Entomological Society (J. New York Entomol. Soc.) 76:5	Acanthoberytus wygodzinskyi Stusak, 1968								
+1229466	typeSpecies	Stusak. 1965. Berytidae (Heteroptera) of Congo (Léopoldville), Rwanda and Burundi. Acta Entomologica Musei Nationalis Pragae (Acta Entomol Musei Nat Prag) 36:520	Neocapyella basilewskyi Stusak, 1965								
+1229467	typeSpecies	Stal, C. 1866. 1865-1866. Hemiptera Africana. Norstedtiana, Stockholm. 2:30	Neides malacaipa Stal, 1855								
+1229637	typeSpecies	McAtee, W.L. 1919. Key to the Nearctic genera and species of Berytidae (Heteroptera). Journal of the New York Entomological Society (J. New York Entomol. Soc.) 27:85	Aknisus calvus McAtee, 1919								
+1229809	typeSpecies	Distant, W.L. 1911. Rhynchota Indica (Heteroptera). Entomologist 44:25	Pneustocerus gravelyi Distant, 1911								
+1229810	typeSpecies	Hsiao, T.Y. 1977. Handbook for the Determination of the Chinese Hemiptera-Heteroptera, vol. 1, Science Press, Beijing 62	Metacanthus convexicollis Hsiao, 1974								
+1229869	typeSpecies	Stusak. 1989. New and little known Oriental Stilt bugs (Heteroptera: Berytidae). Acta Entomologica Bohemoslovaca (Acta Entomol. Bohemosl.) 86:213	Capys gracilis Distant, 1911								
+1229870	typeSpecies	Fabricius, J.C. 1803. Systema Rhyngotorum secundum ordines, genera, species, adjectis synonymis, locis observationibus, descriptionibus. Systema Rhyngotorum secundum ordines, genera, species, adjectis synonymis, locis observationibus, descriptionibus. Brunsvigae: Apud Carolum Reichard vi & 451	[?] tipularius (Linnaeus, 1758)								
+1229871	typeSpecies	Kirkaldy, G.W. 1900. Bibliographical & nomenclatorial notes on the Rhynchota No.1. Entomologist 33:451	[?] tipularius (Linnaeus, 1758)								
+1229872	typeSpecies	Flor, G. 1860. Die Rhynchoten Livlands in systematischer Folge beschrieben. Die Rhynchoten Livlands in systematischer Folge beschrieben. Arch. Naturk. Liv.-, Ehst u. Kurl. 451	[?] tipularius (Linnaeus, 1758)								
+1229973	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 153	Trichocentrus gibbosus Horvath, 1904								
+1229981	typeSpecies	Slater, J.A. & A. Slater. 1999. Ashlockobius, a new genus of Myodochini from Venezuela (Hemiptera: Lygaeoidea: Rhyparochromidae: Myodochini). Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 101(1):138–142	Ashlockobius cursorius Slater & Slater, 1999								
+1230027	typeSpecies	O’Donnell. 2001. A NEW GENUS AND FIVE NEW SPECIES OF NEOTROPICAL LETHAEINI (HETEROPTERA: LYGAEOIDEA: RHYPAROCHROMIDAE). Florida Entomologist (Florida Ent.) 84(1):140-144	Neopetissius slaterorum O’Donnell, 2001								
+1230035	typeSpecies	Dellapé, P. M. & Carpintero. 2007. Cuscohoplininus pagoreni: a new genus and species of Hoplinini stilt bug from Peru (Heteroptera: Berytidae). Revista de Biología Tropical (Rev. Biol. Trop.) 55(2):674-675	Cuscohoplininus pagoreni Dellapé & Carpintero, 2007								
+1230041	typeSpecies	Dellapé, P. M. 2010. Erratum: Designation of type species for Bergicoris  Vol. 55, Issue 1 (2008): 101–107. DOI 10.1002/mmnd.200800007. Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.) 57(2):275	Cnemodus multifarius (Berg, 1894)								
+1230045	typeSpecies	Dellapé, P. M. & Montemayor. 2008. A revision of the genus Orthaea Dallas (Heteroptera: Rhyparochromidae), with the description of two new species and a new genus: Neomyocoris, to accommodate O. arnaudi Brailovsky. Studies on Neotropical Fauna and Environment (Stud. Neotrop. Fauna E.) 43(2):348-51	Orthaea arnaudi Brailovsky, 1982								
+1230047	typeSpecies	Dellapé, P. M. 2008. Paisana: A new genus of Neotropical Rhyparochromidae (Hemiptera: Heteroptera: Lygaeoidea) to accommodate Neopamera brachialis (Stål) and four new species. Zootaxa 1958:17-30	Rhyparochromus (Plociomerus) brachialis (Stal, 1858)								
+1230052	typeSpecies	Henry & P. M. Dellapé. 2009. A new genus and species of Oxycarenidae (Hemiptera, Heteroptera, Lygaeoidea) from Argentina. Zookeys 25:52-55	Notocoderus argentinus Henry & Dellapé, 2009								
+1230055	typeSpecies	Dellapé, P. M. & Henry. 2010. Acrolophyses , a new seed bug genus and two new species (Hemiptera: Heteroptera: Rhyparochromidae: Myodochini) from forest-canopy fogging in Ecuador and Peru. Insect Systematics & Evolution (Insect Syst. Evol.) 41:79-84	Acrolophyses arboricolous Dellapé & Henry, 2010								
+1230061	typeSpecies	Dellapé, P. M. & Montemayor. 2011. Phylogenetic analysis of the genus Orthaea Dallas (Hemiptera: Heteroptera: Rhyparochromidae: Rhyparochrominae: Myodochini), and the description of a closely related new genus and species of Myodochini. Insect Systematics & Evolution (Insect Syst. Evol.) 42:300	Thoraea brasiliensis Dellapé & Montemayor, 2011								
+1230063	typeSpecies	Dellapé, P. M. 2012. A new genus and two new species of Neotropical Myodochini (Hemiptera: Heteroptera: Rhyparochromidae). Revista Mexicana de Biodiversidad (Rev. Mex. Biod.) 83:52-54	Myodacanthus tridinadensis Dellapé, 2012								
+1230068	typeSpecies	Brailovsky, H. & L. Cervantes. 2011. New genus, new species and new records of Mexican Lygaeoidea (Hemiptera: Heteroptera). Studies on Neotropical Fauna and Environment (Stud. Neotrop. Fauna E.) 46(3):198-200	Andercnemodus picachus Brailovsky & Cervantes, 2011								
+1230621	typeSpecies	Carvalho & Henry. 1986. An unusual new genus and species of Colobathristidae from Carajas Mountain in the state of Para, Brazil (Hemiptera). Bol. Mus. Para. Emilio Goeldi (Boletim do Museu Paraense Emílio Goeldi) 2:88-89	Parathristes carajaensis Carvalho & Henry, 1986								
+1230770	typeSpecies	Slater, J.A. & Henry. 1999. NOTES ON AND DESCRIPTIONS OF NEW PAMPHANTINAE,  INCLUDING FOUR NEW SPECIES OF CATTARUS AND A  REMARKABLE NEW MYRMECOMORPHIC GENUS AND  SPECIES (HETEROPTERA: LYGAEOIDEA: GEOCORIDAE). Journal of the New York Entomological Society (J. New York Entomol. Soc.) 107(4):326-329	Cephalocattarus waorani Slater & Henry, 1999								
+1230852	typeSpecies	Brailovsky, H. 2010. A new genus and two new species of Antillocorini (Hemiptera: Heteroptera: Rhyparochromidae: Rhyparochrominae) from Mexico and Guatemala. Zootaxa 2717:63-64	Branstettocoris pinguis Brailovsky, 2010								
+1230869	typeSpecies	Cervantes, L. & H. Brailovsky. 2012. A new genus of Antiliocorini from Baja California, Mexico (Hemiptera: Heteroptera: Lygaeoidea: Rhyparochromidae: Rhyparochrominae). Zootaxa 3409:59-62	Pulmomerus levatus Cervantes & Brailovsky, 2012								
+1230928	typeSpecies	Henry & M.H. Sweet. 2015. WHEELERODEMUS MUHLENBERGIAE, A NEW GENUS AND NEW SPECIES OF BLISSIDAE (HEMIPTERA: HETEROPTERA: LYGAEOIDEA) FROM OKLAHOMA AND TEXAS. Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 117(2):157-160	Wheelerodemus muhlenbergiae Henry & Sweet, 2015								
+1231002	typeSpecies	Kormilev, N. 1951. Notas sobre "Colobathristidae" neotropicales (Hemiptera), con la descripcion de tres generos y siete especies nuevas. Rev. brasil. Biol. 11:71-72	Neocolobrathristes bituberus Kormilev, 1951								
+1231003	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 154	Calliseidus nigricollis Horvath, 1904								
+1231005	typeSpecies	Distant, W.L. 1888. Enumeration of the Van Volxem collection of Rhynchota contained in the Brussel's Museum. Part III. Annales de la Société Entomologique de Belgique. (Ann. Soc. ent. Belg.) 10	Peruda typica Distant, 1888								
+1231009	typeSpecies	Kormilev, N. 1951. Notas sobre "Colobathristidae" neotropicales (Hemiptera), con la descripcion de tres generos y siete especies nuevas. Rev. brasil. Biol. 11:68	Carvalhoia carioca Kormilev, 1951								
+1231012	typeSpecies	Stys, P. & Henry. 2015. A new genus and species of Colobathristidae (Hemiptera: Heteroptera) from Peru, a replacement name for the preoccupied genus Labradoria Kormilev, and a key to the Neotropical genera. Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 117(1):29-34	Neolabradoria inexpectata Stys & Henry, 2015								
+1231014	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 158	Piptocentrus pilipes Horvath, 1904								
+1231160	typeSpecies	Henry. 2013. Cymapamphantus valentineorum, a new genus and species of Pamphantinae (Heteroptera: Lygaeoidea: Geocoridae) from the British Virgin Islands, with a checklist of the species and keys to the tribes and genera of the subfamily. Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Was.) 115(4):393, 394-398	Cymapamphantus valentineorum Henry, 2013								
+1231167	typeSpecies	Malipatil, M.B. 2014. Meschiidae, a new family of Lygaeoidea (Hemiptera: Heteroptera) from India and Australia, with descriptions of a new genus and two new specie. Zootaxa 3815(2):244-245	Neomeschia queenslandensis Malipatil, 2014								
+1231170	typeSpecies	Malipatil, M.B. 2012. Australocorinae, a new subfamily of Geocoridae (Hemiptera: Heteroptera: Lygaeoidea) from Australia, with descriptions of a new genus and two new species. Zootaxa(3554):75-88	Germalus kurandae (Kirkaldy, 1907)								
+1231269	typeSpecies	Brailovsky, H. & E. Barrera. 2010. New Genus, Two New Species and a New Record of Mexican Lygaeoidea (Hemiptera: Heteroptera: Rhyparochromidae: Rhyparochrominae). Entomological News (Ent. News) 121(3):223-224	Longinomerus aequilus Brailovsky & Barrera, 2010								
+1231271	typeSpecies	Slater, J.A. & H. Brailovsky. 2006. A new genus and three new species of Lygaeoidea from New Guinea (Heteroptera, Lygaeoidea). Denisia 19:648-649	Heissothignus armatus Slater & Brailovsky, 2006								
+1231284	typeSpecies	Brailovsky, H. & E. Barrera. 2012. A remarkable new Micropterous Blissidae (Hemiptera, Heteroptera, Lygaeoidea) from South America. Deutsche Entomologische Zeitschrift (Dtsch. ent. Z.) 59(1):44-45	Napoblissus foreroi Brailovsky & Barrera, 2012								
+1231800	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 120, 124	Phaenacantha (Phaenacantha) biroi Horvath, 1904								
+1231801	typeSpecies	Kerzhner, I.M. 2001. Family Colobathristidae Stal, 1865. Catalogue of the Heteroptera of the Palearctic Region. Vol. 4. Pentatomomorpha 1., The Netherlands Entomological Society, Wageningen 4:206	Colobathristes saccharicida Karsch, 1888								
+1231915	typeSpecies	Kormilev, N. 1951. Notas sobre "Colobathristidae" neotropicales (Hemiptera), con la descripcion de tres generos y siete especies nuevas. Rev. brasil. Biol. 11:80	Labradoria bridarolli Kormilev, 1951								
+1231939	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 664	Colobathristes pallidus Stal, 1870								
+1231940	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 664	Colobathristes geniculatus Stal, 1870								
+1231942	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 143-144	Symphylax picticollis Horvath, 1904								
+1231951	typeSpecies	Horvath, G. 1904. Monographia Colobathristinarum. Ann. hist.-nat. Mus. hung. 246	Colobathristes robustus Breddin, 1903								
+1232072	typeSpecies	Horvath, G. 1922. Colobathristidae novae in Museo nationali Hungarico. Ann. Mus. nat. Hung. 19:155-156	Diplodontella bakeri Horvath, 1922								
+1232075	typeSpecies	Horvath, G. 1922. Colobathristidae novae in Museo nationali Hungarico. Ann. Mus. nat. Hung. 19:157-158	Elopura bergrothi Horvath, 1922								
+1232086	typeSpecies	Bergroth, E. 1910. Remarks on Colobathristidae with descriptions of two new genera. Annales de la Societe Entomologique de France 14:300-301	Molybditis horvathi Bergroth, 1910								
+1232092	typeSpecies	Bergroth, E. 1910. Remarks on Colobathristidae with descriptions of two new genera. Annales de la Societe Entomologique de France 14:302-303	Centromus trispinosus Bergroth, 1910								
+1232119	typeSpecies	Kormilev, N. 1953. Notes on Colobathristidae from Borneo and Java in the collections of the Museum of Natural History in Basle (Hemiptera). Mitteilungen der Schweizerischen Entomologischen Gesellschaft 26:291-192	Paraelopura tipuliformis Kormilev, 1953								

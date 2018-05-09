@@ -1,0 +1,1749 @@
+. align-forests: 1
+ -> 
+--- Reading t/tax/trunk_20170316/ ---
+** Unrecognized rank: clade 00659670-40e3-4eb0-94d5-8a67eb5fb13b
+** Unrecognized rank: polyphyletic group 009fca0c-cdde-45c0-9cc4-27e4ac89393b
+** Unrecognized rank: series 00c6b1c1-d0d2-4ae0-bb6c-05b7574e6098
+** Unrecognized rank: clade 02a212c0-f31b-4634-942e-05dc5d1b7d4d
+** Unrecognized rank: clade 02bfee64-f07f-4dbe-90c6-7b4351164481
+** Unrecognized rank: polyphyletic group 03282bbe-095c-4a89-aca1-0efb65b54c1e
+** Unrecognized rank: series 035de15a-610f-4031-9e50-8fc2dc842240
+** Unrecognized rank: clade 039770c3-19ac-4de5-bc30-0d2042f98db9
+** Unrecognized rank: polyphyletic group 03be2a99-7833-466b-bef1-9adfbae1911d
+** Unrecognized rank: polyphyletic group 045267b4-f849-46bb-a425-59bdd1d841b2
+** Unrecognized rank: cohort 0491b60a-6f9d-4cd0-b7a5-513a03973c04
+** Unrecognized rank: clade 09914362-6ce4-4885-8975-994519143351
+** Unrecognized rank: clade 0a96bd2c-ce03-4f05-b239-ef56a502d7ab
+** Unrecognized rank: clade 0ae5fb05-beda-4e77-b273-3b968f1d3a0c
+** Unrecognized rank: clade 0bc56d08-41b3-4946-a0c5-d503568a262f
+** Unrecognized rank: clade 0f3d9dcc-28b7-4230-9b06-2e02ce51ee15
+** Unrecognized rank: clade 11420dda-3572-47a5-8273-3a02627fc7da
+** Unrecognized rank: polyphyletic group 1198f2a4-b28b-4c9a-a0d3-1c7238c264cb
+** Unrecognized rank: clade 1234b4be-28d0-4f26-93d2-30a5a0ac957b
+** Unrecognized rank: polyphyletic group 1383d307-f887-4170-b996-6d78b72831d7
+** Unrecognized rank: polyphyletic group 14c2259f-3219-45f4-9a43-856816aab63b
+** Unrecognized rank: polyphyletic group 16818852-754b-4b22-b85a-0a2bd85f2a24
+** Unrecognized rank: clade 17030ac4-4d52-41aa-8a42-4f6a0ba18c97
+** Unrecognized rank: clade 173e8535-a884-4e1c-8159-4bb2bc4add05
+** Unrecognized rank: clade 17725b93-3ab0-4228-b87d-2efa3a0b40a9
+** Unrecognized rank: clade 1850f573-8fd1-4d14-8794-df5ed1c294ec
+** Unrecognized rank: polyphyletic group 18aa1996-ef89-4046-9517-f3e475c2b194
+** Unrecognized rank: infracohort 18e297ec-8a1f-42c1-99cf-0f029145dcd2
+** Unrecognized rank: polyphyletic group 18fefc57-240a-4d72-ba15-55a2d1c04ae6
+** Unrecognized rank: clade 190b4e66-f44f-4dc4-bedd-c87b96186f57
+** Unrecognized rank: clade 1a09ded3-f1a8-4312-8b9c-407552a6fcd2
+** Unrecognized rank: clade 1a376c23-1394-478b-b66a-242bc1d06b32
+** Unrecognized rank: clade 1af43657-76a4-455d-b41c-f2e0a15be22f
+** Unrecognized rank: polyphyletic group 1b4bfbf5-df9a-49f1-be94-f563741060b1
+** Unrecognized rank: clade 1b6459f1-7619-434d-b384-4fbd86878588
+** Unrecognized rank: polyphyletic group 1c3a437e-d367-4797-bcc2-671a24abb287
+** Unrecognized rank: clade 1c64a77a-960d-4aa9-bba7-a7ef0688a929
+** Unrecognized rank: clade 1cf3654d-debd-4032-8b51-d3388ef4aabc
+** Unrecognized rank: series 1d88edcc-6459-453a-b3e9-5ca283728dca
+** Unrecognized rank: clade 1e878ca3-e91f-4a09-afed-af06c5ee71bc
+** Unrecognized rank: clade 1ef0ee20-e230-4492-b8a6-70f49d56b8d5
+** Unrecognized rank: series 21acb184-1651-413d-a85a-e8d1ef36ee17
+** Unrecognized rank: clade 231b36db-c28f-43e8-a372-da41bd262d58
+** Unrecognized rank: polyphyletic group 24da3a74-7a7d-4634-9622-ca80546619d5
+** Unrecognized rank: supercohort 252da6c9-6e6b-4344-8bcc-18646d719ee4
+** Unrecognized rank: clade 26714ec6-5178-460f-b585-19455af2ec2a
+** Unrecognized rank: polyphyletic group 26a161cf-bdb6-461c-99eb-177d444bedc5
+** Unrecognized rank: clade 26c31a4d-d531-4567-98c5-a140e8930391
+** Unrecognized rank: clade 27435c46-2258-472f-a8f7-47c6a986d781
+** Unrecognized rank: clade 27692b34-bb00-43f5-8e1f-3efd23c632be
+** Unrecognized rank: polyphyletic group 277ce1a5-27e2-46d5-8ed2-a3f44d9fa862
+** Unrecognized rank: series 282a5cb3-b542-42df-9874-a7396f6304e2
+** Unrecognized rank: polyphyletic group 2936a968-e69e-4172-9621-015812e50c86
+** Unrecognized rank: clade 299e477a-2bc5-43e2-94f7-9a9b76e81626
+** Unrecognized rank: clade 29dee797-98c8-4e6b-9f0d-562b14b7bb32
+** Unrecognized rank: paraphyletic group 2a08c163-dd1b-4dc5-9358-2e3b73516f97
+** Unrecognized rank: clade 2b215a87-29df-4e35-9f7d-33b98193254a
+** Unrecognized rank: subcohort 2b44239a-23f2-4dae-b1af-9b41a68df90e
+** Unrecognized rank: clade 2b584bc7-9529-48d5-8752-f83c1b680f0c
+** Unrecognized rank: polyphyletic group 2be171ab-b2bc-43b7-891b-f78033f85b44
+** Unrecognized rank: clade 2bf78d64-0d9e-41a5-86db-3545d5068a2d
+** Unrecognized rank: clade 2d91248b-7e69-4a94-9ab4-8917cd46326c
+** Unrecognized rank: clade 2dcb4c7e-0738-4dc7-aa9b-ede9c4c67b2b
+** Unrecognized rank: clade 2e956c1b-8c93-4370-b92e-e4899491516d
+** Unrecognized rank: clade 309e36b5-c6be-4663-80fc-e52b9002d574
+** Unrecognized rank: clade 3325f3ef-2e75-4733-9443-bd6d5173a00c
+** Unrecognized rank: polyphyletic group 33a839c0-858e-4897-ba4f-eb082e5ef1e1
+** Unrecognized rank: clade 33be3c48-d8da-4739-ba4f-4f81a626ad47
+** Unrecognized rank: polyphyletic group 34285c75-6321-42e7-a541-a360751ca115
+** Unrecognized rank: polyphyletic group 34d0ac8e-8a0d-453d-b0b6-8ed50cbddab3
+** Unrecognized rank: clade 365e93a3-5e15-431d-af19-bd07f50488e7
+** Unrecognized rank: clade 366478f3-22a9-4a41-a3f1-a527268beb4a
+** Unrecognized rank: subcohort 37ada922-30b3-418f-b96f-63fc78be3a41
+** Unrecognized rank: polyphyletic group 399d5b0e-6232-4e85-bc23-17c6dec3c6ee
+** Unrecognized rank: subcohort 39f7d3d9-c82a-4984-9a5f-be6df60f2044
+** Unrecognized rank: polyphyletic group 3a569ee3-b58e-4ca6-a8ae-e2682af8d9e5
+** Unrecognized rank: clade 3b98dcb4-06de-4b4a-b622-6edc213a25e7
+** Unrecognized rank: clade 3bf89868-388a-4a48-a494-6bdabbbc7f1e
+** Unrecognized rank: clade 3c0c7889-54c5-4c20-b899-a891335d70b5
+** Unrecognized rank: polyphyletic group 3d0a326f-27ee-4fcd-a842-af933b107255
+** Unrecognized rank: clade 3de7229e-9201-4991-8203-9bb45abe9b6e
+** Unrecognized rank: clade 3df33ef3-d4f2-4a19-8b9f-75c6559bc328
+** Unrecognized rank: cohort 3e579c72-15f0-4275-a0bf-2574cd4c9397
+** Unrecognized rank: clade 3ea9be5b-f18e-4858-ae7b-34903e777309
+** Unrecognized rank: polyphyletic group 4174a633-71c8-43aa-b33d-250ae221955f
+** Unrecognized rank: polyphyletic group 421c3c94-4abf-4c31-95ca-fef2e4f6cf73
+** Unrecognized rank: clade 429f498f-bca1-4a0c-a50a-6c1b700f7a32
+** Unrecognized rank: clade 42e31f38-bcdc-4e92-aba6-38055a3fee43
+** Unrecognized rank: clade 42f530ac-9bb0-49de-9ecb-de53fe41ead4
+** Unrecognized rank: subterclass 43869c54-d79e-43b8-b46d-a1f869e9947c
+** Unrecognized rank: clade 44ade3f3-82d1-4ad9-916f-430e1d01e219
+** Unrecognized rank: polyphyletic group 458e7c68-a1a5-4904-8826-40e0865e8cd6
+** Unrecognized rank: clade 46ad5be0-d111-44f8-ad88-6a2de2a1b711
+** Unrecognized rank: clade 47719511-0bd5-48c1-80c3-f3251ad502ab
+** Unrecognized rank: clade 48edc81e-e434-4565-8cad-2c723e379587
+** Unrecognized rank: clade 4917289a-6129-48e5-8a2d-39e9c212cc2a
+** Unrecognized rank: polyphyletic group 49c3c9cd-2c75-4507-8b8e-f253f9b255b9
+** Unrecognized rank: paraphyletic group 49f02184-36d2-469e-9ef0-1c65077d4c3a
+** Unrecognized rank: polyphyletic group 4a84b852-841e-4da5-8c5f-2e29a12a0102
+** Unrecognized rank: subcohort 4af4d05e-6492-44de-a634-869d654e4a9a
+** Unrecognized rank: series 4cf0308b-e762-48c2-89d0-8d476b4a91d2
+** Unrecognized rank: clade 4d98529d-f5f4-4ceb-8f47-28c67bf37150
+** Unrecognized rank: clade 4ed10cbc-0c26-442f-b58d-f9af82c0ffa0
+** Unrecognized rank: polyphyletic group 4f47c1d4-a556-46bb-9ffb-4660b2db295d
+** Unrecognized rank: clade 4f6175c6-d64c-4683-859c-6f3b6a981a18
+** Unrecognized rank: polyphyletic group 4f743dbb-dc3a-4586-bf5f-cb6d84109de9
+** Unrecognized rank: clade 4f77157f-4ea9-474e-82d7-356a683d7397
+** Unrecognized rank: megacohort 5191d9f2-f161-4406-90e7-ee76bd2c9151
+** Unrecognized rank: megacohort 52a27d84-1c25-42da-b953-e840825aa8b6
+** Unrecognized rank: clade 5355a904-25cc-4a21-8935-bc9515600430
+** Unrecognized rank: series 541ee8c6-35eb-48a7-b38e-b02d47952720
+** Unrecognized rank: clade 55b7467c-92d0-47fb-9117-99a796af89c9
+** Unrecognized rank: clade 55d58633-d93e-44ef-a7c2-e9804b905b25
+** Unrecognized rank: clade 5623cbee-2991-42eb-9a3d-76941696413a
+** Unrecognized rank: clade 569d4b54-361e-4147-a560-47237adc3df5
+** Unrecognized rank: polyphyletic group 569ff377-7016-4092-a55f-c0d58e237bbc
+** Unrecognized rank: clade 5750b86e-f55f-4566-96e0-15f15b47f869
+** Unrecognized rank: polyphyletic group 58986ebd-8a41-46d1-9edc-a463ca429643
+** Unrecognized rank: clade 5902b47a-0106-4da8-a104-7312048aec15
+** Unrecognized rank: clade 5981c617-4ec8-45f4-935d-d8cbe1bccf01
+** Unrecognized rank: clade 5d60a708-42c0-4bcb-b103-9f21c95a8a1f
+** Unrecognized rank: polyphyletic group 5e400942-7223-4db9-9de3-a99e2c811547
+** Unrecognized rank: polyphyletic group 5ea93b42-a68f-4e9e-b6c4-844845a8ac7f
+** Unrecognized rank: polyphyletic group 5ec8809b-6080-45b1-a84c-d945f365f879
+** Unrecognized rank: paraphyletic group 5f6cf019-3ebb-47db-b0b6-6c2ec08ccd5b
+** Unrecognized rank: polyphyletic group 60672fd0-0b8d-49b7-8862-5c8dcd2bce0c
+** Unrecognized rank: polyphyletic group 60817772-7a5c-4185-90e6-3be83b902bf5
+** Unrecognized rank: clade 60adae9d-f257-4592-a829-630b18b90044
+** Unrecognized rank: clade 61177300-8902-462f-adfe-7c2384808844
+** Unrecognized rank: clade 613ebfd8-a2f6-415d-89c9-5e59be9cdc17
+** Unrecognized rank: clade 6183b8f6-7e8e-4782-8610-dad84c4cf8b0
+** Unrecognized rank: polyphyletic group 61f029c6-da1b-4d0b-b879-330b8e55858a
+** Unrecognized rank: clade 62475c3c-4f47-4c03-ba44-7cc7bf542c09
+** Unrecognized rank: supercohort 626d448f-8990-49bd-bea7-8620181d232f
+** Unrecognized rank: polyphyletic group 634ff48e-7ca6-4dcd-a437-d56a8e6f15f1
+** Unrecognized rank: cohort 6350df5b-d222-4de0-ab82-c06d0dda4c11
+** Unrecognized rank: clade 6479d79d-5063-430a-b211-6b191f3c9deb
+** Unrecognized rank: clade 649ecaf5-2a2c-4def-9656-8aafb3f7d7b5
+** Unrecognized rank: clade 64da58e2-6a31-45e5-8e21-abbda3e263d5
+** Unrecognized rank: polyphyletic group 65c195cf-dd98-4885-b99b-0954fa2794e4
+** Unrecognized rank: clade 65cd1b34-5744-472e-9942-06d410e026e8
+** Unrecognized rank: clade 6649d520-638c-4651-b152-b0f9a6aea4fc
+** Unrecognized rank: clade 670aeeb9-9709-41d7-a7f4-8194780d8a6c
+** Unrecognized rank: clade 68d43151-d382-4c7a-a411-9c2fceb4bfdf
+** Unrecognized rank: clade 690b9fe2-0518-4f62-a032-8be7dcc2fae2
+** Unrecognized rank: clade 6ad04ce5-841c-44c8-a89c-053c8ef60a00
+** Unrecognized rank: clade 6bcc1f02-1a19-46ef-bb41-819d905aad99
+** Unrecognized rank: clade 6c26c324-06b1-4687-ab95-bba37ff7a4e8
+** Unrecognized rank: clade 6c722b9a-8580-4df1-990a-5ee860d1f528
+** Unrecognized rank: clade 6c8f2633-da81-4502-bde3-c9b6b5aac867
+** Unrecognized rank: polyphyletic group 6ce3ecfa-f03a-47ff-9ca8-c3305a4a6644
+** Unrecognized rank: clade 6cf8d3c0-93b1-442e-8a4e-bba9dbc54e1a
+** Unrecognized rank: polyphyletic group 6ebb577d-2bd5-4504-999e-e6204fd8d11c
+** Unrecognized rank: clade 6f233ba1-2049-46c5-ab0c-342c7477f687
+** Unrecognized rank: epifamily 700e0237-446c-4be3-896a-68e2787b83be
+** Unrecognized rank: clade 70203e81-bb60-4349-bc14-1c43f6db627e
+** Unrecognized rank: polyphyletic group 72e7160f-832b-4100-9265-e0f7ea42c3f5
+** Unrecognized rank: clade 73073693-2fbd-4078-a00a-74474c19033b
+** Unrecognized rank: polyphyletic group 73079897-2c64-47c9-83de-fbe8b1f2a67f
+** Unrecognized rank: clade 73a738e8-b52e-4226-8703-146a642c3b1f
+** Unrecognized rank: clade 73c8cb76-fe26-43db-b4f1-54d50fb276e7
+** Unrecognized rank: clade 75342ae8-4dea-413f-be0a-e4d252c360e9
+** Unrecognized rank: clade 756733ec-f225-42c7-929f-c3c32e3f2ea0
+** Unrecognized rank: clade 76b8f8e0-76cc-4cf0-85c5-6ed734fb340a
+** Unrecognized rank: polyphyletic group 76fd98f0-3fdf-4d0b-ac9b-633d15d91bfc
+** Unrecognized rank: polyphyletic group 7702ad5d-cae7-4b41-bf60-c455d5a16c91
+** Unrecognized rank: clade 783d517f-26eb-451a-9e98-25b55455f98e
+** Unrecognized rank: clade 78dbe29d-7f81-479a-8f5f-c45afb5a3abf
+** Unrecognized rank: polyphyletic group 7a74ed2c-b7c1-4610-93ae-2c6dc2c27986
+** Unrecognized rank: clade 7aabf015-766c-4d4d-8dbc-b595f82db640
+** Unrecognized rank: clade 7b3134ac-aedf-4781-82d5-3c445fcec8e4
+** Unrecognized rank: infracohort 7c1c9bb4-3e67-4abf-a8fa-44f317443972
+** Unrecognized rank: infrasuborder 7c6a7e37-e788-4933-b00e-9a8c5b8600e5
+** Unrecognized rank: polyphyletic group 7cb2eaf6-4c21-4fdc-a48d-82809306db20
+** Unrecognized rank: polyphyletic group 7deac3b0-f49c-4c63-9289-044bb3d563f4
+** Unrecognized rank: clade 7ecb889b-b00d-4bc6-a872-17dec17588ec
+** Unrecognized rank: clade 7f9aedb5-2c71-438d-878c-b7ee4fba6e61
+** Unrecognized rank: clade 7fafb1d1-f8eb-4de5-9500-de1d23a5066f
+** Unrecognized rank: clade 7fe61fcb-baf7-4749-8b8c-d0b0a798681f
+** Unrecognized rank: polyphyletic group 802158fc-d5b6-4f94-9452-25c119c22212
+** Unrecognized rank: clade 80919fad-eb6a-4878-aa8e-e2fc4e3b489c
+** Unrecognized rank: clade 80b1feae-6e5a-4306-b4c4-da4d2a18f6fd
+** Unrecognized rank: clade 8203c526-3a2d-48ca-9194-f477c144ace6
+** Unrecognized rank: polyphyletic group 8270d3b7-1c30-4b16-b9c8-3281202cba31
+** Unrecognized rank: clade 82d9035d-5621-4aef-a4d5-9f3db313f0a0
+** Unrecognized rank: polyphyletic group 82f3e956-9dff-45f9-8ab1-c21fb97c3e5f
+** Unrecognized rank: paraphyletic group 834f420a-34ac-472b-91aa-7ba7ef9667ae
+** Unrecognized rank: clade 84057a82-997c-4e15-98e2-174bc77de1c6
+** Unrecognized rank: clade 84ead91b-9b06-4073-8ba7-faab6e16c3b9
+** Unrecognized rank: clade 85612cff-63b4-4798-94b0-bc0bfa1ca081
+** Unrecognized rank: polyphyletic group 891a3c93-b09e-4409-adb6-ec2ae1a1ed8d
+** Unrecognized rank: clade 8927ea6a-a248-41cb-944a-cb0d3de77cd7
+** Unrecognized rank: polyphyletic group 8953fe35-02fe-4d3f-a0e6-a51a064fa23f
+** Unrecognized rank: clade 8a078e5e-485d-4869-a2c0-76c397c6d93f
+** Unrecognized rank: polyphyletic group 8c909a05-480a-483a-bf7f-960e47a61cdb
+** Unrecognized rank: clade 8d2f5252-7324-4aff-ab85-e159f2851c5d
+** Unrecognized rank: polyphyletic group 8dd7a64f-6970-4121-b90a-8d1d04a15784
+** Unrecognized rank: clade 8de239af-615d-4027-bcb6-d6fe8ee6d6fe
+** Unrecognized rank: clade 8e32f0b3-7985-4357-bb30-90a8a60c7ba3
+** Unrecognized rank: polyphyletic group 8e93ec62-b16a-42e7-b3d5-ac09fa0fd189
+** Unrecognized rank: clade 8ed5fe98-f14e-4f71-85a6-e97dfebbc5ff
+** Unrecognized rank: clade 8f128e69-ac64-46b9-8432-7c7a1c9f9ab4
+** Unrecognized rank: clade 8f9216ef-f103-432c-b99c-915bad3db071
+** Unrecognized rank: clade 91770433-3108-4da8-a372-718cee08048e
+** Unrecognized rank: clade 921727c8-f605-4c3f-856c-df112a6e6eb2
+** Unrecognized rank: clade 921e9e10-4576-4701-bb75-9ffc8903dcec
+** Unrecognized rank: clade 928e1d05-864f-4654-a56c-5c425354494e
+** Unrecognized rank: clade 9358a09a-e1f8-4b64-b278-649d045406c9
+** Unrecognized rank: subseries 9401db49-bcc2-46ca-8a22-071f939e0c37
+** Unrecognized rank: clade 94701fe6-89ef-4d18-bc26-407588d9638f
+** Unrecognized rank: paraphyletic group 96677787-3bbc-4075-b7cd-62e679e01336
+** Unrecognized rank: clade 96cf246b-35d8-4708-855f-93bfb4f1ec53
+** Unrecognized rank: clade 9751a9b5-240e-4af2-9788-33a229c9cceb
+** Unrecognized rank: clade 97b0054e-5b3b-46a4-8850-ea843f2baa27
+** Unrecognized rank: clade 97d2dbba-58b2-4c0b-97d9-da42fd7c882b
+** Unrecognized rank: clade 97d55f1e-f748-4cc1-9b29-a46fb2da1549
+** Unrecognized rank: clade 985ec7b6-789c-4755-968a-c2e672350bbf
+** Unrecognized rank: clade 986150ca-669a-49c6-891d-c02f751c1b6a
+** Unrecognized rank: polyphyletic group 98a5c330-2952-4ba8-9fb5-de58eb0411c3
+** Unrecognized rank: clade 98d72eab-960a-42a1-9391-06c78ef168ae
+** Unrecognized rank: polyphyletic group 999676a7-2ba3-4cfc-bbc7-1fc9b1ab9654
+** Unrecognized rank: clade 9a2efdb8-6538-4b91-8a91-b078a3948f15
+** Unrecognized rank: clade 9a90fc3d-a888-4cd5-b582-fd2ab62cb201
+** Unrecognized rank: clade 9bcaad7f-2414-4b4f-81ec-7a439524528d
+** Unrecognized rank: clade 9bd21592-b279-4dc4-bc9a-e0b3bd4f5ef2
+** Unrecognized rank: clade 9e255534-8338-481f-ba8e-47b16f18f243
+** Unrecognized rank: clade 9e63dcee-ef17-402c-932a-8798d6bda2f3
+** Unrecognized rank: clade 9eb98d46-99a2-4a49-b625-c111fa48684a
+** Unrecognized rank: clade 9f9fb980-5848-45e2-8426-2c9d12c78f48
+** Unrecognized rank: polyphyletic group a024e359-628e-4bd5-a9a6-22f01142809a
+** Unrecognized rank: clade a07b7315-de2d-4820-9c53-706c6a4d6e42
+** Unrecognized rank: subterclass a07ef4c8-84df-4904-a1ab-91c96d67ea63
+** Unrecognized rank: polyphyletic group a1b994e6-b347-4ce6-afd5-415280042648
+** Unrecognized rank: polyphyletic group a2132285-3534-45b6-9e6d-b3d979ae0b08
+** Unrecognized rank: clade a23f0793-2068-4c8f-91da-99cb35f94ba7
+** Unrecognized rank: clade a2a935a2-f941-48b8-866f-09a60d082e19
+** Unrecognized rank: clade a2fafc69-2b6e-4d13-b77a-3c1a64c5121d
+** Unrecognized rank: series a3270399-89cb-4094-84a3-72d711e269bc
+** Unrecognized rank: clade a34dd064-abbe-4337-89bc-47ad36622146
+** Unrecognized rank: clade a5870250-542f-4323-89f3-cfb055b9bac9
+** Unrecognized rank: clade a5f61517-76c9-439d-82a4-8f592fd6f68c
+** Unrecognized rank: series a66deb70-2160-4e02-8dc5-292e3767d8f2
+** Unrecognized rank: clade a69e9cff-4d11-4b4e-b779-4dffd4e458e9
+** Unrecognized rank: clade a7d98b81-6dee-4dba-a0fe-d40f5064233e
+** Unrecognized rank: clade a869c044-07ba-465c-bddd-9c112981466e
+** Unrecognized rank: series a9a43b78-3a93-4db3-95d0-4963d8eb4b65
+** Unrecognized rank: clade aa0d6be3-318b-47cc-b3e9-31b30f44907c
+** Unrecognized rank: clade aa6c5aea-3b0a-4f35-96af-82a76d5d23fe
+** Unrecognized rank: clade aab129df-033b-44d2-ac46-116a30f1a470
+** Unrecognized rank: clade ab2d3ce9-2515-4efe-a30b-501561a4823b
+** Unrecognized rank: clade ab43c0eb-256c-46f8-8f45-413408bf3cf9
+** Unrecognized rank: clade ab8b0624-2ca0-4005-b9dd-fb0b9e4f8a32
+** Unrecognized rank: clade ac00f725-1f7f-46d7-bae7-b5e5e55f5584
+** Unrecognized rank: clade ac71215c-6a64-4bd6-aa0b-40fc4bfc5f40
+** Unrecognized rank: paraphyletic group ad09e62b-856e-4284-9625-374eb06fa9f9
+** Unrecognized rank: polyphyletic group ad3f7cfc-7e8f-4306-94fa-28ddd3768f14
+** Unrecognized rank: series ad985236-049e-4560-909c-bfe2a09a63ca
+** Unrecognized rank: clade aee69e0d-44d9-4865-8f0b-cb3ce2c4f43b
+** Unrecognized rank: clade b01b6b2a-6fb1-4da0-8c5f-7af95e1942fa
+** Unrecognized rank: clade b1ce8fec-c97a-4036-b379-c7156361feb1
+** Unrecognized rank: clade b2033a1b-f9c6-4f8b-ae45-cb169c53ec30
+** Unrecognized rank: clade b2914bde-b66a-4f3b-b395-9eea4adb23c2
+** Unrecognized rank: clade b3d57139-f70b-44d0-9bb9-858e91dd96c4
+** Unrecognized rank: clade b4ca9e2b-c1eb-4517-b109-5d9b99c14619
+** Unrecognized rank: clade b501702b-d859-492d-bf02-3f9ff549327d
+** Unrecognized rank: clade b5aeee9e-1de7-4199-b558-0b950e48b0fa
+** Unrecognized rank: clade b5bae595-1a39-4245-ab3c-1962e8bde1a4
+** Unrecognized rank: polyphyletic group b60795ad-196d-49dd-87ea-0e23f6a285cf
+** Unrecognized rank: clade b7070b86-a68c-4375-8fbf-09450309c788
+** Unrecognized rank: clade b72c3e8e-100e-4e47-82f6-76c3fd4d9d5f
+** Unrecognized rank: clade ba27995a-cd4d-4eac-81ef-44b4c77879cc
+** Unrecognized rank: clade bb2cf36f-0002-47de-8a55-d26cf71b15b7
+** Unrecognized rank: clade bb71825d-34a8-41d4-bdf5-e47d668cf9bf
+** Unrecognized rank: polyphyletic group bb84fe43-d136-4155-8e2f-2ff1888c3bf2
+** Unrecognized rank: clade bb98503c-f550-4e0d-80f3-99dafbb83893
+** Unrecognized rank: clade bcb856f2-3679-4d8c-a467-15ac2f9d6d88
+** Unrecognized rank: polyphyletic group bd511344-b35d-4c3b-aa92-14d7584a425b
+** Unrecognized rank: clade bddbcf8f-f214-44d4-a118-54022f7873b3
+** Unrecognized rank: clade be3913c1-81ce-45bb-ab27-fc72e9268fc2
+** Unrecognized rank: clade be987b4b-093c-411b-a78a-c86a84e627d5
+** Unrecognized rank: clade bf1c5218-6c0f-4054-91b4-b9487939326c
+** Unrecognized rank: polyphyletic group c0352636-48c3-4afc-929f-2f67c8f688e9
+** Unrecognized rank: clade c059d1ad-b2fd-4981-9f8f-c2d074bbb7b5
+** Unrecognized rank: clade c0c5aad7-f009-40be-8092-7aab8d1fa905
+** Unrecognized rank: clade c0cb3fdc-2f9c-407f-beba-65145c353d82
+** Unrecognized rank: clade c1a7bc5e-b128-4eec-9d69-5efe48eea625
+** Unrecognized rank: clade c2423d64-288f-4056-8656-fb4da0b94274
+** Unrecognized rank: clade c3042187-2b01-4bbe-af9b-9b14fe3cadb4
+** Unrecognized rank: clade c3190658-4104-48c2-8022-92e332c3ebe0
+** Unrecognized rank: clade c36735db-9e84-4077-a2e7-f54325fcd35a
+** Unrecognized rank: clade c48905d7-6ad0-44e0-9c46-4857f0cad86c
+** Unrecognized rank: clade c4abbddd-d23b-4741-8823-0ad3e73ee542
+** Unrecognized rank: clade c5860207-13b2-4966-bac7-e3c12f48a027
+** Unrecognized rank: subseries c6c338d6-2209-4740-a953-1b132c48d240
+** Unrecognized rank: clade c6d0aa24-2d37-4ea9-beab-5fd9bd3a43aa
+** Unrecognized rank: subcohort c7232f56-8955-4925-a4c0-6e54f494055b
+** Unrecognized rank: clade c7d112bc-d204-4a5d-8708-9d15de3779e6
+** Unrecognized rank: clade c85ee9be-f306-4ad9-95ad-8456f8665261
+** Unrecognized rank: clade c892dca9-9a5a-435f-9495-ace1cb8c45fa
+** Unrecognized rank: polyphyletic group cac4b89e-3e46-4b7c-b79d-82f266453cdd
+** Unrecognized rank: polyphyletic group cae95292-221c-4cb0-a60e-bfd4e395de51
+** Unrecognized rank: polyphyletic group caea3958-df04-400e-8be5-6295544944be
+** Unrecognized rank: clade cb4705f6-a3c2-4f39-b967-ca3ae3b2186f
+** Unrecognized rank: polyphyletic group cc701435-5f1c-434d-a5e2-e135210c22f6
+** Unrecognized rank: clade cc744f9e-be46-47d4-8583-c7817a77e0c9
+** Unrecognized rank: clade cd50dafc-9559-4e7c-912a-56d834e398c1
+** Unrecognized rank: polyphyletic group cd81f5d7-d531-4bd5-b516-ca279dc57a32
+** Unrecognized rank: clade cd9fa512-ccc9-4c90-ba9a-d1c4df85abe6
+** Unrecognized rank: cohort ce2202fd-345b-40fb-9f09-cd1ece68a76d
+** Unrecognized rank: clade cfd66e93-571f-4a57-a37c-779458fd0673
+** Unrecognized rank: clade d010c799-d39f-4808-9ef7-c4c1cca25086
+** Unrecognized rank: polyphyletic group d1169de6-d3f8-4e74-a635-3c2fbc45108b
+** Unrecognized rank: series d21e0695-1c06-4233-ad65-6dfbce8983e4
+** Unrecognized rank: polyphyletic group d283414f-4502-43dd-af1e-2f30111f11fa
+** Unrecognized rank: clade d4731ab0-83cd-4439-8469-b090bc74b65a
+** Unrecognized rank: clade d48f49a0-20eb-4e14-b8c6-6a6beeb9b8aa
+** Unrecognized rank: clade d4d46f65-be30-4fc3-942a-608183fc65d7
+** Unrecognized rank: polyphyletic group d6573a01-4633-4fac-828a-9754df1f1e48
+** Unrecognized rank: series d6898a83-dce3-4a2b-a7ad-6ec985142ffe
+** Unrecognized rank: clade d8cf4da5-7686-4915-ae0c-f54ebe0c5d60
+** Unrecognized rank: polyphyletic group d9ffccf4-3385-4ccf-89b4-3227c330ba82
+** Unrecognized rank: clade dad5b4d6-5b47-4d4a-82d0-a585a9fc685b
+** Unrecognized rank: clade db4546a7-82ce-4c01-a233-3cad27421c10
+** Unrecognized rank: clade dc7a677d-8f85-41d0-958c-2add3c06e809
+** Unrecognized rank: clade dcbd3f74-172d-4b4e-b257-59aa0e202c60
+** Unrecognized rank: polyphyletic group dd72be0d-cf53-4bc1-97e1-bba2e4669412
+** Unrecognized rank: polyphyletic group dfc1a53c-b514-48c0-a355-cdf7f6a6f90c
+** Unrecognized rank: subcohort e0b49fa3-815d-4837-af6d-1ea989bac067
+** Unrecognized rank: clade e11f4c0e-5163-4002-a972-2aeb7681aa16
+** Unrecognized rank: clade e15646ef-17a4-45d0-a7b9-0511a7ea28d6
+** Unrecognized rank: clade e2a5dc70-04cc-4a91-9ee5-0ac0f3146e7a
+** Unrecognized rank: clade e2edbe83-50b1-4bf0-9a8a-ea9bcf7838d9
+** Unrecognized rank: clade e3027025-4c7b-441a-8bb1-055fe1bf2835
+** Unrecognized rank: polyphyletic group e4341a0a-e12a-4269-969e-ccc9dbe8e8af
+** Unrecognized rank: clade e43b7ea1-4367-437d-91cb-ea215a6cb021
+** Unrecognized rank: clade e562c732-105e-4116-815d-e5324f21df4c
+** Unrecognized rank: clade e5fe62bc-cc06-4c10-bdc9-75f8f17731a6
+** Unrecognized rank: clade e6db6e50-909b-4695-9698-57e14e567c13
+** Unrecognized rank: clade e6e5fb63-b106-4e47-a575-9542cdb6a158
+** Unrecognized rank: polyphyletic group e931a9fa-ea90-4bbd-bd01-30e5a3b566fa
+** Unrecognized rank: clade e95ea8bf-ad09-407d-8da5-2330c0cde896
+** Unrecognized rank: clade ea05b2b6-cde3-4deb-b351-f214ca95876b
+** Unrecognized rank: clade ea6050fb-afb4-4773-b97c-36a7f84c47c5
+** Unrecognized rank: polyphyletic group eb29cee0-572f-4df4-8a51-2af51b8df653
+** Unrecognized rank: clade eb87ecb6-5dab-4abe-b477-3d9f509c60d2
+** Unrecognized rank: clade ebc02c9d-411b-4c4e-bbcb-61f32cff5212
+** Unrecognized rank: clade ec978536-ebb3-4b61-b5e4-951fb06c3fed
+** Unrecognized rank: clade ed4fc5e8-f8fb-41db-94d7-006fba7c9642
+** Unrecognized rank: clade edbb94eb-5585-4ba6-8f96-0b626909a871
+** Unrecognized rank: series ee0c75c2-8304-49c3-9582-13f0f48d1594
+** Unrecognized rank: clade eeb249a8-1413-4efe-aae0-1182731eea91
+** Unrecognized rank: polyphyletic group eec3af70-9df3-415c-ac22-54bf1232b478
+** Unrecognized rank: clade efe20f7e-1fea-44a9-a50a-230131fcf218
+** Unrecognized rank: clade f00290b3-98f9-4f7e-ab6a-22b661ea9e26
+** Unrecognized rank: clade f0d2f659-dbba-44e7-82dc-6f382d6e0ca3
+** Unrecognized rank: clade f14f39a1-b7f2-4ceb-8df1-e87fd3b876cc
+** Unrecognized rank: clade f2e4d0e2-85fe-4909-bd1f-abfdf65f8b63
+** Unrecognized rank: clade f2f3f2ea-8ea3-48e1-b343-75933f9ba7f1
+** Unrecognized rank: clade f32a7501-4476-404b-8207-f6b87921719c
+** Unrecognized rank: polyphyletic group f3c7ddb3-300b-4dee-8397-8ac7ff277cf7
+** Unrecognized rank: clade f44e4b7f-3da3-4125-905e-4f304fba0a5c
+** Unrecognized rank: clade f44f83b3-2111-49c9-a60f-3c86206331b5
+** Unrecognized rank: clade f4fc1cb6-c712-4849-bb9f-c7396b661fcc
+** Unrecognized rank: clade f6799075-d424-42a3-abed-49e2e608a4e1
+** Unrecognized rank: clade f6dda0aa-5a9a-4d81-80ab-dc1d6a5edca8
+** Unrecognized rank: polyphyletic group f955e092-afd0-4e94-9601-2067795190d5
+** Unrecognized rank: clade fa2fcee5-5e29-4d86-a478-28060f286801
+** Unrecognized rank: polyphyletic group fa478312-758d-4ae9-b58a-ab18e7f0f7ac
+** Unrecognized rank: clade fb0429b6-e066-4840-9b12-2b3b195dc059
+** Unrecognized rank: clade fb1c7e7c-f970-4af8-be3a-4b0721ef75f9
+** Unrecognized rank: clade fb5151a6-9eb7-4c98-bec1-6b9f7dab0afd
+** Unrecognized rank: clade fbb8bbf6-1e05-4a99-b4f0-1fa271aa540c
+** Unrecognized rank: clade fc0a2799-d423-4946-b51d-9c0341627293
+** Unrecognized rank: supercohort fc75d6d0-f202-44fd-9849-c16be91bc16f
+** Unrecognized rank: clade fd620b3c-d3fc-4229-94ff-63a30c8a79b6
+** Unrecognized rank: clade fd6e46c2-2cbb-4d1d-aafd-e9815d3c5e54
+** Unrecognized rank: clade fdf108d8-b888-497e-bab9-5ed517e0ee6d
+** Unrecognized rank: clade fe49043f-55f2-491d-871d-164b98e2e8d2
+** Unrecognized rank: polyphyletic group fe54e83a-28a7-46af-8757-0883f54d4d2f
+** Unrecognized rank: clade fe658f54-17d1-4429-a396-64d35712148c
+** Unrecognized rank: clade fe7d049d-0bd4-4eca-a3ce-002ac5780a80
+** Unrecognized rank: subcohort ff45fc6f-8a4c-4168-9232-2e62be6b586e
+** Unrecognized rank: clade ff8c5a45-142a-4679-a1d1-65815b83a396
+| 1 unrecognized parent ids, 1 nodes that have them
+| Monotypic parent/child (Thermodesulfobacteria trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da+1) (Thermodesulfobacteria trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106+1)
+| Monotypic parent/child (Elusimicrobia trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1+1) (Elusimicrobia trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0+1)
+| Monotypic parent/child (Gemmatimonadetes trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0+1) (Gemmatimonadetes trunk:2bad50de-087a-4e34-9bf5-b645349a401e+1)
+| Monotypic parent/child (Chlamydiae trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d+1) (Chlamydiae trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6+1)
+| Monotypic parent/child (Actinobacteria trunk:06075375-d7d2-4331-afee-8269352078f7+1) (Actinobacteria trunk:861183ef-48d2-48c8-891d-556c4dbed66e+10)
+| Monotypic parent/child (Thermotogae trunk:70fa171d-45d9-4670-a528-9e832b1198d5+1) (Thermotogae trunk:fab35211-fa6e-4832-bd30-a0a0585fc919+1)
+| trunk-2: elided 0 nodes, fixed 0 subgenus names, 6 monotypic p/c homs, 1 nonmonotypic
+# homonym parent/child (Actinobacteria trunk:06075375-d7d2-4331-afee-8269352078f7+1) (Actinobacteria trunk:861183ef-48d2-48c8-891d-556c4dbed66e+10)
+# homonym parent/child (Thermotogae trunk:70fa171d-45d9-4670-a528-9e832b1198d5+1) (Thermotogae trunk:fab35211-fa6e-4832-bd30-a0a0585fc919+1)
+# homonym parent/child (Elusimicrobia trunk:07a9ef01-3694-4ee8-813f-8e51b238a4c0+1) (Elusimicrobia trunk:e4b636f0-aa58-4667-bfa5-9e45bd376df1+1)
+# homonym parent/child (Thermodesulfobacteria trunk:6439b0aa-82f1-408d-8415-97a2c7a0c0da+1) (Thermodesulfobacteria trunk:7eff8fce-60c1-4807-bfd4-1f4af8a90106+1)
+# homonym parent/child (Chlamydiae trunk:4ec0dd50-bbbb-44a5-a949-af81631d99e6+1) (Chlamydiae trunk:e26678a0-c1e4-4639-80d9-2f4003b8588d+1)
+# homonym parent/child (Acidobacteria trunk:1043a7b7-a135-4d26-9b6a-20c79fd01a57+3) (Acidobacteria trunk:ab1d8d21-01c4-4126-b639-8d576bb7ea08+1)
+# homonym parent/child (Gemmatimonadetes trunk:2bad50de-087a-4e34-9bf5-b645349a401e+1) (Gemmatimonadetes trunk:5cb4155e-24c4-4fd6-a855-fe655e89dff0+1)
+| 11 homonym pairs, of which 0 siblings, 0 cousins, 7 parent/child, 0 aunt/niece
+| 3 roots + 3059 internal + 9939 tips = 13001 total, 0 synonyms
+--- Reading t/tax/ioc-birdlist/ ---
+| 1 unrecognized parent ids, 1 nodes that have them
+* Nontrivial forest: biggest is 21401, 2nd biggest is 1466
+| 43 roots + 7546 internal + 26160 tips = 33749 total, 0 synonyms
+--- Reading t/tax/ppg12016/ ---
+** Unrecognized rank: suborder  Pteridophyte-Phylogeny-Group1-316
+| 1 unrecognized parent ids, 1 nodes that have them
+| Normalized 3 names
+* Nontrivial forest: biggest is 414, 2nd biggest is 28
+| 4 homonym pairs, of which 1 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 2 roots + 103 internal + 337 tips = 442 total, 3 synonyms
+--- Reading t/tax/plant_dwca/ ---
+** Unrecognized rank: f. tro-100280595
+** Unrecognized rank: f. tro-13072918
+** Unrecognized rank: f. kew-469
+** Unrecognized rank: f. kew-602
+** Unrecognized rank: f. kew-857
+** Unrecognized rank: f. tro-200241
+** Unrecognized rank: f. kew-2617247
+** Unrecognized rank: f. kew-2617248
+** Unrecognized rank: f. tro-35204006
+** Unrecognized rank: f. kew-2620559
+** Unrecognized rank: f. kew-2620575
+** Unrecognized rank: f. gcc-94701
+** Unrecognized rank: f. tro-26603099
+** Unrecognized rank: f. kew-2623139
+** Unrecognized rank: f. kew-3513
+** Unrecognized rank: f. gcc-92946
+** Unrecognized rank: f. gcc-122116
+** Unrecognized rank: f. kew-4608
+** Unrecognized rank: f. kew-4632
+** Unrecognized rank: f. kew-4637
+** Unrecognized rank: f. kew-4678
+** Unrecognized rank: f. kew-4684
+** Unrecognized rank: f. tro-25501561
+** Unrecognized rank: f. kew-5765
+** Unrecognized rank: f. kew-5767
+** Unrecognized rank: f. tro-35190996
+** Unrecognized rank: f. tro-35188897
+** Unrecognized rank: f. tro-35204015
+** Unrecognized rank: f. tro-35204016
+** Unrecognized rank: f. tro-35204043
+** Unrecognized rank: f. tro-35186655
+** Unrecognized rank: f. tro-35217579
+** Unrecognized rank: f. tro-35217580
+** Unrecognized rank: f. tro-35217581
+** Unrecognized rank: f. tro-35217583
+** Unrecognized rank: f. tro-35217587
+** Unrecognized rank: f. tro-35217588
+** Unrecognized rank: f. rjp-14028
+** Unrecognized rank: f. rjp-14094
+** Unrecognized rank: f. kew-2634504
+** Unrecognized rank: f. kew-2634505
+** Unrecognized rank: f. gcc-102823
+** Unrecognized rank: f. gcc-73381
+** Unrecognized rank: f. tro-35215870
+** Unrecognized rank: f. tro-35215869
+** Unrecognized rank: f. tro-35215860
+** Unrecognized rank: f. tro-35215859
+** Unrecognized rank: f. tro-35215861
+** Unrecognized rank: f. tro-35215865
+** Unrecognized rank: f. tro-35215866
+** Unrecognized rank: f. tro-35215867
+** Unrecognized rank: f. tro-50232873
+** Unrecognized rank: f. kew-2638976
+** Unrecognized rank: f. tro-35204520
+** Unrecognized rank: f. tro-35204293
+** Unrecognized rank: f. kew-2643872
+** Unrecognized rank: f. tro-50326663
+** Unrecognized rank: f. kew-2648597
+** Unrecognized rank: f. kew-2650522
+** Unrecognized rank: f. kew-14800
+** Unrecognized rank: f. tro-25517580
+** Unrecognized rank: f. tro-25508086
+** Unrecognized rank: f. tro-25508107
+** Unrecognized rank: f. rjp-36466
+** Unrecognized rank: f. rjp-36468
+** Unrecognized rank: f. kew-2900643
+** Unrecognized rank: f. kew-2654450
+** Unrecognized rank: f. tro-50281182
+** Unrecognized rank: f. tro-50281183
+** Unrecognized rank: f. tro-26603830
+** Unrecognized rank: f. tro-26605171
+** Unrecognized rank: f. gcc-72828
+** Unrecognized rank: f. tro-13041800
+** Unrecognized rank: f. tro-100295145
+** Unrecognized rank: f. tro-13041899
+** Unrecognized rank: f. tro-26613532
+** Unrecognized rank: f. tro-50074960
+** Unrecognized rank: f. tro-26611388
+** Unrecognized rank: f. tro-26611433
+** Unrecognized rank: f. tro-35169297
+** Unrecognized rank: f. tro-35190171
+** Unrecognized rank: f. tro-35207443
+** Unrecognized rank: f. tro-35207444
+** Unrecognized rank: f. tro-35207445
+** Unrecognized rank: f. tro-35207437
+** Unrecognized rank: f. kew-313548
+** Unrecognized rank: f. tro-35205927
+** Unrecognized rank: f. tro-35213020
+** Unrecognized rank: f. gcc-129817
+** Unrecognized rank: f. tro-26605085
+** Unrecognized rank: f. tro-13002138
+** Unrecognized rank: f. tro-13002139
+** Unrecognized rank: f. kew-24635
+** Unrecognized rank: f. tro-35204747
+** Unrecognized rank: f. tro-35185842
+** Unrecognized rank: f. tro-35185827
+** Unrecognized rank: f. tro-35185829
+** Unrecognized rank: f. tro-35185841
+** Unrecognized rank: f. tro-35185843
+** Unrecognized rank: f. tro-35185848
+** Unrecognized rank: f. tro-35208099
+** Unrecognized rank: f. tro-35204741
+** Unrecognized rank: f. tro-35185426
+** Unrecognized rank: f. tro-35185209
+** Unrecognized rank: f. tro-35185427
+** Unrecognized rank: f. tro-35185224
+** Unrecognized rank: f. tro-35185504
+** Unrecognized rank: f. tro-35184550
+** Unrecognized rank: f. tro-35184551
+** Unrecognized rank: f. tro-35184547
+** Unrecognized rank: f. tro-35184548
+** Unrecognized rank: f. tro-35184786
+** Unrecognized rank: f. tro-35184803
+** Unrecognized rank: f. tro-35184792
+** Unrecognized rank: f. tro-35184863
+** Unrecognized rank: f. tro-35184785
+** Unrecognized rank: f. tro-35184859
+** Unrecognized rank: f. tro-35184857
+** Unrecognized rank: f. tro-35184806
+** Unrecognized rank: f. tro-35184848
+** Unrecognized rank: f. tro-35184813
+** Unrecognized rank: f. tro-35204749
+** Unrecognized rank: f. tro-35184614
+** Unrecognized rank: f. tro-35184670
+** Unrecognized rank: f. tro-35184691
+** Unrecognized rank: f. tro-35184686
+** Unrecognized rank: f. tro-35184698
+** Unrecognized rank: f. tro-35185515
+** Unrecognized rank: f. tro-35184705
+** Unrecognized rank: f. tro-35184609
+** Unrecognized rank: f. tro-35184598
+** Unrecognized rank: f. tro-35184682
+** Unrecognized rank: f. tro-35184661
+** Unrecognized rank: f. tro-35184624
+** Unrecognized rank: f. tro-35184626
+** Unrecognized rank: f. tro-35184619
+** Unrecognized rank: f. tro-35184625
+** Unrecognized rank: f. tro-35184688
+** Unrecognized rank: f. tro-35184607
+** Unrecognized rank: f. tro-35184706
+** Unrecognized rank: f. tro-35184565
+** Unrecognized rank: f. tro-35184621
+** Unrecognized rank: f. tro-35184617
+** Unrecognized rank: f. tro-35184610
+** Unrecognized rank: f. tro-35184579
+** Unrecognized rank: f. tro-35184690
+** Unrecognized rank: f. tro-35184708
+** Unrecognized rank: f. tro-35100039
+** Unrecognized rank: f. tro-35184934
+** Unrecognized rank: f. tro-35185026
+** Unrecognized rank: f. tro-35184997
+** Unrecognized rank: f. tro-35185001
+** Unrecognized rank: f. tro-35184996
+** Unrecognized rank: f. tro-35185021
+** Unrecognized rank: f. tro-35185007
+** Unrecognized rank: f. tro-35185017
+** Unrecognized rank: f. tro-35185000
+** Unrecognized rank: f. tro-35184990
+** Unrecognized rank: f. tro-35184985
+** Unrecognized rank: f. tro-35185008
+** Unrecognized rank: f. tro-35185025
+** Unrecognized rank: f. tro-35185032
+** Unrecognized rank: f. tro-35185002
+** Unrecognized rank: f. tro-35185038
+** Unrecognized rank: f. tro-35185027
+** Unrecognized rank: f. tro-35185031
+** Unrecognized rank: f. tro-35184992
+** Unrecognized rank: f. tro-35186109
+** Unrecognized rank: f. tro-35184539
+** Unrecognized rank: f. tro-35184535
+** Unrecognized rank: f. kew-26400
+** Unrecognized rank: f. tro-13062998
+** Unrecognized rank: f. tro-25547599
+** Unrecognized rank: f. tro-25547601
+** Unrecognized rank: f. kew-30714
+** Unrecognized rank: f. tro-35189489
+** Unrecognized rank: f. tro-35189490
+** Unrecognized rank: f. tro-35169411
+** Unrecognized rank: f. tro-35211433
+** Unrecognized rank: f. tro-35211435
+** Unrecognized rank: f. gcc-118097
+** Unrecognized rank: f. tro-35204755
+** Unrecognized rank: f. tro-35169049
+** Unrecognized rank: f. tro-35204757
+** Unrecognized rank: f. tro-100304447
+** Unrecognized rank: f. tro-50059472
+** Unrecognized rank: f. kew-2697010
+** Unrecognized rank: f. tro-100279435
+** Unrecognized rank: f. kew-226167
+** Unrecognized rank: f. tro-9910458
+** Unrecognized rank: f. kew-345246
+** Unrecognized rank: f. kew-2704612
+** Unrecognized rank: f. kew-2704613
+** Unrecognized rank: f. kew-2704644
+** Unrecognized rank: f. kew-2704646
+** Unrecognized rank: f. tro-13100764
+** Unrecognized rank: f. kew-36645
+** Unrecognized rank: f. tro-35202322
+** Unrecognized rank: f. tro-35202428
+** Unrecognized rank: f. tro-35202451
+** Unrecognized rank: f. tro-35202475
+** Unrecognized rank: f. kew-36910
+** Unrecognized rank: f. rjp-19755
+** Unrecognized rank: f. rjp-19395
+** Unrecognized rank: f. rjp-19397
+** Unrecognized rank: f. rjp-19396
+** Unrecognized rank: f. tro-35202657
+** Unrecognized rank: f. tro-35202195
+** Unrecognized rank: f. kew-39108
+** Unrecognized rank: f. gcc-124392
+** Unrecognized rank: f. gcc-74026
+** Unrecognized rank: f. kew-2721447
+** Unrecognized rank: f. tro-35167819
+** Unrecognized rank: f. gcc-74298
+** Unrecognized rank: f. gcc-103755
+** Unrecognized rank: f. gcc-98104
+** Unrecognized rank: f. gcc-127410
+** Unrecognized rank: f. gcc-138104
+** Unrecognized rank: f. kew-331559
+** Unrecognized rank: f. kew-331561
+** Unrecognized rank: f. tro-13072470
+** Unrecognized rank: f. tro-13076065
+** Unrecognized rank: f. tro-50196227
+** Unrecognized rank: f. tro-50174592
+** Unrecognized rank: f. tro-50065664
+** Unrecognized rank: f. kew-233880
+** Unrecognized rank: f. kew-233883
+** Unrecognized rank: f. kew-233886
+** Unrecognized rank: f. tro-701120
+** Unrecognized rank: f. kew-2735717
+** Unrecognized rank: f. rjp-17023
+** Unrecognized rank: f. rjp-37120
+** Unrecognized rank: f. rjp-16945
+** Unrecognized rank: f. tro-50320164
+** Unrecognized rank: f. tro-27803208
+** Unrecognized rank: f. rjp-18749
+** Unrecognized rank: f. rjp-18738
+** Unrecognized rank: f. rjp-18755
+** Unrecognized rank: f. rjp-18742
+** Unrecognized rank: f. tro-50320151
+** Unrecognized rank: f. tro-50144251
+** Unrecognized rank: f. kew-2749699
+** Unrecognized rank: f. kew-2749811
+** Unrecognized rank: f. tro-26624534
+** Unrecognized rank: f. rjp-19866
+** Unrecognized rank: f. rjp-17840
+** Unrecognized rank: f. rjp-17841
+** Unrecognized rank: f. rjp-19854
+** Unrecognized rank: f. tro-50069197
+** Unrecognized rank: f. tro-26617973
+** Unrecognized rank: f. kew-2758530
+** Unrecognized rank: f. tro-26611279
+** Unrecognized rank: f. tro-13069247
+** Unrecognized rank: f. tro-100351301
+** Unrecognized rank: f. tro-13062863
+** Unrecognized rank: f. tro-13064362
+** Unrecognized rank: f. tro-50171879
+** Unrecognized rank: f. tro-13062862
+** Unrecognized rank: f. tro-13064382
+** Unrecognized rank: f. tro-35167975
+** Unrecognized rank: f. tro-35169050
+** Unrecognized rank: f. tro-35186793
+** Unrecognized rank: f. tro-35169484
+** Unrecognized rank: f. tro-35169485
+** Unrecognized rank: f. tro-50119972
+** Unrecognized rank: f. tro-50117178
+** Unrecognized rank: f. tro-26611462
+** Unrecognized rank: f. gcc-148609
+** Unrecognized rank: f. gcc-155906
+** Unrecognized rank: f. kew-63304
+** Unrecognized rank: f. tro-35186512
+** Unrecognized rank: f. tro-35204762
+** Unrecognized rank: f. tro-35169051
+** Unrecognized rank: f. tro-35204753
+** Unrecognized rank: f. tro-35204754
+** Unrecognized rank: f. tro-35186589
+** Unrecognized rank: f. tro-26611681
+** Unrecognized rank: f. kew-2781052
+** Unrecognized rank: f. kew-2781087
+** Unrecognized rank: f. kew-2781098
+** Unrecognized rank: f. tro-25553332
+** Unrecognized rank: f. kew-2787048
+** Unrecognized rank: f. kew-2787054
+** Unrecognized rank: f. gcc-73512
+** Unrecognized rank: f. kew-2789307
+** Unrecognized rank: f. kew-332964
+** Unrecognized rank: f. tro-26604945
+** Unrecognized rank: f. tro-26605226
+** Unrecognized rank: f. kew-243635
+** Unrecognized rank: f. kew-2803444
+** Unrecognized rank: f. kew-2804985
+** Unrecognized rank: f. kew-2805963
+** Unrecognized rank: f. kew-2805964
+** Unrecognized rank: f. tro-50119553
+** Unrecognized rank: f. tro-50164376
+** Unrecognized rank: f. tro-50163757
+** Unrecognized rank: f. tro-8502602
+** Unrecognized rank: f. kew-83847
+** Unrecognized rank: f. tro-25517655
+** Unrecognized rank: f. kew-2811202
+** Unrecognized rank: f. kew-245379
+** Unrecognized rank: f. tro-35188833
+** Unrecognized rank: f. tro-35168278
+** Unrecognized rank: f. tro-35201004
+** Unrecognized rank: f. kew-2813511
+** Unrecognized rank: f. tro-35203321
+** Unrecognized rank: f. kew-246306
+** Unrecognized rank: f. tro-35187056
+** Unrecognized rank: f. kew-274102
+** Unrecognized rank: f. tro-35190314
+** Unrecognized rank: f. tro-35140686
+** Unrecognized rank: f. tro-35140687
+** Unrecognized rank: f. kew-2829078
+** Unrecognized rank: f. kew-2829290
+** Unrecognized rank: f. tro-20302855
+** Unrecognized rank: f. tro-35186534
+** Unrecognized rank: f. tro-50149821
+** Unrecognized rank: f. tro-50224828
+** Unrecognized rank: f. tro-13801118
+** Unrecognized rank: f. kew-2838939
+** Unrecognized rank: f. tro-50190141
+** Unrecognized rank: f. kew-277060
+** Unrecognized rank: f. kew-277371
+** Unrecognized rank: f. kew-277378
+** Unrecognized rank: f. kew-277379
+** Unrecognized rank: f. kew-277380
+** Unrecognized rank: f. kew-96717
+** Unrecognized rank: f. tro-35186541
+** Unrecognized rank: f. tro-13001220
+** Unrecognized rank: f. tro-13002389
+** Unrecognized rank: f. tro-13002390
+** Unrecognized rank: f. tro-30401619
+** Unrecognized rank: f. tro-50302976
+** Unrecognized rank: f. tro-50302973
+** Unrecognized rank: f. tro-19601622
+** Unrecognized rank: f. tro-50191635
+** Unrecognized rank: f. tro-35168789
+** Unrecognized rank: f. tro-13200983
+** Unrecognized rank: f. tro-13200986
+** Unrecognized rank: f. kew-99950
+** Unrecognized rank: f. kew-99954
+** Unrecognized rank: f. tro-25549143
+** Unrecognized rank: f. tro-29101092
+** Unrecognized rank: f. tro-50084969
+** Unrecognized rank: f. tro-7800973
+** Unrecognized rank: f. kew-2878468
+** Unrecognized rank: f. kew-2902471
+** Unrecognized rank: f. kew-2902477
+** Unrecognized rank: f. kew-2902473
+** Unrecognized rank: f. kew-2902475
+** Unrecognized rank: f. kew-2902463
+** Unrecognized rank: f. kew-2901194
+** Unrecognized rank: f. tro-35169737
+** Unrecognized rank: f. tro-35169738
+** Unrecognized rank: f. tro-50124093
+** Unrecognized rank: f. tro-50001005
+** Unrecognized rank: f. tro-3100146
+** Unrecognized rank: f. tro-3100148
+** Unrecognized rank: f. tro-3100149
+** Unrecognized rank: f. tro-3100147
+** Unrecognized rank: f. tro-3100161
+** Unrecognized rank: f. tro-3100150
+** Unrecognized rank: f. tro-3100151
+** Unrecognized rank: f. kew-2866581
+** Unrecognized rank: f. kew-321602
+** Unrecognized rank: f. kew-321603
+** Unrecognized rank: f. kew-322216
+** Unrecognized rank: f. tro-26605066
+** Unrecognized rank: f. kew-351805
+** Unrecognized rank: f. tro-35205176
+** Unrecognized rank: f. tro-35210732
+** Unrecognized rank: f. tro-35205494
+** Unrecognized rank: f. tro-35189443
+** Unrecognized rank: f. kew-2332520
+** Unrecognized rank: f. kew-2604730
+** Unrecognized rank: f. kew-2332962
+** Unrecognized rank: f. kew-2333110
+** Unrecognized rank: f. tro-102658
+** Unrecognized rank: f. tro-12302703
+** Unrecognized rank: f. tro-12302705
+** Unrecognized rank: f. tro-12302701
+** Unrecognized rank: f. tro-12302704
+** Unrecognized rank: f. kew-105539
+** Unrecognized rank: f. tro-50113450
+** Unrecognized rank: f. tro-50113444
+** Unrecognized rank: f. tro-50113446
+** Unrecognized rank: f. tro-50113440
+** Unrecognized rank: f. tro-50113442
+** Unrecognized rank: f. gcc-127861
+** Unrecognized rank: f. tro-13066769
+** Unrecognized rank: f. tro-13044753
+** Unrecognized rank: f. tro-13044755
+** Unrecognized rank: f. tro-13044756
+** Unrecognized rank: f. tro-13044765
+** Unrecognized rank: f. tro-13044766
+** Unrecognized rank: f. tro-13044773
+** Unrecognized rank: f. tro-35215530
+** Unrecognized rank: f. tro-50194980
+** Unrecognized rank: f. tro-50124825
+** Unrecognized rank: f. tro-50195578
+** Unrecognized rank: f. tro-50195579
+** Unrecognized rank: f. tro-35183596
+** Unrecognized rank: f. tro-35204761
+** Unrecognized rank: f. tro-13002776
+** Unrecognized rank: f. tro-13066637
+** Unrecognized rank: f. kew-111662
+** Unrecognized rank: f. tro-17803778
+** Unrecognized rank: f. tro-50255245
+** Unrecognized rank: f. tro-50196932
+** Unrecognized rank: f. tro-50196935
+** Unrecognized rank: f. tro-50094729
+** Unrecognized rank: f. tro-50094731
+** Unrecognized rank: f. tro-50094737
+** Unrecognized rank: f. tro-50094736
+** Unrecognized rank: f. tro-50094738
+** Unrecognized rank: f. tro-25549273
+** Unrecognized rank: f. tro-50094533
+** Unrecognized rank: f. tro-13801122
+** Unrecognized rank: f. tro-6000318
+** Unrecognized rank: f. tro-50230516
+** Unrecognized rank: f. tro-12302716
+** Unrecognized rank: f. kew-116412
+** Unrecognized rank: f. rjp-33238
+** Unrecognized rank: f. tro-50335454
+** Unrecognized rank: f. kew-120585
+** Unrecognized rank: f. tro-35201801
+** Unrecognized rank: f. tro-35210742
+** Unrecognized rank: f. tro-35210743
+** Unrecognized rank: f. tro-50199058
+** Unrecognized rank: f. tro-50199120
+** Unrecognized rank: f. tro-13073169
+** Unrecognized rank: f. tro-50199131
+** Unrecognized rank: f. tro-50149934
+** Unrecognized rank: f. tro-5107815
+** Unrecognized rank: f. tro-5107817
+** Unrecognized rank: f. tro-5107990
+** Unrecognized rank: f. tro-50107250
+** Unrecognized rank: f. rjp-17067
+** Unrecognized rank: f. rjp-17066
+** Unrecognized rank: f. gcc-79748
+** Unrecognized rank: f. tro-35188676
+** Unrecognized rank: f. tro-26611287
+** Unrecognized rank: f. tro-29204113
+** Unrecognized rank: f. tro-50102162
+** Unrecognized rank: f. tro-35169043
+** Unrecognized rank: f. tro-35204935
+** Unrecognized rank: f. tro-1602468
+** Unrecognized rank: f. kew-323617
+** Unrecognized rank: f. kew-130491
+** Unrecognized rank: f. tro-50201016
+** Unrecognized rank: f. tro-15000092
+** Unrecognized rank: f. tro-15000099
+** Unrecognized rank: f. tro-35186602
+** Unrecognized rank: f. tro-2000319
+** Unrecognized rank: f. tro-50302834
+** Unrecognized rank: f. tro-50302833
+** Unrecognized rank: f. tro-50059663
+** Unrecognized rank: f. tro-50059668
+** Unrecognized rank: f. tro-26625203
+** Unrecognized rank: f. tro-50203311
+** Unrecognized rank: f. tro-17803864
+** Unrecognized rank: f. tro-50120931
+** Unrecognized rank: f. tro-50127203
+** Unrecognized rank: f. tro-35186531
+** Unrecognized rank: f. tro-13074640
+** Unrecognized rank: f. tro-50089705
+** Unrecognized rank: f. tro-50205116
+** Unrecognized rank: f. tro-50048464
+** Unrecognized rank: f. tro-50127264
+** Unrecognized rank: f. tro-35203460
+** Unrecognized rank: f. tro-35169504
+** Unrecognized rank: f. tro-35188326
+** Unrecognized rank: f. tro-35204804
+** Unrecognized rank: f. tro-35169179
+** Unrecognized rank: f. tro-35204807
+** Unrecognized rank: f. tro-35201031
+** Unrecognized rank: f. tro-26605102
+** Unrecognized rank: f. tro-26612305
+** Unrecognized rank: f. tro-50080215
+** Unrecognized rank: f. tro-50196637
+** Unrecognized rank: f. tro-50080477
+** Unrecognized rank: f. tro-50326316
+** Unrecognized rank: f. tro-100351348
+** Unrecognized rank: f. tro-50149809
+** Unrecognized rank: f. tro-35168711
+** Unrecognized rank: f. tro-35186932
+** Unrecognized rank: f. kew-312020
+** Unrecognized rank: f. tro-50149339
+** Unrecognized rank: f. tro-50149331
+** Unrecognized rank: f. tro-35217512
+** Unrecognized rank: f. tro-35217513
+** Unrecognized rank: f. tro-35217514
+** Unrecognized rank: f. tro-35217564
+** Unrecognized rank: f. tro-35217565
+** Unrecognized rank: f. tro-35217567
+** Unrecognized rank: f. tro-35217570
+** Unrecognized rank: f. tro-35217571
+** Unrecognized rank: f. tro-35217573
+** Unrecognized rank: f. tro-50165674
+** Unrecognized rank: f. tro-34000382
+** Unrecognized rank: f. tro-50121037
+** Unrecognized rank: f. tro-24200499
+** Unrecognized rank: f. tro-24200825
+** Unrecognized rank: f. tro-29207559
+** Unrecognized rank: f. tro-50079833
+** Unrecognized rank: f. tro-29204385
+** Unrecognized rank: f. tro-13073291
+** Unrecognized rank: f. kew-2572322
+** Unrecognized rank: f. tro-50107139
+** Unrecognized rank: f. tro-50120797
+** Unrecognized rank: f. tro-50302925
+** Unrecognized rank: f. tro-50302885
+** Unrecognized rank: f. tro-35184480
+** Unrecognized rank: f. tro-35184489
+** Unrecognized rank: f. tro-35184491
+** Unrecognized rank: f. tro-35184492
+** Unrecognized rank: f. tro-35184493
+** Unrecognized rank: f. tro-35184495
+** Unrecognized rank: f. tro-35184499
+** Unrecognized rank: f. tro-35184505
+** Unrecognized rank: f. tro-35184511
+** Unrecognized rank: f. tro-35186556
+** Unrecognized rank: f. tro-25800853
+** Unrecognized rank: f. rjp-2980
+** Unrecognized rank: f. kew-153585
+** Unrecognized rank: f. kew-153719
+** Unrecognized rank: f. tro-12804245
+** Unrecognized rank: f. tro-12300096
+** Unrecognized rank: f. tro-25542933
+** Unrecognized rank: f. tro-50112818
+** Unrecognized rank: f. tro-35169065
+** Unrecognized rank: f. tro-35217625
+** Unrecognized rank: f. tro-35217626
+** Unrecognized rank: f. rjp-16116
+** Unrecognized rank: f. rjp-16123
+** Unrecognized rank: f. kew-2575997
+** Unrecognized rank: f. tro-50271006
+** Unrecognized rank: f. tro-50271003
+** Unrecognized rank: f. tro-25003680
+** Unrecognized rank: f. tro-25003693
+** Unrecognized rank: f. tro-25003711
+** Unrecognized rank: f. tro-50256741
+** Unrecognized rank: f. tro-50121787
+** Unrecognized rank: f. tro-35201896
+** Unrecognized rank: f. tro-35209273
+** Unrecognized rank: f. tro-35205813
+** Unrecognized rank: f. tro-35205628
+** Unrecognized rank: f. tro-35205817
+** Unrecognized rank: f. tro-35207449
+** Unrecognized rank: f. tro-35209275
+** Unrecognized rank: f. tro-35205822
+** Unrecognized rank: f. tro-35209361
+** Unrecognized rank: f. tro-35209359
+** Unrecognized rank: f. tro-35205824
+** Unrecognized rank: f. tro-35168900
+** Unrecognized rank: f. tro-35168901
+** Unrecognized rank: f. tro-35217032
+** Unrecognized rank: f. tro-35217035
+** Unrecognized rank: f. tro-35217050
+** Unrecognized rank: f. tro-35217045
+** Unrecognized rank: f. tro-35217079
+** Unrecognized rank: f. tro-35168905
+** Unrecognized rank: f. tro-35217102
+** Unrecognized rank: f. tro-35217103
+** Unrecognized rank: f. tro-35217104
+** Unrecognized rank: f. tro-35217105
+** Unrecognized rank: f. tro-35217106
+** Unrecognized rank: f. tro-35217108
+** Unrecognized rank: f. tro-35217110
+** Unrecognized rank: f. tro-35217119
+** Unrecognized rank: f. tro-35217120
+** Unrecognized rank: f. tro-35217126
+** Unrecognized rank: f. tro-35217127
+** Unrecognized rank: f. tro-35189075
+** Unrecognized rank: f. tro-35217183
+** Unrecognized rank: f. tro-35217184
+** Unrecognized rank: f. tro-35217186
+** Unrecognized rank: f. tro-35217187
+** Unrecognized rank: f. tro-35217189
+** Unrecognized rank: f. tro-35217190
+** Unrecognized rank: f. tro-35217192
+** Unrecognized rank: f. tro-35217197
+** Unrecognized rank: f. tro-35217196
+** Unrecognized rank: f. tro-25400678
+** Unrecognized rank: f. tro-50267776
+** Unrecognized rank: f. tro-50267782
+** Unrecognized rank: f. tro-25549564
+** Unrecognized rank: f. tro-35217221
+** Unrecognized rank: f. tro-35217222
+** Unrecognized rank: f. tro-35217229
+** Unrecognized rank: f. tro-35217254
+** Unrecognized rank: f. tro-35217256
+** Unrecognized rank: f. tro-35217259
+** Unrecognized rank: f. tro-35217261
+** Unrecognized rank: f. tro-35217266
+** Unrecognized rank: f. tro-35217267
+** Unrecognized rank: f. tro-35217268
+** Unrecognized rank: f. tro-35217269
+** Unrecognized rank: f. tro-35217272
+** Unrecognized rank: f. tro-35217278
+** Unrecognized rank: f. tro-35217280
+** Unrecognized rank: f. tro-35217282
+** Unrecognized rank: f. tro-35217287
+** Unrecognized rank: f. tro-35217288
+** Unrecognized rank: f. tro-35217290
+** Unrecognized rank: f. tro-35217291
+** Unrecognized rank: f. tro-35217292
+** Unrecognized rank: f. tro-35217293
+** Unrecognized rank: f. tro-35217294
+** Unrecognized rank: f. tro-35217295
+** Unrecognized rank: f. tro-35217296
+** Unrecognized rank: f. tro-35217297
+** Unrecognized rank: f. tro-35217299
+** Unrecognized rank: f. tro-35217300
+** Unrecognized rank: f. tro-35217301
+** Unrecognized rank: f. tro-35217304
+** Unrecognized rank: f. tro-35217305
+** Unrecognized rank: f. tro-50313801
+** Unrecognized rank: f. tro-25900902
+** Unrecognized rank: f. tro-100365321
+** Unrecognized rank: f. tro-100363328
+** Unrecognized rank: f. tro-100363327
+** Unrecognized rank: f. tro-50062860
+** Unrecognized rank: f. tro-26605183
+** Unrecognized rank: f. tro-26604042
+** Unrecognized rank: f. tro-26611829
+** Unrecognized rank: f. tro-26611845
+** Unrecognized rank: f. tro-35217315
+** Unrecognized rank: f. tro-35217318
+** Unrecognized rank: f. tro-35169509
+** Unrecognized rank: f. tro-50121039
+** Unrecognized rank: f. tro-28301361
+** Unrecognized rank: f. tro-35209427
+** Unrecognized rank: f. tro-35212961
+** Unrecognized rank: f. tro-35202012
+** Unrecognized rank: f. tro-50215504
+** Unrecognized rank: f. rjp-15406
+** Unrecognized rank: f. tro-35217379
+** Unrecognized rank: f. tro-35217381
+** Unrecognized rank: f. tro-50074436
+** Unrecognized rank: f. tro-35217414
+** Unrecognized rank: f. tro-35217416
+** Unrecognized rank: f. tro-35217417
+** Unrecognized rank: f. tro-35217420
+** Unrecognized rank: f. tro-35217423
+** Unrecognized rank: f. tro-35217424
+** Unrecognized rank: f. tro-35217405
+** Unrecognized rank: f. tro-35217406
+** Unrecognized rank: f. tro-35217407
+** Unrecognized rank: f. tro-35204517
+** Unrecognized rank: f. tro-35217408
+** Unrecognized rank: f. tro-35217410
+** Unrecognized rank: f. tro-35217428
+** Unrecognized rank: f. tro-35217429
+** Unrecognized rank: f. tro-35217430
+** Unrecognized rank: f. tro-35217432
+** Unrecognized rank: f. tro-35217433
+** Unrecognized rank: f. tro-35217434
+** Unrecognized rank: f. tro-35217435
+** Unrecognized rank: f. tro-35217436
+** Unrecognized rank: f. tro-35217438
+** Unrecognized rank: f. tro-35217445
+** Unrecognized rank: f. tro-35217447
+** Unrecognized rank: f. kew-337754
+** Unrecognized rank: f. tro-28101279
+** Unrecognized rank: f. tro-35217453
+** Unrecognized rank: f. tro-35217454
+** Unrecognized rank: f. tro-35217460
+** Unrecognized rank: f. tro-26620437
+** Unrecognized rank: f. tro-100364376
+** Unrecognized rank: f. tro-13056142
+** Unrecognized rank: f. tro-35217467
+** Unrecognized rank: f. tro-35217468
+** Unrecognized rank: f. tro-35189110
+** Unrecognized rank: f. tro-35189274
+** Unrecognized rank: f. tro-35189112
+** Unrecognized rank: f. tro-35189113
+** Unrecognized rank: f. tro-35189590
+** Unrecognized rank: f. tro-35217476
+** Unrecognized rank: f. tro-35217477
+** Unrecognized rank: f. tro-35217478
+** Unrecognized rank: f. tro-35217482
+** Unrecognized rank: f. tro-35217484
+** Unrecognized rank: f. tro-35217487
+** Unrecognized rank: f. tro-35217488
+** Unrecognized rank: f. tro-35217489
+** Unrecognized rank: f. tro-35217491
+** Unrecognized rank: f. tro-35217492
+** Unrecognized rank: f. tro-35217493
+** Unrecognized rank: f. tro-35217495
+** Unrecognized rank: f. tro-35217500
+** Unrecognized rank: f. tro-35217502
+** Unrecognized rank: f. tro-35217505
+** Unrecognized rank: f. tro-35168794
+** Unrecognized rank: f. rjp-17098
+** Unrecognized rank: f. tro-50281602
+** Unrecognized rank: f. tro-50120940
+** Unrecognized rank: f. tro-50088603
+** Unrecognized rank: f. tro-50112849
+** Unrecognized rank: f. gcc-74878
+** Unrecognized rank: f. tro-50124962
+** Unrecognized rank: f. tro-50001272
+** Unrecognized rank: f. tro-12302674
+** Unrecognized rank: f. tro-12302675
+** Unrecognized rank: f. tro-50113495
+** Unrecognized rank: f. tro-1300712
+** Unrecognized rank: f. kew-262215
+** Unrecognized rank: f. tro-50188181
+** Unrecognized rank: f. tro-50131587
+** Unrecognized rank: f. tro-50118616
+** Unrecognized rank: f. tro-50123467
+** Unrecognized rank: f. tro-35211167
+** Unrecognized rank: f. tro-35204865
+** Unrecognized rank: f. tro-33801078
+** Unrecognized rank: f. tro-100349814
+** Unrecognized rank: f. rjp-31818
+** Unrecognized rank: f. rjp-13426
+** Unrecognized rank: f. rjp-13425
+** Unrecognized rank: f. rjp-31848
+** Unrecognized rank: f. rjp-31829
+** Unrecognized rank: f. rjp-31811
+** Unrecognized rank: f. rjp-19990
+** Unrecognized rank: f. rjp-31863
+** Unrecognized rank: f. rjp-31817
+** Unrecognized rank: f. rjp-31816
+** Unrecognized rank: f. rjp-31831
+** Unrecognized rank: f. rjp-31809
+** Unrecognized rank: f. rjp-36341
+** Unrecognized rank: f. rjp-31860
+** Unrecognized rank: f. rjp-31826
+** Unrecognized rank: f. rjp-13461
+** Unrecognized rank: f. rjp-31834
+** Unrecognized rank: f. rjp-31832
+** Unrecognized rank: f. rjp-31799
+** Unrecognized rank: f. rjp-31802
+** Unrecognized rank: f. rjp-31828
+** Unrecognized rank: f. kew-179949
+** Unrecognized rank: f. kew-179958
+** Unrecognized rank: f. kew-179962
+** Unrecognized rank: f. kew-180017
+** Unrecognized rank: f. tro-35182592
+** Unrecognized rank: f. tro-35141065
+** Unrecognized rank: f. kew-180221
+** Unrecognized rank: f. rjp-20669
+** Unrecognized rank: f. rjp-20682
+** Unrecognized rank: f. rjp-20678
+** Unrecognized rank: f. tro-50250760
+** Unrecognized rank: f. rjp-20167
+** Unrecognized rank: f. rjp-10380
+** Unrecognized rank: f. rjp-20729
+** Unrecognized rank: f. rjp-20663
+** Unrecognized rank: f. rjp-20622
+** Unrecognized rank: f. rjp-39524
+** Unrecognized rank: f. rjp-20738
+** Unrecognized rank: f. rjp-20721
+** Unrecognized rank: f. rjp-20723
+** Unrecognized rank: f. rjp-20658
+** Unrecognized rank: f. tro-102559
+** Unrecognized rank: f. tro-15600012
+** Unrecognized rank: f. tro-50121075
+** Unrecognized rank: f. kew-5002301
+** Unrecognized rank: f. tro-28301303
+** Unrecognized rank: f. tro-28301437
+** Unrecognized rank: f. kew-5001444
+** Unrecognized rank: f. kew-5001436
+** Unrecognized rank: f. kew-5001447
+** Unrecognized rank: f. kew-5004756
+** Unrecognized rank: f. tro-28300495
+** Unrecognized rank: f. tro-28300496
+** Unrecognized rank: f. tro-28300383
+** Unrecognized rank: f. kew-182928
+** Unrecognized rank: f. tro-6000329
+** Unrecognized rank: f. tro-6000327
+** Unrecognized rank: f. tro-24000291
+** Unrecognized rank: f. tro-25532628
+** Unrecognized rank: f. tro-29101002
+** Unrecognized rank: f. tro-29101000
+** Unrecognized rank: f. tro-29101009
+** Unrecognized rank: f. tro-29101014
+** Unrecognized rank: f. tro-29101027
+** Unrecognized rank: f. tro-29101066
+** Unrecognized rank: f. tro-29101067
+** Unrecognized rank: f. tro-35211591
+** Unrecognized rank: f. kew-187192
+** Unrecognized rank: f. tro-50073313
+** Unrecognized rank: f. tro-100372640
+** Unrecognized rank: f. tro-100372642
+** Unrecognized rank: f. tro-100372644
+** Unrecognized rank: f. tro-100372527
+** Unrecognized rank: f. tro-100372533
+** Unrecognized rank: f. tro-100372587
+** Unrecognized rank: f. tro-100372647
+** Unrecognized rank: f. tro-100372649
+** Unrecognized rank: f. tro-100372593
+** Unrecognized rank: f. tro-35168802
+** Unrecognized rank: f. tro-35168801
+** Unrecognized rank: f. tro-25549959
+** Unrecognized rank: f. tro-50107617
+** Unrecognized rank: f. tro-50107649
+** Unrecognized rank: f. tro-50107577
+** Unrecognized rank: f. tro-50315881
+** Unrecognized rank: f. tro-1702090
+** Unrecognized rank: f. tro-50121257
+** Unrecognized rank: f. kew-310276
+** Unrecognized rank: f. tro-29604063
+** Unrecognized rank: f. tro-29603605
+** Unrecognized rank: f. tro-50107220
+** Unrecognized rank: f. tro-50225855
+** Unrecognized rank: f. tro-50317930
+** Unrecognized rank: f. tro-50226029
+** Unrecognized rank: f. tro-50226282
+** Unrecognized rank: f. gcc-74546
+** Unrecognized rank: f. rjp-39148
+** Unrecognized rank: f. rjp-20978
+** Unrecognized rank: f. tro-1300034
+** Unrecognized rank: f. tro-50264984
+** Unrecognized rank: f. tro-35100216
+** Unrecognized rank: f. tro-35189269
+** Unrecognized rank: f. tro-35201536
+** Unrecognized rank: f. rjp-16666
+** Unrecognized rank: f. rjp-16677
+** Unrecognized rank: f. rjp-16215
+** Unrecognized rank: f. rjp-16709
+** Unrecognized rank: f. rjp-16627
+** Unrecognized rank: f. rjp-10319
+** Unrecognized rank: f. rjp-7945
+** Unrecognized rank: f. rjp-16657
+** Unrecognized rank: f. rjp-16661
+** Unrecognized rank: f. rjp-16659
+** Unrecognized rank: f. rjp-14855
+** Unrecognized rank: f. rjp-37055
+** Unrecognized rank: f. rjp-16794
+** Unrecognized rank: f. rjp-16850
+** Unrecognized rank: f. tro-50104213
+** Unrecognized rank: f. tro-50114524
+** Unrecognized rank: f. tro-25550103
+** Unrecognized rank: f. tro-26612003
+** Unrecognized rank: f. tro-35204743
+** Unrecognized rank: f. tro-35186509
+** Unrecognized rank: f. tro-50104941
+** Unrecognized rank: f. tro-28101341
+** Unrecognized rank: f. tro-26623693
+** Unrecognized rank: f. tro-26623698
+** Unrecognized rank: f. tro-26623700
+** Unrecognized rank: f. tro-26623702
+** Unrecognized rank: f. tro-50130950
+** Unrecognized rank: f. tro-50064451
+** Unrecognized rank: f. kew-268712
+** Unrecognized rank: f. kew-268713
+** Unrecognized rank: f. kew-268714
+** Unrecognized rank: f. kew-268718
+** Unrecognized rank: f. tro-35189172
+** Unrecognized rank: f. tro-35189278
+** Unrecognized rank: f. tro-35204521
+** Unrecognized rank: f. tro-50248461
+** Unrecognized rank: f. tro-26400395
+** Unrecognized rank: f. kew-289929
+** Unrecognized rank: f. kew-292896
+** Unrecognized rank: f. tro-50186740
+** Unrecognized rank: f. tro-19500680
+** Unrecognized rank: f. tro-19500678
+** Unrecognized rank: f. tro-19500681
+** Unrecognized rank: f. tro-19500673
+** Unrecognized rank: f. kew-459687
+** Unrecognized rank: f. kew-209772
+** Unrecognized rank: f. kew-209826
+** Unrecognized rank: f. kew-209831
+** Unrecognized rank: f. kew-209832
+** Unrecognized rank: f. gcc-72904
+** Unrecognized rank: f. tro-50121164
+** Unrecognized rank: f. tro-12302849
+** Unrecognized rank: f. tro-50121166
+** Unrecognized rank: f. tro-50333459
+** Unrecognized rank: f. tro-50295147
+** Unrecognized rank: f. tro-50107951
+** Unrecognized rank: f. tro-29204147
+** Unrecognized rank: f. tro-29204164
+** Unrecognized rank: f. tro-50067148
+** Unrecognized rank: f. tro-29204172
+** Unrecognized rank: f. tro-6000873
+** Unrecognized rank: f. tro-6000802
+** Unrecognized rank: f. tro-6000247
+** Unrecognized rank: f. tro-6001110
+** Unrecognized rank: f. tro-100362116
+** Unrecognized rank: f. tro-50121168
+** Unrecognized rank: f. tro-50106775
+** Unrecognized rank: f. tro-33800820
+** Unrecognized rank: f. tro-50106821
+** Unrecognized rank: f. tro-34000389
+** Unrecognized rank: f. tro-34000396
+** Unrecognized rank: f. tro-100351512
+** Unrecognized rank: f. tro-50063752
+** Unrecognized rank: f. tro-50075650
+** Unrecognized rank: f. kew-291544
+** Unrecognized rank: f. tro-12302710
+** Unrecognized rank: f. tro-12302711
+** Unrecognized rank: f. tro-1702032
+** Unrecognized rank: f. tro-50041613
+| Normalized 13 names
+* Nontrivial forest: biggest is 38609, 2nd biggest is 29269
+| 811 homonym pairs, of which 811 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 643 roots + 17027 internal + 375334 tips = 393004 total, 13 synonyms
+--- Reading t/tax/dwca-orthoptera-v12.6/ ---
+| 17 homonym pairs, of which 15 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 7310 internal + 29344 tips = 36655 total, 0 synonyms
+--- Reading t/tax/dwca-psocodea-v8.6/ ---
+| 13 homonym pairs, of which 12 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 1004 internal + 9714 tips = 10719 total, 0 synonyms
+--- Reading t/tax/dwca-aphid-v8.6/ ---
+| 30 homonym pairs, of which 29 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 1313 internal + 6368 tips = 7682 total, 0 synonyms
+--- Reading t/tax/dwca-coreoidea-v8.6/ ---
+| 1 homonym pairs, of which 1 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 693 internal + 3238 tips = 3932 total, 0 synonyms
+--- Reading t/tax/dwca-lygaeoidea-v1.0/ ---
+| 2 homonym pairs, of which 2 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 1095 internal + 4867 tips = 5963 total, 0 synonyms
+--- Reading t/tax/dwca-coleorrhyncha-v9.6/ ---
+| 1 roots + 49 internal + 89 tips = 139 total, 0 synonyms
+--- Reading t/tax/dwca-mantophasmatodea-v1.4/ ---
+| 1 roots + 25 internal + 25 tips = 51 total, 0 synonyms
+--- Reading t/tax/dwca-embioptera-v8.6/ ---
+| 1 roots + 136 internal + 430 tips = 567 total, 0 synonyms
+--- Reading t/tax/dwca-grylloblattodea-v1.4/ ---
+| 1 homonym pairs, of which 0 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 346 internal + 585 tips = 932 total, 0 synonyms
+--- Reading t/tax/dwca-plecoptera-v8.6/ ---
+| 2 homonym pairs, of which 2 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 514 internal + 4026 tips = 4541 total, 0 synonyms
+--- Reading t/tax/dwca-dermaptera-v8.6/ ---
+| 1 roots + 345 internal + 1958 tips = 2304 total, 0 synonyms
+--- Reading t/tax/dwca-mantodea-v8.6/ ---
+| 1 roots + 654 internal + 2622 tips = 3277 total, 0 synonyms
+* Taxonomy designator should end in / but doesn't: t/tax/dwca-phasmida-v10.6
+--- Reading t/tax/dwca-phasmida-v10.6/ ---
+| 3 homonym pairs, of which 3 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 1 roots + 659 internal + 3210 tips = 3870 total, 0 synonyms
+--- Reading t/tax/dwca-zoraptera-v1.4/ ---
+| 1 roots + 5 internal + 51 tips = 57 total, 0 synonyms
+--- Reading t/tax/dwca-blattodea-v8.8/ ---
+| 1 roots + 622 internal + 4762 tips = 5385 total, 0 synonyms
+--- Reading t/tax/earthworms/ ---
+| 1 unrecognized parent ids, 1 nodes that have them
+* Nontrivial forest: biggest is 5491, 2nd biggest is 178
+| Set name of (Postandrilus subgenus Postandrilus EET:EOL-Earthworm-Patch-2521+4) (was Postandrilus)
+| Set name of (Cataladrilus subgenus Cataladrilus EET:EOL-Earthworm-Patch-2119+3) (was Cataladrilus)
+| Set name of (Prosellodrilus subgenus Prosellodrilus EET:EOL-Earthworm-Patch-2539+13) (was Prosellodrilus)
+| Set name of (Scherotheca subgenus Scherotheca EET:EOL-Earthworm-Patch-2592+15) (was Scherotheca)
+| Absorbing (Cataladrilus EET:EOL-Earthworm-Patch-2112+6) into (Cataladrilus subgenus Cataladrilus EET:EOL-Earthworm-Patch-2119+3)
+| Set name of (Glossoscolex subgenus Glossoscolex EET:EOL-Earthworm-Patch-1775+50) (was Glossoscolex)
+| Absorbing (Scherotheca EET:EOL-Earthworm-Patch-2570+4) into (Scherotheca subgenus Scherotheca EET:EOL-Earthworm-Patch-2592+15)
+| Absorbing (Prosellodrilus EET:EOL-Earthworm-Patch-2532+4) into (Prosellodrilus subgenus Prosellodrilus EET:EOL-Earthworm-Patch-2539+13)
+| Set name of (Zophoscolex subgenus Zophoscolex EET:EOL-Earthworm-Patch-2613+7) (was Zophoscolex)
+| Absorbing (Scherotheca EET:EOL-Earthworm-Patch-2575+9) into (Scherotheca subgenus Scherotheca EET:EOL-Earthworm-Patch-2592+19)
+| Absorbing (Prosellodrilus EET:EOL-Earthworm-Patch-2553+9) into (Prosellodrilus subgenus Prosellodrilus EET:EOL-Earthworm-Patch-2539+17)
+| EET-3: elided 0 nodes, fixed 18 subgenus names, 0 monotypic p/c homs, 0 nonmonotypic
+| 3 homonym pairs, of which 1 siblings, 0 cousins, 0 parent/child, 0 aunt/niece
+| 5 roots + 425 internal + 5297 tips = 5727 total, 5 synonyms
+--- Reading t/tax/worms/ ---
+| 1805 unrecognized parent ids, 1805 nodes that have them
+| Normalized 8 names
+* Nontrivial forest: biggest is 256288, 2nd biggest is 55810
+| Set name of (Aurila subgenus Aurila WOR:771829) (was Aurila)
+| Set name of (Nearchaster subgenus Nearchaster WOR:370822+5) (was Nearchaster)
+| Set name of (Carinocythereis subgenus Carinocythereis WOR:771834) (was Carinocythereis)
+| Set name of (Polycope subgenus Polycope WOR:715581) (was Polycope)
+| Set name of (Protocythere subgenus Protocythere WOR:771665) (was Protocythere)
+| Set name of (Rakverella subgenus Rakverella WOR:768876) (was Rakverella)
+| Set name of (Jaera subgenus Jaera WOR:249490+19) (was Jaera)
+| Set name of (Tricornina subgenus Tricornina WOR:772157) (was Tricornina)
+| Set name of (Pribylites subgenus Pribylites WOR:768870) (was Pribylites)
+| Set name of (Hippula subgenus Hippula WOR:771746) (was Hippula)
+| Set name of (Lepidonotus subgenus Lepidonotus WOR:325620+1) (was Lepidonotus)
+| Monotypic parent/child (Thermodesulfobacteria WOR:567370+1) (Thermodesulfobacteria WOR:567371+1)
+| Monotypic parent/child (Fibrobacteres WOR:571284+1) (Fibrobacteres WOR:571285+1)
+| Monotypic parent/child (Actinobacteria WOR:178057+1) (Actinobacteria WOR:559510+8)
+| Monotypic parent/child (Gemmatimonadetes WOR:571298+1) (Gemmatimonadetes WOR:571299+1)
+| Monotypic parent/child (Africanthion WOR:227315+1) (Africanthion WOR:229526)
+| Monotypic parent/child (Huckea WOR:715489+1) (Huckea WOR:715490)
+| Monotypic parent/child (Euglenozoa WOR:582161+1) (Euglenozoa WOR:536202+5)
+| Monotypic parent/child (Nucleohelea WOR:590586+1) (Nucleohelea WOR:590587+1)
+| Monotypic parent/child (Bolivina variabilis WOR:925853+1) (Bolivina variabilis WOR:931550)
+| Monotypic parent/child (Candidatus WOR:742983+1) (Candidatus WOR:742984)
+| Monotypic parent/child (Thermotogae WOR:414721+1) (Thermotogae WOR:414722+1)
+| WOR-4: elided 0 nodes, fixed 482 subgenus names, 16 monotypic p/c homs, 52 nonmonotypic
+# homonym parent/child (Euglenozoa WOR:536202+5) (Euglenozoa WOR:582161+1)
+# homonym parent/child (Dendronotus WOR:137885+23) (Dendronotus WOR:843813)
+# homonym parent/child (Elusimicrobia WOR:571254+1) (Elusimicrobia WOR:571255+1)
+# homonym parent/child (Thermodesulfobacteria WOR:567370+1) (Thermodesulfobacteria WOR:567371+1)
+# homonym parent/child (Gemmatimonadetes WOR:571298+1) (Gemmatimonadetes WOR:571299+1)
+# homonym parent/child (Denticulella WOR:2296+5) (Denticulella WOR:387851)
+# homonym parent/child (Verneuilinoides WOR:738124+22) (Verneuilinoides WOR:738125)
+# homonym parent/child (Baeolidia WOR:137632+17) (Baeolidia WOR:763961)
+# homonym parent/child (Calyptrophora japonica WOR:287653+2) (Calyptrophora japonica WOR:409568)
+# homonym parent/child (Africanthion WOR:227315+1) (Africanthion WOR:229526)
+| 2495 homonym pairs, of which 1577 siblings, 0 cousins, 46 parent/child, 0 aunt/niece
+| 7299 roots + 45457 internal + 280510 tips = 333266 total, 12 synonyms
+--- Aligning trunk-2 to target ---
+| 0 quasi-tips
+| LUB match: 0 graft: 3062 differ: 0 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 13001 nodes in trunk-2: 0 with name in common, of which 0 matched with existing, 0 blocked
+. new/import: 13001
+. rank inversion: 12
+--- Aligning IOC-5 to target ---
+| 163 quasi-tips
+| LUB match: 6 graft: 7423 differ: 160 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 33749 nodes in IOC-5: 169 with name in common, of which 169 matched with existing, 0 blocked
+--- Merging nodes from IOC-5 into union ---
+| Started with: 3 roots, 13001 taxa + 43 source roots, 33749 source taxa
+|   new/import: 33580
+| Ended with: 3 roots, 46581 taxa
+--- Aligning PPG-6 to target ---
+| 5 quasi-tips
+| LUB match: 5 graft: 95 differ: 5 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 442 nodes in PPG-6: 10 with name in common, of which 10 matched with existing, 0 blocked
+--- Merging nodes from PPG-6 into union ---
+| Added 3 synonyms
+| Started with: 3 roots, 46581 taxa + 2 source roots, 442 source taxa
+|   new/import: 432
+| Ended with: 3 roots, 47013 taxa
+--- Aligning TPL-7 to target ---
+| 861 quasi-tips
+| LUB match: 42 graft: 16744 differ: 861 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 393004 nodes in TPL-7: 932 with name in common, of which 926 matched with existing, 6 blocked
+--- Merging nodes from TPL-7 into union ---
+| conflict 1 (Diplaziopsidaceae TPL:T519+2?)
+| conflict 2 (Compositae TPL:T101+1904)
+| conflict 3 (Leguminosae TPL:T103+950?)
+| Added 13 synonyms
+| Started with: 3 roots, 47013 taxa + 643 source roots, 393004 source taxa
+|   new/import: 392073
+|   reject/absorbed: 2
+|   reject/inconsistent: 3
+|   reported conflict: 3
+| Ended with: 22 roots, 439091 taxa
+--- Aligning ORTH-8 to target ---
+| 33 quasi-tips
+| LUB match: 1 graft: 7278 differ: 32 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 36655 nodes in ORTH-8: 37 with name in common, of which 35 matched with existing, 2 blocked
+--- Merging nodes from ORTH-8 into union ---
+* Parent of (Trigonidiini ORTH:1126891+26)'s children's images, (Orchidaceae =trunk:06bc0fbc-0381-4564-a980-d77c2aa7c403+898), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb)
+* Parent of (Rhaphidophorini ORTH:1129904+7)'s children's images, (Araceae =trunk:646a3ba5-b4d6-46ae-942e-75a597050ed0+117), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+25)
+* Parent of (Microcentrini ORTH:1220721+11)'s children's images, (Hookeriaceae =trunk:1f43a32f-2f85-4cba-aafe-a5b73d4db98e+41), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+31)
+* Parent of (Vossiina ORTH:1221085+2)'s children's images, (Poaceae =trunk:bca7dea0-a2e8-4570-86fe-a1075f9eb15c+758), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+42)
+| conflict 4 (Phaneropterinae ORTH:1135953+160)
+| conflict 5 (Platycleidini ORTH:1142085+56)
+* Parent of (Copiphorini ORTH:1133737+53)'s children's images, (Acanthaceae =trunk:46054900-0268-4dfb-bf9b-f6a8e98b7f49+242), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+254)
+* Parent of (Agraeciini ORTH:1132654+65)'s children's images, (Rubiaceae =trunk:db2702b2-71d7-4c08-905c-96f5c068bc99+606), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+307)
+* Parent of (Pseudophyllini ORTH:1140472+15)'s children's images, (Amaranthaceae =trunk:4c876b8b-cb30-437e-8aa9-3bab86fe57b2+178), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+370)
+| conflict 6 (Metrodorinae ORTH:1100864+73)
+* Parent of (Batrachideinae ORTH:1100428+19)'s children's images, (Daltoniaceae =trunk:64594484-5d3d-48cb-bde9-bdd12207e5fe+15), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+455)
+* Parent of (Xerophyllini ORTH:1102887+15)'s children's images, (Melanthiaceae =trunk:c1848082-3b39-4ded-b0b8-12333e95edd7+17), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+474)
+* Parent of (Arbusculina ORTH:1120996+1)'s children's images, (Neckeraceae =trunk:f5dfd4fb-5c92-4e37-b570-86a0b5b897fc+37), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+486)
+* Parent of (Erianthinae ORTH:1118145+12)'s children's images, (Poaceae =trunk:bca7dea0-a2e8-4570-86fe-a1075f9eb15c+758), is an ancestor of (Orthoptera =trunk:c9565599-31db-4035-ad5a-bcc3b44586cb+486)
+| conflict 7 (Thrinchinae ORTH:1117310+25)
+| conflict 8 (Catantopinae ORTH:1107471+218)
+| Started with: 22 roots, 439091 taxa + 1 source roots, 36655 source taxa
+|   new/import: 36584
+|   new/refinement: 15
+|   not-placed/does-not-descend: 5
+|   reject/absorbed: 16
+|   reject/inconsistent: 5
+|   reported conflict: 5
+|   sibling-sink mismatch: 16
+| Ended with: 22 roots, 475711 taxa
+--- Aligning PSO-9 to target ---
+| 5 quasi-tips
+| LUB match: 1 graft: 1000 differ: 4 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 10719 nodes in PSO-9: 6 with name in common, of which 6 matched with existing, 0 blocked
+--- Merging nodes from PSO-9 into union ---
+| conflict 9 (Philopteridae PSO:1223819+141)
+* Parent of (Ricinidae PSO:1223817+2)'s children's images, (Euphorbiaceae =trunk:c0a96da7-586b-49f5-ba43-40e7c5017762+228), is an ancestor of (Psocodea =trunk:98bcff95-e523-41ab-b10a-e2455f606f68+140)
+* Parent of (Psocinae PSO:1197043+20)'s children's images, (Plumbaginaceae =trunk:8b39309b-8b9b-4d5c-94a0-2c6b7e143ac6+24), is an ancestor of (Psocodea =trunk:98bcff95-e523-41ab-b10a-e2455f606f68+140)
+| Started with: 22 roots, 475711 taxa + 1 source roots, 10719 source taxa
+|   new/import: 10708
+|   new/refinement: 2
+|   reject/absorbed: 2
+|   reject/inconsistent: 1
+|   reported conflict: 1
+|   sibling-sink mismatch: 2
+| Ended with: 22 roots, 486424 taxa
+--- Aligning APH-10 to target ---
+| 2 quasi-tips
+| LUB match: 0 graft: 1311 differ: 3 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 7682 nodes in APH-10: 3 with name in common, of which 3 matched with existing, 0 blocked
+--- Merging nodes from APH-10 into union ---
+| Started with: 22 roots, 486424 taxa + 1 source roots, 7682 source taxa
+|   new/import: 7679
+|   not-placed/does-not-descend: 2
+| Ended with: 22 roots, 494103 taxa
+--- Aligning COR-11 to target ---
+| 2 quasi-tips
+| LUB match: 0 graft: 691 differ: 3 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 3932 nodes in COR-11: 4 with name in common, of which 3 matched with existing, 1 blocked
+--- Merging nodes from COR-11 into union ---
+* Parent of (Micrelytrini COR:1186592+22)'s children's images, (Campanulaceae =trunk:e007c94e-5522-4c58-be33-47d7aaae01fb+88), is an ancestor of (Coreoidea =trunk:ce219ac3-2223-47ed-9cfd-9d00f1bfbcfb)
+* Parent of (Petascelini COR:1189585+13)'s children's images, (Poaceae =trunk:bca7dea0-a2e8-4570-86fe-a1075f9eb15c+758), is an ancestor of (Coreoidea =trunk:ce219ac3-2223-47ed-9cfd-9d00f1bfbcfb+21)
+| Started with: 22 roots, 494103 taxa + 1 source roots, 3932 source taxa
+|   new/import: 3925
+|   new/refinement: 2
+|   reject/absorbed: 2
+|   sibling-sink mismatch: 2
+| Ended with: 22 roots, 498032 taxa
+--- Aligning LYG-12 to target ---
+| 4 quasi-tips
+| LUB match: 0 graft: 1091 differ: 5 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 5963 nodes in LYG-12: 5 with name in common, of which 5 matched with existing, 0 blocked
+--- Merging nodes from LYG-12 into union ---
+* Parent of (Myodochini LYG:1215251+85)'s children's images, (Ericaceae =trunk:fdb3b913-6664-44f1-b718-122158bde227+150), is an ancestor of (Lygaeoidea =trunk:ba372d96-06aa-40d5-9b55-a802ba1f949d)
+| conflict 10 (Rhyparochrominae LYG:1212523+27)
+| conflict 11 (Lygaeinae LYG:1210512+62)
+| Started with: 22 roots, 498032 taxa + 1 source roots, 5963 source taxa
+|   new/import: 5953
+|   new/refinement: 2
+|   reject/absorbed: 1
+|   reject/inconsistent: 2
+|   reported conflict: 2
+|   sibling-sink mismatch: 1
+| Ended with: 22 roots, 503990 taxa
+--- Aligning COL-13 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 49 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 139 nodes in COL-13: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from COL-13 into union ---
+| Started with: 22 roots, 503990 taxa + 1 source roots, 139 source taxa
+|   new/import: 138
+| Ended with: 22 roots, 504128 taxa
+--- Aligning MAN-14 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 25 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 51 nodes in MAN-14: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from MAN-14 into union ---
+| Started with: 22 roots, 504128 taxa + 1 source roots, 51 source taxa
+|   new/import: 50
+| Ended with: 22 roots, 504178 taxa
+--- Aligning EMB-15 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 136 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 567 nodes in EMB-15: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from EMB-15 into union ---
+| Started with: 22 roots, 504178 taxa + 1 source roots, 567 source taxa
+|   new/import: 566
+| Ended with: 22 roots, 504744 taxa
+--- Aligning GRY-16 to target ---
+| 8 quasi-tips
+| LUB match: 1 graft: 338 differ: 8 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 932 nodes in GRY-16: 9 with name in common, of which 9 matched with existing, 0 blocked
+--- Merging nodes from GRY-16 into union ---
+* Parent of (Lemmatophorina GRY:1219997+5)'s children's images, (unplaced extinct Neoptera =trunk:33a839c0-858e-4897-ba4f-eb082e5ef1e1+16), is an ancestor of (Grylloblattodea =trunk:17fde5c6-8ccc-4e3a-ad24-a7e79e6e0ed2)
+* Parent of (Grylloblattina GRY:1219995+28)'s children's images, (unplaced extinct Neoptera =trunk:33a839c0-858e-4897-ba4f-eb082e5ef1e1+16), is an ancestor of (Grylloblattodea =trunk:17fde5c6-8ccc-4e3a-ad24-a7e79e6e0ed2+4)
+* Parent of (Protoperlina GRY:1219996+12)'s children's images, (unplaced extinct Neoptera =trunk:33a839c0-858e-4897-ba4f-eb082e5ef1e1+16), is an ancestor of (Grylloblattodea =trunk:17fde5c6-8ccc-4e3a-ad24-a7e79e6e0ed2+32)
+| Started with: 22 roots, 504744 taxa + 1 source roots, 932 source taxa
+|   new/import: 920
+|   reject/absorbed: 3
+|   sibling-sink mismatch: 3
+| Ended with: 22 roots, 505667 taxa
+--- Aligning PLE-17 to target ---
+| 1 quasi-tips
+| LUB match: 2 graft: 513 differ: 0 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 4541 nodes in PLE-17: 3 with name in common, of which 3 matched with existing, 0 blocked
+--- Merging nodes from PLE-17 into union ---
+| Started with: 22 roots, 505667 taxa + 1 source roots, 4541 source taxa
+|   new/import: 4538
+|   not-placed/does-not-descend: 1
+| Ended with: 22 roots, 510205 taxa
+--- Aligning DER-18 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 344 differ: 2 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 2304 nodes in DER-18: 2 with name in common, of which 2 matched with existing, 0 blocked
+--- Merging nodes from DER-18 into union ---
+* Parent of (Pyragrinae DER:1181775+3)'s children's images, (Rubiaceae =trunk:db2702b2-71d7-4c08-905c-96f5c068bc99+606), is an ancestor of (Dermaptera =trunk:53f1d8a6-237f-41cc-b799-011c6f5f5a62)
+| Started with: 22 roots, 510205 taxa + 1 source roots, 2304 source taxa
+|   new/import: 2300
+|   new/refinement: 1
+|   reject/absorbed: 1
+|   sibling-sink mismatch: 1
+| Ended with: 22 roots, 512507 taxa
+--- Aligning MNT-19 to target ---
+| 5 quasi-tips
+| LUB match: 1 graft: 649 differ: 5 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 3277 nodes in MNT-19: 7 with name in common, of which 7 matched with existing, 0 blocked
+--- Merging nodes from MNT-19 into union ---
+* Parent of (Tarachodini MNT:1185171+25)'s children's images, (Iridaceae =trunk:14de4c71-41c3-402a-afc7-4a5106c105a1+80), is an ancestor of (Mantodea =trunk:b671649f-067a-445b-995d-ca97c7fb348f)
+* Parent of (Liturgusini MNT:1183082+19)'s children's images, (Malvaceae =trunk:ae0fbda3-cc17-4a8b-9aa5-bf3151079ba8+242), is an ancestor of (Mantodea =trunk:b671649f-067a-445b-995d-ca97c7fb348f+24)
+* Parent of (Chroicopterini MNT:1183634+12)'s children's images, (Loranthaceae =trunk:211f3f30-f8dd-40e4-9be6-2994c7b5a3b9+79), is an ancestor of (Mantodea =trunk:b671649f-067a-445b-995d-ca97c7fb348f+42)
+* Parent of (Oxyothespini MNT:1184628+6)'s children's images, (Rutaceae =trunk:9117cd24-0b48-44a8-9c1b-6f5dc5e8f5e6+156), is an ancestor of (Mantodea =trunk:b671649f-067a-445b-995d-ca97c7fb348f+53)
+| Started with: 22 roots, 512507 taxa + 1 source roots, 3277 source taxa
+|   new/import: 3262
+|   new/refinement: 4
+|   not-placed/does-not-descend: 1
+|   reject/absorbed: 4
+|   sibling-sink mismatch: 4
+| Ended with: 22 roots, 515777 taxa
+--- Aligning PHA-20 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 659 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 3870 nodes in PHA-20: 2 with name in common, of which 1 matched with existing, 1 blocked
+--- Merging nodes from PHA-20 into union ---
+| Started with: 22 roots, 515777 taxa + 1 source roots, 3870 source taxa
+|   new/import: 3869
+| Ended with: 22 roots, 519646 taxa
+--- Aligning ZOR-21 to target ---
+| 1 quasi-tips
+| LUB match: 0 graft: 5 differ: 1 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 57 nodes in ZOR-21: 1 with name in common, of which 1 matched with existing, 0 blocked
+--- Merging nodes from ZOR-21 into union ---
+| Started with: 22 roots, 519646 taxa + 1 source roots, 57 source taxa
+|   new/import: 56
+| Ended with: 22 roots, 519702 taxa
+--- Aligning BLA-22 to target ---
+| 4 quasi-tips
+| LUB match: 2 graft: 617 differ: 4 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 5385 nodes in BLA-22: 7 with name in common, of which 6 matched with existing, 1 blocked
+--- Merging nodes from BLA-22 into union ---
+* Parent of (Zetoborinae BLA:1172686+14)'s children's images, (Gentianaceae =trunk:9823fa5b-d3dd-4b47-a88d-066723ce5a12+96), is an ancestor of (Blattodea =trunk:77db3eec-5a4a-417b-b4ad-790f139a2dc4+2)
+* Parent of (Blattellinae BLA:1174511+78)'s children's images, (Rubiaceae =trunk:db2702b2-71d7-4c08-905c-96f5c068bc99+606), is an ancestor of (Blattodea =trunk:77db3eec-5a4a-417b-b4ad-790f139a2dc4+51)
+| Started with: 22 roots, 519702 taxa + 1 source roots, 5385 source taxa
+|   new/import: 5374
+|   reject/absorbed: 5
+|   sibling-sink mismatch: 2
+| Ended with: 22 roots, 525081 taxa
+--- Aligning EET-3 to target ---
+| 24 quasi-tips
+| LUB match: 1 graft: 401 differ: 26 bad: 0
+| align-forests: 1
+| lumped: 1
+| Of 5727 nodes in EET-3: 29 with name in common, of which 29 matched with existing, 0 blocked
+--- Merging nodes from EET-3 into union ---
+* Parent of (Ocnerodrilinae EET:EOL-Earthworm-Patch-5081+29)'s children's images, (Rubiaceae =trunk:db2702b2-71d7-4c08-905c-96f5c068bc99+606), is an ancestor of (Ocnerodrilidae =trunk:a55920e2-8c98-45bf-9af3-149528ac0a20)
+| Added 5 synonyms
+| Started with: 22 roots, 525081 taxa + 5 source roots, 5727 source taxa
+|   new/import: 5697
+|   not-placed/does-not-descend: 3
+|   reject/absorbed: 1
+|   sibling-sink mismatch: 1
+| Ended with: 22 roots, 530779 taxa
+--- Aligning WOR-4 to target ---
+| 5171 quasi-tips
+| LUB match: 1679 graft: 47759 differ: 3198 bad: 0
+| align-forests: 1
+| lumped: 55
+| Of 333266 nodes in WOR-4: 7143 with name in common, of which 7111 matched with existing, 32 blocked
+--- Merging nodes from WOR-4 into union ---
+| conflict 12 (Cribrina WOR:267346+6)
+| conflict 13 (Actiniidae WOR:100653+60?)
+| conflict 14 (Mertensiidae WOR:106323+4)
+* Parent of (Leucotheidae WOR:264862+2)'s children's images, (Amaryllidaceae =trunk:ca79d8c6-0b1d-475f-bdf3-31334fb46488+79), is an ancestor of (Ctenophora =trunk:bb9c27c1-fb0b-4367-9c18-3324d598f123+2)
+* Parent of (Glyphocyphidae WOR:510727+11)'s children's images, (Cactaceae =trunk:cf2b030e-14a1-4f6d-844c-a38f70895d6e+176), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b)
+* Parent of (Pygaulidae WOR:510822+7)'s children's images, (Aytoniaceae =trunk:ebe6ed3e-d4b8-4a7b-9cd2-5dce67e5f0a3+10), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+10)
+* Parent of (Rotulidae WOR:510563+3)'s children's images, (Boraginaceae =trunk:533ed738-bdcb-4489-8f78-4476ee354141+154), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+17)
+* Parent of (Echinocyamidae WOR:510679+3)'s children's images, (Celastraceae =trunk:4e681b1a-841e-48b5-9b81-a16e214788f8+87), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+19)
+* Parent of (Holasteridae WOR:510770+8)'s children's images, (Orchidaceae =trunk:06bc0fbc-0381-4564-a980-d77c2aa7c403+898), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+20)
+* Parent of (Loveniidae WOR:123175+11)'s children's images, (Phyllanthaceae =trunk:ab00e05e-5062-40af-905a-049eeafa5aa3+57), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+27)
+* Parent of (Echinoneidae WOR:196234+6)'s children's images, (Caryophyllaceae =trunk:73bbe648-85ad-4bc8-8c76-57f34c44bfa1+90), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+37)
+* Parent of (Phyllacanthina WOR:510913+1)'s children's images, (Rubiaceae =trunk:db2702b2-71d7-4c08-905c-96f5c068bc99+606), is an ancestor of (Echinoidea =trunk:004aa38d-ef65-4215-8ec0-d9a13f48848b+42)
+* Parent of (Phyllophoridae WOR:123188+22)'s children's images, (Phyllophorinae =ORTH:1139543+12), is an ancestor of (Holothuroidea =trunk:0f34217b-b712-4627-874f-f5c6357e0004)
+* Parent of (Cucumariidae WOR:123187+70)'s children's images, (Cucurbitaceae =trunk:53b6bef8-4bc0-4a54-b1bf-122f52290fbe+134), is an ancestor of (Holothuroidea =trunk:0f34217b-b712-4627-874f-f5c6357e0004+22)
+| conflict 15 (Gnesiotrocha WOR:368540+2)
+| conflict 16 (Limnotyphloplanida WOR:853129+5)
+| conflict 17 (Trepaxonemata WOR:853117+4)
+| conflict 18 (Aspidogastrioidea WOR:468878+3)
+| conflict 19 (Echinostomatoidea WOR:108404+11)
+| conflict 20 (Hemiuroidea WOR:108418+14)
+| conflict 21 (Schistosomatoidea WOR:108419+6)
+| conflict 22 (Brachylaimoidea WOR:468885+8)
+| Added 12 synonyms
+| Started with: 22 roots, 530779 taxa + 7299 source roots, 333266 source taxa
+|   move to parent of former container, instead of to container: 36
+|   new/import: 325039
+|   new/refinement: 165
+|   not-placed/does-not-descend: 125
+|   not-placed/same-taxon: 2
+|   promoted/internal: 31
+|   rank inversion: 66
+|   reject/absorbed: 824
+|   reject/inconsistent: 123
+|   reported conflict: 123
+|   sibling-sink mismatch: 314
+| Ended with: 7495 roots, 856930 taxa
+-- Dumping to test/
+| prepare flags for dump
+| 157103 nodes inheriting flags
+| 25836 barren nodes
+| finished inferring
+| Root is life 
+Writing test/log.tsv
+| Names to log: 436
+| 13 choice reports
+Writing test/choices.tsv
+Writing test/conflicts.tsv
+134 conflicts
+Writing test/about.json
+Writing test/taxonomy.tsv
+Writing test/synonyms.tsv
+Writing test/forwards.tsv
+| 0 id aliases

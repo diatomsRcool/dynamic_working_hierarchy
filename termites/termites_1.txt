@@ -1,0 +1,3469 @@
+Termitoidae
+Archotermopsidae
+Archotermopsis Desneux, 1904
+Archotermopsis kuznetsovi Beljaeva, 2004
+Archotermopsis tornquisti Rosen, 1913
+Archotermopsis wroughtoni (Desneux, 1904)
+Hodotermopsis Holmgren, 1911
+Hodotermopsis iwatensis Fujiyama, 1983
+Hodotermopsis sjostedti Holmgren, 1911
+Parotermes Scudder, 1883
+Parotermes insignis Scudder, 1883
+Zootermopsis Emerson, 1933
+Zootermopsis angusticollis (Hagen, 1858)
+Zootermopsis coloradensis (Scudder, 1883)
+Zootermopsis laticeps (Banks, 1906)
+Zootermopsis nevadensis (Hagen, 1874)
+Zootermopsis nevadensis nevadensis (Hagen, 1874)
+Zootermopsis nevadensis nuttingi Haverty and Thorne, 1989
+Cratomastotermitidae
+Cratomastotermes Bechly, 2007
+Cratomastotermes wolfschwenningeri Bechly, 2007
+Hodotermitidae
+Anacanthotermes Jacobson, 1905
+Anacanthotermes ahngerianus (Jacobson, 1905)
+Anacanthotermes baeckmannianus (Vasiljev, 1911)
+Anacanthotermes baluchistanicus Akhtar, 1974
+Anacanthotermes esmailii Ghayourfar, 1998
+Anacanthotermes gurganiensis Raven and Akhtar, 1999
+Anacanthotermes iranicus Ravan and Akhtar, 1993
+Anacanthotermes macrocephalus (Desneux, 1906)
+Anacanthotermes murgabicus (Vasiljev, 1911)
+Anacanthotermes ochraceus (Burmeister, 1839)
+Anacanthotermes saudiensis Chhotani and Bose, 1982
+Anacanthotermes septentrionalis (Jacobson, 1905)
+Anacanthotermes sawensis Al-Alawy, Abdul-Rassoul, and Al-Azawi, 1990
+Anacanthotermes turkestanicus (Jacobson, 1905)
+Anacanthotermes ubachi (Navás, 1911)
+Anacanthotermes vagans (Hagen, 1858)
+Anacanthotermes viarum (König, 1779)
+Hodotermes Hagen, 1853
+Hodotermes erithreensis Sjöstedt, 1912
+Hodotermes mossambicus (Hagen, 1853)
+Microhodotermes Sjöstedt, 1926
+Microhodotermes maroccanus (Sjöstedt, 1926)
+Microhodotermes viator (Latreille, 1804)
+Microhodotermes wasmanni (Sjöstedt, 1900)
+Kalotermitidae
+Allotermes Wasmann, 1910
+Allotermes denticulatus Krishna, 1962
+Allotermes papillifer Krishna, 1962
+Allotermes paradoxus Wasmann, 1910
+Bicornitermes Krishna, 1961
+Bicornitermes bicornis Krishna, 1961
+Bicornitermes emersoni Krishna, 1962
+Bicornitermes exsertifrons (Wilkinson, 1958)
+Bicornitermes spinicollis (Wilkinson, 1958)
+Bifiditermes Krishna, 1961
+Bifiditermes angulatus (Wilkinson, 1959)
+Bifiditermes beesoni (Gardner, 1945)
+Bifiditermes durbanensis (Haviland, 1898)
+Bifiditermes improbus (Hagen, 1858)
+Bifiditermes indicus (Holmgren, 1913)
+Bifiditermes jeannelanus (Sjöstedt, 1915)
+Bifiditermes madagascariensis (Wasmann, 1897)
+Bifiditermes mutubae (Harris, 1948)
+Bifiditermes pintoi (Kemner, 1932)
+Bifiditermes rogierae Hollande, 1982
+Bifiditermes sibayiensis (Coaton, 1949)
+Bifiditermes sylvaticus (Wilkinson, 1959)
+Calcaritermes Snyder, 1925
+Calcaritermes brevicollis (Banks, 1918)
+Calcaritermes colei Krishna, 1962
+Calcaritermes emarginicollis (Snyder, 1925)
+Calcaritermes guatemalae (Snyder, 1926)
+Calcaritermes imminens (Snyder, 1925)
+Calcaritermes krishnai (Maiti and Chakraborty, 1981)
+Calcaritermes nearcticus (Snyder, 1933)
+Calcaritermes nigriceps (Emerson, 1925)
+Calcaritermes parvinotus (Light, 1933)
+Calcaritermes rioensis Krishna, 1962
+Calcaritermes snyderi Krishna, 1962
+Calcaritermes temnocephalus (Silvestri, 1901)
+Calcaritermes vetus Emerson, 1969
+Ceratokalotermes Krishna, 1961
+Ceratokalotermes spoliator (Hill, 1932)
+Comatermes Krishna, 1961
+Comatermes perfectus (Hagen, 1858)
+Cratokalotermes Bechly, 2007
+Cratokalotermes santanensis Bechly, 2007
+Cryptotermes Banks, 1906
+Cryptotermes abruptus Scheffrahn and Křeček, 1998
+Cryptotermes aequacornis Scheffrahn and Křeček, 1999
+Cryptotermes albipes (Holmgren and Holmgren, 1915)
+Cryptotermes angustinotus Gao and Peng, 1983
+Cryptotermes austrinus Gay and Watson, 1982
+Cryptotermes bengalensis (Snyder, 1934)
+Cryptotermes bracketti Scheffrahn and Křeček, 2006
+Cryptotermes brevis (Walker, 1853)
+Cryptotermes canalensis (Holmgren and Holmgren, 1915)
+Cryptotermes cavifrons Banks, 1906
+Cryptotermes ceylonicus Ranaweera, 1962
+Cryptotermes chacoensis Roisin, 2003
+Cryptotermes chasei Scheffrahn, 1993
+Cryptotermes contognathus Constantino, 2000
+Cryptotermes crassicornis (Holmgren, 1911)
+Cryptotermes cristatus Gay and Watson, 1982
+Cryptotermes cryptognathus Scheffrahn and Křeček, 1999
+Cryptotermes cubicoceps (Emerson, 1925)
+Cryptotermes cylindroceps Scheffrahn and Křeček, 1999
+Cryptotermes cynocephalus Light, 1921
+Cryptotermes darlingtonae Scheffrahn and Křeček, 1999
+Cryptotermes darwini (Light, 1935)
+Cryptotermes daulti Rathore, 1994
+Cryptotermes declivis Tsai and Chen, 1963
+Cryptotermes dolei (Light, 1932)
+Cryptotermes domesticus (Haviland, 1898)
+Cryptotermes dudleyi Banks, 1918
+Cryptotermes fatulus (Light, 1935)
+Cryptotermes gearyi (Hill, 1942)
+Cryptotermes glaesarius Engel and Krishna, 2007
+Cryptotermes hainanensis Ping, 1987
+Cryptotermes havilandi (Sjöstedt, 1900)
+Cryptotermes hemicyclius Bacchus, 1987
+Cryptotermes hilli Gay and Watson, 1982
+Cryptotermes juliani Scheffrahn and Křeček, 1999
+Cryptotermes karachiensis Akhtar, 1974
+Cryptotermes kirbyi Moszkowski, 1955
+Cryptotermes kororensis Bacchus, 1987
+Cryptotermes longicollis Banks, 1918
+Cryptotermes luodianis Xia, Gao, and Deng, 1983
+Cryptotermes mangoldi Scheffrahn and Křeček, 1999
+Cryptotermes merwei Fuller, 1921
+Cryptotermes naudei Coaton, 1950
+Cryptotermes nitens Scheffrahn and Křeček, 1999
+Cryptotermes nitidus Gay and Watson, 1982
+Cryptotermes pallidus (Rambur, 1842)
+Cryptotermes papulosus Gay and Watson, 1982
+Cryptotermes parvifrons Scheffrahn and Křeček, 1999
+Cryptotermes penaoru Roisin, 2011
+Cryptotermes perforans Kemner, 1932
+Cryptotermes pingyangensis He and Xia, 1983
+Cryptotermes primus (Hill, 1921)
+Cryptotermes pyrodomus Bacchus, 1987
+Cryptotermes queenslandis (Hill, 1933)
+Cryptotermes rhicnocephalus Bacchus, 1987
+Cryptotermes riverinae Gay and Watson, 1982
+Cryptotermes roonwali Chhotani, 1970
+Cryptotermes rotundiceps Scheffrahn and Křeček, 1999
+Cryptotermes ryshkoffi Pierce, 1958
+Cryptotermes secundus (Hill, 1925)
+Cryptotermes silvestrii Bacchus, 1987
+Cryptotermes simulatus Gay and Watson, 1982
+Cryptotermes spathifrons Scheffrahn and Křeček, 1999
+Cryptotermes sukauensis Thapa, 1982
+Cryptotermes sumatrensis Kemner, 1930
+Cryptotermes thailandis Ahmad, 1965
+Cryptotermes tropicalis Gay and Watson, 1982
+Cryptotermes undulans Scheffrahn and Křeček, 1999
+Cryptotermes venezolanus (Holmgren, 1911)
+Cryptotermes verruculosus (Emerson, 1925)
+Cryptotermes yamini Krishna and Bacchus, 1987
+Cycalichnus Genise, 1995
+Cycalichnus garciorum Genise, 1995
+Electrotermes Rosen, 1913
+Electrotermes affinis (Hagen, 1856)
+Electrotermes flecki Nel and Bourguet, 2006
+Electrotermes girardi (Giebel, 1856)
+Eotermes Statz, 1939
+Eotermes grandaeva Statz, 1939
+Epicalotermes Silvestri, 1918
+Epicalotermes aethiopicus Silvestri, 1918
+Epicalotermes kempae (Wilkinson, 1954)
+Epicalotermes mkuzii (Coaton, 1949)
+Epicalotermes munroi (Coaton, 1949)
+Epicalotermes pakistanicus Akhtar, 1974
+Epicalotermes planifrons Krishna, 1962
+Eucryptotermes Holmgren, 1911
+Eucryptotermes breviceps Constantino, 1997
+Eucryptotermes hagenii (Müller, 1873)
+Glyptotermes Froggatt, 1897
+Glyptotermes adamsoni Krishna and Emerson, 1962
+Glyptotermes almorensis Gardner, 1945
+Glyptotermes amplus Scheffrahn, Su, and Křeček, 2001
+Glyptotermes angustithorax Ping and Xu, 1986
+Glyptotermes angustus (Snyder, 1925)
+Glyptotermes arshadi Akhtar, 1975
+Glyptotermes asperatus (Snyder, 1926)
+Glyptotermes baliochilus Ping and Xu, 1986
+Glyptotermes barretti Eldridge, 1996
+Glyptotermes besarensis Thakur, 1989
+Glyptotermes bilobatus (Snyder, 1934)
+Glyptotermes bimaculifrons Ping and Liu, 1985
+Glyptotermes borneensis (Haviland, 1898)
+Glyptotermes brachythorax Ping and Xu, 1986
+Glyptotermes brevicaudatus (Haviland, 1898)
+Glyptotermes brevicornis Froggatt, 1897
+Glyptotermes buttelreepeni (Holmgren, 1914)
+Glyptotermes canellae (Müller, 1873)
+Glyptotermes caudomunitus Kemner, 1932
+Glyptotermes ceylonicus (Holmgren, 1911)
+Glyptotermes chapmani Light, 1930
+Glyptotermes chatterjii Thapa, 1982
+Glyptotermes chinpingensis Tsai and Chen, 1963
+Glyptotermes concavifrons Krishna and Emerson, 1962
+Glyptotermes contracticornis (Snyder, 1925)
+Glyptotermes coorgensis (Holmgren and Holmgren, 1917)
+Glyptotermes curticeps Fan and Xia, 1980
+Glyptotermes daiyunensis Li and Huang, 1986
+Glyptotermes daweishanensis Huang, Zhu, Ping, He, Li, and Gao, 2000
+Glyptotermes dentatus (Haviland, 1898)
+Glyptotermes dilatatus (Bugnion and Popoff, 1910)
+Glyptotermes emei (Gao, Zhu, Gong, and Han, 1981)
+Glyptotermes eucalypti Froggatt, 1897
+Glyptotermes euryceps Gao, Zhu, and Gong, 1981
+Glyptotermes ficus Ping and Xu, 1986
+Glyptotermes finniganensis Eldridge, 1996
+Glyptotermes franciae Snyder, 1958
+Glyptotermes fujianensis Ping, 1983
+Glyptotermes fuscus Oshima, 1912
+Glyptotermes grimaldii Engel and Krishna, 2007
+Glyptotermes guamensis Krishna and Emerson, 1962
+Glyptotermes guianaensis (Emerson, 1925)
+Glyptotermes guizhouensis Ping and Xu, 1986
+Glyptotermes hejiangensis Gao, 1984
+Glyptotermes hendrickxi Krishna and Emerson, 1962
+Glyptotermes hesperus Gao, Zhu, and Han, 1981
+Glyptotermes hospitalis (Emerson, 1925)
+Glyptotermes ignotus Wilkinson, 1959
+Glyptotermes insulanus Silvestri, 1912
+Glyptotermes iridipennis Froggatt, 1897
+Glyptotermes jinyunensis Chen and Ping, 1985
+Glyptotermes jurioni Krishna and Emerson, 1962
+Glyptotermes kachongensis Ahmad, 1965
+Glyptotermes kawandae Wilkinson, 1954
+Glyptotermes kirbyi Krishna and Emerson, 1962
+Glyptotermes kunakensis Thapa, 1982
+Glyptotermes laticaudomunitus Thapa, 1982
+Glyptotermes latignathus Gao and Zhu, 1982
+Glyptotermes latithorax Fan and Xia, 1980
+Glyptotermes liangshanensis Gao, Zhu, and Gong, 1982
+Glyptotermes liberatus (Snyder, 1929)
+Glyptotermes lighti Krishna and Emerson, 1962
+Glyptotermes limulingensis Ping and Xu, 1986
+Glyptotermes longipennis Krishna and Emerson, 1962
+Glyptotermes longnanensis Gao and Zhu, 1980
+Glyptotermes longuisculus Krishna and Emerson, 1962
+Glyptotermes luteus Kemner, 1931
+Glyptotermes maculifrons Ping and Li, 1983
+Glyptotermes magnioculus Ping and Liu, 1985
+Glyptotermes magsaysayi Snyder, 1958
+Glyptotermes mandibulicinus Ping and Xu, 1986
+Glyptotermes marlatti (Snyder, 1926)
+Glyptotermes minutus Kemner, 1932
+Glyptotermes montanus Kemner, 1934
+Glyptotermes nadaensis Li, 1987
+Glyptotermes nakajimai Morimoto, 1973
+Glyptotermes neoborneensis Thapa, 1982
+Glyptotermes nevermani (Snyder, 1926)
+Glyptotermes nicobarensis Maiti and Chakraborty, 1981
+Glyptotermes niger Kemner, 1934
+Glyptotermes nissanensis Krishna and Emerson, 1962
+Glyptotermes orthognathus Ping and Chen, 1985
+Glyptotermes palauensis Krishna and Emerson, 1962
+Glyptotermes paleoliberatus Engel and Krishna, 2007
+Glyptotermes panaitanensis Thakur, 1989
+Glyptotermes paracaudomunitus Thapa, 1982
+Glyptotermes paratuberculatus Thapa, 1982
+Glyptotermes parki Krishna and Emerson, 1962
+Glyptotermes parvoculatus Krishna and Emerson, 1962
+Glyptotermes parvulus (Sjöstedt, 1907)
+Glyptotermes parvus Fan and Xia, 1980
+Glyptotermes pellucidus (Emerson, 1925)
+Glyptotermes perparvus (Emerson, 1925)
+Glyptotermes pinangae (Haviland, 1898)
+Glyptotermes planus (Snyder, 1925)
+Glyptotermes posticus (Hagen, 1858)
+Glyptotermes pubescens Snyder, 1924
+Glyptotermes pusillus (Heer, 1849)
+Glyptotermes reticulatus Wilkinson, 1954
+Glyptotermes rotundifrons Krishna and Emerson, 1962
+Glyptotermes satsumensis (Matsumura, 1907)
+Glyptotermes schmidti Krishna and Emerson, 1962
+Glyptotermes scotti (Holmgren, 1910)
+Glyptotermes seeversi Krishna and Emerson, 1962
+Glyptotermes sensarmai Maiti, 1976
+Glyptotermes sepilokensis Thapa, 1982
+Glyptotermes shaanxiensis Huang and Zhang, 1986
+Glyptotermes shandongianus (Zhang, 1989)
+Glyptotermes sicki Krishna and Emerson, 1962
+Glyptotermes simaoensis Li, 1987
+Glyptotermes sinomalatus Krishna and Emerson, 1962
+Glyptotermes succineus Ping and Gong, 1986
+Glyptotermes suturis (Snyder, 1925)
+Glyptotermes taruni Bose, 1999
+Glyptotermes taveuniensis (Hill, 1926)
+Glyptotermes teknafensis Akhtar, 1975
+Glyptotermes thailandis Morimoto, 1973
+Glyptotermes tikaderi Chhotani and Bose, 1985
+Glyptotermes tripurensis Thakur, 1975
+Glyptotermes truncatus Krishna and Emerson, 1962
+Glyptotermes tsaii Huang and Zhu, 1986
+Glyptotermes tuberculatus Froggatt, 1897
+Glyptotermes tuberifer Krishna and Emerson, 1962
+Glyptotermes ueleensis Coaton, 1955
+Glyptotermes ukhiaensis Akhtar, 1975
+Glyptotermes verrucosus (Hagen, 1858)
+Glyptotermes xantholabrum (Hill, 1926)
+Glyptotermes xiamenensis Li and Huang, 1986
+Glyptotermes yingdeensis Li, 1987
+Glyptotermes yui Ping and Xu, 1986
+Glyptotermes zhaoi Ping, 1984
+Incisitermes Krishna, 1961
+Incisitermes banksi (Snyder, 1920)
+Incisitermes barretti Gay, 1976
+Incisitermes bequaerti (Snyder, 1929)
+Incisitermes didwanaensis Roonwal and Verma 1973
+Incisitermes emersoni (Light, 1933)
+Incisitermes fruticavus Rust, 1979
+Incisitermes furvus Scheffrahn, 1994
+Incisitermes galapagoensis (Banks, 1901)
+Incisitermes immigrans (Snyder, 1922)
+Incisitermes inamurai (Oshima, 1912)
+Incisitermes incisus (Silvestri, 1901)
+Incisitermes krishnai Emerson, 1969
+Incisitermes laterangularis Han, 1982
+Incisitermes marginipennis (Latreille, 1817)
+Incisitermes marianus (Holmgren, 1912)
+Incisitermes mcgregori (Light, 1921)
+Incisitermes milleri (Emerson, 1943)
+Incisitermes minor (Hagen, 1858)
+Incisitermes nigritus (Snyder, 1946)
+Incisitermes pacificus (Banks, 1901)
+Incisitermes peritus Engel and Krishna, 2007
+Incisitermes platycephalus (Light, 1933)
+Incisitermes repandus (Hill, 1926)
+Incisitermes rhyzophorae Hernandez, 1994
+Incisitermes schwarzi (Banks, 1919)
+Incisitermes seeversi (Snyder and Emerson, 1949)
+Incisitermes semilunaris (Holmgren and Holmgren, 1915)
+Incisitermes snyderi (Light, 1933)
+Incisitermes solidus (Hagen, 1858)
+Incisitermes tabogae (Snyder, 1924)
+Incisitermes taylori (Light, 1930)
+Kachinitermes Engel, Grimaldi, and Krishna, 2007
+Kachinitermes tristis (Cockerell, 1917)
+Kachinitermopsis Engel and Delclòs, 2010
+Kachinitermopsis burmensis (Poinar, 2009)
+Kalotermes Hagen, 1853
+Kalotermes aemulus Sewell and Gay, 1978
+Kalotermes approximatus Snyder, 1920
+Kalotermes atratus Hill, 1933
+Kalotermes banksiae Hill, 1942
+Kalotermes brouni Froggatt, 1897
+Kalotermes capicola Coaton, 1949
+Kalotermes cognatus Gay, 1976
+Kalotermes convexus (Walker, 1853)
+Kalotermes dispar Grassé, 1938
+Kalotermes disruptus (Cockerell, 1917)
+Kalotermes flavicollis (Fabricius, 1793)
+Kalotermes fossus Zhang, Sun, and Zhang, 1994
+Kalotermes gracilignathus Emerson, 1924
+Kalotermes hilli (Emerson, 1949)
+Kalotermes isaloensis (Cachan, 1949)
+Kalotermes jepsoni Kemner, 1932
+Kalotermes monticola Sjöstedt, 1925
+Kalotermes monticola brachycephala Sjöstedt, 1926
+Kalotermes monticola monticola Sjöstedt, 1925
+Kalotermes nigellus Zhang, Sun, and Zhang, 1994
+Kalotermes nisus Zhang, Sun, and Zhang, 1994
+Kalotermes oeningensis Rosen, 1913
+Kalotermes pallidinotum Hill, 1942
+Kalotermes piacentinii (Piton and Théobald, 1937)
+Kalotermes rhenanus Hagen, 1863
+Kalotermes rufinotum Hill, 1925
+Kalotermes serrulatus Gay, 1977
+Kalotermes sinaicus Kemner, 1932
+Kalotermes umtatae (Coaton, 1949)
+Marginitermes Krishna, 1961
+Marginitermes cactiphagus Myles, 1997
+Marginitermes hubbardi (Banks, 1920)
+Neotermes Holmgren, 1911
+Neotermes aburiensis Sjöstedt, 1926
+Neotermes acceptus Mathews, 1977
+Neotermes adampurensis Akhtar, 1975
+Neotermes agilis (Sjöstedt, 1902)
+Neotermes amplilabralis Xu and Han, 1985
+Neotermes andamanensis (Snyder, 1933)
+Neotermes angustigulus Han, 1984
+Neotermes araguaensis Snyder, 1959
+Neotermes aridus Wilkinson, 1959
+Neotermes arthurimuelleri (Rosen, 1912)
+Neotermes artocarpi (Haviland, 1898)
+Neotermes assamensis Maiti and Saha, 2000
+Neotermes assmuthi (Holmgren, 1913)
+Neotermes binovatus Han, 1984
+Neotermes blairi Maiti and Chakraborty, 1994
+Neotermes bosei (Snyder, 1933)
+Neotermes brachynotum Xu and Han, 1985
+Neotermes brevinotus (Snyder, 1932)
+Neotermes buxensis Roonwal and Sen-Sarma, 1960
+Neotermes camerunensis (Sjöstedt, 1900)
+Neotermes castaneus (Burmeister, 1839)
+Neotermes chilensis (Blanchard, 1851)
+Neotermes collarti Coaton, 1955
+Neotermes connexus Snyder, 1922
+Neotermes cryptops (Sjöstedt, 1900)
+Neotermes cubanus (Snyder, 1922)
+Neotermes dalbergiae (Kalshoven, 1930)
+Neotermes desneuxi (Sjöstedt, 1904)
+Neotermes dhirendrai Bose, 1984
+Neotermes dolichognathus Xu and Han, 1985
+Neotermes dubiocalcaratus Han, 1984
+Neotermes eleanorae Bose, 1984
+Neotermes erythraeus Silvestri, 1918
+Neotermes europae (Wasmann, 1910)
+Neotermes ferrugineus (Holmgren, 1911)
+Neotermes firmus (Sjöstedt, 1911)
+Neotermes fletcheri (Holmgren and Holmgren, 1917)
+Neotermes fovefrons Xu and Han, 1985
+Neotermes fujianensis Ping, 1983
+Neotermes fulvescens (Silvestri, 1901)
+Neotermes gestri Silvestri, 1912
+Neotermes glabriusculus Oliveira, 1979
+Neotermes gnathoferrum Ware, Lal and Grimaldi, 2010
+Neotermes gracilidens Sjöstedt, 1925
+Neotermes grandis Light, 1930
+Neotermes grassei Piton, 1940
+Neotermes greeni (Desneux, 1908)
+Neotermes hirtellus (Silvestri, 1901)
+Neotermes holmgreni Banks, 1918
+Neotermes humilis Han, 1984
+Neotermes insularis (Walker, 1853)
+Neotermes intracaulis Scheffrahn and Křeček, 2003
+Neotermes jouteli (Banks, 1919)
+Neotermes kalimpongensis Maiti, 1975
+Neotermes kanehirai (Oshima, 1917)
+Neotermes kartaboensis (Emerson, 1925)
+Neotermes kemneri Roonwal and Sen-Sarma, 1960
+Neotermes keralai Roonwal and Verma, 1972
+Neotermes ketelensis Kemner, 1932
+Neotermes koshunensis (Shiraki, 1909)
+Neotermes krishnai Bose, 1984
+Neotermes lagunensis (Oshima, 1920)
+Neotermes larseni (Light, 1935)
+Neotermes laticollis (Holmgren, 1910)
+Neotermes lepersonneae Coaton, 1955
+Neotermes longiceps Xu and Han, 1985
+Neotermes longipennis Kemner, 1930
+Neotermes luykxi Nickle and Collins, 1989
+Neotermes magnoculus (Snyder, 1926)
+Neotermes malatensis (Oshima, 1917)
+Neotermes mangiferae Roonwal and Sen-Sarma, 1960
+Neotermes medius Oshima, 1923
+Neotermes megaoculatus Roonwal and Sen-Sarma, 1960
+Neotermes megaoculatus lakhimpuri Roonwal and Sen-Sarma, 1960
+Neotermes megaoculatus megaoculatus Roonwal and Sen-Sarma, 1960
+Neotermes meruensis (Sjöstedt, 1907)
+Neotermes microculatus Roonwal and Sen-Sarma, 1960
+Neotermes microphthalmus Light, 1930
+Neotermes minutus Thapa, 1982
+Neotermes miracapitalis Xu and Han, 1985
+Neotermes modestus (Silvestri, 1901)
+Neotermes mona (Banks, 1919)
+Neotermes nigeriensis (Sjöstedt, 1911)
+Neotermes nilamburensis Thakur, 1978
+Neotermes ovatus Kemner, 1931
+Neotermes pallidicollis (Sjöstedt, 1902)
+Neotermes papua (Desneux, 1905)
+Neotermes paraensis (Costa Lima, 1942)
+Neotermes paratensis Sen-Sarma and Thakur, 1975
+Neotermes parviscutatus Light, 1930
+Neotermes phragmosus Křeček and Scheffrahn, 2003
+Neotermes pingshanensis Tan and Peng, 2009
+Neotermes platyfrons Křeček and Scheffrahn, 2001
+Neotermes prosonneratiae Akhtar, 1975
+Neotermes rainbowi (Hill, 1926)
+Neotermes rhizophorae Maiti and Chakraborty, 1994
+Neotermes rouxi (Holmgren and Holmgren, 1915)
+Neotermes saleierensis Kemner, 1932
+Neotermes samoanus (Holmgren, 1912)
+Neotermes sanctaecrucis (Snyder, 1925)
+Neotermes sarasini (Holmgren and Holmgren, 1915)
+Neotermes schultzei (Holmgren, 1911)
+Neotermes sepulvillus (Emerson, 1928)
+Neotermes setifer Snyder, 1957
+Neotermes shimogensis Thakur, 1975
+Neotermes sinensis (Light, 1924)
+Neotermes sjostedti (Desneux, 1908)
+Neotermes sonneratiae Kemner, 1932
+Neotermes sphenocephalus Xu and Han, 1985
+Neotermes superans Silvestri, 1928
+Neotermes taishanensis Xu and Han, 1985
+Neotermes tectonae (Dammerman, 1916)
+Neotermes tuberogulus Xu and Han, 1985
+Neotermes undulatus Xu and Han, 1985
+Neotermes venkateshwara Bose, 1984
+Neotermes voeltzkowi (Wasmann, 1897)
+Neotermes wagneri (Desneux, 1904)
+Neotermes yunnanensis Xu and Han, 1985
+Neotermes zanclus Oliveira, 1979
+Neotermes zuluensis (Holmgren, 1913)
+Oligokalotermes Nel, 1987
+Oligokalotermes fischeri Nel, 1987
+Paraneotermes Light, 1934
+Paraneotermes simplicicornis (Banks, 1920)
+Postelectrotermes Krishna, 1961
+Postelectrotermes amplus (Sjöstedt, 1925)
+Postelectrotermes bhimi Roonwal and Maiti, 1965
+Postelectrotermes bidentatus Ravan and Akhtar, 1999
+Postelectrotermes castaneiceps (Sjöstedt, 1914)
+Postelectrotermes howa (Wasmann, 1897)
+Postelectrotermes longiceps (Cachan, 1949)
+Postelectrotermes longus (Holmgren, 1910)
+Postelectrotermes militaris (Desneux, 1904)
+Postelectrotermes nayari Roonwal and Verma, 1971
+Postelectrotermes pasniensis Akhtar, 1974
+Postelectrotermes pishinensis (Ahmad, 1955)
+Postelectrotermes praecox (Hagen, 1858)
+Postelectrotermes sordwanae (Coaton, 1949)
+Postelectrotermes tongyaii Ahmad, 1965
+Postelectrotermes zabuliensis Raven and Akhtar, 1999
+Procryptotermes Holmgren, 1910
+Procryptotermes australiensis Gay, 1976
+Procryptotermes corniceps (Snyder, 1923)
+Procryptotermes dhari Roonwal and Chhotani, 1963
+Procryptotermes dioscurae Harris, 1954
+Procryptotermes edwardsi Scheffrahn, 1999
+Procryptotermes falcifer Krishna, 1962
+Procryptotermes fryeri (Holmgren, 1910)
+Procryptotermes hesperus Scheffrahn and Křeček, 2001
+Procryptotermes hunsurensis Thakur, 1975
+Procryptotermes krishnai Emerson, 1961
+Procryptotermes leewardensis Scheffrahn and Křeček, 2001
+Procryptotermes rapae (Light and Zimmerman, 1936)
+Procryptotermes speiseri (Holmgren and Holmgren, 1915)
+Procryptotermes valeriae Bose, 1979
+Proelectrotermes Rosen, 1913
+Proelectrotermes berendtii (Pictet, 1856)
+Proelectrotermes fodinae (Scudder, 1883)
+Proelectrotermes holmgreni Engel, Grimaldi, and Krishna, 2007
+Proelectrotermes roseni (Armbruster, 1941)
+Proelectrotermes swinhoei (Cockerell, 1916)
+Prokalotermes Emerson, 1933
+Prokalotermes alderensis Lewis, 1977
+Prokalotermes hagenii (Scudder, 1883)
+Proneotermes Holmgren, 1911
+Proneotermes latifrons (Silvestri, 1901)
+Proneotermes perezi (Holmgren, 1911)
+Pterotermes Holmgren, 1911
+Pterotermes occidentis (Walker, 1853)
+Rugitermes Holmgren, 1911
+Rugitermes athertoni (Light, 1932)
+Rugitermes bicolor (Emerson, 1925)
+Rugitermes costaricensis (Snyder, 1926)
+Rugitermes flavicinctus (Emerson, 1925)
+Rugitermes kirbyi (Snyder, 1926)
+Rugitermes laticollis Snyder, 1957
+Rugitermes magninotus (Emerson, 1925)
+Rugitermes niger Oliveira, 1979
+Rugitermes nodulosus (Hagen, 1858)
+Rugitermes occidentalis (Silvestri, 1901)
+Rugitermes panamae (Snyder, 1925)
+Rugitermes rugosus (Hagen, 1858)
+Rugitermes unicolor Snyder, 1952
+Tauritermes Krishna, 1961
+Tauritermes taurocephalus (Silvestri, 1901)
+Tauritermes triceromegas (Silvestri, 1901)
+Tauritermes vitulus Araujo and Fontes, 1979
+Mastotermitidae
+Blattotermes Riek, 1952
+Blattotermes massiliensis Nel, 1986
+Blattotermes neoxenus Riek, 1952
+Blattotermes wheeleri (Collins, 1925)
+Garmitermes Engel, Grimaldi, and Krishna, 2007
+Garmitermes succineus Engel, Grimaldi, and Krishna, 2007
+Idanotermes Engel, 2008
+Idanotermes desioculus Engel, 2008
+Khanitermes Engel, Grimaldi, and Krishna, 2007
+Khanitermes acutipennis (Ponomarenko, 1988)
+Mastotermes Froggatt, 1897
+Mastotermes anglicus Rosen, 1913
+Mastotermes bournemouthensis Rosen, 1913
+Mastotermes croaticus Rosen, 1913
+Mastotermes darwiniensis Froggatt, 1897
+Mastotermes electrodominicus Krishna and Grimaldi, 1991
+Mastotermes electromexicus Krishna and Emerson, 1983
+Mastotermes gallica Nel, 1986
+Mastotermes haidingeri (Heer, 1849)
+Mastotermes heerii (Göppert, 1855)
+Mastotermes krishnorum Wappler and Engel, 2006
+Mastotermes minor Pongrácz, 1928
+Mastotermes minutus Nel and Bourguet, 2006
+Mastotermes picardi Nel and Paicheler, 1993
+Mastotermes sarthensis Schlüter, 1989
+Miotermes Rosen, 1913
+Miotermes insignis (Heer, 1849)
+Miotermes procerus (Heer, 1849)
+Miotermes randeckensis Rosen, 1913
+Miotermes spectabilis (Heer, 1849)
+Spargotermes Emerson, 1965
+Spargotermes costalimai Emerson, 1965
+Valditermes Jarzembowski, 1981
+Valditermes brenanae Jarzembowski, 1981
+Mastotermites Armbruster, 1941
+Mastotermites stuttgartensis Armbruster, 1941
+Stolotermitidae
+Porotermitinae
+Chilgatermes Engel, Pan, and Jacobs, 2013
+Chilgatermes diamatensis Engel, Pan, and Jacobs, 2013
+Porotermes Hagen, 1858
+Porotermes adamsoni (Froggatt, 1897)
+Porotermes planiceps (Sjöstedt, 1904)
+Porotermes quadricollis (Rambur, 1842)
+Stolotermitinae
+Stolotermes Hagen, 1858
+Stolotermes africanus Emerson, 1942
+Stolotermes amanoi Fujiyama, 1983
+Stolotermes australicus Mjöberg, 1920
+Stolotermes brunneicornis (Hagen, 1858)
+Stolotermes inopinus Gay, 1969
+Stolotermes kupe Kaulfuss, Harris, and Lee, 2010
+Stolotermes queenslandicus Mjöberg, 1920
+Stolotermes ruficeps Brauer, 1865
+Stolotermes victoriensis Hill, 1921
+Termopsidae
+Termopsis Heer, 1849
+Termopsis bremii Heer, 1849
+Termopsis gracilipennis Théobald, 1937
+Termopsis mallaszi Pongrácz, 1928
+Termopsis transsylvanica Pongrácz, 1928
+Termopsis ukapirmasi Engel, Grimaldi, and Krishna, 2007
+Archeorhinotermitidae
+Archeorhinotermes Krishna and Grimaldi, 2003
+Archeorhinotermes rossi Krishna and Grimaldi, 2003
+Rhinotermitidae
+Coptotermitinae
+Coptotermes Wasmann, 1896
+Coptotermes acinaciformis (Froggatt, 1898)
+Coptotermes acinaciformis acinaciformis (Froggatt, 1898)
+Coptotermes acinaciformis raffrayi Wasmann, 1900
+Coptotermes amanii (Sjöstedt, 1911)
+Coptotermes amboinensis Kemner, 1931
+Coptotermes bannaensis Xia and He, 1986
+Coptotermes beckeri Mathur and Chhotani, 1969
+Coptotermes bentongensis Krishna, 1956
+Coptotermes boetonensis Kemner, 1934
+Coptotermes brunneus Gay, 1955
+Coptotermes ceylonicus Holmgren, 1911
+Coptotermes changtaiensis Xia and He, 1986
+Coptotermes chaoxianensis Huang and Li, 1985
+Coptotermes cochlearus Xia and He, 1986
+Coptotermes crassus Snyder, 1922
+Coptotermes curvignathus Holmgren, 1913
+Coptotermes cyclocoryphus Zhu, Li and Ma, 1984
+Coptotermes dimorphus Xia and He, 1986
+Coptotermes dobonicus Oshima, 1914
+Coptotermes dreghorni Hill, 1942
+Coptotermes elisae (Desneux, 1905)
+Coptotermes emersoni Ahmad, 1953
+Coptotermes formosanus Shiraki, 1909
+Coptotermes frenchi Hill, 1932
+Coptotermes fumipennis (Walker, 1853)
+Coptotermes gambrinus Bourguignon and Roisin, 2011
+Coptotermes gaurii Roonwal and Krishna, 1955
+Coptotermes gestroi (Wasmann, 1896)
+Coptotermes grandiceps Snyder, 1925
+Coptotermes grandis Li and Huang, 1985
+Coptotermes guangdongensis Ping, 1985
+Coptotermes guizhouensis He and Qui, 1992
+Coptotermes gulangyuensis Li and Huang, 1986
+Coptotermes hainanensis Li and Tsai, 1985
+Coptotermes heimi (Wasmann, 1902)
+Coptotermes hekouensis Xia and He, 1986
+Coptotermes hirsutus Krishna and Grimaldi, 2009
+Coptotermes intermedius Silvestri, 1912
+Coptotermes kalshoveni Kemner, 1934
+Coptotermes kishori Roonwal and Chhotani, 1962
+Coptotermes lacteus (Froggatt, 1898)
+Coptotermes longignathus Xia and He, 1986
+Coptotermes longistriatus Li and Huang, 1985
+Coptotermes mauricianus (Rambur, 1842)
+Coptotermes melanoistriatus Gao, Lau and He, 1995
+Coptotermes menadoae Oshima, 1914
+Coptotermes michaelseni Silvestri, 1909
+Coptotermes minutissimus Kemner, 1934
+Coptotermes monosetosus Tsai and Li, 1985
+Coptotermes niger Snyder, 1922
+Coptotermes ochraceus Ping and Xu, 1986
+Coptotermes oshimai Light and Davis, 1929
+Coptotermes paleodominicanus Krishna and Grimaldi, 2009
+Coptotermes pamuae Snyder, 1925
+Coptotermes paradoxus (Sjöstedt, 1911)
+Coptotermes peregrinator Kemner, 1934
+Coptotermes premrasmii Ahmad, 1965
+Coptotermes priscus Emerson, 1971
+Coptotermes remotus Hill, 1927
+Coptotermes sepangensis Krishna, 1956
+Coptotermes shanghaiensis Xia and He, 1986
+Coptotermes silvaticus Harris, 1968
+Coptotermes sinabangensis Oshima, 1923
+Coptotermes sjostedti Holmgren, 1911
+Coptotermes sucineus Emerson, 1971
+Coptotermes suzhouensis Xia and He, 1986
+Coptotermes testaceus (Linnaeus, 1758)
+Coptotermes travians (Haviland, 1898)
+Coptotermes truncatus (Wasmann, 1897)
+Coptotermes varicapitatus Tsai and Li, 1985
+Coptotermes vastator Light, 1929
+Heterotermitinae
+Heterotermes Froggatt, 1897
+Heterotermes aethiopicus (Sjöstedt, 1911)
+Heterotermes assu Constantino, 2000
+Heterotermes aureus (Snyder, 1920)
+Heterotermes balwanti Mathur and Chhotani, 1969
+Heterotermes brevicatena Watson and Miller, 1989
+Heterotermes cardini (Snyder, 1924)
+Heterotermes ceylonicus (Holmgren, 1911)
+Heterotermes convexinotatus (Snyder, 1924)
+Heterotermes crinitus (Emerson, 1924)
+Heterotermes eocenicus Engel, 2008
+Heterotermes ferox (Froggatt, 1898)
+Heterotermes gertrudae Roonwal, 1953
+Heterotermes indicola (Wasmann, 1902)
+Heterotermes intermedius Hill, 1932
+Heterotermes longicatena Watson and Miller, 1989
+Heterotermes longiceps (Snyder, 1924)
+Heterotermes maculatus Light, 1933
+Heterotermes malabaricus Snyder, 1933
+Heterotermes occiduus (Hill, 1927)
+Heterotermes omanae Chhotani, 1988
+Heterotermes pamatatensis Kemner, 1934
+Heterotermes paradoxus (Froggatt, 1898)
+Heterotermes perfidus (Silvestri, 1936)
+Heterotermes philippinensis (Light, 1921)
+Heterotermes platycephalus Froggatt, 1897
+Heterotermes primaevus Snyder, 1960
+Heterotermes sulcatus Mathews, 1977
+Heterotermes tenuior (Haviland, 1898)
+Heterotermes tenuis (Hagen, 1858)
+Heterotermes vagus (Hill, 1927)
+Heterotermes validus Hill, 1915
+Heterotermes wittmeri Chhotani and Bose, 1982
+Reticulitermes Holmgren, 1913
+Reticulitermes aculabialis Tsai and Huang, 1977
+Reticulitermes affinis Hsia and Fan, 1965
+Reticulitermes altus Gao, Pan, Ma and Shi, 1982
+Reticulitermes amamianus Morimoto, 1968
+Reticulitermes ampliceps Wang and Li, 1984
+Reticulitermes ancyleus Ping, 1986
+Reticulitermes angustatus He and Qiu, 1990
+Reticulitermes angusticephalus Ping and Xu, 1983
+Reticulitermes antiquus (Germar, 1813)
+Reticulitermes arenincola Goellner, 1931
+Reticulitermes assamensis Gardner, 1945
+Reticulitermes aurantius Ping and Xu, 1987
+Reticulitermes balkanensis Clément, 1984
+Reticulitermes banyulensis Clément, 1977
+Reticulitermes bicristatus He and Qiu, 1990
+Reticulitermes bitumulus Ping and Xu, 1987
+Reticulitermes brachygnathus Li, Ping, and Ji, 1982
+Reticulitermes brevicurvatus Ping and Xu, 1983
+Reticulitermes cancrifemuris Zhu, 1984
+Reticulitermes castanus Ping, 1986
+Reticulitermes chayuensis Tsai and Huang, 1975
+Reticulitermes chinensis Snyder, 1923
+Reticulitermes choui Ping and Zhang, 1989
+Reticulitermes chryseus Ping, 1986
+Reticulitermes citrinus Ping and Li, 1982
+Reticulitermes clypeatus Lash, 1952
+Reticulitermes coelceps (Zhu, Huang, and Wang, 1993)
+Reticulitermes conus Xia and Fan, 1981
+Reticulitermes creedei Snyder, 1938
+Reticulitermes croceus Ping and Xu, 1982
+Reticulitermes curticeps Yang, Zhu and Huang, 1992
+Reticulitermes curvatus Hsia and Fan, 1965
+Reticulitermes cymbidii Ping and Xu, 1993
+Reticulitermes dabieshanensis Wang and Li, 1984
+Reticulitermes dantuensis Gao and Zhu, 1982
+Reticulitermes dayongensis (Zhu, Huang, and Wang, 1993)
+Reticulitermes dichrous Ping, 1985
+Reticulitermes dinghuensis Ping, Zhu, and Li, 1980
+Reticulitermes dofleini (Armbruster, 1941)
+Reticulitermes emei Gao, Zhu, Gong, and Han, 1981
+Reticulitermes fengduensis Ping and Chen, 1984
+Reticulitermes flaviceps (Oshima, 1911)
+Reticulitermes flavipes (Kollar, 1837)
+Reticulitermes fossarum (Scudder, 1883)
+Reticulitermes fukienensis Light, 1924
+Reticulitermes fulvimarginalis Wang and Li, 1984
+Reticulitermes ganga Bose, 1999
+Reticulitermes gaoshi Li and Ma, 1987
+Reticulitermes gaoyaoensis Tsai and Li, 1977
+Reticulitermes grandis Hsia and Fan, 1965
+Reticulitermes grassei Clément, 1977
+Reticulitermes guangzhouensis Ping, 1985
+Reticulitermes guilinensis Li and Xiao, 1989
+Reticulitermes guiyangensis He and Qui, 1990
+Reticulitermes guizhouensis Ping and Xu, 1987
+Reticulitermes gulinensis Gao, Pan, Ma, and Shi, 1982
+Reticulitermes hageni Banks, 1920
+Reticulitermes hainanensis Tsai and Huang, 1977
+Reticulitermes hartungi (Heer, 1858)
+Reticulitermes hesperus Banks, 1920
+Reticulitermes holmgreni (Statz, 1939)
+Reticulitermes huangi Krishna, 2013
+Reticulitermes huapingensis Li, 1980
+Reticulitermes hubeiensis Ping and Huang, 1992
+Reticulitermes hunanensis Tsai and Peng, 1980
+Reticulitermes hypsofrons Ping and Li, 1981
+Reticulitermes jiangchengensis Yang, Zhu, and Huang, 1992
+Reticulitermes kanmonensis Takematsu, 1999
+Reticulitermes khaoyaiensis Sornnuwat, Vongkaluang, and Takematsu, 2004
+Reticulitermes labralis Hsia and Fan, 1965
+Reticulitermes largus Li and Ma, 1984
+Reticulitermes latilabris Ping, 1986
+Reticulitermes laurae Pierce, 1958
+Reticulitermes leiboensis Gao and Xia, 1983
+Reticulitermes leigongshanensis (Zhu, Huang, Wang, and Han, 1993)
+Reticulitermes leptogulus Ping and Xu, 1981
+Reticulitermes leptomandibularis Hsia and Fan, 1965
+Reticulitermes levatoriceps He and Qui, 1990
+Reticulitermes lianchengensis Li and Ma, 1984
+Reticulitermes lii Ping and Huang, 1993
+Reticulitermes lingulatus Ping, 1986
+Reticulitermes longicephalus Tsai and Chen, 1963
+Reticulitermes longigulus Ping and Li, 1993
+Reticulitermes longipennis Wang and Li, 1984
+Reticulitermes lucifugus (Rossi, 1792)
+Reticulitermes lucifugus corsicus Clément, 1977
+Reticulitermes lucifugus lucifugus Rossi, 1792
+Reticulitermes luofunicus Zhu, Ma, and Li, 1982
+Reticulitermes magdalenae (Bathellier, 1927)
+Reticulitermes majiangensis (Zhu, Huang, and Wang, 1993)
+Reticulitermes malletei Howard and Clément, 1985
+Reticulitermes mangshanensis (Li and Ping, 1983)
+Reticulitermes maopingensis (Zhu, Huang, and Wang, 1993)
+Reticulitermes microcephalus Zhu, 1984
+Reticulitermes minimus Snyder, 1928
+Reticulitermes minutus Ping and Xu, 1983
+Reticulitermes mirogulus He and Qui, 1990
+Reticulitermes mirus Gao, Zhu, and Zhao, 1985
+Reticulitermes miyatakei Morimoto, 1968
+Reticulitermes nanjiangensis Chen and Ping, 1984
+Reticulitermes nelsonae Lim and Forschler, 2012
+Reticulitermes neochinensis Li and Huang, 1986
+Reticulitermes okanaganensis Szalanski, Austin, McKern, and Messenger, 2006
+Reticulitermes okinawanus Morimoto, 1968
+Reticulitermes oocephalus Ping and Li, 1981
+Reticulitermes oreophilus (Ping and Li, 1983)
+Reticulitermes ovatilabrum Xia and Fan, 1981
+Reticulitermes paralucifugus Ping and Zhang, 1989
+Reticulitermes parvus Li, 1979
+Reticulitermes perangustus Gao, Shi, and Zhu, 1984
+Reticulitermes periflaviceps Ping and Xu, 1993
+Reticulitermes perilabralis Ping and Xu, 1992
+Reticulitermes perilucifugus Ping, 1985
+Reticulitermes pingjiangensis Tsai and Peng, 1983
+Reticulitermes planifrons Li and Ping, 1981
+Reticulitermes planimentus (Zhu, Huang, and Wang, 1993)
+Reticulitermes pliozaenicus Weidner, 1971
+Reticulitermes pseudaculabialis Gao, Pan, Ma, and Shi, 1982
+Reticulitermes qingdaoensis Li and Ma, 1987
+Reticulitermes qingjiangensis Gao and Wang, 1982
+Reticulitermes rectis Xia and Fan, 1981
+Reticulitermes saraswati Roonwal and Chhotani, 1962
+Reticulitermes setosus Li and Xiao, 1989
+Reticulitermes solidimandibulas (Li and Xiao, 1989)
+Reticulitermes speratus (Kolbe, 1885)
+Reticulitermes speratus kyushuensis Morimoto, 1968
+Reticulitermes speratus leptolabralis Morimoto, 1968
+Reticulitermes speratus speratus (Kolbe, 1885)
+Reticulitermes subligulosus Ping and Xu, 1992
+Reticulitermes sublongicapitatus Ping, 1986
+Reticulitermes sylvestris Ping and Xu, 1993
+Reticulitermes testudineus Li and Ping, 1981
+Reticulitermes tianpingshanensis Zhu and Huang, 1993
+Reticulitermes tibetanus (Huang and Han, 1988)
+Reticulitermes tibialis Banks, 1920
+Reticulitermes tirapi Chhotani and Das, 1983
+Reticulitermes translucens Ping and Xu, 1983
+Reticulitermes trichocephalus Ping, 1985
+Reticulitermes tricholabralis Ping and Li, 1992
+Reticulitermes trichothorax Ping and Xu, 1983
+Reticulitermes tricolorus Ping and Li, 1982
+Reticulitermes urbis Bagnères, Uva, and Clément, 2003
+Reticulitermes virginicus (Banks, 1907)
+Reticulitermes wugangensis Huang and Yin, 1983
+Reticulitermes wugongensis Li and Huang, 1986
+Reticulitermes wuyishanensis Li and Huang, 1986
+Reticulitermes xingshanensis Ping and Liu, 1992
+Reticulitermes xingyiensis Ping and Xu, 1983
+Reticulitermes yaeyamanus Morimoto, 1968
+Reticulitermes yinae (Zhu, Huang, and Li, 1986)
+Reticulitermes yingdeensis Tsai and Li, 1977
+Reticulitermes yizhangensis Huang and Tong, 1980
+Reticulitermes yongdingensis Ping, 1984
+Reticulitermes yunsiensis (Li and Huang, 1986)
+Reticulitermes zhaoi Ping and Li, 1983
+Prorhinotermitinae
+Prorhinotermes Silvestri, 1909
+Prorhinotermes canalifrons (Sjöstedt, 1904)
+Prorhinotermes flavus (Bugnion and Popoff, 1910)
+Prorhinotermes hainanensis Ping and Xu, 1989
+Prorhinotermes inopinatus Silvestri, 1909
+Prorhinotermes molinoi Snyder, 1924
+Prorhinotermes oceanicus (Wasmann, 1902)
+Prorhinotermes ponapensis (Oshima, 1917)
+Prorhinotermes rugifer Kemner, 1931
+Prorhinotermes simplex (Hagen, 1858)
+Prorhinotermes spectabilis Ping and Xu, 1989
+Prorhinotermes xishaensis Li and Tsai, 1976
+Zophotermes Engel, 2011
+Zophotermes ashoki Engel and Singh, 2011
+Psammotermitinae
+Psammotermes Desneux, 1902
+Psammotermes allocerus Silvestri, 1908
+Psammotermes hybostoma Desneux, 1902
+Psammotermes prohybostoma Raven and Akhtar, 1999
+Psammotermes rajasthanicus Roonwal and Bose, 1960
+Psammotermes senegalensis Sjöstedt, 1924
+Psammotermes voeltzkowi Wasmann, 1910
+Rhinotermitinae
+Acorhinotermes Emerson, 1949
+Acorhinotermes subfusciceps (Emerson, 1925)
+Dolichorhinotermes Snyder and Emerson, 1949
+Dolichorhinotermes apopnus Engel and Krishna, 2007
+Dolichorhinotermes dominicanus Schlemmermeyer and Cancello, 2000
+Dolichorhinotermes japuraensis Constantino, 1991
+Dolichorhinotermes lanciarius Engel and Krishna, 2007
+Dolichorhinotermes latilabrum (Snyder, 1926)
+Dolichorhinotermes longidens (Snyder, 1924)
+Dolichorhinotermes longilabius (Emerson, 1924)
+Dolichorhinotermes neli Ensaf and Betsch, 2002
+Dolichorhinotermes tenebrosus (Emerson, 1925)
+Macrorhinotermes Holmgren, 1913
+Macrorhinotermes maximus (Holmgren, 1913)
+Parrhinotermes Holmgren, 1910
+Parrhinotermes aequalis (Haviland, 1898)
+Parrhinotermes barbatus Bourguignon and Roisin, 2011
+Parrhinotermes browni (Harris, 1958)
+Parrhinotermes buttelreepeni Holmgren, 1913
+Parrhinotermes inaequalis (Haviland, 1898)
+Parrhinotermes khasii Roonwal and Sen-Sarma, 1956
+Parrhinotermes microdentiformis Thapa, 1982
+Parrhinotermes microdentiformisoides Thapa, 1982
+Parrhinotermes minor Thapa, 1982
+Parrhinotermes pygmaeus John, 1925
+Parrhinotermes queenslandicus Mjöberg, 1920
+Parrhinotermes ruiliensis Tsai and Huang, 1982
+Parrhinotermes shamimi Bose, 1999
+Rhinotermes Hagen, 1858
+Rhinotermes hispidus Emerson, 1925
+Rhinotermes manni Snyder, 1924
+Rhinotermes marginalis (Linnaeus, 1758)
+Rhinotermes miocenicus Nel and Paicheler, 1993
+Rhinotermes nasutus (Perty, 1833)
+Schedorhinotermes Silvestri, 1909
+Schedorhinotermes actuosus (Hill, 1933)
+Schedorhinotermes bidentatus (Oshima, 1920)
+Schedorhinotermes brachyceps Kemner, 1931
+Schedorhinotermes breinli (Hill, 1921)
+Schedorhinotermes brevialatus (Haviland, 1898)
+Schedorhinotermes butteli (Holmgren, 1914)
+Schedorhinotermes derosus (Hill, 1933)
+Schedorhinotermes eleanorae Roonwal and Bose, 1970
+Schedorhinotermes fortignathus Xia and He, 1980
+Schedorhinotermes ganlanbaensis Xia and He, 1980
+Schedorhinotermes holmgreni Emerson, 1949
+Schedorhinotermes insolitus Xia and He, 1980
+Schedorhinotermes intermedius (Brauer, 1865)
+Schedorhinotermes lamanianus (Sjöstedt, 1911)
+Schedorhinotermes leopoldi Kemner, 1933
+Schedorhinotermes longirostris (Brauer, 1866)
+Schedorhinotermes magnus Tsai and Chen, 1963
+Schedorhinotermes makassarensis Kemner, 1934
+Schedorhinotermes makilingensis Acda, 2007
+Schedorhinotermes malaccensis (Holmgren, 1913)
+Schedorhinotermes medioobscurus (Holmgren, 1914)
+Schedorhinotermes nancowriensis Maiti and Chakraborty, 1994
+Schedorhinotermes putorius (Sjöstedt, 1896)
+Schedorhinotermes pyricephalus Xia and He, 1980
+Schedorhinotermes rectangularis Ahmad, 1965
+Schedorhinotermes reticulatus (Froggatt, 1897)
+Schedorhinotermes robustior Silvestri, 1909
+Schedorhinotermes sanctaecrucis (Snyder, 1925)
+Schedorhinotermes seclusus (Hill, 1933)
+Schedorhinotermes solomonensis (Snyder, 1925)
+Schedorhinotermes tenuis (Oshima, 1923)
+Schedorhinotermes tiwarii Roonwal and Thakur, 1963
+Schedorhinotermes translucens (Haviland, 1898)
+Schedorhinotermes umbraticus (Hill, 1927)
+Termitogetoninae
+Termitogeton Desneux, 1904
+Termitogeton planus (Haviland, 1898)
+Termitogeton umbilicatus (Hagen, 1858)
+Rhinotermites Armbruster, 1941
+Rhinotermites dzierzoni Armbruster, 1941
+Rhinotermites kuehni Armbruster, 1941
+Rhinotermites wasmanni Armbruster, 1941
+Serritermitidae
+Glossotermes Emerson, 1950
+Glossotermes oculatus Emerson, 1950
+Glossotermes sulcatus Cancello and DeSouza, 2005
+Serritermes Wasmann, 1897
+Serritermes serrifer (Hagen and Bates, 1858)
+Stylotermitidae
+Parastylotermes Snyder and Emerson, 1949
+Parastylotermes calico Pierce, 1958
+Parastylotermes frazieri Snyder, 1955
+Parastylotermes krishnai Engel and Grimaldi, 2011
+Parastylotermes robustus (Rosen, 1913)
+Parastylotermes washingtonensis (Snyder, 1931)
+Prostylotermes Engel and Grimaldi, 2011
+Prostylotermes kamboja Engel and Grimaldi, 2011
+Stylotermes Holmgren and Holmgren, 1917
+Stylotermes acrofrons Ping and Liu, 1981
+Stylotermes ahmadi Akhtar, 1975
+Stylotermes alpinus Ping, 1983
+Stylotermes angustignathus Gao, Zhu, and Gong, 1982
+Stylotermes beesoni Thakur, 1975
+Stylotermes bengalensis Mathur and Chhotani, 1959
+Stylotermes chakratensis Mathur and Thapa, 1963
+Stylotermes changtingensis Fan and Xia, 1981
+Stylotermes chengduensis Gao and Zhu, 1980
+Stylotermes chongqingensis Chen and Ping, 1983
+Stylotermes choui Ping and Xu, 1981
+Stylotermes crinis Gao, Zhu, and Gong, 1981
+Stylotermes curvatus Ping and Xu, 1984
+Stylotermes dunensis Thakur, 1975
+Stylotermes faveolus (Chatterjee and Thakur, 1964)
+Stylotermes fletcheri Holmgren and Holmgren, 1917
+Stylotermes fontanellus Gao, Zhu, and Han, 1982
+Stylotermes guiyangensis Ping and Gong, 1984
+Stylotermes hanyuanicus Ping and Liu, 1981
+Stylotermes inclinatus (Yu and Ping, 1964)
+Stylotermes jinyunicus Ping and Chen, 1981
+Stylotermes labralis Ping and Liu, 1981
+Stylotermes laticrus Ping and Xu, 1981
+Stylotermes latilabrum (Tsai and Chen, 1963)
+Stylotermes latipedunculus (Yu and Ping, 1964)
+Stylotermes lianpingensis Ping, 1983
+Stylotermes longignathus Gao, Zhu, and Han, 1981
+Stylotermes mecocephalus Ping and Li, 1978
+Stylotermes minutus (Yu and Ping, 1964)
+Stylotermes mirabilis He and Qiu, 1990
+Stylotermes orthognathus Ping and Xu, 1984
+Stylotermes parabengalensis Maiti, 1975
+Stylotermes planifrons Chen, 1984
+Stylotermes robustus Ping and Li, 1981
+Stylotermes roonwali Thapa, 1982
+Stylotermes setosus Li and Ping, 1978
+Stylotermes sinensis (Yu and Ping, 1964)
+Stylotermes sui Ping and Xu, 1993
+Stylotermes triplanus Ping and Liu, 1981
+Stylotermes tsaii Gao, Zhu, Yang, Ji, and Ma, 1982
+Stylotermes undulatus Ping and Li, 1978
+Stylotermes valvules Tsai and Ping, 1978
+Stylotermes wuyinicus Li and Ping, 1981
+Stylotermes xichangensis Huang and Zhu, 1986
+Termitidae
+Sphaerotermitinae
+Sphaerotermes Holmgren, 1912
+Sphaerotermes sphaerothorax (Sjöstedt, 1911)
+Macrotermitinae
+Acanthotermes Sjöstedt, 1900
+Acanthotermes acanthothorax (Sjöstedt, 1898)
+Allodontermes Silvestri, 1912
+Allodontermes rhodesiensis (Sjöstedt, 1914)
+Allodontermes schultzei (Silvestri, 1908)
+Allodontermes tenax (Silvestri, 1912)
+Ancistrotermes Silvestri, 1912
+Ancistrotermes cavithorax (Sjöstedt, 1899)
+Ancistrotermes crassiceps Zhu and Wang, 1991
+Ancistrotermes crucifer (Sjöstedt, 1897)
+Ancistrotermes crucifer crucifer (Sjöstedt, 1897)
+Ancistrotermes crucifer diversana Silvestri, 1914
+Ancistrotermes dimorphus (Tsai and Chen, 1963)
+Ancistrotermes dubius Sjöstedt, 1926
+Ancistrotermes equatorius Harris, 1966
+Ancistrotermes ganlanbaensis Zhu and Huang, 1991
+Ancistrotermes guineensis (Silvestri, 1912)
+Ancistrotermes hekouensis Zhu and Wang, 1991
+Ancistrotermes latinotus (Holmgren, 1912)
+Ancistrotermes menglianensis Zhu and Wang, 1991
+Ancistrotermes microdens Harris, 1966
+Ancistrotermes pakistanicus (Ahmad, 1955)
+Ancistrotermes periphrasis Sjöstedt, 1924
+Ancistrotermes wasmanni Snyder and Emerson, 1949
+Ancistrotermes xiai Zhu and Huang, 1991
+Euscaiotermes Silvestri, 1923
+Euscaiotermes primus (Silvestri, 1923)
+Hypotermes Holmgren, 1913
+Hypotermes bawanensis Zhu and Wang, 1990
+Hypotermes makhamensis Ahmad, 1965
+Hypotermes manyunensis (Zhu and Huang, 1990)
+Hypotermes meiziensis Huang and Zhu, 1990
+Hypotermes mengdingensis Zhu and Huang, 1990
+Hypotermes obscuriceps (Wasmann, 1902)
+Hypotermes ruiliensis (Zhu and Wang, 1990)
+Hypotermes sumatrensis (Holmgren, 1914)
+Hypotermes wandingensis Zhu and Huang, 1990
+Hypotermes wayaoensis Zhu and Wang, 1990
+Hypotermes winifredi (Ahmad, 1953)
+Hypotermes xenotermitis (Wasmann, 1896)
+Hypotermes yingjiangensis (Huang and Zhu, 1990)
+Macrotermes Holmgren, 1909
+Macrotermes acrocephalus Ping, 1985
+Macrotermes ahmadi Tho, 1975
+Macrotermes aleemi Akhtar, 1975
+Macrotermes amplus (Sjöstedt, 1899)
+Macrotermes annandalei (Silvestri, 1914)
+Macrotermes barneyi Light, 1924
+Macrotermes beaufortensis Thapa, 1982
+Macrotermes bellicosus (Smeathman, 1781)
+Macrotermes carbonarius (Hagen, 1858)
+Macrotermes chaiglomi Ahmad, 1965
+Macrotermes chebalingensis Ping and Xu, 1993
+Macrotermes choui Ping, 1985
+Macrotermes constrictus Ping and Li, 1985
+Macrotermes convulsionarius (König, 1779)
+Macrotermes declivatus Zhu, 1995
+Macrotermes denticulatus Li and Ping, 1983
+Macrotermes falciger (Gerstäcker, 1891)
+Macrotermes gilvus (Hagen, 1858)
+Macrotermes gratus (Sjöstedt, 1900)
+Macrotermes guangxiensis Han, 1986
+Macrotermes hainanensis Li and Ping, 1983
+Macrotermes herus (Sjöstedt, 1914)
+Macrotermes hopini Roonwal and Sen-Sarma, 1956
+Macrotermes incisus He and Qiu, 1990
+Macrotermes ituriensis Sjöstedt, 1924
+Macrotermes ivorensis Grassé and Noirot, 1951
+Macrotermes jinghongensis Ping and Li, 1985
+Macrotermes khajuriai Roonwal and Chhotani, 1962
+Macrotermes latignathus Thapa, 1982
+Macrotermes lilljeborgi (Sjöstedt, 1896)
+Macrotermes longiceps Li and Ping, 1983
+Macrotermes longimentis Zhu and Luo, 1987
+Macrotermes luokengensis Lin and Shi, 1982
+Macrotermes maesodensis Ahmad, 1965
+Macrotermes malaccensis (Haviland, 1898)
+Macrotermes meidoensis Huang and Han, 1988
+Macrotermes menglongensis Han, 1986
+Macrotermes michaelseni (Sjöstedt, 1914)
+Macrotermes natalensis (Haviland, 1898)
+Macrotermes niger (Sjöstedt, 1898)
+Macrotermes nobilis (Sjöstedt, 1900)
+Macrotermes orthognathus Ping and Xu, 1985
+Macrotermes peritrimorphus Li and Xiao, 1989
+Macrotermes planicapitatus Gao and Lau, 1996
+Macrotermes pristinus (Charpentier, 1843)
+Macrotermes probeaufortensis Thapa, 1982
+Macrotermes renouxi Rouland, 1993
+Macrotermes scheuthlei (Armbruster, 1941)
+Macrotermes serrulatus Snyder, 1934
+Macrotermes singaporensis (Oshima, 1913)
+Macrotermes subhyalinus (Rambur, 1842)
+Macrotermes trapezoides Ping and Xu, 1985
+Macrotermes trimorphus Li and Ping, 1983
+Macrotermes ukuzii Fuller, 1922
+Macrotermes vitrialatus (Sjöstedt, 1899)
+Macrotermes yunnanensis Han, 1986
+Macrotermes zhejiangensis Ping and Dong, 1994
+Macrotermes zhui Krishna, 2013
+Megaprotermes Ruelle, 1978
+Megaprotermes giffardii (Silvestri, 1914)
+Microfavichnus Duringer, Schuster, Genise, Mackaye, Vignaud, and Brunet, 2007
+Microfavichnus alveolatus Duringer, Schuster, Genise, Mackaye, Vignaud, and Brunet, 2007
+Microtermes Wasmann, 1902
+Microtermes aethiopicus Barnett, Cowie and Wood, 1988
+Microtermes albinotus Holmgren, 1913
+Microtermes albopartitus (Sjöstedt, 1911)
+Microtermes alluaudanus (Sjöstedt, 1915)
+Microtermes aluco (Sjöstedt, 1904)
+Microtermes baginei Bacchus, 1997
+Microtermes bharatpurensis Rathore, 1989
+Microtermes bouvieri (Sjöstedt, 1926)
+Microtermes calvus Emerson, 1928
+Microtermes cherberensis Bacchus, 1997
+Microtermes chomaensis Bacchus, 1997
+Microtermes congoensis (Sjöstedt, 1911)
+Microtermes congoensis comprehensa Silvestri, 1914
+Microtermes congoensis congoensis (Sjöstedt, 1911)
+Microtermes darlingtonae Bacchus, 1997
+Microtermes depauperata Silvestri, 1914
+Microtermes divellens (Sjöstedt, 1904)
+Microtermes dubius Fuller, 1922
+Microtermes edwini Bacchus, 1997
+Microtermes etiolatus Fuller, 1922
+Microtermes feae Silvestri, 1912
+Microtermes grassei Ghidini, 1955
+Microtermes havilandi Holmgren, 1913
+Microtermes hollandei Grassé, 1937
+Microtermes imphalensis Roonwal and Chhotani, 1962
+Microtermes incertoides Holmgren, 1913
+Microtermes incertus (Hagen, 1853)
+Microtermes insperatus Kemner, 1934
+Microtermes jacobsoni Holmgren, 1913
+Microtermes kairoonae Bacchus, 1997
+Microtermes kasaiensis (Sjöstedt, 1913)
+Microtermes kauderni Holmgren, 1909
+Microtermes lepidus Sjöstedt, 1924
+Microtermes logani Bacchus, 1997
+Microtermes lokoriensis Bacchus, 1997
+Microtermes lounsburyi Fuller, 1922
+Microtermes luteus Harris, 1954
+Microtermes macronotus Holmgren, 1913
+Microtermes magnocellus (Sjöstedt, 1915)
+Microtermes magnoculus Krishna, 2013
+Microtermes mangzhuangensis Huang and Zhu, 1991
+Microtermes mariae Bacchus, 1997
+Microtermes menglunensis Zhu and Huang, 1991
+Microtermes mengpengensis Zhu and Huang, 1991
+Microtermes microthorax Holmgren, 1913
+Microtermes mokeetsei Fuller, 1922
+Microtermes mulii Bacchus, 1997
+Microtermes mycophagus (Desneux, 1906)
+Microtermes najdensis Harris, 1964
+Microtermes neghelliensis Ghidini, 1937
+Microtermes obesi Holmgren, 1912
+Microtermes occidentalis Fuller, 1922
+Microtermes osborni Emerson, 1928
+Microtermes pallidiventris Harris, 1953
+Microtermes pamelae Bacchus, 1997
+Microtermes problematicus Grassé, 1937
+Microtermes pusillus Silvestri, 1914
+Microtermes redenianus (Sjöstedt, 1904)
+Microtermes sakalava Cachan, 1949
+Microtermes sindensis (Desneux, 1906)
+Microtermes sjostedti Emerson, 1928
+Microtermes somaliensis (Sjöstedt, 1912)
+Microtermes subhyalinus Silvestri, 1914
+Microtermes thoracalis Sjöstedt, 1926
+Microtermes toumodiensis Grassé, 1937
+Microtermes tragardhi (Sjöstedt, 1904)
+Microtermes tsavoensis Bacchus, 1997
+Microtermes unicolor Snyder, 1933
+Microtermes upembae Harris, 1958
+Microtermes vadschaggae (Sjöstedt, 1907)
+Microtermes yemenensis Wood, Lamb and Bednarzik, 1986
+Odontotermes Holmgren, 1910
+Odontotermes acutidens Grassé, 1947
+Odontotermes adampurensis Akhtar, 1975
+Odontotermes agilis (Sjöstedt, 1904)
+Odontotermes akengeensis (Emerson, 1928)
+Odontotermes amanicus Sjöstedt, 1925
+Odontotermes amaniensis Sjöstedt, 1924
+Odontotermes anamallensis Holmgren and Holmgren, 1917
+Odontotermes anceps (Sjöstedt, 1911)
+Odontotermes angustatus (Rambur, 1842)
+Odontotermes angustignathus Tsai and Chen, 1963
+Odontotermes angustipennis (Sjöstedt, 1900)
+Odontotermes annulicornis Xia and Fan, 1982
+Odontotermes apollo (Sjöstedt, 1905)
+Odontotermes aquaticus (Sjöstedt, 1897)
+Odontotermes assmuthi Holmgren, 1913
+Odontotermes aurora (Sjöstedt, 1904)
+Odontotermes badius Haviland, 1898
+Odontotermes badius badius (Haviland, 1898)
+Odontotermes badius littoralis (Fuller, 1922)
+Odontotermes bellahunisensis Holmgren and Holmgren, 1917
+Odontotermes bequaerti (Emerson, 1928)
+Odontotermes bhagwatii Chatterjee and Thakur, 1967
+Odontotermes billitoni Holmgren, 1913
+Odontotermes boetonensis Kemner, 1934
+Odontotermes bogoriensis (Kemner, 1932)
+Odontotermes bomaensis Sjöstedt, 1924
+Odontotermes boranicus (Ghidini, 1937)
+Odontotermes bottegoanus (Sjöstedt, 1912)
+Odontotermes boveni Thakur, 1981
+Odontotermes brunneus (Hagen, 1858)
+Odontotermes buchholzi (Sjöstedt, 1897)
+Odontotermes butteli Holmgren, 1914
+Odontotermes caffrariae (Sjöstedt, 1897)
+Odontotermes capensis (De Geer, 1778)
+Odontotermes celebensis Holmgren, 1913
+Odontotermes ceylonicus (Wasmann, 1902)
+Odontotermes chicapanensis Weidner, 1956
+Odontotermes classicus (Sjöstedt, 1912)
+Odontotermes conignathus Xia and Fan, 1982
+Odontotermes culturarum Sjöstedt, 1924
+Odontotermes denticulatus Holmgren, 1913
+Odontotermes diana (Sjöstedt, 1911)
+Odontotermes dimorphus Li and Xiao, 1989
+Odontotermes distans Holmgren and Holmgren, 1917
+Odontotermes dives (Hagen, 1858)
+Odontotermes djampeensis Kemner, 1934
+Odontotermes ebeni (Sjöstedt, 1912)
+Odontotermes egregius Sjöstedt, 1925
+Odontotermes elgonensis (Sjöstedt, 1926)
+Odontotermes erodens (Sjöstedt, 1904)
+Odontotermes erraticus Grassé, 1947
+Odontotermes escherichi (Holmgren, 1911)
+Odontotermes fallax Sjöstedt, 1924
+Odontotermes feae (Wasmann, 1896)
+Odontotermes feaeoides Holmgren and Holmgren, 1917
+Odontotermes fidens (Sjöstedt, 1904)
+Odontotermes flammifrons (Sjöstedt, 1926)
+Odontotermes fockianus (Sjöstedt, 1914)
+Odontotermes fontanellus Kemner, 1925
+Odontotermes formosanus (Shiraki, 1909)
+Odontotermes foveafrons Xia and Fan, 1982
+Odontotermes fulleri (Emerson, 1928)
+Odontotermes fuyangensis Gao and Zhu, 1986
+Odontotermes ganpati Bose, 1997
+Odontotermes garambae Harris, 1963
+Odontotermes giriensis Roonwal and Chhotani, 1962
+Odontotermes girnarensis Thakur, 1989
+Odontotermes globicola (Wasmann, 1902)
+Odontotermes grandiceps Holmgren, 1913
+Odontotermes grassei Snyder and Emerson, 1949
+Odontotermes gravelyi Silvestri, 1914
+Odontotermes guizhouensis Ping and Xu, 1988
+Odontotermes guptai Roonwal and Bose, 1961
+Odontotermes gurdaspurensis Holmgren and Holmgren, 1917
+Odontotermes hageni Holmgren, 1913
+Odontotermes hainanensis (Light, 1924)
+Odontotermes horai Roonwal and Chhotani, 1962
+Odontotermes horni (Wasmann, 1902)
+Odontotermes incisus Holmgren, 1913
+Odontotermes indrapurensis Holmgren, 1913
+Odontotermes interveniens Sjöstedt, 1924
+Odontotermes iratus (Sjöstedt, 1926)
+Odontotermes javanicus Holmgren, 1912
+Odontotermes javanicus javanicus Holmgren, 1912
+Odontotermes javanicus nymanni Holmgren, 1913
+Odontotermes kapuri Roonwal and Chhotani, 1962
+Odontotermes karawajevi John, 1925
+Odontotermes karnyi Kemner, 1934
+Odontotermes kepongensis Manzoor and Akhtar, 2005
+Odontotermes kibarensis (Fuller, 1923)
+Odontotermes kistneri Manzoor and Akhtar, 2005
+Odontotermes koenigi (Desneux, 1906)
+Odontotermes kulkarni Roonwal and Chhotani, 1959
+Odontotermes lacustris Harris, 1960
+Odontotermes latericius (Haviland, 1898)
+Odontotermes latericius latericius (Haviland, 1898)
+Odontotermes latericius media (Wasmann, 1912)
+Odontotermes latialatus (Sjöstedt, 1897)
+Odontotermes latigula (Snyder, 1934)
+Odontotermes latiguloides Roonwal and Verma, 1973
+Odontotermes latissimus (Kemner, 1930)
+Odontotermes lautus (Sjöstedt, 1924)
+Odontotermes lobintactus (Sjöstedt, 1926)
+Odontotermes longignathus Holmgren, 1914
+Odontotermes longigula Roy-Noel, 1969
+Odontotermes longzhouensis Lin, 1981
+Odontotermes luoyangensis Wang and Li, 1984
+Odontotermes maesodensis Ahmad, 1965
+Odontotermes magdalenae Grassé and Noirot, 1950
+Odontotermes makassarensis Kemner, 1934
+Odontotermes malabaricus Holmgren and Holmgren, 1917
+Odontotermes malaccensis Holmgren, 1914
+Odontotermes maledictus (Ghidini, 1941)
+Odontotermes malelaensis (Emerson, 1928)
+Odontotermes maliki Akhtar, 1975
+Odontotermes matangensis Manzoor and Akhtar, 2005
+Odontotermes maximus (Kemner, 1930)
+Odontotermes mediocris (Sjöstedt, 1911)
+Odontotermes menadoensis Kemner, 1934
+Odontotermes meridionalis Gao and Yang, 1987
+Odontotermes microdentatus Roonwal and Sen-Sarma, 1960
+Odontotermes microps (Sjöstedt, 1899)
+Odontotermes minutus Amir, 1975
+Odontotermes mirganjensis Holmgren and Holmgren, 1917
+Odontotermes mohandi Verma and Purohit, 1993
+Odontotermes monodon Gerstäcker, 1891
+Odontotermes monodon lujanus (Wasmann, 1902)
+Odontotermes monodon monodon (Gerstäcker, 1891)
+Odontotermes montanus Harris, 1960
+Odontotermes mukimbunginis Sjöstedt, 1924
+Odontotermes neodenticulatus Thapa, 1982
+Odontotermes nilensis Emerson, 1949
+Odontotermes nolaensis Sjöstedt, 1924
+Odontotermes obesus (Rambur, 1842)
+Odontotermes oblongatus Holmgren, 1913
+Odontotermes okahandjae (Fuller, 1922)
+Odontotermes ostentans (Silvestri, 1912)
+Odontotermes palmquisti (Sjöstedt, 1907)
+Odontotermes paradenticulatus Ahmad, 1947
+Odontotermes paralatigula Chatterjee and Sen-Sarma, 1962
+Odontotermes paralatiguloides Thakur, 1989
+Odontotermes parallelus Li, 1986
+Odontotermes paraoblongatus Ahmad, 1965
+Odontotermes parvidens Holmgren and Holmgren, 1917
+Odontotermes patruus (Sjöstedt, 1913)
+Odontotermes pauperans (Silvestri, 1912)
+Odontotermes peshawarensis Akhtar, 1974
+Odontotermes planiceps Sjöstedt, 1924
+Odontotermes praevalens (John, 1926)
+Odontotermes preliminaris (Holmgren, 1911)
+Odontotermes pretoriensis Sjöstedt, 1924
+Odontotermes prewensis Manzoor and Akhtar, 2005
+Odontotermes prodives Thapa, 1982
+Odontotermes profeae Akhtar, 1975
+Odontotermes proformosanus Ahmad, 1965
+Odontotermes prolatigula Bose, 1997
+Odontotermes proximus Holmgren, 1914
+Odontotermes pujiangensis Fan, 1988
+Odontotermes pyriceps Fan, 1985
+Odontotermes quinquedentatus Ping and Xu, 1988
+Odontotermes ramulosus (Sjöstedt, 1904)
+Odontotermes rectanguloides Sjöstedt, 1924
+Odontotermes redemanni (Wasmann, 1893)
+Odontotermes rehobothensis (Sjöstedt, 1914)
+Odontotermes robustus Sjöstedt, 1924
+Odontotermes rothschildianus (Sjöstedt, 1911)
+Odontotermes salebrifrons (Sjöstedt, 1904)
+Odontotermes sarawakensis Holmgren, 1913
+Odontotermes sasangirensis Thakur, 1989
+Odontotermes schmitzi (Emerson, 1928)
+Odontotermes scrutor (Sjöstedt, 1907)
+Odontotermes sellathorax Xia and Fan, 1982
+Odontotermes shixingensis Ping and Xu, 1993
+Odontotermes sikkimensis Thakur and Rathore, 1986
+Odontotermes silamensis Thapa, 1982
+Odontotermes silvaticus Harris, 1956
+Odontotermes silvestrii Sjöstedt, 1925
+Odontotermes silvicolus Roy-Noel, 1969
+Odontotermes simalurensis Oshima, 1923
+Odontotermes simplicidens (Sjöstedt, 1899)
+Odontotermes sinabangensis Kemner, 1934
+Odontotermes singsiti Bose, 1997
+Odontotermes sjostedti (Emerson, 1928)
+Odontotermes sjostedti evansi (Emerson, 1928)
+Odontotermes sjostedti sjostedti (Emerson, 1928)
+Odontotermes smeathmani (Fuller, 1924)
+Odontotermes snyderi (Emerson, 1928)
+Odontotermes somaliensis (Sjöstedt, 1927)
+Odontotermes stanleyvillensis (Emerson, 1928)
+Odontotermes stercorivorus (Sjöstedt, 1907)
+Odontotermes sudanensis Sjöstedt, 1924
+Odontotermes takensis Ahmad, 1965
+Odontotermes tanganicus Sjöstedt, 1924
+Odontotermes taprobanes (Walker, 1853)
+Odontotermes terricola (Sjöstedt, 1902)
+Odontotermes tragardhi Holmgren, 1913
+Odontotermes transvaalensis (Sjöstedt, 1902)
+Odontotermes vaishno Bose, 1975
+Odontotermes vulgaris (Haviland, 1898)
+Odontotermes wallonensis (Wasmann, 1902)
+Odontotermes wuzhishanensis Li, 1986
+Odontotermes yadevi Thakur, 1981
+Odontotermes yaoi Huang and Li, 1988
+Odontotermes yarangensis Tsai and Huang, 1981
+Odontotermes yunnanensis Tsai and Chen, 1963
+Odontotermes zambesiensis (Sjöstedt, 1914)
+Odontotermes ziyangensis Zhang and Xing, 1992
+Odontotermes zulunatalensis Sjöstedt, 1924
+Odontotermes zunyiensis Li and Ping, 1982
+Protermes Holmgren, 1910
+Protermes hirticeps Sjöstedt, 1924
+Protermes minimus Ruelle, 1971
+Protermes minutus (Grassé, 1937)
+Protermes mwekerae Ruelle, 1971
+Protermes prorepens (Sjöstedt, 1907)
+Pseudacanthotermes Sjöstedt, 1924
+Pseudacanthotermes curticeps Sjöstedt, 1924
+Pseudacanthotermes grandiceps (Sjöstedt, 1915)
+Pseudacanthotermes harrisensis Weidner, 1962
+Pseudacanthotermes militaris Hagen, 1858
+Pseudacanthotermes militaris laticeps (Sjöstedt, 1905)
+Pseudacanthotermes militaris militaris (Hagen, 1858)
+Pseudacanthotermes piceus (Sjöstedt, 1911)
+Pseudacanthotermes spiniger (Sjöstedt, 1900)
+Synacanthotermes Holmgren, 1910
+Synacanthotermes heterodon (Sjöstedt, 1899)
+Synacanthotermes trilobatus Sjöstedt, 1926
+Synacanthotermes zanzibarensis (Sjöstedt, 1915)
+Foraminitermitinae
+Foraminitermes Holmgren, 1912
+Foraminitermes coatoni Krishna, 1963
+Foraminitermes corniferus (Sjöstedt, 1905)
+Foraminitermes harrisi Krishna, 1963
+Foraminitermes rhinoceros (Sjöstedt, 1905)
+Foraminitermes tubifrons Holmgren, 1912
+Foraminitermes valens (Silvestri, 1914)
+Labritermes Holmgren, 1914
+Labritermes buttelreepeni Holmgren, 1914
+Labritermes emersoni Krishna and Adams, 1982
+Labritermes kistneri Krishna and Adams, 1982
+Pseudomicrotermes Holmgren, 1912
+Pseudomicrotermes alboniger (Wasmann, 1911)
+Apicotermitinae
+Anoplotermes Group
+Acholotermes
+Acholotermes chirotus Sands, 1972
+Acholotermes epius Sands, 1972
+Acholotermes imbellis Sands, 1972
+Acholotermes socialis (Sjöstedt, 1899)
+Acholotermes tithasus Sands, 1972
+Acidnotermes Sands, 1972
+Acidnotermes praus Sands, 1972
+Adaiphrotermes Sands, 1972
+Adaiphrotermes choanensis (Fuller, 1925)
+Adaiphrotermes cuniculator Sands, 1972
+Adaiphrotermes scapheutes Sands, 1972
+Aderitotermes Sands, 1972
+Aderitotermes cavator Sands, 1972
+Aderitotermes fossor Sands, 1972
+Adynatotermes Sands, 1972
+Adynatotermes moretelae (Fuller, 1925)
+Aganotermes Sands, 1972
+Aganotermes oryctes Sands, 1972
+Alyscotermes Sands, 1972
+Alyscotermes kilimandjaricus (Sjöstedt, 1907)
+Alyscotermes trestus Sands, 1972
+Amalotermes Sands, 1972
+Amalotermes phaeocephalus Sands, 1972
+Amicotermes Sands, 1972
+Amicotermes autothysius Sands, 1999
+Amicotermes camerunensis Sands, 1999
+Amicotermes congoensis Sands, 1999
+Amicotermes cristatus Sands, 1999
+Amicotermes dibogi Sands, 1999
+Amicotermes galenus Sands, 1972
+Amicotermes gasteruptus Sands, 1999
+Amicotermes ivorensis Sands, 1999
+Amicotermes mayombei Sands, 1999
+Amicotermes mbalmayoensis Sands, 1999
+Amicotermes multispinus Sands, 1999
+Amicotermes spiculatus Sands, 1999
+Anaorotermes Sands, 1972
+Anaorotermes echinocolon Sands, 1972
+Anenteotermes
+Anenteotermes amachetus Sands, 1972
+Anenteotermes ateuchestes Sands, 1972
+Anenteotermes cicur Sands, 1972
+Anenteotermes cnaphorus Sands, 1972
+Anenteotermes disluctans Sands, 1972
+Anenteotermes hemerus Sands, 1972
+Anenteotermes improcinctus Sands, 1972
+Anenteotermes improelatans Sands, 1972
+Anenteotermes nanus (Sjöstedt, 1911)
+Anenteotermes polyscolus Sands, 1972
+Anoplotermes Müller, 1873
+Anoplotermes ater (Hagen, 1858)
+Anoplotermes bahamensis Scheffrahn and Křeček, 2006
+Anoplotermes banksi Emerson, 1925
+Anoplotermes bohio Krishna and Grimaldi, 2009
+Anoplotermes bolivianus Snyder, 1926
+Anoplotermes brucei Snyder, 1955
+Anoplotermes burmeisteri (Czerwinski, 1901)
+Anoplotermes cacique Krishna and Grimaldi, 2009
+Anoplotermes carib Krishna and Grimaldi, 2009
+Anoplotermes distans Snyder, 1926
+Anoplotermes franciscoi Snyder, 1959
+Anoplotermes fumosus (Hagen, 1860)
+Anoplotermes gracilis Snyder, 1922
+Anoplotermes grandifrons Snyder, 1926
+Anoplotermes hageni Snyder and Emerson, 1949
+Anoplotermes hondurensis Snyder, 1924
+Anoplotermes howardi Snyder, 1926
+Anoplotermes inopinatus Scheffrahn and Křeček, 2006
+Anoplotermes janus Bourguignon and Roisin, 2010
+Anoplotermes jheringi Holmgren, 1906
+Anoplotermes maboya Krishna and Grimaldi, 2009
+Anoplotermes meridianus Emerson, 1925
+Anoplotermes naboria Krishna and Grimaldi, 2009
+Anoplotermes nigripunctatus Emerson, 1925
+Anoplotermes nitanio Krishna and Grimaldi, 2009
+Anoplotermes pacificus Müller, 1873
+Anoplotermes parvus Snyder, 1923
+Anoplotermes punctatus Snyder, 1926
+Anoplotermes pyriformis Snyder, 1934
+Anoplotermes quisqueya Krishna and Grimaldi, 2009
+Anoplotermes rotundus Snyder, 1926
+Anoplotermes schwarzi Banks, 1919
+Anoplotermes subterraneus Emerson, 1925
+Anoplotermes taino Krishna and Grimaldi, 2009
+Anoplotermes tenebrosus (Hagen, 1858)
+Anoplotermes turricola Silvestri, 1901
+Apagotermes Sands, 1972
+Apagotermes stolidus Sands, 1972
+Aparatermes Fontes, 1986
+Aparatermes abbreviatus (Silvestri, 1901)
+Aparatermes cingulatus (Burmeister, 1839)
+Asagarotermes Sands, 1972
+Asagarotermes coronatus Sands, 1972
+Astalotermes Sands, 1972
+Astalotermes acholus Sands, 1972
+Astalotermes aganus Sands, 1972
+Astalotermes amicus Sands, 1972
+Astalotermes benignus Sands, 1972
+Astalotermes brevior (Holmgren, 1913)
+Astalotermes comis Sands, 1972
+Astalotermes concilians (Silvestri, 1914)
+Astalotermes empodius Sands, 1972
+Astalotermes eumenus Sands, 1972
+Astalotermes hapalus Sands, 1972
+Astalotermes ignavus Sands, 1972
+Astalotermes impedians Sands, 1972
+Astalotermes irrixosus Sands, 1972
+Astalotermes mitis Sands, 1972
+Astalotermes murcus Sands, 1972
+Astalotermes obstructus Sands, 1972
+Astalotermes quietus (Silvestri, 1914)
+Astratotermes Sands, 1972
+Astratotermes aneristus Sands, 1972
+Astratotermes apocnetus Sands, 1972
+Astratotermes hilarus Sands, 1972
+Astratotermes mansuetus Sands, 1972
+Astratotermes pacatus (Silvestri, 1914)
+Astratotermes prosenus Sands, 1972
+Ateuchotermes Sands, 1972
+Ateuchotermes ctenopher Sands, 1972
+Ateuchotermes muricatus Sands, 1972
+Ateuchotermes pectinatus Sands, 1972
+Ateuchotermes rastratus Sands, 1972
+Ateuchotermes retifaciens Sands, 1972
+Ateuchotermes sentosus Sands, 1972
+Ateuchotermes spinulatus Sands, 1972
+Ateuchotermes tranquillus (Silvestri, 1914)
+Firmitermes Sjöstedt, 1926
+Firmitermes abyssinicus (Sjöstedt, 1911)
+Grigiotermes Mathews, 1977
+Grigiotermes bequaerti (Snyder and Emerson, 1949)
+Grigiotermes metoecus Matthews, 1977
+Longustitermes Bourguignon and Roisin, 2010
+Longustitermes manni (Snyder, 1922)
+Ruptitermes Mathews, 1977
+Ruptitermes arboreus (Emerson, 1925)
+Ruptitermes proratus (Emerson, 1949)
+Ruptitermes reconditus (Silvestri, 1901)
+Ruptitermes xanthochiton Mathews, 1977
+Tetimatermes Fontes, 1986
+Tetimatermes oliveirae Fontes, 1986
+Apicotermes Group
+Acutidentitermes Emerson, 1959
+Acutidentitermes osborni Emerson, 1959
+Allognathotermes Silvestri, 1914
+Allognathotermes aburiensis (Sjöstedt, 1926)
+Allognathotermes hypogeus Silvestri, 1914
+Allognathotermes ivorensis Grassé and Noirot, 1955
+Apicotermes Holmgren, 1912
+Apicotermes angustatus Sjöstedt, 1924
+Apicotermes arquieri Grassé and Noirot, 1955
+Apicotermes desneuxi Emerson, 1953
+Apicotermes emersoni Bouillon, 1966
+Apicotermes goesswaldi Bouillon, 1966
+Apicotermes gurgulifex Emerson, 1956
+Apicotermes holmgreni Emerson, 1956
+Apicotermes kisantuensis Sjöstedt, 1924
+Apicotermes lamani (Sjöstedt, 1924)
+Apicotermes occultus Silvestri, 1914
+Apicotermes porifex Emerson, 1953
+Apicotermes rimulifex Emerson, 1956
+Apicotermes tragardhi Holmgren, 1912
+Coxotermes Grassé and Noirot, 1955
+Coxotermes boukokoensis Grassé and Noirot, 1955
+Duplidentitermes Emerson, 1959
+Duplidentitermes furcatidens (Sjöstedt, 1924)
+Duplidentitermes jurioni Emerson, 1959
+Duplidentitermes latimentonis Emerson, 1959
+Eburnitermes Noirot, 1966
+Eburnitermes grassei Noirot, 1966
+Heimitermes Grassé, 1955
+Heimitermes laticeps Grassé and Noirot, 1955
+Heimitermes moorei Emerson, 1959
+Hoplognathotermes Silvestri, 1914
+Hoplognathotermes angolensis Weidner, 1974
+Hoplognathotermes submissus Silvestri, 1914
+Hoplognathotermes subterraneus Silvestri, 1914
+Jugositermes Emerson, 1928
+Jugositermes tuberculatus Emerson, 1928
+Labidotermes Deligne and Pasteels, 1969
+Labidotermes celisi Deligne and Pasteels, 1969
+Machadotermes Weidner, 1974
+Machadotermes inflatus Weidner, 1974
+Machadotermes latus Weidner, 1974
+Machadotermes rigidus Collins, 1977
+Phoxotermes Collins, 1977
+Phoxotermes cerberus Collins, 1977
+Rostrotermes Grassé, 1943
+Rostrotermes cornutus Grassé, 1943
+Skatitermes Coaton, 1971
+Skatitermes psammophilus Coaton, 1971
+Skatitermes watti Coaton, 1971
+Trichotermes Sjöstedt, 1924
+Trichotermes ducis (Sjöstedt, 1914)
+Trichotermes machadoi Weidner, 1974
+Trichotermes villifrons (Sjöstedt, 1911)
+Speculitermes Group
+Euhamitermes Holmgren, 1912
+Euhamitermes aruna Chhotani, 1975
+Euhamitermes bidentatus Ping and Xu, 1987
+Euhamitermes chhotanii Maiti, 1983
+Euhamitermes concavigulus Ping and Liu, 1987
+Euhamitermes daweishanensis Ping, 1987
+Euhamitermes dentatus Thakur and Chatterjee, 1974
+Euhamitermes guizhouensis Gao and Gong, 1985
+Euhamitermes hamatus (Holmgren, 1912)
+Euhamitermes indicus (Holmgren and Holmgren, 1917)
+Euhamitermes kanhaensis Roonwal and Chhotani, 1965
+Euhamitermes karnatakensis Roonwal and Chhotani, 1965
+Euhamitermes lighti (Snyder, 1933)
+Euhamitermes melanocephalus Ping and Li, 1987
+Euhamitermes mengdingensis Zhu and Li, 1987
+Euhamitermes microcephalus Ping and Li, 1987
+Euhamitermes quadratceps Ping and Li, 1987
+Euhamitermes retusus Ping and Xu, 1987
+Euhamitermes shillongensis (Roonwal and Chhotani, 1960)
+Euhamitermes urbanii Roonwal and Chhotani, 1977
+Euhamitermes wittmeri Roonwal and Chhotani, 1977
+Euhamitermes yui Ping, 1987
+Euhamitermes yunnanensis Ping and Xu, 1987
+Euhamitermes yuntaishanensis Zhu and Huang, 1987
+Euhamitermes zhejianensis He and Xia, 1983
+Eurytermes Wasmann, 1902
+Eurytermes assmuthi Wasmann, 1902
+Eurytermes assmuthi assmuthi Wasmann, 1902
+Eurytermes assmuthi modestior Silvestri, 1923
+Eurytermes boveni Roonwal and Chhotani, 1966
+Eurytermes buddha Bose and Maiti, 1966
+Eurytermes ceylonicus Holmgren, 1913
+Eurytermes mohana Rathore, 1995
+Eurytermes topslipensis (Chatterjee and Thapa, 1963)
+Indotermes Roonwal and Sen-Sarma, 1958
+Indotermes arshadi Akhtar, 1975
+Indotermes capillosus (Chatterjee and Thakur, 1965)
+Indotermes hainanensis (He and Xia, 1981)
+Indotermes isodentatus (Tsai and Chen, 1963)
+Indotermes luxiensis (Huang and Zhu, 1984)
+Indotermes maymensis Roonwal and Sen-Sarma, 1958
+Indotermes menggarensis Tsai and Zhu, 1984
+Indotermes rongrensis (Roonwal and Chhotani, 1962)
+Indotermes thailandis Ahmad, 1963
+Indotermes yunnanensis (He and Xia, 1981)
+Speculitermes Wasmann, 1902
+Speculitermes angustigulus He, 1985
+Speculitermes chadaensis Chatterjee and Thapa, 1964
+Speculitermes cyclops Wasmann, 1902
+Speculitermes deccanensis Roonwal and Chhotani, 1962
+Speculitermes dharwarensis Roonwal and Chhotani, 1964
+Speculitermes emersoni Bose, 1984
+Speculitermes goesswaldi Roonwal and Chhotani, 1964
+Speculitermes macrodentatus Ahmad, 1965
+Speculitermes paivai Roonwal and Chhotani, 1962
+Speculitermes roonwali Maiti, 1983
+Speculitermes sinhalensis Roonwal and Sen-Sarma, 1960
+Speculitermes triangularis Roonwal and Sen-Sarma, 1960
+Cubitermitinae
+Apilitermes Holmgren, 1912
+Apilitermes longiceps (Sjöstedt, 1899)
+Basidentitermes Holmgren, 1912
+Basidentitermes amicus Harris, 1936
+Basidentitermes aurivillii (Sjöstedt, 1897)
+Basidentitermes demoulini Harris, 1963
+Basidentitermes diversifrons Silvestri, 1914
+Basidentitermes mactus (Sjöstedt, 1911)
+Basidentitermes mactus mactus (Sjöstedt, 1911)
+Basidentitermes mactus supera Silvestri, 1914
+Basidentitermes malelaensis (Emerson, 1928)
+Basidentitermes potens Silvestri, 1914
+Basidentitermes trilobatus Noirot, 1955
+Batillitermes Uys, 1994
+Batillitermes clypeatus Sands, 1995
+Batillitermes monachus Uys, 1994
+Crenetermes Silvestri, 1912
+Crenetermes albotarsalis (Sjöstedt, 1897)
+Crenetermes elongatus Weidner, 1974
+Crenetermes fruitus Harris, 1958
+Crenetermes mandibulatus Weidner, 1974
+Crenetermes mixtus Williams, 1962
+Cubitermes Wasmann, 1906
+Cubitermes aemulus Silvestri, 1914
+Cubitermes anatruncatus (Fuller, 1925)
+Cubitermes atrox (Smeathman, 1781)
+Cubitermes banksi (Emerson, 1928)
+Cubitermes bilobatodes Silvestri, 1912
+Cubitermes bilobatus (Haviland, 1898)
+Cubitermes breviceps (Sjöstedt, 1913)
+Cubitermes bugeserae Bouillon and Vincke, 1971
+Cubitermes bulbifrons Sjöstedt, 1924
+Cubitermes caesareus (Sjöstedt, 1911)
+Cubitermes comstocki (Emerson, 1928)
+Cubitermes congoensis (Emerson, 1928)
+Cubitermes conjenii (Fuller, 1925)
+Cubitermes curtatus Silvestri, 1914
+Cubitermes duplex (Holmgren, 1913)
+Cubitermes exiguus Mathot, 1964
+Cubitermes falcifer Williams, 1966
+Cubitermes finitimus Schmitz, 1916
+Cubitermes fulvus Williams, 1966
+Cubitermes fungifaber (Sjöstedt, 1896)
+Cubitermes gaigei (Emerson, 1928)
+Cubitermes gibbifrons Sjöstedt, 1924
+Cubitermes glebae (Sjöstedt, 1913)
+Cubitermes hamatus Sjöstedt, 1926
+Cubitermes inclitus Silvestri, 1912
+Cubitermes intercalatus Silvestri, 1914
+Cubitermes latens Williams, 1966
+Cubitermes loubetsiensis Sjöstedt, 1924
+Cubitermes microduplex (Fuller, 1925)
+Cubitermes minitabundus (Sjöstedt, 1913)
+Cubitermes modestior Silvestri, 1914
+Cubitermes montanus Williams, 1966
+Cubitermes muneris (Sjöstedt, 1913)
+Cubitermes niokoloensis Roy-Noël, 1969
+Cubitermes oblectatus Harris, 1958
+Cubitermes oculatus Silvestri, 1914
+Cubitermes orthognathus (Emerson, 1928)
+Cubitermes pallidiceps (Sjöstedt, 1913)
+Cubitermes planifrons Sjöstedt, 1924
+Cubitermes pretorianus Silvestri, 1914
+Cubitermes pretorianus heidelbergi (Fuller, 1925)
+Cubitermes pretorianus pretorianus Silvestri, 1914
+Cubitermes proximatus Silvestri, 1914
+Cubitermes sanctaeluciae (Fuller, 1925)
+Cubitermes sankurensis Wasmann, 1911
+Cubitermes schereri (Rosen, 1912)
+Cubitermes schmidti (Emerson, 1928)
+Cubitermes severus Silvestri, 1914
+Cubitermes sierraleonicus (Sjöstedt, 1911)
+Cubitermes silvestrii Sjöstedt, 1925
+Cubitermes speciosus Sjöstedt, 1924
+Cubitermes subarquatus Sjöstedt, 1926
+Cubitermes subcrenulatus Silvestri, 1914
+Cubitermes sulcifrons Wasmann, 1911
+Cubitermes tenuiceps (Sjöstedt, 1913)
+Cubitermes testaceus Williams, 1966
+Cubitermes transvaalensis (Fuller, 1925)
+Cubitermes truncatoides (Fuller, 1925)
+Cubitermes truncatus (Holmgren, 1913)
+Cubitermes ugandensis Fuller, 1923
+Cubitermes umbratus Williams, 1954
+Cubitermes undulatus (Fuller, 1925)
+Cubitermes weissi Silvestri, 1912
+Cubitermes zavattarii Ghidini, 1937
+Cubitermes zenkeri Desneux, 1904
+Cubitermes zulucola Sjöstedt, 1924
+Cubitermes zuluensis (Holmgren, 1913)
+Euchilotermes Silvestri, 1914
+Euchilotermes acutidens Silvestri, 1914
+Euchilotermes quadriceps (Emerson, 1928)
+Euchilotermes tensus Silvestri, 1914
+Euchilotermes tensus arcuata Silvestri, 1914
+Euchilotermes tensus tensus Silvestri, 1914
+Euchilotermes umbraticola (Williams, 1954)
+Fastigitermes Sjöstedt, 1924
+Fastigitermes jucundus (Sjöstedt, 1907)
+Forficulitermes Emerson, 1960
+Forficulitermes planifrons Emerson, 1960
+Furculitermes Emerson, 1960
+Furculitermes brevilabius Emerson, 1960
+Furculitermes brevimalatus Emerson, 1960
+Furculitermes cubitalis Emerson, 1960
+Furculitermes hendrickxi Emerson, 1960
+Furculitermes longilabius Emerson, 1960
+Furculitermes parviceps Emerson, 1960
+Furculitermes soyeri Emerson, 1960
+Furculitermes winifredae Emerson, 1960
+Lepidotermes Sjöstedt, 1924
+Lepidotermes amydrus Uys, 1994
+Lepidotermes goliathi (Williams, 1954)
+Lepidotermes lounsburyi (Silvestri, 1914)
+Lepidotermes mtwalumi (Fuller, 1925)
+Lepidotermes planifacies (Williams, 1954)
+Lepidotermes pretoriensis (Sjöstedt, 1914)
+Lepidotermes scalenus Uys, 1994
+Lepidotermes simplex (Holmgren, 1913)
+Lepidotermes vastus Uys, 1994
+Megagnathotermes Silvestri, 1914
+Megagnathotermes katangensis Sjöstedt, 1927
+Megagnathotermes notandus Silvestri, 1914
+Mucrotermes Emerson, 1960
+Mucrotermes heterochilus (Silvestri, 1914)
+Mucrotermes osborni Emerson, 1960
+Nitiditermes Emerson, 1960
+Nitiditermes berghei Emerson, 1960
+Noditermes Sjöstedt, 1924
+Noditermes angolensis Weidner, 1974
+Noditermes cristifrons (Wasmann, 1911)
+Noditermes festivus Harris, 1958
+Noditermes indoensis Sjöstedt, 1926
+Noditermes lamanianus (Sjöstedt, 1905)
+Noditermes profestus (Sjöstedt, 1926)
+Noditermes wasambaricus Williams, 1954
+Okavangotermes Coaton, 1971
+Okavangotermes giessi Coaton, 1971
+Okavangotermes guineensis Sands, 1995
+Ophiotermes Sjöstedt, 1924
+Ophiotermes gracilis Weidner, 1974
+Ophiotermes grandilabius (Emerson, 1928)
+Ophiotermes mandibularis (Sjöstedt, 1905)
+Ophiotermes mirandus (Sjöstedt, 1905)
+Ophiotermes receptus (Sjöstedt, 1913)
+Ophiotermes shabaensis Bouillon and Vincke, 1973
+Ophiotermes ugandaensis Sjöstedt, 1925
+Orthotermes Silvestri, 1914
+Orthotermes depressifrons Silvestri, 1914
+Orthotermes mansuetus (Sjöstedt, 1911)
+Ovambotermes Coaton, 1971
+Ovambotermes sylvaticus Coaton, 1971
+Pilotermes Emerson, 1960
+Pilotermes langi Emerson, 1960
+Proboscitermes Sjöstedt, 1924
+Proboscitermes mcgrewi Scheffrahn, 2010
+Proboscitermes tubuliferus (Sjöstedt, 1907)
+Procubitermes Silvestri, 1914
+Procubitermes aburiensis Sjöstedt, 1926
+Procubitermes arboricola (Sjöstedt, 1897)
+Procubitermes curvatus Silvestri, 1914
+Procubitermes niapuensis (Emerson, 1928)
+Procubitermes sinuosus Silvestri, 1914
+Procubitermes sjostedti (Rosen, 1912)
+Procubitermes ueleensis Sjöstedt, 1924
+Procubitermes undulans Schmitz, 1917
+Procubitermes wasmanni (Emerson, 1928)
+Profastigitermes Emerson, 1960
+Profastigitermes putnami Emerson, 1960
+Thoracotermes Wasmann, 1911
+Thoracotermes brevinotus Silvestri, 1914
+Thoracotermes grevillensis Weidner, 1974
+Thoracotermes lusingensis Harris, 1958
+Thoracotermes macrothorax (Sjöstedt, 1899)
+Trapellitermes Sands, 1995
+Trapellitermes loxomastax Sands, 1995
+Unguitermes Sjöstedt, 1924
+Unguitermes acutifrons (Silvestri, 1914)
+Unguitermes bidentatus (Silvestri, 1914)
+Unguitermes bouilloni Harris, 1965
+Unguitermes magnus Ruelle, 1973
+Unguitermes proclivifrons Ruelle, 1973
+Unguitermes trispinosus Ruelle, 1973
+Unguitermes unidentatus Ruelle, 1973
+Unicornitermes Coaton, 1971
+Unicornitermes gaerdesi Coaton, 1971
+Nasutitermitinae
+Nasutitermes Group
+Ahmaditermes Akhtar, 1975
+Ahmaditermes choui Ping and Tong, 1989
+Ahmaditermes crassinasus Li, 1985
+Ahmaditermes deltocephalus (Tsai and Chen, 1963)
+Ahmaditermes dukouensis Gao and Deng, 1987
+Ahmaditermes emersoni (Maiti, 1977)
+Ahmaditermes foveafrons Gao, 1988
+Ahmaditermes guizhouensis Li and Ping, 1982
+Ahmaditermes laticephalus (Ahmad, 1965)
+Ahmaditermes lipingensis Ping and Xu, 1988
+Ahmaditermes perisinuosus Li and Xiao, 1989
+Ahmaditermes pingnanensis (Li, 1979)
+Ahmaditermes pyricephalus Akhtar, 1975
+Ahmaditermes sichuanensis Xia, Gao, Pan, and Tang, 1983
+Ahmaditermes sikkimensis Mukherjee and Maiti, 2008
+Ahmaditermes sinensis Tsai and Huang, 1979
+Ahmaditermes sinuosus (Tsai and Chen, 1963)
+Ahmaditermes tianmuensis Gao, 1988
+Ahmaditermes tiantongensis Ping and Xin, 1993
+Ahmaditermes xiangyunensis Gao and Gong, 1989
+Ampoulitermes Mathur and Thapa, 1962
+Ampoulitermes wynaadensis Mathur and Thapa, 1962
+Antillitermes Roisin, Scheffrahn, and Křeček, 1996
+Antillitermes subtilis (Scheffrahn and Křeček, 1993)
+Arcotermes Fan, 1983
+Arcotermes tubus Fan, 1983
+Baucaliotermes Sands, 1965
+Baucaliotermes hainesi (Fuller, 1922)
+Bulbitermes Emerson, 1949
+Bulbitermes borneensis (Haviland, 1898)
+Bulbitermes brevicornis (Light and Wilson, 1936)
+Bulbitermes bulbiceps Maiti and Saha, 2000
+Bulbitermes busuangae (Light and Wilson, 1936)
+Bulbitermes constricticeps (Light and Wilson, 1936)
+Bulbitermes constrictiformis (Holmgren, 1914)
+Bulbitermes constrictoides (Holmgren, 1913)
+Bulbitermes constrictus (Haviland, 1898)
+Bulbitermes durianensis Roonwal and Maiti, 1966
+Bulbitermes flavicans (Holmgren, 1913)
+Bulbitermes fulvus (Tsai and Chen, 1963)
+Bulbitermes gedeensis (Kemner, 1934)
+Bulbitermes germanus (Haviland, 1898)
+Bulbitermes johorensis Akhtar and Pervez, 1986
+Bulbitermes kraepelini (Holmgren, 1913)
+Bulbitermes lakshmani Roonwal and Maiti, 1966
+Bulbitermes mariveles (Light and Wilson, 1936)
+Bulbitermes mcgregori (Oshima, 1916)
+Bulbitermes nasutus (Holmgren, 1914)
+Bulbitermes parapusillus Ahmad, 1965
+Bulbitermes perpusillus (John, 1925)
+Bulbitermes prabhae Krishna, 1965
+Bulbitermes pronasutus Akhtar and Pervez, 1986
+Bulbitermes prorosae Akhtar and Pervez, 1986
+Bulbitermes pusillus (Holmgren, 1914)
+Bulbitermes pyriformis Akhtar, 1975
+Bulbitermes rosae (Kemner, 1934)
+Bulbitermes salakensis (Kemner, 1934)
+Bulbitermes sarawakensis (Haviland, 1898)
+Bulbitermes singaporiensis (Haviland, 1898)
+Bulbitermes subulatus (Holmgren, 1914)
+Bulbitermes umasumasensis Thapa, 1982
+Bulbitermes vicinus (Kemner, 1934)
+Caetetermes Fontes, 1981
+Caetetermes taquarussu Fontes, 1981
+Caribitermes Roisin, Scheffrahn, and Křeček, 1996
+Caribitermes discolor (Banks, 1919)
+Caribitermes hispaniola Krishna and Grimaldi, 2009
+Ceylonitermes Holmgren, 1912
+Ceylonitermes escherichi (Holmgren, 1911)
+Ceylonitermes indicola Thakur, 1976
+Coarctotermes Holmgren, 1912
+Coarctotermes beharaensis Cachan, 1949
+Coarctotermes clepsydra (Sjöstedt, 1904)
+Coarctotermes nasonovi (Czerwinski, 1901)
+Coarctotermes pauliani Cachan, 1949
+Coendutermes Fontes, 1985
+Coendutermes tucum Fontes, 1985
+Constrictotermes Holmgren, 1910
+Constrictotermes cacaoensis Ensaf, Nel, and Betsch, 2002
+Constrictotermes cavifrons (Holmgren, 1910)
+Constrictotermes cyphergaster (Silvestri, 1901)
+Constrictotermes electroconstrictus Krishna, 1996
+Constrictotermes guantanamensis Křeček, Scheffrahn, and Roisin, 1996
+Constrictotermes latinotus (Holmgren, 1910)
+Constrictotermes rupestris Constantino, 1997
+Cortaritermes Mathews, 1977
+Cortaritermes fulviceps (Silvestri, 1901)
+Cortaritermes rizzinii (Araujo, 1971)
+Cortaritermes silvestrii (Holmgren, 1910)
+Cucurbitermes Li and Ping, 1985
+Cucurbitermes parviceps Xu and Dong, 1994
+Cucurbitermes sinensis Li and Ping, 1985
+Cucurbitermes yingdeensis Li and Ping, 1985
+Diversitermes Holmgren, 1912
+Diversitermes aporeticus Mathews, 1977
+Diversitermes castaniceps (Holmgren, 1910)
+Diversitermes diversimiles (Silvestri, 1901)
+Diversitermes eidmanni Roonwal, Chhotani, and Verma, 1981
+Diversitermes needhami Roonwal, Chhotani, and Verma, 1981
+Diwaitermes Roisin and Pasteels, 1996
+Diwaitermes castanopsis Roisin and Pasteels, 1996
+Diwaitermes foi Roisin and Pasteels, 1996
+Diwaitermes kanehirai (Oshima, 1914)
+Fulleritermes Coaton, 1962
+Fulleritermes coatoni Sands, 1965
+Fulleritermes contractus (Sjöstedt, 1913)
+Fulleritermes mallyi (Fuller, 1922)
+Fulleritermes tenebricus (Silvestri, 1914)
+Grallatotermes Holmgren, 1912
+Grallatotermes admirabilus Light, 1930
+Grallatotermes africanus Harris, 1954
+Grallatotermes grallator (Desneux, 1905)
+Grallatotermes grallatoriformis (Holmgren and Holmgren, 1917)
+Grallatotermes niger Chatterjee and Thapa, 1964
+Grallatotermes splendidus Light and Wilson, 1936
+Grallatotermes weyeri Kemner, 1931
+Hirtitermes Holmgren, 1912
+Hirtitermes brabazoni Gathorne-Hardy, 2001
+Hirtitermes hirtiventris (Holmgren, 1912)
+Hirtitermes spinocephalus (Oshima, 1914)
+Hospitalitermes Holmgren, 1912
+Hospitalitermes asahinai Morimoto, 1973
+Hospitalitermes ataramensis Prashad and Sen-Sarma, 1960
+Hospitalitermes bicolor (Haviland, 1898)
+Hospitalitermes birmanicus (Snyder, 1934)
+Hospitalitermes blairi Roonwal and Sen-Sarma, 1956
+Hospitalitermes brevirostratus Prashad and Sen-Sarma, 1960
+Hospitalitermes butteli (Holmgren, 1914)
+Hospitalitermes damenglongensis He and Gao, 1984
+Hospitalitermes diurnus Kemner, 1934
+Hospitalitermes ferrugineus (John, 1925)
+Hospitalitermes flaviventris (Wasmann, 1902)
+Hospitalitermes flavoantennaris Oshima, 1923
+Hospitalitermes grassii Ghidini, 1937
+Hospitalitermes hospitalis (Haviland, 1898)
+Hospitalitermes hospitalis hospitalis (Haviland, 1898)
+Hospitalitermes hospitalis hospitaloides (Holmgren, 1913)
+Hospitalitermes irianensis Roonwal and Maiti, 1966
+Hospitalitermes javanicus Akhtar and Akbar, 1986
+Hospitalitermes jepsoni (Snyder, 1934)
+Hospitalitermes jinghongensis He and Gao, 1984
+Hospitalitermes kali Maiti and Chakraborty, 1994
+Hospitalitermes krishnai Syaukani, Thompson, and Yamane, 2011
+Hospitalitermes lividiceps (Holmgren, 1913)
+Hospitalitermes madrasi (Snyder, 1934)
+Hospitalitermes majusculus He and Gao, 1984
+Hospitalitermes medioflavus (Holmgren, 1913)
+Hospitalitermes moluccanus Ahmad, 1947
+Hospitalitermes monoceros (König, 1779)
+Hospitalitermes nemorosus Ghidini, 1937
+Hospitalitermes nicobarensis Maiti and Chakraborty, 1994
+Hospitalitermes papuanus Ahmad, 1947
+Hospitalitermes paraschmidti Akhtar and Akbar, 1986
+Hospitalitermes proflaviventris Akhtar and Akbar, 1986
+Hospitalitermes rufus (Haviland, 1898)
+Hospitalitermes schmidti Ahmad, 1947
+Hospitalitermes sharpi (Holmgren, 1913)
+Hospitalitermes umbrinus (Haviland, 1898)
+Kaudernitermes Sands and Lamb, 1975
+Kaudernitermes kaudernianus (Sjöstedt, 1914)
+Kaudernitermes laticeps (Wasmann, 1897)
+Kaudernitermes nigritus (Wasmann, 1897)
+Kaudernitermes salebrithorax (Sjöstedt, 1904)
+Lacessititermes Holmgren, 1912
+Lacessititermes albipes (Haviland, 1898)
+Lacessititermes atrior (Holmgren, 1912)
+Lacessititermes batavus Kemner, 1934
+Lacessititermes breviarticulatus (Holmgren, 1913)
+Lacessititermes cuphus (Bathellier, 1927)
+Lacessititermes filicornis (Haviland, 1898)
+Lacessititermes holmgreni Light and Wilson, 1936
+Lacessititermes jacobsoni Kemner, 1930
+Lacessititermes kolapisensis Thapa, 1982
+Lacessititermes laborator (Haviland, 1898)
+Lacessititermes lacessitiformis (Holmgren, 1913)
+Lacessititermes lacessitus (Haviland, 1898)
+Lacessititermes longinasus Syaukani, 2008
+Lacessititermes palawanensis Light, 1930
+Lacessititermes piliferus (Holmgren, 1913)
+Lacessititermes ransoneti (Holmgren, 1913)
+Lacessititermes saraiensis (Oshima, 1916)
+Lacessititermes sordidus (Haviland, 1898)
+Lacessititermes thailandicus (Sen-Sarma, 1966)
+Leptomyxotermes Sands, 1965
+Leptomyxotermes doriae (Silvestri, 1912)
+Longipeditermes Holmgren, 1912
+Longipeditermes kistneri Akhtar and Ahmad, 1985
+Longipeditermes longipes (Haviland, 1898)
+Mycterotermes Sands, 1965
+Mycterotermes meringocephalus Sands, 1965
+Nasopilotermes Gao, Lam, and Owen, 1992
+Nasopilotermes jiangxiensis (He, 1988)
+Nasutitermes Dudley, 1890
+Nasutitermes acajutlae (Holmgren, 1910)
+Nasutitermes acangussu Bandeira and Fontes, 1979
+Nasutitermes acutus (Holmgren, 1913)
+Nasutitermes aduncus Snyder, 1926
+Nasutitermes amplioculatus Krishna and Grimaldi, 2009
+Nasutitermes alticola (Holmgren, 1913)
+Nasutitermes amboinensis (Kemner, 1931)
+Nasutitermes anamalaiensis Snyder, 1933
+Nasutitermes anjiensis Gao and Guo, 1995
+Nasutitermes anoniensis Akhtar, 1975
+Nasutitermes aquilinus (Holmgren, 1910)
+Nasutitermes araujoi Roonwal and Rathore, 1976
+Nasutitermes arborum (Smeathman, 1781)
+Nasutitermes arenarius (Hagen, 1858)
+Nasutitermes aruensis (John, 1925)
+Nasutitermes atripennis (Haviland, 1898)
+Nasutitermes balingtauagensis (Oshima, 1917)
+Nasutitermes banksi Emerson, 1925
+Nasutitermes bannaensis Li, 1986
+Nasutitermes bashanensis Zhang, 1992
+Nasutitermes benjamini Snyder, 1926
+Nasutitermes bikpelanus Roisin and Pasteels, 1996
+Nasutitermes bivalens (Holmgren, 1910)
+Nasutitermes boengiensis (Kemner, 1934)
+Nasutitermes boetoni (Oshima, 1914)
+Nasutitermes bolivari (Snyder, 1959)
+Nasutitermes bolivianus (Holmgren, 1910)
+Nasutitermes brachynasutus Morimoto, 1973
+Nasutitermes brevioculatus (Holmgren, 1910)
+Nasutitermes brevipilus Emerson, 1925
+Nasutitermes brevirostris (Oshima, 1917)
+Nasutitermes brunneus Snyder, 1934
+Nasutitermes bulbiceps (Holmgren, 1913)
+Nasutitermes bulbus Tsai and Huang, 1979
+Nasutitermes callimorphus Mathews, 1977
+Nasutitermes camerunensis (Sjöstedt, 1899)
+Nasutitermes carnarvonensis (Hill, 1942)
+Nasutitermes castaneus (Oshima, 1920)
+Nasutitermes celebensis (Holmgren, 1913)
+Nasutitermes centraliensis (Hill, 1925)
+Nasutitermes ceylonicus (Holmgren, 1911)
+Nasutitermes changningensis (Gao, 1988)
+Nasutitermes chapmani Light and Wilson, 1936
+Nasutitermes chaquimayensis (Holmgren, 1906)
+Nasutitermes cherraensis Roonwal and Chhotani, 1962
+Nasutitermes chhotanii Bose, 1997
+Nasutitermes choui Ping and Xu, 1989
+Nasutitermes chrysopleura (Sjöstedt, 1897)
+Nasutitermes coalescens (Mjöberg, 1920)
+Nasutitermes colimae Light, 1933
+Nasutitermes communis Tsai and Chen, 1963
+Nasutitermes comorensis (Wasmann, 1910)
+Nasutitermes comstockae Emerson, 1925
+Nasutitermes corniger (Motschulsky, 1855)
+Nasutitermes corporaali (Wasmann, 1922)
+Nasutitermes costalis (Holmgren, 1910)
+Nasutitermes coxipoensis (Holmgren, 1910)
+Nasutitermes crassicornis (Holmgren and Holmgren, 1917)
+Nasutitermes crassus Snyder, 1926
+Nasutitermes crinitus Krishna and Grimaldi, 2013
+Nasutitermes curtinasus He, 1987
+Nasutitermes dasyopsis Thorne, 1989
+Nasutitermes dendrophilus (Desneux, 1906)
+Nasutitermes devrayi Maiti and Chakraborty, 1994
+Nasutitermes diabolus (Sjöstedt, 1907)
+Nasutitermes dimorphus Ahmad, 1965
+Nasutitermes dixoni (Hill, 1932)
+Nasutitermes dobonensis (Oshima, 1914)
+Nasutitermes dolichorhinos Ping and Xu, 1988
+Nasutitermes dudgeoni Gao and Lam, 1986
+Nasutitermes dunensis Chatterjee and Thakur, 1969
+Nasutitermes ecuadorianus (Holmgren, 1910)
+Nasutitermes ehrhardti (Holmgren, 1910)
+Nasutitermes electrinus Krishna, 1996
+Nasutitermes electronasutus Krishna, 1996
+Nasutitermes elegantulus (Sjöstedt, 1911)
+Nasutitermes emersoni Snyder, 1934
+Nasutitermes ephratae (Holmgren, 1910)
+Nasutitermes eucalypti (Mjöberg, 1920)
+Nasutitermes exitiosus (Hill, 1925)
+Nasutitermes fabricii Krishna, 1965
+Nasutitermes falciformis Ping and Xu, 1988
+Nasutitermes fengkaiensis Li, 1986
+Nasutitermes ferranti (Wasmann, 1911)
+Nasutitermes feytaudi (Holmgren, 1910)
+Nasutitermes fletcheri (Holmgren and Holmgren, 1917)
+Nasutitermes fulleri Emerson, 1928
+Nasutitermes fumigatus (Brauer, 1865)
+Nasutitermes fuscipennis (Haviland, 1898)
+Nasutitermes gaigei Emerson, 1925
+Nasutitermes gardneri Snyder, 1933
+Nasutitermes gardneriformis Xia, Gao, Pan, and Tang, 1983
+Nasutitermes garoensis Roonwal and Chhotani, 1962
+Nasutitermes glabritergus Snyder and Emerson, 1949
+Nasutitermes globiceps (Holmgren, 1910)
+Nasutitermes gracilirostris (Desneux, 1905)
+Nasutitermes gracilis (Oshima, 1916)
+Nasutitermes grandinasus Tsai and Chen, 1963
+Nasutitermes graveolus (Hill, 1925)
+Nasutitermes guayanae (Holmgren, 1910)
+Nasutitermes guizhouensis Ping and Xu, 1988
+Nasutitermes haddoensis Maiti and Chakraborty, 1994
+Nasutitermes havilandi (Desneux, 1904)
+Nasutitermes hejiangensis Gao and Tian, 1990
+Nasutitermes heterodon (Gao, 1988)
+Nasutitermes hexianensis Krishna, 2013
+Nasutitermes hirticeps Sands, 1965
+Nasutitermes horni (Wasmann, 1902)
+Nasutitermes huangshanensis (Gao and Chen, 1992)
+Nasutitermes hubbardi Banks, 1919
+Nasutitermes incisus Krishna and Grimaldi, 2009
+Nasutitermes inclinasus Ping and Xu, 1988
+Nasutitermes indicola (Holmgren and Holmgren, 1917)
+Nasutitermes infuscatus (Sjöstedt, 1902)
+Nasutitermes intermedius Banks, 1919
+Nasutitermes itapocuensis (Holmgren, 1910)
+Nasutitermes jacobsoni Oshima, 1923
+Nasutitermes jalpaigurensis Prashad and Sen-Sarma, 1959
+Nasutitermes jaraguae (Holmgren, 1910)
+Nasutitermes javanicus (Holmgren, 1913)
+Nasutitermes jiangxiensis (Fu and Xu, 1994)
+Nasutitermes johoricus (John, 1925)
+Nasutitermes kali Roonwal and Chhotani, 1962
+Nasutitermes kemneri Snyder and Emerson, 1949
+Nasutitermes kempae Harris, 1954
+Nasutitermes kimberleyensis (Mjöberg, 1920)
+Nasutitermes kinoshitai (Hozawa, 1915)
+Nasutitermes koiari Roisin and Pasteels, 1996
+Nasutitermes krishna Roonwal and Bose, 1970
+Nasutitermes lacustris (Bugnion, 1912)
+Nasutitermes latifrons (Sjöstedt, 1896)
+Nasutitermes latus Light and Wilson, 1936
+Nasutitermes leponcei Roisin and Pasteels, 1996
+Nasutitermes lividus (Burmeister, 1839)
+Nasutitermes llinquipatensis (Holmgren, 1906)
+Nasutitermes longiarticulatus (Holmgren, 1910)
+Nasutitermes longinasoides Thapa, 1982
+Nasutitermes longinasus (Holmgren, 1913)
+Nasutitermes longipennis (Hill, 1915)
+Nasutitermes longirostratus (Holmgren, 1906)
+Nasutitermes longirostris (Holmgren, 1913)
+Nasutitermes longirostris longirostris (Holmgren, 1913)
+Nasutitermes longirostris sabahicola Engel and Krishna, 2013
+Nasutitermes longwangshanensis (Gao, 1988)
+Nasutitermes lujae (Wasmann, 1911)
+Nasutitermes luzonicus (Oshima, 1914)
+Nasutitermes machengensis (Ping and Li, 1992)
+Nasutitermes macrocephalus (Silvestri, 1903)
+Nasutitermes magnocellus Krishna and Grimaldi, 2009
+Nasutitermes magnus (Froggatt, 1898)
+Nasutitermes maheensis (Holmgren, 1910)
+Nasutitermes major (Holmgren, 1906)
+Nasutitermes makassarensis (Kemner, 1934)
+Nasutitermes mangshanensis Li, 1986
+Nasutitermes maniseri (John, 1920)
+Nasutitermes matangensis (Haviland, 1898)
+Nasutitermes matangensis christmasensis Krishna, 2013
+Nasutitermes matangensis matangensioides (Holmgren, 1913)
+Nasutitermes matangensis matangensis (Haviland, 1898)
+Nasutitermes matangensis pyricephalus (Kemner, 1934)
+Nasutitermes mauritianus (Wasmann, 1910)
+Nasutitermes maximus (Holmgren, 1910)
+Nasutitermes medioculatus Krishna and Grimaldi, 2009
+Nasutitermes medoensis Tsai and Huang, 1979
+Nasutitermes meinerti (Wasmann, 1894)
+Nasutitermes meridianus Light and Wilson, 1936
+Nasutitermes mexicanus Light, 1933
+Nasutitermes mindanensis (Light and Wilson, 1936)
+Nasutitermes minimus (Holmgren, 1906)
+Nasutitermes minor (Holmgren, 1906)
+Nasutitermes mirabilis Ping and Xu, 1988
+Nasutitermes mojosensis (Holmgren, 1910)
+Nasutitermes mollis Light and Wilson, 1936
+Nasutitermes montanae (Holmgren, 1910)
+Nasutitermes moratus (Silvestri, 1914)
+Nasutitermes motu Roisin and Pasteels, 1996
+Nasutitermes muli Roisin and Pasteels, 1996
+Nasutitermes myersi Snyder, 1933
+Nasutitermes neonanus (Cachan, 1949)
+Nasutitermes neoparvus Thapa, 1982
+Nasutitermes nigriceps (Haldeman, 1854)
+Nasutitermes nomadensis Roisin and Pasteels, 1996
+Nasutitermes nordenskioldi (Holmgren, 1910)
+Nasutitermes novarumhebridarum (Holmgren and Holmgren, 1915)
+Nasutitermes obscurus (Holmgren, 1906)
+Nasutitermes obtusimandibulus Li, 1986
+Nasutitermes octopilis Banks, 1918
+Nasutitermes oculatus (Holmgren, 1911)
+Nasutitermes olidus (Hill, 1926)
+Nasutitermes orthonasus Tsai and Chen, 1963
+Nasutitermes oshimai Light and Wilson, 1936
+Nasutitermes ovatus Fan, 1983
+Nasutitermes ovipennis (Haviland, 1898)
+Nasutitermes palaoensis (Oshima, 1942)
+Nasutitermes panayensis (Oshima, 1920)
+Nasutitermes parviceps Ping and Xu, 1993
+Nasutitermes parvonasutus (Nawa, 1911)
+Nasutitermes parvus Light and Wilson, 1936
+Nasutitermes perparvus Ahmad, 1965
+Nasutitermes peruanus (Holmgren, 1910)
+Nasutitermes pictus Light, 1933
+Nasutitermes piliceps (Holmgren, 1910)
+Nasutitermes pilosus Snyder, 1926
+Nasutitermes pinocchio Roisin and Pasteels, 1996
+Nasutitermes planiusculus Ping and Xu, 1988
+Nasutitermes pluriarticulatus (Silvestri, 1901)
+Nasutitermes pluvialis (Mjöberg, 1920)
+Nasutitermes polygynus Roisin and Pasteels, 1985
+Nasutitermes princeps (Desneux, 1905)
+Nasutitermes proatripennis (Ahmad, 1965)
+Nasutitermes profuscipennis Akhtar, 1975
+Nasutitermes projectus (Hill, 1942)
+Nasutitermes proximus (Silvestri, 1901)
+Nasutitermes qimenensis (Gao and Chen, 1992)
+Nasutitermes qingjiensis Li, 1979
+Nasutitermes rectangularis Thapa, 1982
+Nasutitermes regularis (Haviland, 1898)
+Nasutitermes retus (Kemner, 1931)
+Nasutitermes rippertii (Rambur, 1842)
+Nasutitermes roboratus (Silvestri, 1914)
+Nasutitermes robustus (Holmgren, 1906)
+Nasutitermes rotundatus (Holmgren, 1906)
+Nasutitermes rotundicephalus Krishna and Grimaldi, 2009
+Nasutitermes rotundus Light and Wilson, 1936
+Nasutitermes saleierensis (Kemner, 1934)
+Nasutitermes sanctaeanae (Holmgren, 1910)
+Nasutitermes sandakensis (Oshima, 1914)
+Nasutitermes schoutedeni (Sjöstedt, 1924)
+Nasutitermes seghersi Roisin and Pasteels, 1996
+Nasutitermes seghersi malangganus Roisin and Pasteels, 1996
+Nasutitermes seghersi seghersi Roison and Pasteels, 1996
+Nasutitermes seminudus Krishna and Grimaldi, 2009
+Nasutitermes shangchengensis Wang and Li, 1984
+Nasutitermes simaluris Oshima, 1923
+Nasutitermes similis Emerson, 1935
+Nasutitermes simulans Light and Wilson, 1936
+Nasutitermes sinensis Gao and Tian, 1990
+Nasutitermes smithi (Hill, 1942)
+Nasutitermes stricticeps Mathews, 1977
+Nasutitermes subtibetanus Tsai and Huang, 1979
+Nasutitermes subtibialis Fan, 1983
+Nasutitermes suknensis Prashad and Sen-Sarma, 1959
+Nasutitermes surinamensis (Holmgren, 1910)
+Nasutitermes takasagoensis (Nawa, 1911)
+Nasutitermes tandoni Bose, 1997
+Nasutitermes tatarendae (Holmgren, 1910)
+Nasutitermes taylori Light and Wilson, 1936
+Nasutitermes thanensis Prashad and Sen-Sarma, 1959
+Nasutitermes tianmuensis (Gao, 1988)
+Nasutitermes tiantongensis Zhou and Xu, 1993
+Nasutitermes tibetanus Tsai and Huang, 1979
+Nasutitermes timoriensis (Holmgren, 1913)
+Nasutitermes tipuanicus (Holmgren, 1910)
+Nasutitermes torresi (Hill, 1942)
+Nasutitermes tredecimarticulatus (Holmgren, 1910)
+Nasutitermes triloki Bose, 1980
+Nasutitermes triodiae (Froggatt, 1898)
+Nasutitermes tsaii Huang and Han, 1987
+Nasutitermes tungsalangensis Ahmad, 1965
+Nasutitermes unduliceps Mathews, 1977
+Nasutitermes vadoni Cachan, 1951
+Nasutitermes vallis Tsai and Huang, 1979
+Nasutitermes vishnu Bose, 1984
+Nasutitermes walkeri (Hill, 1942)
+Nasutitermes wheeleri Emerson, 1925
+Nasutitermes xingshanensis (Ping and Yin, 1992)
+Ngauratermes Constantino and Acioli, 2009
+Ngauratermes arue Constantino and Acioli, 2009
+Niuginitermes Roisin and Pasteels, 1996
+Niuginitermes liklik Roisin and Pasteels, 1996
+Niuginitermes variatae Roisin and Pasteels, 1996
+Obtusitermes Snyder, 1924
+Obtusitermes bacchanalis (Mathews, 1977)
+Obtusitermes formosulus Cuezzo and Cancello, 2009
+Obtusitermes panamae (Snyder, 1925)
+Occasitermes Holmgren, 1912
+Occasitermes occasus (Silvestri, 1909)
+Occasitermes watsoni Gay, 1974
+Parvitermes Emerson, 1949
+Parvitermes aequalis (Snyder, 1924)
+Parvitermes antillarum (Holmgren, 1910)
+Parvitermes brooksi (Snyder, 1925)
+Parvitermes collinsae Scheffrahn and Roisin, 1995
+Parvitermes dominicanae Scheffrahn, Roisin, and Su, 1998
+Parvitermes flaveolus (Banks, 1919)
+Parvitermes longinasus Krishna and Grimaldi, 2009
+Parvitermes pallidiceps (Banks, 1919)
+Parvitermes toussainti (Banks, 1919)
+Parvitermes wolcotti (Snyder, 1924)
+Peribulbitermes Li, 1985
+Peribulbitermes dinghuensis Li, 1985
+Peribulbitermes jinghongensis Li, 1985
+Peribulbitermes parafulvus (Tsai and Chen, 1963)
+Rhadinotermes Sands, 1965
+Rhadinotermes coarctatus (Sjöstedt, 1902)
+Roonwalitermes Bose, 1997
+Roonwalitermes wadhwai Bose, 1997
+Rotunditermes Holmgren, 1910
+Rotunditermes bragantinus (Roonwal and Rathore, 1976)
+Rotunditermes rotundiceps (Holmgren, 1906)
+Rounditermes Ensaf, Ponchel, and Nel, 2003
+Rounditermes dechambrei Ensaf, Ponchel, and Nel, 2003
+Sinonasutitermes Li and Ping, 1986
+Sinonasutitermes admirabilis Ping and Xu, 1991
+Sinonasutitermes dimorphus Li, 1986
+Sinonasutitermes erectinasus (Tsai and Chen, 1963)
+Sinonasutitermes guangxiensis Ping and Huang, 1991
+Sinonasutitermes hainanensis Li and Ping, 1986
+Sinonasutitermes mediocris Ping and Xu, 1991
+Sinonasutitermes planinasus Ping and Xu, 1991
+Sinonasutitermes platycephalus (Ping and Xu, 1988)
+Sinonasutitermes trimorphus Li and Ping, 1986
+Sinonasutitermes xiai Ping and Xu, 1991
+Sinonasutitermes yui Ping and Xu, 1991
+Tenuirostritermes Holmgren, 1912
+Tenuirostritermes briciae (Snyder, 1922)
+Tenuirostritermes cinereus (Buckley, 1862)
+Tenuirostritermes incisus (Snyder, 1922)
+Tenuirostritermes strenuus (Hagen, 1860)
+Tenuirostritermes tenuirostris (Desneux, 1904)
+Triangularitermes Mathews, 1977
+Triangularitermes triangulariceps Mathews, 1977
+Trinervitermes Holmgren, 1912
+Trinervitermes arabiae Harris, 1957
+Trinervitermes bettonianus (Sjöstedt, 1905)
+Trinervitermes biformis (Wasmann, 1902)
+Trinervitermes dispar (Sjöstedt, 1902)
+Trinervitermes disparatus (Bathellier, 1927)
+Trinervitermes fletcheri Chatterjee and Thakur, 1965
+Trinervitermes geminatus (Wasmann, 1897)
+Trinervitermes gratiosus (Sjöstedt, 1924)
+Trinervitermes handlirschi (Rosen, 1913)
+Trinervitermes indicus (Snyder, 1934)
+Trinervitermes nigrirostris Mathur and Sen-Sarma, 1959
+Trinervitermes occidentalis (Sjöstedt, 1904)
+Trinervitermes oeconomus (Trägårdh, 1904)
+Trinervitermes rabidus (Hagen, 1859)
+Trinervitermes rapulum (Sjöstedt, 1904)
+Trinervitermes rhodesiensis (Sjöstedt, 1911)
+Trinervitermes saudiensis Sands, 1965
+Trinervitermes sensarmai Bose, 1984
+Trinervitermes sudanicus (Sjöstedt, 1904)
+Trinervitermes togoensis (Sjöstedt, 1899)
+Trinervitermes trinervius (Rambur, 1842)
+Trinervitermes trinervoides (Sjöstedt, 1911)
+Tumulitermes Holmgren, 1912
+Tumulitermes apiocephalus (Silvestri, 1909)
+Tumulitermes comatus (Hill, 1942)
+Tumulitermes curtus (Hill, 1942)
+Tumulitermes dalbiensis (Hill, 1942)
+Tumulitermes hastilis (Froggatt, 1898)
+Tumulitermes kershawi (Hill, 1942)
+Tumulitermes marcidus (Hill, 1942)
+Tumulitermes mareebensis (Hill, 1922)
+Tumulitermes nichollsi (Hill, 1942)
+Tumulitermes pastinator (Hill, 1915)
+Tumulitermes peracutus (Hill, 1925)
+Tumulitermes petilus (Hill, 1942)
+Tumulitermes pulleinei (Mjöberg, 1920)
+Tumulitermes recalvus (Hill, 1942)
+Tumulitermes subaquilus (Hill, 1942)
+Tumulitermes tumuli (Froggatt, 1898)
+Tumulitermes westraliensis (Hill, 1921)
+Velocitermes Holmgren, 1912
+Velocitermes barrocoloradensis (Snyder, 1925)
+Velocitermes beebei (Emerson, 1925)
+Velocitermes betschi Ensaf and Nel, 2002
+Velocitermes bulbus Krishna and Grimaldi, 2009
+Velocitermes glabrinotus Mathews, 1977
+Velocitermes heteropterus (Silvestri, 1901)
+Velocitermes laticephalus (Snyder, 1926)
+Velocitermes melanocephalus (Snyder, 1926)
+Velocitermes paucipilis Mathews, 1977
+Velocitermes uniformis (Snyder, 1926)
+Velocitermes velox (Holmgren, 1906)
+Xiaitermes Gao and He, 1994
+Xiaitermes tiantaiensis Gao and He, 1994
+Xiaitermes yinxianensis Gao and He, 1994
+Subulitermes Group
+Aciculitermes Emerson, 1960
+Aciculitermes aciculatus (Haviland, 1898)
+Aciculitermes maymyoensis Krishna, 1965
+Afrosubulitermes Emerson, 1960
+Afrosubulitermes congoensis Emerson, 1960
+Agnathotermes Snyder, 1926
+Agnathotermes crassinasus Constantino, 1990
+Agnathotermes glaber (Snyder, 1926)
+Angularitermes Emerson, 1925
+Angularitermes clypeatus Mathews, 1977
+Angularitermes coninasus Carrijo, Rocha, Cuezzo, and Cancello, 2011
+Angularitermes nasutissimus (Emerson, 1925)
+Angularitermes orestes (Araujo, 1970)
+Angularitermes pinocchio Cancello and Brandão, 1996
+Angularitermes tiguassu Cancello and Brandão, 1996
+Anhangatermes Constantino, 1990
+Anhangatermes macarthuri Constantino, 1990
+Araujotermes Fontes, 1982
+Araujotermes caissara Fontes, 1982
+Araujotermes nanus Constantino, 1991
+Araujotermes parvellus (Silvestri, 1923)
+Araujotermes zeteki (Snyder, 1924)
+Atlantitermes Fontes, 1979
+Atlantitermes antillea Krishna and Grimaldi, 2009
+Atlantitermes caribea Krishna and Grimaldi, 2009
+Atlantitermes guarinim Fontes, 1979
+Atlantitermes ibitiriguara Fontes, 1979
+Atlantitermes kirbyi (Snyder, 1926)
+Atlantitermes magnoculus Krishna and Grimaldi, 2009
+Atlantitermes oculatissimus (Emerson, 1925)
+Atlantitermes osborni (Emerson, 1925)
+Atlantitermes raripilus (Emerson, 1925)
+Atlantitermes snyderi (Emerson, 1925)
+Atlantitermes stercophilus Constantino and DeSouza, 1997
+Australitermes Emerson, 1960
+Australitermes dilucidus (Hill, 1942)
+Australitermes insignitus (Hill, 1942)
+Australitermes perlevis (Hill, 1942)
+Ceylonitermellus Emerson, 1960
+Ceylonitermellus hantanae (Holmgren, 1911)
+Ceylonitermellus kotuae (Bugnion, 1914)
+Convexitermes Holmgren, 1910
+Convexitermes convexifrons (Holmgren, 1906)
+Convexitermes manni (Emerson, 1925)
+Coatitermes Fontes, 1982
+Coatitermes clevelandi (Snyder, 1926)
+Coatitermes kartaboensis (Emerson, 1925)
+Coatitermes mazaruniensis (Emerson, 1925)
+Coatitermes pallidus (Snyder, 1926)
+Cyranotermes Araujo, 1970
+Cyranotermes caete Cancello, 1987
+Cyranotermes glaber Constantino, 1990
+Cyranotermes karipuna Rocha, Carrijo, and Cancello, 2012
+Cyranotermes timuassu Araujo, 1970
+Eleanoritermes Ahmad, 1968
+Eleanoritermes borneensis Ahmad, 1968
+Emersonitermes Mathur and Sen-Sarma, 1959
+Emersonitermes thekadensis Mathur and Sen-Sarma, 1959
+Enetotermes Sands, 1995
+Enetotermes bembicoides Sands, 1995
+Ereymatermes Constantino, 1991
+Ereymatermes panamensis Roisin, 1995
+Ereymatermes piquira Cancello and Cuezzo, 2007
+Ereymatermes rotundiceps Constantino, 1991
+Eutermellus Silvestri, 1912
+Eutermellus abruptus Sands, 1965
+Eutermellus aquilinus Sands, 1965
+Eutermellus bipartitus (Sjöstedt, 1911)
+Eutermellus convergens Silvestri, 1912
+Eutermellus undulans Sands, 1965
+Leucopitermes Emerson, 1960
+Leucopitermes leucopiformis Akhtar and Pervez, 1986
+Leucopitermes leucops (Holmgren, 1914)
+Leucopitermes paraleucops Morimoto, 1976
+Leucopitermes thoi Gathorne-Hardy, 2004
+Macrosubulitermes Emerson, 1960
+Macrosubulitermes greavesi (Hill, 1942)
+Malagasitermes Emerson, 1960
+Malagasitermes milloti (Cachan, 1949)
+Malaysiotermes Ahmad, 1968
+Malaysiotermes holmgreni (Ahmad, 1968)
+Malaysiotermes spinocephalus Ahmad, 1968
+Mimeutermes Silvestri, 1914
+Mimeutermes binghami Sands, 1968
+Mimeutermes clypeatus Sands, 1968
+Mimeutermes edentatus Sands, 1956
+Mimeutermes giffardii Silvestri, 1914
+Mimeutermes majusculus Sands, 1965
+Mimeutermes sorex Silvestri, 1914
+Occultitermes Emerson, 1960
+Occultitermes aridus Gay, 1977
+Occultitermes occultus (Hill, 1927)
+Oriensubulitermes Emerson, 1960
+Oriensubulitermes inanis (Haviland, 1898)
+Oriensubulitermes kemneri Ahmad, 1968
+Paraconvexitermes Cancello and Noirot, 2003
+Paraconvexitermes acangapua Cancello and Noirot, 2003
+Paraconvexitermes junceus (Emerson, 1949)
+Paraconvexitermes nigricornis (Holmgren, 1906)
+Periaciculitermes Li, 1986
+Periaciculitermes menglunensis Li, 1986
+Postsubulitermes Emerson, 1960
+Postsubulitermes parviconstrictus Emerson, 1960
+Sabahitermes Thapa, 1997
+Sabahitermes leuserensis (Gathorne-Hardy, 2001)
+Sabahitermes malakuni Thapa, 1997
+Spatulitermes Coaton, 1971
+Spatulitermes coolingi Coaton, 1971
+Subulioiditermes Ahmad, 1968
+Subulioiditermes borneensis (Ahmad, 1968)
+Subulioiditermes emersoni Ahmad, 1968
+Subulioiditermes subulioides Ahmad, 1968
+Subulitermes Holmgren, 1910
+Subulitermes angusticeps (Snyder, 1926)
+Subulitermes baileyi (Emerson, 1925)
+Subulitermes constricticeps Constantino, 1991
+Subulitermes denisae Roisin, 1995
+Subulitermes hispaniola Krishna and Grimaldi, 2009
+Subulitermes insularis Krishna and Grimaldi, 2009
+Subulitermes microsoma (Silvestri, 1903)
+Subulitermes thompsonae (Emerson, 1925)
+Tarditermes Emerson, 1960
+Tarditermes contracolor Emerson, 1960
+Verrucositermes Emerson, 1960
+Verrucositermes hirtus Deligne, 1983
+Verrucositermes tuberosus Emerson, 1960
+Syntermitinae
+Acangaobitermes Rocha, Cancello and Cuezzo, 2011
+Acangaobitermes krishnai Rocha, Cancello and Cuezzo, 2011
+Armitermes Wasmann, 1897
+Armitermes armiger (Motschulsky, 1855)
+Armitermes cerradoensis Mathews, 1977
+Armitermes euamignathus Silvestri, 1901
+Armitermes gnomus Constantino, 1991
+Armitermes grandidens Emerson, 1925
+Armitermes heyeri Wasmann, 1915
+Armitermes lanei Canter, 1968
+Armitermes minutus Emerson, 1925
+Armitermes peruanus Holmgren, 1906
+Armitermes teevani Emerson, 1925
+Cahuallitermes Constantino, 1994
+Cahuallitermes aduncus Constantino, 1994
+Cahuallitermes intermedius (Snyder, 1922)
+Cornitermes Wasmann, 1897
+Cornitermes acignathus Silvestri, 1901
+Cornitermes bequaerti Emerson, 1952
+Cornitermes bolivianus Snyder, 1926
+Cornitermes cumulans (Kollar, 1832)
+Cornitermes falcatus Emerson, 1952
+Cornitermes incisus Emerson, 1952
+Cornitermes ovatus Emerson, 1952
+Cornitermes pilosus Holmgren, 1906
+Cornitermes pugnax Emerson, 1925
+Cornitermes silvestrii Emerson, 1949
+Cornitermes snyderi Emerson, 1952
+Cornitermes villosus Emerson, 1952
+Cornitermes walkeri Snyder, 1929
+Cornitermes weberi Emerson, 1952
+Curvitermes Holmgren, 1912
+Curvitermes minor (Silvestri, 1901)
+Curvitermes odontognathus (Silvestri, 1901)
+Cyrilliotermes Fontes, 1985
+Cyrilliotermes angulariceps (Mathews, 1977)
+Cyrilliotermes brevidens Constantino and Carvalho, 2012
+Cyrilliotermes crassinasus Constantino and Carvalho, 2012
+Cyrilliotermes strictinasus (Mathews, 1977)
+Embiratermes Fontes, 1985
+Embiratermes benjamini (Snyder, 1926)
+Embiratermes brevinasus (Emerson and Banks, 1957)
+Embiratermes chagresi (Snyder, 1925)
+Embiratermes festivellus (Silvestri, 1901)
+Embiratermes heterotypus (Silvestri, 1901)
+Embiratermes ignotus Constantino, 1991
+Embiratermes latidens (Emerson and Banks, 1957)
+Embiratermes neotenicus (Holmgren, 1906)
+Embiratermes parvirostris Constantino, 1992
+Embiratermes robustus Constantino, 1992
+Embiratermes silvestrii (Emerson, 1949)
+Embiratermes snyderi (Emerson and Banks, 1957)
+Embiratermes spissus (Emerson and Banks, 1957)
+Embiratermes transandinus (Araujo, 1977)
+Ibitermes Fontes, 1985
+Ibitermes curupira Fontes, 1985
+Ibitermes inflatus Vasconcellos, 2002
+Ibitermes tellustris Constantino, 1990
+Labiotermes Holmgren, 1912
+Labiotermes brevilabius Emerson and Banks, 1965
+Labiotermes emersoni (Araujo, 1954)
+Labiotermes guasu Constantino and Acioli, 2006
+Labiotermes labralis (Holmgren, 1906)
+Labiotermes laticephalus (Silvestri, 1901)
+Labiotermes leptothrix Mathews, 1977
+Labiotermes longilabius (Silvestri, 1901)
+Labiotermes oreadicus Constantino, 2006
+Labiotermes orthocephalus (Silvestri, 1901)
+Labiotermes pelliceus Emerson and Banks, 1965
+Macuxitermes Cancello and Bandeira, 1992
+Macuxitermes triceratops Cancello and Bandeira, 1992
+Noirotitermes Cancello and Myles, 2000
+Noirotitermes noiroti Cancello and Myles, 2000
+Paracurvitermes Constantino and Carvalho, 2011
+Paracurvitermes manni (Snyder, 1926)
+Procornitermes Emerson, 1949
+Procornitermes araujoi Emerson, 1952
+Procornitermes lespesii (Müller, 1873)
+Procornitermes romani Emerson, 1952
+Procornitermes striatus (Hagen, 1858)
+Procornitermes triacifer (Silvestri, 1901)
+Rhynchotermes Holmgren, 1912
+Rhynchotermes bulbinasus Scheffrahn, 2010
+Rhynchotermes diphyes Mathews, 1977
+Rhynchotermes guarany Cancello, 1997
+Rhynchotermes nasutissimus (Silvestri, 1901)
+Rhynchotermes nyctobius Mathews, 1977
+Rhynchotermes perarmatus (Snyder, 1925)
+Rhynchotermes piauy Cancello, 1997
+Syntermes Holmgren, 1909
+Syntermes aculeosus Emerson, 1945
+Syntermes barbatus Constantino, 1995
+Syntermes bolivianus Holmgren, 1911
+Syntermes brevimalatus Emerson, 1945
+Syntermes calvus Emerson, 1945
+Syntermes cearensis Constantino, 1995
+Syntermes chaquimayensis (Holmgren, 1906)
+Syntermes crassilabrum Constantino, 1995
+Syntermes dirus (Burmeister, 1839)
+Syntermes grandis (Rambur, 1842)
+Syntermes insidians Silvestri, 1945
+Syntermes longiceps Constantino, 1995
+Syntermes magnoculus Snyder, 1924
+Syntermes molestus (Burmeister, 1839)
+Syntermes nanus Constantino, 1995
+Syntermes obtusus Holmgren, 1911
+Syntermes parallelus Silvestri, 1923
+Syntermes peruanus Holmgren, 1911
+Syntermes praecellens Silvestri, 1945
+Syntermes spinosus (Latreille, 1804)
+Syntermes tanygnathus Constantino, 1995
+Syntermes territus Emerson, 1924
+Syntermes wheeleri Emerson, 1945
+Termitinae
+Termes Group
+Angulitermes Sjöstedt, 1924
+Angulitermes acutus Mathur and Sen-Sarma, 1961
+Angulitermes akhorisainensis Chatterjee and Thakur, 1964
+Angulitermes arabiae Chhotani and Bose, 1979
+Angulitermes asirensis Chhotani and Bose, 1991
+Angulitermes bhagsunagensis Thakur, 2008
+Angulitermes braunsi (Wasmann, 1908)
+Angulitermes ceylonicus (Holmgren, 1914)
+Angulitermes dehraensis (Gardner, 1945)
+Angulitermes elsenburgi (Fuller, 1925)
+Angulitermes emersoni Akhtar, 1975
+Angulitermes fletcheri (Holmgren and Holmgren, 1917)
+Angulitermes frontalis (Silvestri, 1908)
+Angulitermes hussaini Ahmad, 1955
+Angulitermes jodhpurensis Roonwal and Verma, 1977
+Angulitermes kashmirensis Roonwal and Chhotani, 1971
+Angulitermes keralai Verma, 1984
+Angulitermes longifrons Maiti, 1983
+Angulitermes mishrai Sen-Sarma and Thakur, 1975
+Angulitermes nepalensis Mukherjee and Maiti, 2008
+Angulitermes nilensis Harris, 1962
+Angulitermes obtusus (Holmgren and Holmgren, 1917)
+Angulitermes paanensis Krishna, 1965
+Angulitermes punjabensis Akhtar, 1974
+Angulitermes quadriceps Harris, 1964
+Angulitermes ramanii Bose and Das, 1982
+Angulitermes rathorai Kumar and Thakur, 2010
+Angulitermes resimus Krishna, 1965
+Angulitermes tilaki Roonwal and Chhotani, 1971
+Angulitermes truncatus Sjöstedt, 1926
+Apsenterotermes Miller, 1991
+Apsenterotermes aspersus Miller, 1991
+Apsenterotermes declinatus Miller, 1991
+Apsenterotermes improcerus Miller, 1991
+Apsenterotermes iridipennis (Gay, 1956)
+Apsenterotermes stenopronos Miller, 1991
+Cavitermes Emerson, 1925
+Cavitermes parmae Mathews, 1977
+Cavitermes parvicavus Mathews, 1977
+Cavitermes rozeni Krishna, 2003
+Cavitermes simplicinervis (Hagen, 1858)
+Cavitermes tuberosus (Emerson, 1925)
+Crepititermes Emerson, 1925
+Crepititermes verruculosus (Emerson, 1925)
+Cristatitermes Miller, 1991
+Cristatitermes arenicola Miller, 1991
+Cristatitermes barretti Miller, 1991
+Cristatitermes carinatus Miller, 1991
+Cristatitermes froggatti (Hill, 1915)
+Cristatitermes pineaformis Miller, 1991
+Cristatitermes tutulatus Miller, 1991
+Dentispicotermes Emerson, 1949
+Dentispicotermes brevicarinatus (Emerson, 1950)
+Dentispicotermes conjunctus Araujo, 1969
+Dentispicotermes cupiporanga Bandeira and Cancello, 1992
+Dentispicotermes globicephalus (Silvestri, 1901)
+Dentispicotermes pantanalis Mathews, 1977
+Divinotermes Carrijo and Cancello, 2011
+Divinotermes allognathus (Mathews, 1977)
+Divinotermes digitatus Carrrijo and Cancello, 2011
+Divinotermes tuberculatus Carrijo and Cancello, 2011
+Ekphysotermes Gay, 1971
+Ekphysotermes jarmuranus (Hill, 1929)
+Ekphysotermes kalgoorliensis (Hill, 1942)
+Ekphysotermes ocellaris (Mjöberg, 1920)
+Ekphysotermes pelatus (Hill, 1942)
+Ekphysotermes percomis (Hill, 1942)
+Ephelotermes Miller, 1991
+Ephelotermes argutus (Hill, 1929)
+Ephelotermes cheeli (Mjöberg, 1920)
+Ephelotermes melachoma Miller, 1991
+Ephelotermes paleatus Miller, 1991
+Ephelotermes persimilis (Gay, 1971)
+Ephelotermes taylori (Hill, 1915)
+Genuotermes Emerson, 1950
+Genuotermes spinifer Emerson, 1950
+Hapsidotermes Miller, 1991
+Hapsidotermes harrisi (Mjöberg, 1920)
+Hapsidotermes labellus Miller, 1991
+Hapsidotermes longius Miller, 1991
+Hapsidotermes maideni (Mjöberg, 1920)
+Hapsidotermes orbus (Hill, 1927)
+Hesperotermes Gay, 1971
+Hesperotermes infrequens (Hill, 1927)
+Inquilinitermes Mathews, 1977
+Inquilinitermes fur (Silvestri, 1901)
+Inquilinitermes inquilinus (Emerson, 1925)
+Inquilinitermes microcerus (Silvestri, 1901)
+Invasitermes Miller, 1984
+Invasitermes inermis Miller, 1984
+Invasitermes insitivus (Hill, 1929)
+Lophotermes Miller, 1991
+Lophotermes aduncus Miller, 1991
+Lophotermes brevicephalus Miller, 1991
+Lophotermes crinitus Miller, 1991
+Lophotermes leptognathus Miller, 1991
+Lophotermes parvicornis Miller, 1991
+Lophotermes pectinatus Miller, 1991
+Lophotermes pusillus Miller, 1991
+Lophotermes quadratus (Hill, 1927)
+Lophotermes septentrionalis (Hill, 1927)
+Macrognathotermes Miller, 1991
+Macrognathotermes broomensis (Mjöberg, 1920)
+Macrognathotermes errator Miller, 1991
+Macrognathotermes prolatus Miller, 1991
+Macrognathotermes sunteri (Hill, 1927)
+Nanotermes Engel and Grimaldi, 2011
+Nanotermes isaacae Engel and Grimaldi, 2011
+Orthognathotermes Holmgren, 1910
+Orthognathotermes aduncus Emerson, 1949
+Orthognathotermes brevipilosus Snyder, 1926
+Orthognathotermes gibberorum Mathews, 1977
+Orthognathotermes heberi Raw and Egler, 1985
+Orthognathotermes humilis Constantino, 1991
+Orthognathotermes insignis Araujo, 1977
+Orthognathotermes longilamina Da Rocha and Cancello, 2009
+Orthognathotermes macrocephalus (Holmgren, 1906)
+Orthognathotermes mirim Da Rocha and Cancello, 2009
+Orthognathotermes okeyma Da Rocha and Cancello, 2009
+Orthognathotermes orthognathus (Silvestri, 1903)
+Orthognathotermes pilosus Da Rocha and Cancello, 2009
+Orthognathotermes tubesauassu Da Rocha and Cancello, 2009
+Orthognathotermes uncimandibularis Da Rocha and Cancello, 2009
+Orthognathotermes wheeleri Snyder, 1923
+Promirotermes Silvestri, 1914
+Promirotermes bechuana (Fuller, 1922)
+Promirotermes bellicosi (Wasmann, 1912)
+Promirotermes dumisae (Fuller, 1925)
+Promirotermes gracilipes Schmitz, 1917
+Promirotermes holmgreni (Silvestri, 1912)
+Promirotermes holmgreni holmgreni (Silvestri, 1912)
+Promirotermes holmgreni infera Silvestri, 1914
+Promirotermes massaicus (Sjöstedt, 1907)
+Promirotermes orthoceps (Emerson, 1928)
+Promirotermes pygmaeus Harris, 1963
+Promirotermes redundans Silvestri, 1914
+Promirotermes rotundifrons (Silvestri, 1908)
+Saxatilitermes Miller, 1991
+Saxatilitermes saxatilis Miller, 1991
+Spinitermes Wasmann, 1897
+Spinitermes brevicornutus (Desneux, 1904)
+Spinitermes longiceps Constantino, 1991
+Spinitermes nigrostomus Holmgren, 1906
+Spinitermes robustus (Snyder, 1926)
+Spinitermes trispinosus (Hagen, 1858)
+Termes Linnaeus, 1758
+Termes amaralii (Seabra, 1919)
+Termes ayri Bandeira and Cancello, 1992
+Termes baculi (Sjöstedt, 1900)
+Termes baculiformis (Holmgren, 1909)
+Termes bolivianus (Snyder, 1926)
+Termes boultoni Coaton and Sheasby, 1978
+Termes brevicornis Haviland, 1898
+Termes capensis (Silvestri, 1914)
+Termes comis Haviland, 1898
+Termes fatalis Linnaeus, 1758
+Termes hispaniolae (Banks, 1918)
+Termes hospes (Sjöstedt, 1900)
+Termes huayangensis Ahmad, 1965
+Termes laticornis Haviland, 1898
+Termes major Morimoto, 1973
+Termes marjoriae (Snyder, 1934)
+Termes medioculatus Emerson, 1949
+Termes melindae Harris, 1960
+Termes nigritus (Silvestri, 1901)
+Termes panamaensis (Snyder, 1923)
+Termes primitivus Krishna and Grimaldi, 2009
+Termes propinquus (Holmgren, 1914)
+Termes riograndensis Jhering [Ihering], 1887
+Termes rostratus Haviland, 1898
+Termes siruguei Nel, 1984
+Termes splendens (Sjöstedt, 1926)
+Tuberculitermes Holmgren, 1912
+Tuberculitermes bycanistes (Sjöstedt, 1905)
+Tuberculitermes flexuosus Roy-Noël, 1969
+Tuberculitermes guineensis Silvestri, 1914
+Xylochomitermes Miller, 1991
+Xylochomitermes aspinosus Miller, 1991
+Xylochomitermes melvillensis (Hill, 1915)
+Xylochomitermes occidualis (Gay, 1971)
+Xylochomitermes punctillus Miller, 1991
+Xylochomitermes reductus (Gay, 1971)
+Xylochomitermes tomentosus (Gay, 1971)
+Capritermes Wasmann, 1897
+Capritermes capricornis (Wasmann, 1893)
+Cornicapritermes Emerson, 1950
+Cornicapritermes mucronatus Emerson, 1950
+Dihoplotermes Araujo, 1961
+Dihoplotermes inusitatus Araujo, 1961
+Neocapritermes Holmgren, 1912
+Neocapritermes angusticeps (Emerson, 1925)
+Neocapritermes araguaia Krishna and Araujo, 1968
+Neocapritermes bodkini (Silvestri, 1923)
+Neocapritermes braziliensis (Snyder, 1926)
+Neocapritermes centralis (Snyder, 1932)
+Neocapritermes guyana Krishna and Araujo, 1968
+Neocapritermes longinotus (Snyder, 1926)
+Neocapritermes mirim Bandeira and Cancello, 1992
+Neocapritermes opacus (Hagen, 1858)
+Neocapritermes parvus (Silvestri, 1901)
+Neocapritermes pumilis Constantino, 1991
+Neocapritermes talpa (Holmgren, 1906)
+Neocapritermes talpoides Krishna and Araujo, 1968
+Neocapritermes taracua Krishna and Araujo, 1968
+Neocapritermes unicornis Constantino, 1991
+Neocapritermes utiariti Krishna and Araujo, 1968
+Neocapritermes villosus (Holmgren, 1906)
+Paracapritermes Hill, 1942
+Paracapritermes kraepelinii (Silvestri, 1909)
+Paracapritermes primus (Hill, 1942)
+Paracapritermes prolixus Miller, 1991
+Paracapritermes secundus Miller, 1991
+Planicapritermes Emerson, 1949
+Planicapritermes longilabrum Constantino, 1998
+Planicapritermes planiceps (Emerson, 1925)
+Protocapritermes Holmgren, 1912
+Protocapritermes krisiformis (Froggatt, 1898)
+Protocapritermes odontomachus (Desneux, 1905)
+Quasitermes Emerson, 1950
+Quasitermes incisus (Cachan, 1949)
+Pericapritermes Group
+Dicuspiditermes Krishna, 1968
+Dicuspiditermes achankovili Verma, 1985
+Dicuspiditermes boseae Chhotani, 1997
+Dicuspiditermes cacuminatus Krishna, 2001
+Dicuspiditermes cornutella (Silvestri, 1922)
+Dicuspiditermes fissifex Krishna, 2001
+Dicuspiditermes fontanellus Thakur and Chatterjee, 1971
+Dicuspiditermes gravelyi (Silvestri, 1922)
+Dicuspiditermes hutsoni (Kemner, 1926)
+Dicuspiditermes incola (Wasmann, 1893)
+Dicuspiditermes kistneri Krishna, 2001
+Dicuspiditermes laetus (Silvestri, 1914)
+Dicuspiditermes makhamensis Ahmad, 1965
+Dicuspiditermes minutus Akhtar and Riaz, 1992
+Dicuspiditermes nemorosus (Haviland, 1898)
+Dicuspiditermes obtusus (Silvestri, 1923)
+Dicuspiditermes punjabensis (Holmgren and Holmgren, 1917)
+Dicuspiditermes rothi (Holmgren, 1913)
+Dicuspiditermes santschii (Silvestri, 1922)
+Dicuspiditermes sisiri Chhotani, 1997
+Dicuspiditermes spinitibialis Krishna, 2001
+Homallotermes John, 1925
+Homallotermes eleanorae Emerson, 1972
+Homallotermes exiguus Krishna, 1972
+Homallotermes foraminifer (Haviland, 1898)
+Homallotermes pilosus (Mathur and Thapa, 1962)
+Indocapritermes Chhotani, 1997
+Indocapritermes aruni Chhotani, 1997
+Kemneritermes Ahmad and Akhtar, 1981
+Kemneritermes sarawakensis Ahmad and Akhtar, 1981
+Krishnacapritermes Chhotani, 1997
+Krishnacapritermes maitii Chhotani, 1997
+Krishnacapritermes thakuri Chhotani, 1997
+Labiocapritermes Krishna, 1968
+Labiocapritermes distortus (Silvestri, 1922)
+Mirocapritermes Holmgren, 1914
+Mirocapritermes concaveus Ahmad, 1965
+Mirocapritermes connectens Holmgren, 1914
+Mirocapritermes hsuchiafui Yu and Ping, 1966
+Mirocapritermes jiangchengensis Yang, Zhu, and Huang, 1995
+Mirocapritermes latignathus Ahmad, 1965
+Mirocapritermes prewensis Ahmad, 1965
+Mirocapritermes snyderi Akhtar, 1975
+Mirocapritermes valeriae Krishna, 1965
+Oriencapritermes Ahmad and Akhtar, 1981
+Oriencapritermes kluangensis Ahmad and Akhtar, 1981
+Pericapritermes Silvestri, 1914
+Pericapritermes appellans Silvestri, 1914
+Pericapritermes assamensis (Mathur and Thapa, 1965)
+Pericapritermes beibengensis Huang and Han, 1987
+Pericapritermes brachygnathus (John, 1925)
+Pericapritermes buitenzorgi (Holmgren, 1914)
+Pericapritermes ceylonicus (Holmgren, 1911)
+Pericapritermes chiasognathus (Sjöstedt, 1904)
+Pericapritermes desaegeri Harris, 1963
+Pericapritermes dolichocephalus (John, 1925)
+Pericapritermes dumicola Harris, 1954
+Pericapritermes dunensis (Roonwal and Sen-Sarma, 1960)
+Pericapritermes durga (Roonwal and Chhotani, 1962)
+Pericapritermes fuscotibialis (Light, 1931)
+Pericapritermes gloveri Harris, 1951
+Pericapritermes gutianensis Li and Ma, 1983
+Pericapritermes hepuensis Gao and Yang, 1990
+Pericapritermes heteronotus Silvestri, 1914
+Pericapritermes latignathus (Holmgren, 1914)
+Pericapritermes machadoi Noirot, 1955
+Pericapritermes magnificus (Silvestri, 1912)
+Pericapritermes metatus Silvestri, 1914
+Pericapritermes minimus Weidner, 1956
+Pericapritermes modiglianii (Silvestri, 1922)
+Pericapritermes mohri (Kemner, 1934)
+Pericapritermes nigerianus Silvestri, 1914
+Pericapritermes nitobei (Shiraki, 1909)
+Pericapritermes paetensis (Oshima, 1920)
+Pericapritermes pallidipes (Sjöstedt, 1898)
+Pericapritermes papuanus Bourguignon and Roisin, 2008
+Pericapritermes parvus Bourguignon and Roisin, 2008
+Pericapritermes pilosus Bourguignon and Roisin, 2008
+Pericapritermes planiusculus Ping and Xu, 1988
+Pericapritermes schultzei (Holmgren, 1911)
+Pericapritermes semarangi (Holmgren, 1913)
+Pericapritermes silvestrianus (Emerson, 1928)
+Pericapritermes speciosus (Haviland, 1898)
+Pericapritermes tetraphilus (Silvestri, 1922)
+Pericapritermes topslipensis Thakur, 1976
+Pericapritermes urgens Silvestri, 1914
+Pericapritermes urgens confinis Silvestri, 1914
+Pericapritermes urgens urgens Silvestri, 1914
+Pericapritermes wuzhishanensis (Li, 1982)
+Procapritermes Holmgren, 1912
+Procapritermes atypus Holmgren, 1912
+Procapritermes dakshinae (Chhotani and Ferry, 1995)
+Procapritermes holmgreni Akhtar, 1975
+Procapritermes huananensis (Yu and Ping, 1966)
+Procapritermes keralai (Chhotani and Ferry, 1995)
+Procapritermes longignathus Ahmad, 1965
+Procapritermes martyni Thapa, 1982
+Procapritermes minutus (Haviland, 1898)
+Procapritermes neosetiger Thapa, 1982
+Procapritermes prosetiger Ahmad, 1965
+Procapritermes sandakanensis Thapa, 1982
+Procapritermes setiger (Haviland, 1898)
+Procapritermes zhangfengensis (Yang, Zhu, and Huang, 1995)
+Pseudocapritermes Kemner, 1934
+Pseudocapritermes angustignathus (Holmgren, 1914)
+Pseudocapritermes bhutanensis (Roonwal and Chhotani, 1977)
+Pseudocapritermes fletcheri (Holmgren and Holmgren, 1917)
+Pseudocapritermes jiangchengensis Yang, Zhu, and Huang, 1992
+Pseudocapritermes karticki Bose, 1997
+Pseudocapritermes kemneri Akhtar and Afzal, 1989
+Pseudocapritermes largus Li and Huang, 1986
+Pseudocapritermes megacephalus Akhtar and Afzal, 1989
+Pseudocapritermes minutus (Tsai and Chen, 1963)
+Pseudocapritermes orientalis (Ahmad and Akhtar, 1981)
+Pseudocapritermes parasilvaticus Ahmad, 1965
+Pseudocapritermes planimentus Yang, Zhu, and Huang, 1992
+Pseudocapritermes prosilvaticus Akhtar and Afzal, 1989
+Pseudocapritermes pseudolaetus (Tsai and Chen, 1963)
+Pseudocapritermes silvaticus Kemner, 1934
+Pseudocapritermes sinensis Ping and Xu, 1986
+Pseudocapritermes sowerbyi (Light, 1924)
+Pseudocapritermes tikadari Roonwal and Chhotani, 1962
+Sinocapritermes Ping and Xu, 1986
+Sinocapritermes albipennis (Tsai and Chen, 1963)
+Sinocapritermes fujianensis Ping and Xu, 1986
+Sinocapritermes guangxiensis Ping and Xu, 1986
+Sinocapritermes magnus Ping and Xu, 1986
+Sinocapritermes mushae (Oshima and Maki, 1919)
+Sinocapritermes parvulus (Yu and Ping, 1966)
+Sinocapritermes planifrons Ping and Xu, 1986
+Sinocapritermes pratensis Ping and Xu, 1993
+Sinocapritermes sinensis Ping and Xu, 1986
+Sinocapritermes sinicus (Li and Xiao, 1989)
+Sinocapritermes songtaoensis He, 1993
+Sinocapritermes tianmuensis Gao, 1989
+Sinocapritermes vicinus (Xia, Gao, Pan, and Tang, 1983)
+Sinocapritermes xiai Gao and Lam, 1990
+Sinocapritermes xiushanensis He, 1993
+Sinocapritermes yunnanensis Ping and Xu, 1986
+Syncapritermes Ahmad and Aktar, 1981
+Syncapritermes greeni (John, 1925)
+Amitermes Group
+Ahamitermes Mjöberg, 1920
+Ahamitermes hillii Nicholls, 1929
+Ahamitermes inclusus Gay, 1955
+Ahamitermes nidicola Mjöberg, 1920
+Amitermes Silvestri, 1901
+Amitermes abruptus Gay, 1968
+Amitermes accinctus Gay, 1968
+Amitermes acinacifer Sands, 1959
+Amitermes aduncus Gay, 1968
+Amitermes agrilus Gay, 1968
+Amitermes amicki Scheffrahn, 1999
+Amitermes amifer Silvestri, 1901
+Amitermes aporema Constantino, 1993
+Amitermes arboreus Roisin, 1990
+Amitermes arcuatus Gay, 1968
+Amitermes baluchistanicus Akhtar, 1974
+Amitermes basidens (Sjöstedt, 1899)
+Amitermes beaumonti Banks, 1918
+Amitermes belli (Desneux, 1906)
+Amitermes boreus Gay, 1968
+Amitermes braunsi (Fuller, 1922)
+Amitermes calabyi Gay, 1968
+Amitermes capito (Hill, 1935)
+Amitermes coachellae Light, 1930
+Amitermes colonus (Hill, 1942)
+Amitermes conformis Gay, 1968
+Amitermes corpulentus Al-Alawy, Abdul-Rassoul, and Al-Azawi, 1990
+Amitermes cryptodon Light, 1930
+Amitermes darwini (Hill, 1922)
+Amitermes dentatus (Haviland, 1898)
+Amitermes dentosus (Hill, 1935)
+Amitermes deplanatus Gay, 1968
+Amitermes desertorum (Desneux, 1902)
+Amitermes emersoni Light, 1930
+Amitermes ensifer Light, 1930
+Amitermes eucalypti (Hill, 1922)
+Amitermes evuncifer (Silvestri, 1912)
+Amitermes excellens (Silvestri, 1923)
+Amitermes exilis (Hill, 1935)
+Amitermes falcatus Gay, 1968
+Amitermes firmus Gay, 1968
+Amitermes floridensis Scheffrahn, Su, and Mangold, 1989
+Amitermes foreli Wasmann, 1902
+Amitermes gallagheri Chhotani, 1988
+Amitermes germanus (Hill, 1915)
+Amitermes gestroanus (Sjöstedt, 1912)
+Amitermes gracilis Gay, 1968
+Amitermes guineensis Sands, 1992
+Amitermes hartmeyeri (Silvestri, 1909)
+Amitermes hastatus (Haviland, 1898)
+Amitermes herbertensis (Mjöberg, 1920)
+Amitermes heteraspis (Silvestri, 1906)
+Amitermes heterognathus (Silvestri, 1909)
+Amitermes importunus Sands, 1959
+Amitermes innoxius Gay, 1968
+Amitermes inops Gay, 1968
+Amitermes insolitus Gay, 1968
+Amitermes inspissatus Gay, 1968
+Amitermes iranicus Ghayourfar, 1999
+Amitermes kharrazii Ghayourfar, 1999
+Amitermes lanceolatus Gay, 1968
+Amitermes latidens (Mjöberg, 1920)
+Amitermes lativentris (Mjöberg, 1920)
+Amitermes laurensis (Mjöberg, 1920)
+Amitermes leptognathus Gay, 1968
+Amitermes loennbergianus (Sjöstedt, 1911)
+Amitermes lucidus Krishna and Grimaldi, 2009
+Amitermes lunae Scheffrahn and Huchet, 2010
+Amitermes meridionalis (Froggatt, 1898)
+Amitermes messinae (Fuller, 1922)
+Amitermes minimus Light, 1932
+Amitermes mitchelli Sands, 1992
+Amitermes modicus (Hill, 1942)
+Amitermes neogermanus (Hill, 1922)
+Amitermes nordestinus Mélo and Fontes, 2003
+Amitermes obeuntis (Silvestri, 1909)
+Amitermes obtusidens (Mjöberg, 1920)
+Amitermes pallidiceps Gay, 1969
+Amitermes pallidus Light, 1932
+Amitermes pandus Gay, 1968
+Amitermes papuanus Roisin, 1990
+Amitermes paradentatus Ahmad, 1955
+Amitermes parallelus Gay, 1968
+Amitermes paravilis Raven and Akhtar, 1999
+Amitermes parvidens Gay, 1968
+Amitermes parvulus Light, 1932
+Amitermes parvus (Hill, 1922)
+Amitermes paucinervius (Silvestri, 1908)
+Amitermes pavidus (Hill, 1942)
+Amitermes perarmatus (Silvestri, 1909)
+Amitermes perelegans (Hill, 1935)
+Amitermes perryi Gay, 1968
+Amitermes procerus Gay, 1968
+Amitermes quadratus Gay, 1968
+Amitermes ravus (Hill, 1942)
+Amitermes rotundus Gay, 1968
+Amitermes sciangallorum Ghidini, 1941
+Amitermes scopulus (Mjöberg, 1920)
+Amitermes seminotus (Silvestri, 1908)
+Amitermes silvestrianus Light, 1930
+Amitermes snyderi Light, 1930
+Amitermes socotrensis Harris, 1954
+Amitermes somaliensis Sjöstedt, 1927
+Amitermes spinifer (Silvestri, 1914)
+Amitermes stephensoni Harris, 1957
+Amitermes subtilis Gay, 1968
+Amitermes truncatidens Sands, 1959
+Amitermes uncinatus Gay, 1968
+Amitermes unidentatus (Wasmann, 1897)
+Amitermes vicinus Gay, 1968
+Amitermes vilis (Hagen, 1858)
+Amitermes viriosus Gay, 1968
+Amitermes vitiosus (Hill, 1935)
+Amitermes westraliensis (Hill, 1929)
+Amitermes wheeleri (Desneux, 1906)
+Amitermes xylophagus (Hill, 1935)
+Amitermes yasujensis Ghayourfar, 2005
+Cephalotermes Silvestri, 1912
+Cephalotermes rectangularis (Sjöstedt, 1899)
+Cylindrotermes Holmgren, 1906
+Cylindrotermes brevipilosus Snyder, 1926
+Cylindrotermes caata Da Rocha and Cancello, 2007
+Cylindrotermes capixaba Da Rocha and Cancello, 2007
+Cylindrotermes flangiatus Mathews, 1977
+Cylindrotermes macrognathus Snyder, 1929
+Cylindrotermes nordenskioldi Holmgren, 1906
+Cylindrotermes parvignathus Emerson, 1949
+Cylindrotermes sapiranga Da Rocha and Cancello, 2007
+Drepanotermes Silvestri, 1909
+Drepanotermes acicularis Watson and Perry, 1981
+Drepanotermes barretti Watson and Perry, 1981
+Drepanotermes basidens Watson and Perry, 1981
+Drepanotermes bellator Watson and Perry, 1981
+Drepanotermes brevis Watson and Perry, 1981
+Drepanotermes calabyi Watson and Perry, 1981
+Drepanotermes clarki (Hill, 1935)
+Drepanotermes columellaris Watson and Perry, 1981
+Drepanotermes corax Watson and Perry, 1981
+Drepanotermes crassidens Watson and Perry, 1981
+Drepanotermes daliensis Hill, 1922
+Drepanotermes dibolia Watson and Perry, 1981
+Drepanotermes diversicolor Watson and Perry, 1981
+Drepanotermes gayi Watson and Perry, 1981
+Drepanotermes hamulus Watson and Perry, 1981
+Drepanotermes hilli Watson and Perry, 1981
+Drepanotermes invasor Watson and Perry, 1981
+Drepanotermes magnificus (Mjöberg, 1920)
+Drepanotermes paradoxus Watson and Perry, 1981
+Drepanotermes perniger (Froggatt, 1898)
+Drepanotermes phoenix Watson and Perry, 1981
+Drepanotermes rubriceps (Froggatt, 1898)
+Drepanotermes septentrionalis Hill, 1922
+Drepanotermes tamminensis (Hill, 1929)
+Eremotermes Silvestri, 1911
+Eremotermes arctus Spaeth, 1964
+Eremotermes dehraduni Roonwal and Sen-Sarma, 1960
+Eremotermes fletcheri Holmgren and Holmgren, 1917
+Eremotermes indicatus Silvestri, 1911
+Eremotermes madrasicus Roonwal and Sen-Sarma, 1960
+Eremotermes nanus Harris, 1960
+Eremotermes neoparadoxalis Ahmad, 1955
+Eremotermes paradoxalis Holmgren, 1912
+Eremotermes sanyuktae Thakur, 1989
+Eremotermes senegalensis Mampouya, Fleck, and Nel, 1997
+Globitermes Holmgren, 1912
+Globitermes brachycerastes Han, 1987
+Globitermes globosus (Haviland, 1898)
+Globitermes globosus depilis (Holmgren, 1913)
+Globitermes globosus globosus (Haviland, 1898)
+Globitermes menglaensis Huang and Zhu, 1990
+Globitermes mengpengensis Zhu and Huang, 1990
+Globitermes minor Han, 1987
+Globitermes sulphureus (Haviland, 1898)
+Globitermes vadaensis Kemner, 1934
+Gnathamitermes Light, 1932
+Gnathamitermes grandis (Light, 1930)
+Gnathamitermes nigriceps (Light, 1930)
+Gnathamitermes perplexus (Banks, 1920)
+Gnathamitermes rousei Pierce, 1958
+Gnathamitermes tubiformans (Buckley, 1862)
+Hoplotermes Light, 1933
+Hoplotermes amplus Light, 1933
+Incolitermes Gay, 1966
+Incolitermes pumilus (Hill, 1942)
+Microcerotermes Silvestri, 1901
+Microcerotermes acerbus (Sjöstedt, 1911)
+Microcerotermes algoasinensis Fuller, 1925
+Microcerotermes amboinensis Kemner, 1931
+Microcerotermes annandalei Silvestri, 1923
+Microcerotermes apricitatis Fuller, 1925
+Microcerotermes arboreus Emerson, 1925
+Microcerotermes baluchistanicus Ahmad, 1955
+Microcerotermes barbertoni Fuller, 1925
+Microcerotermes beesoni Snyder, 1933
+Microcerotermes bequaertianus (Sjöstedt, 1913)
+Microcerotermes biroi (Desneux, 1905)
+Microcerotermes biswanathae Maiti and Chakraborty, 1994
+Microcerotermes boreus Hill, 1927
+Microcerotermes bouilloni Roisin and Pasteels, 2000
+Microcerotermes bouvieri (Desneux, 1904)
+Microcerotermes brachygnathus Silvestri, 1914
+Microcerotermes brevior (Desneux, 1905)
+Microcerotermes buettikeri Chhotani and Bose, 1979
+Microcerotermes bugnioni Holmgren, 1911
+Microcerotermes cachani Eggleton, 2003
+Microcerotermes cameroni Snyder, 1934
+Microcerotermes cavus Hill, 1942
+Microcerotermes celebensis Kemner, 1934
+Microcerotermes chaudhryi Akhtar, 1974
+Microcerotermes chhotanii Ghayourfar, 1998
+Microcerotermes choanensis Fuller, 1925
+Microcerotermes collinsi Fuller, 1925
+Microcerotermes crassus Snyder, 1934
+Microcerotermes cupreiceps Roisin and Pasteels, 2000
+Microcerotermes cylindriceps Wasmann, 1902
+Microcerotermes dammermani Roonwal and Maiti, 1966
+Microcerotermes danieli Roonwal and Bose, 1970
+Microcerotermes dashlibronensis Ghayourfar, 2005
+Microcerotermes debilicornis Holmgren, 1913
+Microcerotermes depokensis Kemner, 1932
+Microcerotermes distans (Haviland, 1898)
+Microcerotermes distinctus Silvestri, 1909
+Microcerotermes diversus Silvestri, 1920
+Microcerotermes dolichocephalicus Gao and Lam, 1992
+Microcerotermes dolichognathus Silvestri, 1912
+Microcerotermes dumasensis Thakur, 1989
+Microcerotermes dumisae Fuller, 1925
+Microcerotermes duplex (Desneux, 1904)
+Microcerotermes durbanensis Fuller, 1925
+Microcerotermes edentatus Wasmann, 1911
+Microcerotermes elegans Sjöstedt, 1925
+Microcerotermes eugnathus Silvestri, 1911
+Microcerotermes exiguus (Hagen, 1858)
+Microcerotermes fletcheri Holmgren and Holmgren, 1917
+Microcerotermes flyensis Roisin and Pasteels, 2000
+Microcerotermes fuscotibialis (Sjöstedt, 1896)
+Microcerotermes fuscotibialis fuscotibialis (Sjöstedt, 1896)
+Microcerotermes fuscotibialis libericus Rosen, 1912
+Microcerotermes fuscotibialis validior Silvestri, 1914
+Microcerotermes gabrielis Weidner, 1955
+Microcerotermes ganeshi Bose, 1984
+Microcerotermes gracilis Light, 1933
+Microcerotermes greeni Holmgren, 1913
+Microcerotermes hamatus (Holmgren, 1913)
+Microcerotermes havilandi Holmgren, 1913
+Microcerotermes heimi Wasmann, 1902
+Microcerotermes hypaenicus Fuller, 1925
+Microcerotermes ilalazonatus Fuller, 1925
+Microcerotermes implacidus Hill, 1942
+Microcerotermes indistinctus Mathews, 1977
+Microcerotermes insulans Krishna and Grimaldi, 2009
+Microcerotermes insularis Maiti and Chakraborty, 1994
+Microcerotermes kudremukhae Chhotani, 1997
+Microcerotermes kwazulu Fuller, 1925
+Microcerotermes labioangulatus Sen-Sarma and Thakur, 1975
+Microcerotermes lahorensis Akhtar, 1974
+Microcerotermes lateralis (Walker, 1853)
+Microcerotermes laticeps Holmgren, 1913
+Microcerotermes laxmi Roonwal and Bose, 1964
+Microcerotermes leai Hill, 1927
+Microcerotermes limpopoensis Fuller, 1925
+Microcerotermes longiceps Cachan, 1949
+Microcerotermes longignathus Ahmad, 1955
+Microcerotermes longimalatus Sjöstedt, 1925
+Microcerotermes losbanosensis Oshima, 1914
+Microcerotermes luluai Roisin and Pasteels, 2000
+Microcerotermes macacoensis Sjöstedt, 1925
+Microcerotermes madurae Kemner, 1934
+Microcerotermes major (Cachan, 1951)
+Microcerotermes maliki Akhtar, 1974
+Microcerotermes malmesburyi Fuller, 1925
+Microcerotermes mandibularis (Cachan, 1951)
+Microcerotermes manjikuli Sen-Sarma, 1966
+Microcerotermes marilimbus Ping and Xu, 1984
+Microcerotermes masaiaticus Harris, 1954
+Microcerotermes minor Holmgren, 1914
+Microcerotermes minutus Ahmad, 1965
+Microcerotermes mzilikazi Fuller, 1925
+Microcerotermes nanulus Sjöstedt, 1925
+Microcerotermes nanus (Hill, 1915)
+Microcerotermes nemoralis Harris, 1954
+Microcerotermes nervosus Hill, 1927
+Microcerotermes newmani Hill, 1927
+Microcerotermes nicobarensis Roonwal and Bose, 1970
+Microcerotermes novaecaledoniae Holmgren and Holmgren, 1915
+Microcerotermes pakistanicus Akhtar, 1974
+Microcerotermes palaearcticus (Sjöstedt, 1904)
+Microcerotermes palestinensis Spaeth, 1964
+Microcerotermes papuanus Holmgren, 1911
+Microcerotermes paracelebensis Ahmad, 1965
+Microcerotermes parviceps Mjöberg, 1920
+Microcerotermes parvulus (Sjöstedt, 1911)
+Microcerotermes parvus (Haviland, 1898)
+Microcerotermes pauliani Krishna, 2013
+Microcerotermes peraffinis Silvestri, 1909
+Microcerotermes periminutus Ping and Xu, 1984
+Microcerotermes philippinensis Ahmad, 1947
+Microcerotermes piliceps Snyder, 1925
+Microcerotermes pondweniensis Fuller, 1925
+Microcerotermes prochampioni Akhtar, 1974
+Microcerotermes progrediens Silvestri, 1914
+Microcerotermes propinquus Wasmann, 1910
+Microcerotermes psammophilus Fuller, 1925
+Microcerotermes raja Roonwal and Bose, 1964
+Microcerotermes rambanensis Chatterjee and Thakur, 1964
+Microcerotermes remotus Ping and Xu, 1984
+Microcerotermes repugnans Hill, 1927
+Microcerotermes rhombinidus Ping and Xu, 1984
+Microcerotermes sabaeus (Harris, 1957)
+Microcerotermes sabahensis Thapa, 1982
+Microcerotermes sakarahensis (Cachan, 1951)
+Microcerotermes sakesarensis Ahmad, 1955
+Microcerotermes sanctaeluciae Fuller, 1925
+Microcerotermes saravanensis Ghayourfar, 2005
+Microcerotermes secernens Schmitz, 1917
+Microcerotermes septentrionalis Light, 1933
+Microcerotermes serratus (Haviland, 1898)
+Microcerotermes setosus Krishna and Grimaldi, 2009
+Microcerotermes shahroudiensis Ghayourfar, 2005
+Microcerotermes sikorae (Wasmann, 1893)
+Microcerotermes silvestrianus Emerson, 1928
+Microcerotermes sistaniensis Ghayourfar and Akhtar, 2005
+Microcerotermes solidus Silvestri, 1912
+Microcerotermes strunckii (Sörensen, 1884)
+Microcerotermes subinteger (Cachan, 1949)
+Microcerotermes subtilis (Wasmann, 1897)
+Microcerotermes taylori Hill, 1927
+Microcerotermes tenuignathus Holmgren, 1913
+Microcerotermes theobromae (Desneux, 1906)
+Microcerotermes thermarum Fuller, 1925
+Microcerotermes transiens Rosen, 1912
+Microcerotermes turkmenicus Luppova, 1976
+Microcerotermes turneri (Froggatt, 1898)
+Microcerotermes uncatus Krishna, 1965
+Microcerotermes unidentatus Cachan, 1949
+Microcerotermes varaminicus Ghayourfar, 1999
+Microcerotermes zuluensis Holmgren, 1913
+Microcerotermes zuluensis rubriceps Holmgren, 1913
+Microcerotermes zuluensis zuluensis Holmgren, 1913
+Microcerotermes zuluoides Fuller, 1925
+Onkotermes Constantino, Liotta, and Giacosa, 2002
+Onkotermes brevicorniger (Silvestri, 1901)
+Onkotermes corochus Torales and Fontes, 2008
+Orientotermes Ahmad, 1976
+Orientotermes emersoni Ahmad, 1976
+Prohamitermes Holmgren, 1912
+Prohamitermes hosei (Desneux, 1906)
+Prohamitermes hosei hosei (Desneux, 1906)
+Prohamitermes hosei minor Thapa, 1982
+Prohamitermes mirabilis (Haviland, 1898)
+Protohamitermes Holmgren, 1912
+Protohamitermes globiceps Holmgren, 1912
+Pseudhamitermes Noirot, 1966
+Pseudhamitermes longignathus (Ahmad, 1965)
+Pseudhamitermes khmerensis Noirot, 1966
+Synhamitermes Holmgren, 1912
+Synhamitermes ceylonicus (Holmgren, 1913)
+Synhamitermes colombensis Roonwal and Sen-Sarma, 1960
+Synhamitermes labioangulatus Thakur, 1989
+Synhamitermes quadriceps (Wasmann, 1902)
+Metatermites Armbruster, 1941
+Metatermites statzi Armbruster, 1941

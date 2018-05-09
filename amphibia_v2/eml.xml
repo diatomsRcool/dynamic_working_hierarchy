@@ -1,0 +1,45 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" 
+    xmlns:md="eml://ecoinformatics.org/methods-2.1.1" 
+    xmlns:proj="eml://ecoinformatics.org/project-2.1.1" 
+    xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" 
+    xmlns:res="eml://ecoinformatics.org/resource-2.1.1" 
+    xmlns:dc="http://purl.org/dc/terms/" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.1/eml.xsd"
+    packageId="null/v0" system="http://gbif.org" scope="system" xml:lang="en">
+
+    <dataset>
+      <title xml:lang="en">Amphibia Hierarchy</title>
+      <creator>
+    <individualName>
+      <surName></surName>
+    </individualName>
+      </creator>
+      <metadataProvider>
+    <individualName>
+      <surName></surName>
+    </individualName>
+      </metadataProvider>
+	  <pubDate>
+      	2017-04-22
+      </pubDate>
+      <language>en</language>
+      <abstract>
+        <para>Species list from AmphibiaWeb (2017. <http://amphibiaweb.org> University of California, Berkeley, CA, USA. Accessed 19 Apr 2017). Family & subfamily assignments modified after Pyron & Wiens 2011 (doi:10.1016/j.ympev.2011.06.012), Padial et al. 2014 (doi:10.11646/zootaxa.3825.1.1). 
+</para>
+      </abstract>
+      <contact>
+    <individualName>
+      <surName></surName>
+    </individualName>
+      </contact>
+    </dataset>
+    <additionalMetadata>
+     <metadata>
+      <gbif>
+        <dateStamp>2017-04-22T04:03:40.668+08:00</dateStamp>
+        <hierarchyLevel>dataset</hierarchyLevel>
+      </gbif>
+     </metadata>
+    </additionalMetadata>
+</eml:eml>

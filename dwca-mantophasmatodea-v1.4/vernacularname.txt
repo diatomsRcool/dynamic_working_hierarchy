@@ -1,0 +1,4 @@
+id	vernacularName	language
+1220572	heel walkers	English
+1220572	gladiators	English
+1220572	African rock crawlers	English

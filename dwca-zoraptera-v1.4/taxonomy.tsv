@@ -1,0 +1,56 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1218728	|		|	Zoraptera	|	order	|		|	
+1218730	|	1218728	|	Zorotypidae	|	family	|		|	
+1218731	|	1218730	|	Zorotypus	|	genus	|		|	
+1218732	|	1218730	|	Xenozorotypus	|	genus	|		|	
+1218733	|	1218731	|	Zorotypus (Octozoros)	|	subgenus	|		|	
+1218734	|	1218731	|	Zorotypus cretatus	|	species	|		|	
+1218735	|	1218731	|	Zorotypus (Zorotypus)	|	subgenus	|		|	
+1218736	|	1218732	|	Xenozorotypus burmiticus	|	species	|		|	
+1218737	|	1218733	|	Zorotypus (Octozoros) acanthothorax	|	species	|		|	
+1218738	|	1218733	|	Zorotypus (Octozoros) nascimbenei	|	species	|		|	
+1218739	|	1218735	|	Zorotypus (Zorotypus) guineensis	|	species	|		|	
+1218740	|	1218735	|	Zorotypus (Zorotypus) ceylonicus	|	species	|		|	
+1218741	|	1218735	|	Zorotypus (Zorotypus) mnemosyne	|	species	|		|	
+1218742	|	1218735	|	Zorotypus (Zorotypus) absonus	|	species	|		|	
+1218743	|	1218735	|	Zorotypus (Zorotypus) goeleti	|	species	|		|	
+1218744	|	1218735	|	Zorotypus (Zorotypus) barberi	|	species	|		|	
+1218745	|	1218735	|	Zorotypus (Zorotypus) brasiliensis	|	species	|		|	
+1218746	|	1218735	|	Zorotypus (Zorotypus) buxtoni	|	species	|		|	
+1218747	|	1218735	|	Zorotypus (Zorotypus) congensis	|	species	|		|	
+1218748	|	1218735	|	Zorotypus (Zorotypus) caudelli	|	species	|		|	
+1218749	|	1218735	|	Zorotypus (Zorotypus) cramptoni	|	species	|		|	
+1218750	|	1218735	|	Zorotypus (Zorotypus) delamarei	|	species	|		|	
+1218751	|	1218735	|	Zorotypus (Zorotypus) gurneyi	|	species	|		|	
+1218752	|	1218735	|	Zorotypus (Zorotypus) hamiltoni	|	species	|		|	
+1218753	|	1218735	|	Zorotypus (Zorotypus) hubbardi	|	species	|		|	
+1218754	|	1218735	|	Zorotypus (Zorotypus) huxleyi	|	species	|		|	
+1218755	|	1218735	|	Zorotypus (Zorotypus) javanicus	|	species	|		|	
+1218756	|	1218735	|	Zorotypus (Zorotypus) juninensis	|	species	|		|	
+1218757	|	1218735	|	Zorotypus (Zorotypus) lawrencei	|	species	|		|	
+1218758	|	1218735	|	Zorotypus (Zorotypus) leleupi	|	species	|		|	
+1218759	|	1218735	|	Zorotypus (Zorotypus) longicercatus	|	species	|		|	
+1218760	|	1218735	|	Zorotypus (Zorotypus) manni	|	species	|		|	
+1218761	|	1218735	|	Zorotypus (Zorotypus) medoensis	|	species	|		|	
+1218762	|	1218735	|	Zorotypus (Zorotypus) mexicanus	|	species	|		|	
+1218763	|	1218735	|	Zorotypus (Zorotypus) neotropicus	|	species	|		|	
+1218764	|	1218735	|	Zorotypus (Zorotypus) newi	|	species	|		|	
+1218765	|	1218735	|	Zorotypus (Zorotypus) palaeus	|	species	|		|	
+1218766	|	1218735	|	Zorotypus (Zorotypus) philippinensis	|	species	|		|	
+1218767	|	1218735	|	Zorotypus (Zorotypus) shannoni	|	species	|		|	
+1218768	|	1218735	|	Zorotypus (Zorotypus) silvestrii	|	species	|		|	
+1218769	|	1218735	|	Zorotypus (Zorotypus) sinensis	|	species	|		|	
+1218770	|	1218735	|	Zorotypus (Zorotypus) snyderi	|	species	|		|	
+1218771	|	1218735	|	Zorotypus (Zorotypus) swezeyi	|	species	|		|	
+1218772	|	1218735	|	Zorotypus (Zorotypus) vinsoni	|	species	|		|	
+1218773	|	1218735	|	Zorotypus (Zorotypus) weidneri	|	species	|		|	
+1218774	|	1218735	|	Zorotypus (Zorotypus) zimmermani	|	species	|		|	
+1218783	|	1218735	|	Zorotypus (Zorotypus) amazonensis	|	species	|		|	
+1218785	|	1218735	|	Zorotypus (Zorotypus) sechellensis	|	species	|		|	
+1220634	|	1218735	|	Zorotypus (Zorotypus) magnicaudelli	|	species	|		|	
+1220635	|	1218735	|	Zorotypus (Zorotypus) cervicornis	|	species	|		|	
+1220636	|	1218735	|	Zorotypus (Zorotypus) impolitus	|	species	|		|	
+1220637	|	1218735	|	Zorotypus (Zorotypus) novobritannicus	|	species	|		|	
+1220647	|	1218733	|	Zorotypus (Octozoros) hudae	|	species	|		|	
+1220648	|	1218735	|	Zorotypus (Zorotypus) caxiuana	|	species	|		|	
+1223787	|	1218735	|	Zorotypus (Zorotypus) hainanensis	|	species	|		|	

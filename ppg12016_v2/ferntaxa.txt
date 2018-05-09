@@ -1,0 +1,442 @@
+Pteridophyte-Phylogeny-Group1-1	Pteridophyte-Phylogeny-Group1-1	Pteridophyte-Phylogeny-Group1-1	0	Lycopodiopsida Bartl.	class	accepted
+Pteridophyte-Phylogeny-Group1-2	Pteridophyte-Phylogeny-Group1-2	Pteridophyte-Phylogeny-Group1-2	Pteridophyte-Phylogeny-Group1-1	Lycopodiales DC. ex Bercht. & J.Presl	order	accepted
+Pteridophyte-Phylogeny-Group1-3	Pteridophyte-Phylogeny-Group1-3	Pteridophyte-Phylogeny-Group1-3	Pteridophyte-Phylogeny-Group1-2	Lycopodiaceae P.Beauv. in Mirb.	family	accepted
+Pteridophyte-Phylogeny-Group1-4	Pteridophyte-Phylogeny-Group1-4	Pteridophyte-Phylogeny-Group1-4	Pteridophyte-Phylogeny-Group1-3	Lycopodielloideae W.H.Wagner & Beitel ex B.Øllg	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-5	Pteridophyte-Phylogeny-Group1-5	Pteridophyte-Phylogeny-Group1-5	Pteridophyte-Phylogeny-Group1-4	Lateristachys Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-6	Pteridophyte-Phylogeny-Group1-6	Pteridophyte-Phylogeny-Group1-6	Pteridophyte-Phylogeny-Group1-4	Lycopodiella Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-7	Pteridophyte-Phylogeny-Group1-7	Pteridophyte-Phylogeny-Group1-7	Pteridophyte-Phylogeny-Group1-4	Palhinhaea Franco & Vasc.	genus	accepted
+Pteridophyte-Phylogeny-Group1-8	Pteridophyte-Phylogeny-Group1-8	Pteridophyte-Phylogeny-Group1-8	Pteridophyte-Phylogeny-Group1-4	Pseudolycopodiella Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-9	Pteridophyte-Phylogeny-Group1-9	Pteridophyte-Phylogeny-Group1-9	Pteridophyte-Phylogeny-Group1-2	Lycopodioideae W.H.Wagner & Beitel ex B.Øllg.	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-10	Pteridophyte-Phylogeny-Group1-10	Pteridophyte-Phylogeny-Group1-10	Pteridophyte-Phylogeny-Group1-9	Austrolycopodium Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-11	Pteridophyte-Phylogeny-Group1-11	Pteridophyte-Phylogeny-Group1-11	Pteridophyte-Phylogeny-Group1-9	Dendrolycopodium A.Haines	genus	accepted
+Pteridophyte-Phylogeny-Group1-12	Pteridophyte-Phylogeny-Group1-12	Pteridophyte-Phylogeny-Group1-12	Pteridophyte-Phylogeny-Group1-9	Diphasiastrum Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-13	Pteridophyte-Phylogeny-Group1-13	Pteridophyte-Phylogeny-Group1-13	Pteridophyte-Phylogeny-Group1-9	Diphasium C.Presl ex Rothm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-14	Pteridophyte-Phylogeny-Group1-14	Pteridophyte-Phylogeny-Group1-14	Pteridophyte-Phylogeny-Group1-9	Lycopodiastrum Holub ex R.D.Dixit	genus	accepted
+Pteridophyte-Phylogeny-Group1-15	Pteridophyte-Phylogeny-Group1-15	Pteridophyte-Phylogeny-Group1-15	Pteridophyte-Phylogeny-Group1-9	Lycopodium L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-16	Pteridophyte-Phylogeny-Group1-16	Pteridophyte-Phylogeny-Group1-16	Pteridophyte-Phylogeny-Group1-9	Pseudodiphasium Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-17	Pteridophyte-Phylogeny-Group1-17	Pteridophyte-Phylogeny-Group1-17	Pteridophyte-Phylogeny-Group1-9	Pseudolycopodium Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-18	Pteridophyte-Phylogeny-Group1-18	Pteridophyte-Phylogeny-Group1-18	Pteridophyte-Phylogeny-Group1-9	Spinulum A.Haines	genus	accepted
+Pteridophyte-Phylogeny-Group1-19	Pteridophyte-Phylogeny-Group1-19	Pteridophyte-Phylogeny-Group1-19	Pteridophyte-Phylogeny-Group1-2	Huperzioideae W.H.Wagner & Beitel ex B.Øllg.	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-20	Pteridophyte-Phylogeny-Group1-20	Pteridophyte-Phylogeny-Group1-20	Pteridophyte-Phylogeny-Group1-19	Huperzia Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-21	Pteridophyte-Phylogeny-Group1-21	Pteridophyte-Phylogeny-Group1-21	Pteridophyte-Phylogeny-Group1-19	Phlegmariurus Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-22	Pteridophyte-Phylogeny-Group1-22	Pteridophyte-Phylogeny-Group1-22	Pteridophyte-Phylogeny-Group1-19	Phylloglossum Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-23	Pteridophyte-Phylogeny-Group1-23	Pteridophyte-Phylogeny-Group1-23	Pteridophyte-Phylogeny-Group1-1	Isoёtales Prantl	order	accepted
+Pteridophyte-Phylogeny-Group1-24	Pteridophyte-Phylogeny-Group1-24	Pteridophyte-Phylogeny-Group1-24	Pteridophyte-Phylogeny-Group1-23	Isoёtaceae Dumort. 	family	accepted
+Pteridophyte-Phylogeny-Group1-25	Pteridophyte-Phylogeny-Group1-25	Pteridophyte-Phylogeny-Group1-25	Pteridophyte-Phylogeny-Group1-24	Isoёtes L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-26	Pteridophyte-Phylogeny-Group1-26	Pteridophyte-Phylogeny-Group1-26	Pteridophyte-Phylogeny-Group1-1	Selaginellales Prantl	order	accepted
+Pteridophyte-Phylogeny-Group1-27	Pteridophyte-Phylogeny-Group1-27	Pteridophyte-Phylogeny-Group1-27	Pteridophyte-Phylogeny-Group1-26	Selaginellaceae Willk.	family	accepted
+Pteridophyte-Phylogeny-Group1-28	Pteridophyte-Phylogeny-Group1-28	Pteridophyte-Phylogeny-Group1-28	Pteridophyte-Phylogeny-Group1-27	Selaginella P.Beauv.	genus	accepted
+Pteridophyte-Phylogeny-Group1-29	Pteridophyte-Phylogeny-Group1-29	Pteridophyte-Phylogeny-Group1-29	0	Polypodiopsida Cronquist, Takht. & W.Zimm.	class	accepted
+Pteridophyte-Phylogeny-Group1-30	Pteridophyte-Phylogeny-Group1-30	Pteridophyte-Phylogeny-Group1-30	Pteridophyte-Phylogeny-Group1-29	Equisetidae Warm.	subclass	accepted
+Pteridophyte-Phylogeny-Group1-31	Pteridophyte-Phylogeny-Group1-31	Pteridophyte-Phylogeny-Group1-31	Pteridophyte-Phylogeny-Group1-30	Equisetales DC. ex Bercht. & J.Presl	order	accepted
+Pteridophyte-Phylogeny-Group1-32	Pteridophyte-Phylogeny-Group1-32	Pteridophyte-Phylogeny-Group1-32	Pteridophyte-Phylogeny-Group1-31	Equisetaceae Michx. ex DC.	family	accepted
+Pteridophyte-Phylogeny-Group1-33	Pteridophyte-Phylogeny-Group1-33	Pteridophyte-Phylogeny-Group1-33	Pteridophyte-Phylogeny-Group1-32	Equisetum L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-34	Pteridophyte-Phylogeny-Group1-34	Pteridophyte-Phylogeny-Group1-34	Pteridophyte-Phylogeny-Group1-29	Ophioglossidae Klinge	subclass	accepted
+Pteridophyte-Phylogeny-Group1-35	Pteridophyte-Phylogeny-Group1-35	Pteridophyte-Phylogeny-Group1-35	Pteridophyte-Phylogeny-Group1-34	Psilotales Prantl	order	accepted
+Pteridophyte-Phylogeny-Group1-36	Pteridophyte-Phylogeny-Group1-36	Pteridophyte-Phylogeny-Group1-36	Pteridophyte-Phylogeny-Group1-35	Psilotaceae J.W.Griff. & Henfr.	family	accepted
+Pteridophyte-Phylogeny-Group1-37	Pteridophyte-Phylogeny-Group1-37	Pteridophyte-Phylogeny-Group1-37	Pteridophyte-Phylogeny-Group1-36	Psilotum Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-38	Pteridophyte-Phylogeny-Group1-38	Pteridophyte-Phylogeny-Group1-38	Pteridophyte-Phylogeny-Group1-36	Tmesipteris Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-39	Pteridophyte-Phylogeny-Group1-39	Pteridophyte-Phylogeny-Group1-39	Pteridophyte-Phylogeny-Group1-29	Ophioglossales Link	order	accepted
+Pteridophyte-Phylogeny-Group1-40	Pteridophyte-Phylogeny-Group1-40	Pteridophyte-Phylogeny-Group1-40	Pteridophyte-Phylogeny-Group1-39	Ophioglossaceae Martinov	family	accepted
+Pteridophyte-Phylogeny-Group1-41	Pteridophyte-Phylogeny-Group1-41	Pteridophyte-Phylogeny-Group1-41	Pteridophyte-Phylogeny-Group1-40	Helminthostachyoideae C.Presl	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-42	Pteridophyte-Phylogeny-Group1-42	Pteridophyte-Phylogeny-Group1-42	Pteridophyte-Phylogeny-Group1-41	Helminthostachys Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-43	Pteridophyte-Phylogeny-Group1-43	Pteridophyte-Phylogeny-Group1-43	Pteridophyte-Phylogeny-Group1-40	Mankyuoideae J.R.Grant & B.Dauphin	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-44	Pteridophyte-Phylogeny-Group1-44	Pteridophyte-Phylogeny-Group1-44	Pteridophyte-Phylogeny-Group1-43	Mankyua B.Y.Sun, M.H.Kim & C.H.Kim	genus	accepted
+Pteridophyte-Phylogeny-Group1-45	Pteridophyte-Phylogeny-Group1-45	Pteridophyte-Phylogeny-Group1-45	Pteridophyte-Phylogeny-Group1-40	Ophioglossoideae C.Presl	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-46	Pteridophyte-Phylogeny-Group1-46	Pteridophyte-Phylogeny-Group1-46	Pteridophyte-Phylogeny-Group1-45	Cheiroglossa C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-47	Pteridophyte-Phylogeny-Group1-47	Pteridophyte-Phylogeny-Group1-47	Pteridophyte-Phylogeny-Group1-45	Ophioderma (Blume) Endl.	genus	accepted
+Pteridophyte-Phylogeny-Group1-48	Pteridophyte-Phylogeny-Group1-48	Pteridophyte-Phylogeny-Group1-48	Pteridophyte-Phylogeny-Group1-45	Ophioglossum L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-49	Pteridophyte-Phylogeny-Group1-49	Pteridophyte-Phylogeny-Group1-49	Pteridophyte-Phylogeny-Group1-45	Rhizoglossum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-50	Pteridophyte-Phylogeny-Group1-50	Pteridophyte-Phylogeny-Group1-50	Pteridophyte-Phylogeny-Group1-40	Botrychioideae C.Presl	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-51	Pteridophyte-Phylogeny-Group1-51	Pteridophyte-Phylogeny-Group1-51	Pteridophyte-Phylogeny-Group1-50	Botrychium Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-52	Pteridophyte-Phylogeny-Group1-52	Pteridophyte-Phylogeny-Group1-52	Pteridophyte-Phylogeny-Group1-50	Botrypus Michx.	genus	accepted
+Pteridophyte-Phylogeny-Group1-53	Pteridophyte-Phylogeny-Group1-53	Pteridophyte-Phylogeny-Group1-53	Pteridophyte-Phylogeny-Group1-50	Japanobotrychium Masam.	genus	accepted
+Pteridophyte-Phylogeny-Group1-54	Pteridophyte-Phylogeny-Group1-54	Pteridophyte-Phylogeny-Group1-54	Pteridophyte-Phylogeny-Group1-50	Sceptridium Lyon	genus	accepted
+Pteridophyte-Phylogeny-Group1-55	Pteridophyte-Phylogeny-Group1-55	Pteridophyte-Phylogeny-Group1-55	Pteridophyte-Phylogeny-Group1-29	Marattiidae Klinge	subclass	accepted
+Pteridophyte-Phylogeny-Group1-56	Pteridophyte-Phylogeny-Group1-56	Pteridophyte-Phylogeny-Group1-56	Pteridophyte-Phylogeny-Group1-55	Marattiales Link	order	accepted
+Pteridophyte-Phylogeny-Group1-57	Pteridophyte-Phylogeny-Group1-57	Pteridophyte-Phylogeny-Group1-57	Pteridophyte-Phylogeny-Group1-56	Marattiaceae Kaulf.	family	accepted
+Pteridophyte-Phylogeny-Group1-58	Pteridophyte-Phylogeny-Group1-58	Pteridophyte-Phylogeny-Group1-58	Pteridophyte-Phylogeny-Group1-57	Angiopteris Hoffm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-59	Pteridophyte-Phylogeny-Group1-59	Pteridophyte-Phylogeny-Group1-59	Pteridophyte-Phylogeny-Group1-57	Christensenia Maxon	genus	accepted
+Pteridophyte-Phylogeny-Group1-60	Pteridophyte-Phylogeny-Group1-60	Pteridophyte-Phylogeny-Group1-60	Pteridophyte-Phylogeny-Group1-57	Danaea Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-61	Pteridophyte-Phylogeny-Group1-61	Pteridophyte-Phylogeny-Group1-61	Pteridophyte-Phylogeny-Group1-57	Eupodium J.Sm. in Hooker	genus	accepted
+Pteridophyte-Phylogeny-Group1-62	Pteridophyte-Phylogeny-Group1-62	Pteridophyte-Phylogeny-Group1-62	Pteridophyte-Phylogeny-Group1-57	Marattia Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-63	Pteridophyte-Phylogeny-Group1-63	Pteridophyte-Phylogeny-Group1-63	Pteridophyte-Phylogeny-Group1-57	Ptisana Murdock	genus	accepted
+Pteridophyte-Phylogeny-Group1-64	Pteridophyte-Phylogeny-Group1-64	Pteridophyte-Phylogeny-Group1-64	Pteridophyte-Phylogeny-Group1-29	Polypodiidae Cronquist, Takht. & W.Zimm.	subclass	accepted
+Pteridophyte-Phylogeny-Group1-65	Pteridophyte-Phylogeny-Group1-65	Pteridophyte-Phylogeny-Group1-65	Pteridophyte-Phylogeny-Group1-64	Osmundales Link	order	accepted
+Pteridophyte-Phylogeny-Group1-66	Pteridophyte-Phylogeny-Group1-66	Pteridophyte-Phylogeny-Group1-66	Pteridophyte-Phylogeny-Group1-65	Osmundaceae Martinov	family	accepted
+Pteridophyte-Phylogeny-Group1-67	Pteridophyte-Phylogeny-Group1-67	Pteridophyte-Phylogeny-Group1-67	Pteridophyte-Phylogeny-Group1-66	Claytosmunda (Y.Yatabe N.Murak. & K.Iwats.) Metzgar & Rouhan	genus	accepted
+Pteridophyte-Phylogeny-Group1-68	Pteridophyte-Phylogeny-Group1-68	Pteridophyte-Phylogeny-Group1-68	Pteridophyte-Phylogeny-Group1-66	Leptopteris C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-69	Pteridophyte-Phylogeny-Group1-69	Pteridophyte-Phylogeny-Group1-69	Pteridophyte-Phylogeny-Group1-66	Osmunda L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-70	Pteridophyte-Phylogeny-Group1-70	Pteridophyte-Phylogeny-Group1-70	Pteridophyte-Phylogeny-Group1-66	Osmundastrum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-71	Pteridophyte-Phylogeny-Group1-71	Pteridophyte-Phylogeny-Group1-71	Pteridophyte-Phylogeny-Group1-66	Plenasium C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-72	Pteridophyte-Phylogeny-Group1-72	Pteridophyte-Phylogeny-Group1-72	Pteridophyte-Phylogeny-Group1-66	Todea Willd. ex Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-73	Pteridophyte-Phylogeny-Group1-73	Pteridophyte-Phylogeny-Group1-73	Pteridophyte-Phylogeny-Group1-64	Hymenophyllales A.B.Frank	order	accepted
+Pteridophyte-Phylogeny-Group1-74	Pteridophyte-Phylogeny-Group1-74	Pteridophyte-Phylogeny-Group1-74	Pteridophyte-Phylogeny-Group1-73	Hymenophyllaceae Mart.	family	accepted
+Pteridophyte-Phylogeny-Group1-75	Pteridophyte-Phylogeny-Group1-75	Pteridophyte-Phylogeny-Group1-75	Pteridophyte-Phylogeny-Group1-74	Trichomanoideae C.Presl	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-76	Pteridophyte-Phylogeny-Group1-76	Pteridophyte-Phylogeny-Group1-76	Pteridophyte-Phylogeny-Group1-75	Abrodictyum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-77	Pteridophyte-Phylogeny-Group1-77	Pteridophyte-Phylogeny-Group1-77	Pteridophyte-Phylogeny-Group1-75	Callistopteris Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-78	Pteridophyte-Phylogeny-Group1-78	Pteridophyte-Phylogeny-Group1-78	Pteridophyte-Phylogeny-Group1-75	Cephalomanes C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-79	Pteridophyte-Phylogeny-Group1-79	Pteridophyte-Phylogeny-Group1-79	Pteridophyte-Phylogeny-Group1-75	Crepidomanes C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-80	Pteridophyte-Phylogeny-Group1-80	Pteridophyte-Phylogeny-Group1-80	Pteridophyte-Phylogeny-Group1-75	Didymoglossum Desv.	genus	accepted
+Pteridophyte-Phylogeny-Group1-81	Pteridophyte-Phylogeny-Group1-81	Pteridophyte-Phylogeny-Group1-81	Pteridophyte-Phylogeny-Group1-75	Polyphlebium Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-82	Pteridophyte-Phylogeny-Group1-82	Pteridophyte-Phylogeny-Group1-82	Pteridophyte-Phylogeny-Group1-75	Trichomanes L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-83	Pteridophyte-Phylogeny-Group1-83	Pteridophyte-Phylogeny-Group1-83	Pteridophyte-Phylogeny-Group1-75	Vandenboschia Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-84	Pteridophyte-Phylogeny-Group1-84	Pteridophyte-Phylogeny-Group1-84	Pteridophyte-Phylogeny-Group1-74	Hymenophylloideae Burnett	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-85	Pteridophyte-Phylogeny-Group1-85	Pteridophyte-Phylogeny-Group1-85	Pteridophyte-Phylogeny-Group1-84	Hymenophyllum Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-86	Pteridophyte-Phylogeny-Group1-86	Pteridophyte-Phylogeny-Group1-86	Pteridophyte-Phylogeny-Group1-64	Gleicheniales Schimp.	order	accepted
+Pteridophyte-Phylogeny-Group1-87	Pteridophyte-Phylogeny-Group1-87	Pteridophyte-Phylogeny-Group1-87	Pteridophyte-Phylogeny-Group1-86	Matoniaceae C.Presl	family	accepted
+Pteridophyte-Phylogeny-Group1-88	Pteridophyte-Phylogeny-Group1-88	Pteridophyte-Phylogeny-Group1-88	Pteridophyte-Phylogeny-Group1-87	Matonia R.Br. ex Wall.	genus	accepted
+Pteridophyte-Phylogeny-Group1-89	Pteridophyte-Phylogeny-Group1-89	Pteridophyte-Phylogeny-Group1-89	Pteridophyte-Phylogeny-Group1-87	Phanerosorus Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-90	Pteridophyte-Phylogeny-Group1-90	Pteridophyte-Phylogeny-Group1-90	Pteridophyte-Phylogeny-Group1-86	Dipteridaceae Seward & E.Dale	family	accepted
+Pteridophyte-Phylogeny-Group1-91	Pteridophyte-Phylogeny-Group1-91	Pteridophyte-Phylogeny-Group1-91	Pteridophyte-Phylogeny-Group1-90	Cheiropleuria C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-92	Pteridophyte-Phylogeny-Group1-92	Pteridophyte-Phylogeny-Group1-92	Pteridophyte-Phylogeny-Group1-90	Dipteris Reinw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-93	Pteridophyte-Phylogeny-Group1-93	Pteridophyte-Phylogeny-Group1-93	Pteridophyte-Phylogeny-Group1-86	Gleicheniaceae C.Presl	family	accepted
+Pteridophyte-Phylogeny-Group1-94	Pteridophyte-Phylogeny-Group1-94	Pteridophyte-Phylogeny-Group1-94	Pteridophyte-Phylogeny-Group1-93	Dicranopteris Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-95	Pteridophyte-Phylogeny-Group1-95	Pteridophyte-Phylogeny-Group1-95	Pteridophyte-Phylogeny-Group1-93	Diplopterygium (Diels) Nakai	genus	accepted
+Pteridophyte-Phylogeny-Group1-96	Pteridophyte-Phylogeny-Group1-96	Pteridophyte-Phylogeny-Group1-96	Pteridophyte-Phylogeny-Group1-93	Gleichenella Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-97	Pteridophyte-Phylogeny-Group1-97	Pteridophyte-Phylogeny-Group1-97	Pteridophyte-Phylogeny-Group1-93	Gleichenia Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-98	Pteridophyte-Phylogeny-Group1-98	Pteridophyte-Phylogeny-Group1-98	Pteridophyte-Phylogeny-Group1-93	Sticherus C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-99	Pteridophyte-Phylogeny-Group1-99	Pteridophyte-Phylogeny-Group1-99	Pteridophyte-Phylogeny-Group1-93	Stromatopteris Mett.	genus	accepted
+Pteridophyte-Phylogeny-Group1-100	Pteridophyte-Phylogeny-Group1-100	Pteridophyte-Phylogeny-Group1-100	Pteridophyte-Phylogeny-Group1-64	Schizaeales Schimp.	order	accepted
+Pteridophyte-Phylogeny-Group1-101	Pteridophyte-Phylogeny-Group1-101	Pteridophyte-Phylogeny-Group1-101	Pteridophyte-Phylogeny-Group1-100	Lygodiaceae M.Roem.	family	accepted
+Pteridophyte-Phylogeny-Group1-102	Pteridophyte-Phylogeny-Group1-102	Pteridophyte-Phylogeny-Group1-102	Pteridophyte-Phylogeny-Group1-101	Lygodium Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-103	Pteridophyte-Phylogeny-Group1-103	Pteridophyte-Phylogeny-Group1-103	Pteridophyte-Phylogeny-Group1-100	Schizaeaceae Kaulf.	family	accepted
+Pteridophyte-Phylogeny-Group1-104	Pteridophyte-Phylogeny-Group1-104	Pteridophyte-Phylogeny-Group1-104	Pteridophyte-Phylogeny-Group1-103	Actinostachys Wall.	genus	accepted
+Pteridophyte-Phylogeny-Group1-105	Pteridophyte-Phylogeny-Group1-105	Pteridophyte-Phylogeny-Group1-105	Pteridophyte-Phylogeny-Group1-103	Schizaea Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-106	Pteridophyte-Phylogeny-Group1-106	Pteridophyte-Phylogeny-Group1-106	Pteridophyte-Phylogeny-Group1-100	Anemiaceae Link	family	accepted
+Pteridophyte-Phylogeny-Group1-107	Pteridophyte-Phylogeny-Group1-107	Pteridophyte-Phylogeny-Group1-107	Pteridophyte-Phylogeny-Group1-106	Anemia Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-108	Pteridophyte-Phylogeny-Group1-108	Pteridophyte-Phylogeny-Group1-108	Pteridophyte-Phylogeny-Group1-64	Salviniales Link	order	accepted
+Pteridophyte-Phylogeny-Group1-109	Pteridophyte-Phylogeny-Group1-109	Pteridophyte-Phylogeny-Group1-109	Pteridophyte-Phylogeny-Group1-108	Salviniaceae Martinov	family	accepted
+Pteridophyte-Phylogeny-Group1-110	Pteridophyte-Phylogeny-Group1-110	Pteridophyte-Phylogeny-Group1-110	Pteridophyte-Phylogeny-Group1-109	Azolla Lam.	genus	accepted
+Pteridophyte-Phylogeny-Group1-111	Pteridophyte-Phylogeny-Group1-111	Pteridophyte-Phylogeny-Group1-111	Pteridophyte-Phylogeny-Group1-109	Salvinia Ség.	genus	accepted
+Pteridophyte-Phylogeny-Group1-112	Pteridophyte-Phylogeny-Group1-112	Pteridophyte-Phylogeny-Group1-112	Pteridophyte-Phylogeny-Group1-108	Marsileaceae Mirb.	family	accepted
+Pteridophyte-Phylogeny-Group1-113	Pteridophyte-Phylogeny-Group1-113	Pteridophyte-Phylogeny-Group1-113	Pteridophyte-Phylogeny-Group1-112	Marsilea L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-114	Pteridophyte-Phylogeny-Group1-114	Pteridophyte-Phylogeny-Group1-114	Pteridophyte-Phylogeny-Group1-112	Pilularia L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-115	Pteridophyte-Phylogeny-Group1-115	Pteridophyte-Phylogeny-Group1-115	Pteridophyte-Phylogeny-Group1-112	Regnellidium Lindm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-116	Pteridophyte-Phylogeny-Group1-116	Pteridophyte-Phylogeny-Group1-116	Pteridophyte-Phylogeny-Group1-64	Cyatheales A.B.Frank in Leunis	order	accepted
+Pteridophyte-Phylogeny-Group1-117	Pteridophyte-Phylogeny-Group1-117	Pteridophyte-Phylogeny-Group1-117	Pteridophyte-Phylogeny-Group1-116	Thyrsopteridaceae C.Pres	family	accepted
+Pteridophyte-Phylogeny-Group1-118	Pteridophyte-Phylogeny-Group1-118	Pteridophyte-Phylogeny-Group1-118	Pteridophyte-Phylogeny-Group1-117	Thyrsopteris Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-119	Pteridophyte-Phylogeny-Group1-119	Pteridophyte-Phylogeny-Group1-119	Pteridophyte-Phylogeny-Group1-116	Loxsomataceae C.Presl	family	accepted
+Pteridophyte-Phylogeny-Group1-120	Pteridophyte-Phylogeny-Group1-120	Pteridophyte-Phylogeny-Group1-120	Pteridophyte-Phylogeny-Group1-119	Loxsoma R.Br. ex Hook. in A.Cunn.	genus	accepted
+Pteridophyte-Phylogeny-Group1-121	Pteridophyte-Phylogeny-Group1-121	Pteridophyte-Phylogeny-Group1-121	Pteridophyte-Phylogeny-Group1-119	Loxsomopsis Christ	genus	accepted
+Pteridophyte-Phylogeny-Group1-122	Pteridophyte-Phylogeny-Group1-122	Pteridophyte-Phylogeny-Group1-122	Pteridophyte-Phylogeny-Group1-116	Culcitaceae Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-123	Pteridophyte-Phylogeny-Group1-123	Pteridophyte-Phylogeny-Group1-123	Pteridophyte-Phylogeny-Group1-122	Culcita C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-124	Pteridophyte-Phylogeny-Group1-124	Pteridophyte-Phylogeny-Group1-124	Pteridophyte-Phylogeny-Group1-116	Plagiogyriaceae Bower	family	accepted
+Pteridophyte-Phylogeny-Group1-125	Pteridophyte-Phylogeny-Group1-125	Pteridophyte-Phylogeny-Group1-125	Pteridophyte-Phylogeny-Group1-124	Plagiogyria (Kunze) Mett.	genus	accepted
+Pteridophyte-Phylogeny-Group1-126	Pteridophyte-Phylogeny-Group1-126	Pteridophyte-Phylogeny-Group1-126	Pteridophyte-Phylogeny-Group1-116	Cibotiaceae Korall	family	accepted
+Pteridophyte-Phylogeny-Group1-127	Pteridophyte-Phylogeny-Group1-127	Pteridophyte-Phylogeny-Group1-127	Pteridophyte-Phylogeny-Group1-126	Cibotium Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-128	Pteridophyte-Phylogeny-Group1-128	Pteridophyte-Phylogeny-Group1-128	Pteridophyte-Phylogeny-Group1-116	Metaxyaceae Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-129	Pteridophyte-Phylogeny-Group1-129	Pteridophyte-Phylogeny-Group1-129	Pteridophyte-Phylogeny-Group1-128	Metaxya C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-130	Pteridophyte-Phylogeny-Group1-130	Pteridophyte-Phylogeny-Group1-130	Pteridophyte-Phylogeny-Group1-116	Dicksoniaceae M.R.Schomb.	family	accepted
+Pteridophyte-Phylogeny-Group1-131	Pteridophyte-Phylogeny-Group1-131	Pteridophyte-Phylogeny-Group1-131	Pteridophyte-Phylogeny-Group1-130	Calochlaena (Maxon) M.D.Turner & R.A.White	genus	accepted
+Pteridophyte-Phylogeny-Group1-132	Pteridophyte-Phylogeny-Group1-132	Pteridophyte-Phylogeny-Group1-132	Pteridophyte-Phylogeny-Group1-130	Dicksonia L'Hér.	genus	accepted
+Pteridophyte-Phylogeny-Group1-133	Pteridophyte-Phylogeny-Group1-133	Pteridophyte-Phylogeny-Group1-133	Pteridophyte-Phylogeny-Group1-130	Lophosoria C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-134	Pteridophyte-Phylogeny-Group1-134	Pteridophyte-Phylogeny-Group1-134	Pteridophyte-Phylogeny-Group1-116	Cyatheaceae Kaulf.	family	accepted
+Pteridophyte-Phylogeny-Group1-135	Pteridophyte-Phylogeny-Group1-135	Pteridophyte-Phylogeny-Group1-135	Pteridophyte-Phylogeny-Group1-134	Alsophila R.Br.	genus	accepted
+Pteridophyte-Phylogeny-Group1-136	Pteridophyte-Phylogeny-Group1-136	Pteridophyte-Phylogeny-Group1-136	Pteridophyte-Phylogeny-Group1-134	Cyathea Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-137	Pteridophyte-Phylogeny-Group1-137	Pteridophyte-Phylogeny-Group1-137	Pteridophyte-Phylogeny-Group1-134	Sphaeropteris Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-138	Pteridophyte-Phylogeny-Group1-138	Pteridophyte-Phylogeny-Group1-138	Pteridophyte-Phylogeny-Group1-64	Polypodiales Link	order	accepted
+Pteridophyte-Phylogeny-Group1-139	Pteridophyte-Phylogeny-Group1-139	Pteridophyte-Phylogeny-Group1-139	Pteridophyte-Phylogeny-Group1-138	Saccolomatineae Hovenkamp	suborder	accepted
+Pteridophyte-Phylogeny-Group1-140	Pteridophyte-Phylogeny-Group1-140	Pteridophyte-Phylogeny-Group1-140	Pteridophyte-Phylogeny-Group1-139	Saccolomataceae Doweld	family	accepted
+Pteridophyte-Phylogeny-Group1-141	Pteridophyte-Phylogeny-Group1-141	Pteridophyte-Phylogeny-Group1-141	Pteridophyte-Phylogeny-Group1-140	Saccoloma Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-142	Pteridophyte-Phylogeny-Group1-142	Pteridophyte-Phylogeny-Group1-142	Pteridophyte-Phylogeny-Group1-138	Lindsaeineae Lehtonen & Tuomisto	suborder	accepted
+Pteridophyte-Phylogeny-Group1-143	Pteridophyte-Phylogeny-Group1-143	Pteridophyte-Phylogeny-Group1-143	Pteridophyte-Phylogeny-Group1-142	Cystodiaceae J.R.Croft	family	accepted
+Pteridophyte-Phylogeny-Group1-144	Pteridophyte-Phylogeny-Group1-144	Pteridophyte-Phylogeny-Group1-144	Pteridophyte-Phylogeny-Group1-143	Cystodium J.Sm	genus	accepted
+Pteridophyte-Phylogeny-Group1-145	Pteridophyte-Phylogeny-Group1-145	Pteridophyte-Phylogeny-Group1-145	Pteridophyte-Phylogeny-Group1-142	Lonchitidaceae Doweld	family	accepted
+Pteridophyte-Phylogeny-Group1-146	Pteridophyte-Phylogeny-Group1-146	Pteridophyte-Phylogeny-Group1-146	Pteridophyte-Phylogeny-Group1-145	Lonchitis L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-147	Pteridophyte-Phylogeny-Group1-147	Pteridophyte-Phylogeny-Group1-147	Pteridophyte-Phylogeny-Group1-142	Lindsaeaceae C.Presl ex M.R.Schomb.	family	accepted
+Pteridophyte-Phylogeny-Group1-148	Pteridophyte-Phylogeny-Group1-148	Pteridophyte-Phylogeny-Group1-148	Pteridophyte-Phylogeny-Group1-147	Lindsaea Dryand. ex Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-149	Pteridophyte-Phylogeny-Group1-149	Pteridophyte-Phylogeny-Group1-149	Pteridophyte-Phylogeny-Group1-147	Nesolindsaea Lehtonen & Christenh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-150	Pteridophyte-Phylogeny-Group1-150	Pteridophyte-Phylogeny-Group1-150	Pteridophyte-Phylogeny-Group1-147	Odontosoria Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-151	Pteridophyte-Phylogeny-Group1-151	Pteridophyte-Phylogeny-Group1-151	Pteridophyte-Phylogeny-Group1-147	Osmolindsaea (K.U.Kramer) Lehtonen & Christenh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-152	Pteridophyte-Phylogeny-Group1-152	Pteridophyte-Phylogeny-Group1-152	Pteridophyte-Phylogeny-Group1-147	Sphenomeris Maxon	genus	accepted
+Pteridophyte-Phylogeny-Group1-153	Pteridophyte-Phylogeny-Group1-153	Pteridophyte-Phylogeny-Group1-153	Pteridophyte-Phylogeny-Group1-147	Tapeinidium (C.Presl) C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-154	Pteridophyte-Phylogeny-Group1-154	Pteridophyte-Phylogeny-Group1-154	Pteridophyte-Phylogeny-Group1-147	Xyropteris K.U.Kramer	genus	accepted
+Pteridophyte-Phylogeny-Group1-155	Pteridophyte-Phylogeny-Group1-155	Pteridophyte-Phylogeny-Group1-155	Pteridophyte-Phylogeny-Group1-138	Pteridineae J.Prado & Schuettp.	suborder	accepted
+Pteridophyte-Phylogeny-Group1-156	Pteridophyte-Phylogeny-Group1-156	Pteridophyte-Phylogeny-Group1-156	Pteridophyte-Phylogeny-Group1-155	Pteridaceae E.D.M.Kirchn.	family	accepted
+Pteridophyte-Phylogeny-Group1-157	Pteridophyte-Phylogeny-Group1-157	Pteridophyte-Phylogeny-Group1-157	Pteridophyte-Phylogeny-Group1-156	Parkerioideae Burnett	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-158	Pteridophyte-Phylogeny-Group1-158	Pteridophyte-Phylogeny-Group1-158	Pteridophyte-Phylogeny-Group1-157	Acrostichum L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-159	Pteridophyte-Phylogeny-Group1-159	Pteridophyte-Phylogeny-Group1-159	Pteridophyte-Phylogeny-Group1-157	Ceratopteris Brongn.	genus	accepted
+Pteridophyte-Phylogeny-Group1-160	Pteridophyte-Phylogeny-Group1-160	Pteridophyte-Phylogeny-Group1-160	Pteridophyte-Phylogeny-Group1-156	Cryptogrammoideae S.Lindsay	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-161	Pteridophyte-Phylogeny-Group1-161	Pteridophyte-Phylogeny-Group1-161	Pteridophyte-Phylogeny-Group1-160	Coniogramme Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-162	Pteridophyte-Phylogeny-Group1-162	Pteridophyte-Phylogeny-Group1-162	Pteridophyte-Phylogeny-Group1-160	Cryptogramma R.Br.	genus	accepted
+Pteridophyte-Phylogeny-Group1-163	Pteridophyte-Phylogeny-Group1-163	Pteridophyte-Phylogeny-Group1-163	Pteridophyte-Phylogeny-Group1-160	Llavea Lag.	genus	accepted
+Pteridophyte-Phylogeny-Group1-164	Pteridophyte-Phylogeny-Group1-164	Pteridophyte-Phylogeny-Group1-164	Pteridophyte-Phylogeny-Group1-156	Pteridoideae Link	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-165	Pteridophyte-Phylogeny-Group1-165	Pteridophyte-Phylogeny-Group1-165	Pteridophyte-Phylogeny-Group1-164	Actiniopteris Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-166	Pteridophyte-Phylogeny-Group1-166	Pteridophyte-Phylogeny-Group1-166	Pteridophyte-Phylogeny-Group1-164	Anogramma Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-167	Pteridophyte-Phylogeny-Group1-167	Pteridophyte-Phylogeny-Group1-167	Pteridophyte-Phylogeny-Group1-164	Austrogramme E.Fourn.	genus	accepted
+Pteridophyte-Phylogeny-Group1-168	Pteridophyte-Phylogeny-Group1-168	Pteridophyte-Phylogeny-Group1-168	Pteridophyte-Phylogeny-Group1-164	Cerosora Domin	genus	accepted
+Pteridophyte-Phylogeny-Group1-169	Pteridophyte-Phylogeny-Group1-169	Pteridophyte-Phylogeny-Group1-169	Pteridophyte-Phylogeny-Group1-164	Cosentinia Tod.	genus	accepted
+Pteridophyte-Phylogeny-Group1-170	Pteridophyte-Phylogeny-Group1-170	Pteridophyte-Phylogeny-Group1-170	Pteridophyte-Phylogeny-Group1-164	Jamesonia Hook. & Grev.	genus	accepted
+Pteridophyte-Phylogeny-Group1-171	Pteridophyte-Phylogeny-Group1-171	Pteridophyte-Phylogeny-Group1-171	Pteridophyte-Phylogeny-Group1-164	Onychium Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-172	Pteridophyte-Phylogeny-Group1-172	Pteridophyte-Phylogeny-Group1-172	Pteridophyte-Phylogeny-Group1-164	Pityrogramma Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-173	Pteridophyte-Phylogeny-Group1-173	Pteridophyte-Phylogeny-Group1-173	Pteridophyte-Phylogeny-Group1-164	Pteris L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-174	Pteridophyte-Phylogeny-Group1-174	Pteridophyte-Phylogeny-Group1-174	Pteridophyte-Phylogeny-Group1-164	Pterozonium Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-175	Pteridophyte-Phylogeny-Group1-175	Pteridophyte-Phylogeny-Group1-175	Pteridophyte-Phylogeny-Group1-164	Syngramma J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-176	Pteridophyte-Phylogeny-Group1-176	Pteridophyte-Phylogeny-Group1-176	Pteridophyte-Phylogeny-Group1-164	Taenitis Willd. ex Schkuhr	genus	accepted
+Pteridophyte-Phylogeny-Group1-177	Pteridophyte-Phylogeny-Group1-177	Pteridophyte-Phylogeny-Group1-177	Pteridophyte-Phylogeny-Group1-164	Tryonia Schuettp.	genus	accepted
+Pteridophyte-Phylogeny-Group1-178	Pteridophyte-Phylogeny-Group1-178	Pteridophyte-Phylogeny-Group1-178	Pteridophyte-Phylogeny-Group1-156	Vittarioideae Link	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-179	Pteridophyte-Phylogeny-Group1-179	Pteridophyte-Phylogeny-Group1-179	Pteridophyte-Phylogeny-Group1-178	Adiantum L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-180	Pteridophyte-Phylogeny-Group1-180	Pteridophyte-Phylogeny-Group1-180	Pteridophyte-Phylogeny-Group1-178	Ananthacorus Underw. & Maxon	genus	accepted
+Pteridophyte-Phylogeny-Group1-181	Pteridophyte-Phylogeny-Group1-181	Pteridophyte-Phylogeny-Group1-181	Pteridophyte-Phylogeny-Group1-178	Antrophyopsis (Benedict) Schuettp.	genus	accepted
+Pteridophyte-Phylogeny-Group1-182	Pteridophyte-Phylogeny-Group1-182	Pteridophyte-Phylogeny-Group1-182	Pteridophyte-Phylogeny-Group1-178	Antrophyum Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-183	Pteridophyte-Phylogeny-Group1-183	Pteridophyte-Phylogeny-Group1-183	Pteridophyte-Phylogeny-Group1-178	Haplopteris C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-184	Pteridophyte-Phylogeny-Group1-184	Pteridophyte-Phylogeny-Group1-184	Pteridophyte-Phylogeny-Group1-178	Hecistopteris J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-185	Pteridophyte-Phylogeny-Group1-185	Pteridophyte-Phylogeny-Group1-185	Pteridophyte-Phylogeny-Group1-178	Polytaenium Desv.	genus	accepted
+Pteridophyte-Phylogeny-Group1-186	Pteridophyte-Phylogeny-Group1-186	Pteridophyte-Phylogeny-Group1-186	Pteridophyte-Phylogeny-Group1-178	Radiovittaria (Benedict) E.H.Crane	genus	accepted
+Pteridophyte-Phylogeny-Group1-187	Pteridophyte-Phylogeny-Group1-187	Pteridophyte-Phylogeny-Group1-187	Pteridophyte-Phylogeny-Group1-178	Rheopteris Alston	genus	accepted
+Pteridophyte-Phylogeny-Group1-188	Pteridophyte-Phylogeny-Group1-188	Pteridophyte-Phylogeny-Group1-188	Pteridophyte-Phylogeny-Group1-178	Scoliosorus T.Moore	genus	accepted
+Pteridophyte-Phylogeny-Group1-189	Pteridophyte-Phylogeny-Group1-189	Pteridophyte-Phylogeny-Group1-189	Pteridophyte-Phylogeny-Group1-178	Vaginularia Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-190	Pteridophyte-Phylogeny-Group1-190	Pteridophyte-Phylogeny-Group1-190	Pteridophyte-Phylogeny-Group1-178	Vittaria Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-191	Pteridophyte-Phylogeny-Group1-191	Pteridophyte-Phylogeny-Group1-191	Pteridophyte-Phylogeny-Group1-156	Cheilanthoideae Horvat	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-192	Pteridophyte-Phylogeny-Group1-192	Pteridophyte-Phylogeny-Group1-192	Pteridophyte-Phylogeny-Group1-191	Adiantopsis Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-193	Pteridophyte-Phylogeny-Group1-193	Pteridophyte-Phylogeny-Group1-193	Pteridophyte-Phylogeny-Group1-191	Aleuritopteris Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-194	Pteridophyte-Phylogeny-Group1-194	Pteridophyte-Phylogeny-Group1-194	Pteridophyte-Phylogeny-Group1-191	Allosorus Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-195	Pteridophyte-Phylogeny-Group1-195	Pteridophyte-Phylogeny-Group1-195	Pteridophyte-Phylogeny-Group1-191	Argyrochosma (J.Sm.) Windham	genus	accepted
+Pteridophyte-Phylogeny-Group1-196	Pteridophyte-Phylogeny-Group1-196	Pteridophyte-Phylogeny-Group1-196	Pteridophyte-Phylogeny-Group1-191	Aspidotis (Nutt. ex Hook.) Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-197	Pteridophyte-Phylogeny-Group1-197	Pteridophyte-Phylogeny-Group1-197	Pteridophyte-Phylogeny-Group1-191	Astrolepis D.M.Benham & Windham	genus	accepted
+Pteridophyte-Phylogeny-Group1-198	Pteridophyte-Phylogeny-Group1-198	Pteridophyte-Phylogeny-Group1-198	Pteridophyte-Phylogeny-Group1-191	Bommeria E.Fourn.	genus	accepted
+Pteridophyte-Phylogeny-Group1-199	Pteridophyte-Phylogeny-Group1-199	Pteridophyte-Phylogeny-Group1-199	Pteridophyte-Phylogeny-Group1-191	Calciphilopteris Yesilyurt & H.Schneid.	genus	accepted
+Pteridophyte-Phylogeny-Group1-200	Pteridophyte-Phylogeny-Group1-200	Pteridophyte-Phylogeny-Group1-200	Pteridophyte-Phylogeny-Group1-191	Cheilanthes Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-201	Pteridophyte-Phylogeny-Group1-201	Pteridophyte-Phylogeny-Group1-201	Pteridophyte-Phylogeny-Group1-191	Cheiloplecton Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-202	Pteridophyte-Phylogeny-Group1-202	Pteridophyte-Phylogeny-Group1-202	Pteridophyte-Phylogeny-Group1-191	Doryopteris J.Sm. emend. J.C.Yesilyurt	genus	accepted
+Pteridophyte-Phylogeny-Group1-203	Pteridophyte-Phylogeny-Group1-203	Pteridophyte-Phylogeny-Group1-203	Pteridophyte-Phylogeny-Group1-191	Gaga Pryer	genus	accepted
+Pteridophyte-Phylogeny-Group1-204	Pteridophyte-Phylogeny-Group1-204	Pteridophyte-Phylogeny-Group1-204	Pteridophyte-Phylogeny-Group1-191	Hemionitis L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-205	Pteridophyte-Phylogeny-Group1-205	Pteridophyte-Phylogeny-Group1-205	Pteridophyte-Phylogeny-Group1-191	Lytoneuron (Klotzsch) Yesilyurt	genus	accepted
+Pteridophyte-Phylogeny-Group1-206	Pteridophyte-Phylogeny-Group1-206	Pteridophyte-Phylogeny-Group1-206	Pteridophyte-Phylogeny-Group1-191	Mildella Trevis.	genus	accepted
+Pteridophyte-Phylogeny-Group1-207	Pteridophyte-Phylogeny-Group1-207	Pteridophyte-Phylogeny-Group1-207	Pteridophyte-Phylogeny-Group1-191	Myriopteris Fée emend. Grusz & Windham	genus	accepted
+Pteridophyte-Phylogeny-Group1-208	Pteridophyte-Phylogeny-Group1-208	Pteridophyte-Phylogeny-Group1-208	Pteridophyte-Phylogeny-Group1-191	Notholaena R.Br.	genus	accepted
+Pteridophyte-Phylogeny-Group1-209	Pteridophyte-Phylogeny-Group1-209	Pteridophyte-Phylogeny-Group1-209	Pteridophyte-Phylogeny-Group1-191	Ormopteris J.Sm. ex J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-210	Pteridophyte-Phylogeny-Group1-210	Pteridophyte-Phylogeny-Group1-210	Pteridophyte-Phylogeny-Group1-191	Paragymnopteris K.H.Shing	genus	accepted
+Pteridophyte-Phylogeny-Group1-211	Pteridophyte-Phylogeny-Group1-211	Pteridophyte-Phylogeny-Group1-211	Pteridophyte-Phylogeny-Group1-191	Parahemionitis Panigrahi	genus	accepted
+Pteridophyte-Phylogeny-Group1-212	Pteridophyte-Phylogeny-Group1-212	Pteridophyte-Phylogeny-Group1-212	Pteridophyte-Phylogeny-Group1-191	Pellaea Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-213	Pteridophyte-Phylogeny-Group1-213	Pteridophyte-Phylogeny-Group1-213	Pteridophyte-Phylogeny-Group1-191	Pentagramma Yatsk.	genus	accepted
+Pteridophyte-Phylogeny-Group1-214	Pteridophyte-Phylogeny-Group1-214	Pteridophyte-Phylogeny-Group1-214	Pteridophyte-Phylogeny-Group1-191	Trachypteris André ex Christ	genus	accepted
+Pteridophyte-Phylogeny-Group1-215	Pteridophyte-Phylogeny-Group1-215	Pteridophyte-Phylogeny-Group1-215	Pteridophyte-Phylogeny-Group1-138	Dennstaedtiineae Schwartsb. & Hovenkamp	suborder	accepted
+Pteridophyte-Phylogeny-Group1-216	Pteridophyte-Phylogeny-Group1-216	Pteridophyte-Phylogeny-Group1-216	Pteridophyte-Phylogeny-Group1-215	Dennstaedtiaceae Lotsy	family	accepted
+Pteridophyte-Phylogeny-Group1-217	Pteridophyte-Phylogeny-Group1-217	Pteridophyte-Phylogeny-Group1-217	Pteridophyte-Phylogeny-Group1-216	Blotiella R.M.Tryon	genus	accepted
+Pteridophyte-Phylogeny-Group1-218	Pteridophyte-Phylogeny-Group1-218	Pteridophyte-Phylogeny-Group1-218	Pteridophyte-Phylogeny-Group1-216	Dennstaedtia Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-219	Pteridophyte-Phylogeny-Group1-219	Pteridophyte-Phylogeny-Group1-219	Pteridophyte-Phylogeny-Group1-216	Histiopteris (J.Agardh) J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-220	Pteridophyte-Phylogeny-Group1-220	Pteridophyte-Phylogeny-Group1-220	Pteridophyte-Phylogeny-Group1-216	Hypolepis Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-221	Pteridophyte-Phylogeny-Group1-221	Pteridophyte-Phylogeny-Group1-221	Pteridophyte-Phylogeny-Group1-216	Leptolepia Mett. ex Prantl	genus	accepted
+Pteridophyte-Phylogeny-Group1-222	Pteridophyte-Phylogeny-Group1-222	Pteridophyte-Phylogeny-Group1-222	Pteridophyte-Phylogeny-Group1-216	Microlepia C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-223	Pteridophyte-Phylogeny-Group1-223	Pteridophyte-Phylogeny-Group1-223	Pteridophyte-Phylogeny-Group1-216	Monachosorum Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-224	Pteridophyte-Phylogeny-Group1-224	Pteridophyte-Phylogeny-Group1-224	Pteridophyte-Phylogeny-Group1-216	Oenotrichia Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-225	Pteridophyte-Phylogeny-Group1-225	Pteridophyte-Phylogeny-Group1-225	Pteridophyte-Phylogeny-Group1-216	Paesia A.St.-Hil.	genus	accepted
+Pteridophyte-Phylogeny-Group1-226	Pteridophyte-Phylogeny-Group1-226	Pteridophyte-Phylogeny-Group1-226	Pteridophyte-Phylogeny-Group1-216	Pteridium Gled. ex Scop.	genus	accepted
+Pteridophyte-Phylogeny-Group1-227	Pteridophyte-Phylogeny-Group1-227	Pteridophyte-Phylogeny-Group1-227	Pteridophyte-Phylogeny-Group1-138	Aspleniineae H.Schneid. & C.J.Rothf.	suborder	accepted
+Pteridophyte-Phylogeny-Group1-228	Pteridophyte-Phylogeny-Group1-228	Pteridophyte-Phylogeny-Group1-228	Pteridophyte-Phylogeny-Group1-227	Cystopteridaceae Shmakov	family	accepted
+Pteridophyte-Phylogeny-Group1-229	Pteridophyte-Phylogeny-Group1-229	Pteridophyte-Phylogeny-Group1-229	Pteridophyte-Phylogeny-Group1-228	Acystopteris Nakai	genus	accepted
+Pteridophyte-Phylogeny-Group1-230	Pteridophyte-Phylogeny-Group1-230	Pteridophyte-Phylogeny-Group1-230	Pteridophyte-Phylogeny-Group1-228	Cystopteris Bernh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-231	Pteridophyte-Phylogeny-Group1-231	Pteridophyte-Phylogeny-Group1-231	Pteridophyte-Phylogeny-Group1-228	Gymnocarpium Newman	genus	accepted
+Pteridophyte-Phylogeny-Group1-232	Pteridophyte-Phylogeny-Group1-232	Pteridophyte-Phylogeny-Group1-232	Pteridophyte-Phylogeny-Group1-227	Rhachidosoraceae X.C.Zhang	family	accepted
+Pteridophyte-Phylogeny-Group1-233	Pteridophyte-Phylogeny-Group1-233	Pteridophyte-Phylogeny-Group1-233	Pteridophyte-Phylogeny-Group1-232	Rhachidosorus Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-234	Pteridophyte-Phylogeny-Group1-234	Pteridophyte-Phylogeny-Group1-234	Pteridophyte-Phylogeny-Group1-227	Diplaziopsidaceae X.C.Zhang & Christenh.	family	accepted
+Pteridophyte-Phylogeny-Group1-235	Pteridophyte-Phylogeny-Group1-235	Pteridophyte-Phylogeny-Group1-235	Pteridophyte-Phylogeny-Group1-234	Diplaziopsis C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-236	Pteridophyte-Phylogeny-Group1-236	Pteridophyte-Phylogeny-Group1-236	Pteridophyte-Phylogeny-Group1-234	Homalosorus Small ex Pic.Serm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-237	Pteridophyte-Phylogeny-Group1-237	Pteridophyte-Phylogeny-Group1-237	Pteridophyte-Phylogeny-Group1-227	Desmophlebiaceae Mynssen, A.Vasco, Sylvestre, R.C.Moran & Rouhan	family	accepted
+Pteridophyte-Phylogeny-Group1-238	Pteridophyte-Phylogeny-Group1-238	Pteridophyte-Phylogeny-Group1-238	Pteridophyte-Phylogeny-Group1-237	Desmophlebium Mynssen	genus	accepted
+Pteridophyte-Phylogeny-Group1-239	Pteridophyte-Phylogeny-Group1-239	Pteridophyte-Phylogeny-Group1-239	Pteridophyte-Phylogeny-Group1-227	Hemidictyaceae Christenh. & H.Schneid.	family	accepted
+Pteridophyte-Phylogeny-Group1-240	Pteridophyte-Phylogeny-Group1-240	Pteridophyte-Phylogeny-Group1-240	Pteridophyte-Phylogeny-Group1-239	Hemidictyum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-241	Pteridophyte-Phylogeny-Group1-241	Pteridophyte-Phylogeny-Group1-241	Pteridophyte-Phylogeny-Group1-227	Aspleniaceae Newman	family	accepted
+Pteridophyte-Phylogeny-Group1-242	Pteridophyte-Phylogeny-Group1-242	Pteridophyte-Phylogeny-Group1-242	Pteridophyte-Phylogeny-Group1-241	Asplenium L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-243	Pteridophyte-Phylogeny-Group1-243	Pteridophyte-Phylogeny-Group1-243	Pteridophyte-Phylogeny-Group1-241	Hymenasplenium Hayata	genus	accepted
+Pteridophyte-Phylogeny-Group1-244	Pteridophyte-Phylogeny-Group1-244	Pteridophyte-Phylogeny-Group1-244	Pteridophyte-Phylogeny-Group1-227	Woodsiaceae Herter	family	accepted
+Pteridophyte-Phylogeny-Group1-245	Pteridophyte-Phylogeny-Group1-245	Pteridophyte-Phylogeny-Group1-245	Pteridophyte-Phylogeny-Group1-244	Woodsia R.Br.	genus	accepted
+Pteridophyte-Phylogeny-Group1-246	Pteridophyte-Phylogeny-Group1-246	Pteridophyte-Phylogeny-Group1-246	Pteridophyte-Phylogeny-Group1-227	Onocleaceae Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-247	Pteridophyte-Phylogeny-Group1-247	Pteridophyte-Phylogeny-Group1-247	Pteridophyte-Phylogeny-Group1-246	Matteuccia Tod.	genus	accepted
+Pteridophyte-Phylogeny-Group1-248	Pteridophyte-Phylogeny-Group1-248	Pteridophyte-Phylogeny-Group1-248	Pteridophyte-Phylogeny-Group1-246	Onoclea L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-249	Pteridophyte-Phylogeny-Group1-249	Pteridophyte-Phylogeny-Group1-249	Pteridophyte-Phylogeny-Group1-246	Onocleopsis F.Ballard	genus	accepted
+Pteridophyte-Phylogeny-Group1-250	Pteridophyte-Phylogeny-Group1-250	Pteridophyte-Phylogeny-Group1-250	Pteridophyte-Phylogeny-Group1-246	Pentarhizidium Hayata	genus	accepted
+Pteridophyte-Phylogeny-Group1-251	Pteridophyte-Phylogeny-Group1-251	Pteridophyte-Phylogeny-Group1-251	Pteridophyte-Phylogeny-Group1-227	Blechnaceae Newman	family	accepted
+Pteridophyte-Phylogeny-Group1-252	Pteridophyte-Phylogeny-Group1-252	Pteridophyte-Phylogeny-Group1-252	Pteridophyte-Phylogeny-Group1-251	Stenochlaenoideae (Ching) J.P.Roux	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-253	Pteridophyte-Phylogeny-Group1-253	Pteridophyte-Phylogeny-Group1-253	Pteridophyte-Phylogeny-Group1-252	Salpichlaena J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-254	Pteridophyte-Phylogeny-Group1-254	Pteridophyte-Phylogeny-Group1-254	Pteridophyte-Phylogeny-Group1-252	Stenochlaena J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-255	Pteridophyte-Phylogeny-Group1-255	Pteridophyte-Phylogeny-Group1-255	Pteridophyte-Phylogeny-Group1-252	Telmatoblechnum Perrie	genus	accepted
+Pteridophyte-Phylogeny-Group1-256	Pteridophyte-Phylogeny-Group1-256	Pteridophyte-Phylogeny-Group1-256	Pteridophyte-Phylogeny-Group1-251	Woodwardioideae Gasper	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-257	Pteridophyte-Phylogeny-Group1-257	Pteridophyte-Phylogeny-Group1-257	Pteridophyte-Phylogeny-Group1-256	Anchistea C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-258	Pteridophyte-Phylogeny-Group1-258	Pteridophyte-Phylogeny-Group1-258	Pteridophyte-Phylogeny-Group1-256	Lorinseria C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-259	Pteridophyte-Phylogeny-Group1-259	Pteridophyte-Phylogeny-Group1-259	Pteridophyte-Phylogeny-Group1-256	Woodwardia Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-260	Pteridophyte-Phylogeny-Group1-260	Pteridophyte-Phylogeny-Group1-260	Pteridophyte-Phylogeny-Group1-251	Blechnoideae Gasper, V.A.O.Dittrich & Salino	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-261	Pteridophyte-Phylogeny-Group1-261	Pteridophyte-Phylogeny-Group1-261	Pteridophyte-Phylogeny-Group1-260	Austroblechnum Gasper & V.A.O.Dittrich	genus	accepted
+Pteridophyte-Phylogeny-Group1-262	Pteridophyte-Phylogeny-Group1-262	Pteridophyte-Phylogeny-Group1-262	Pteridophyte-Phylogeny-Group1-260	Blechnidium T.Moore	genus	accepted
+Pteridophyte-Phylogeny-Group1-263	Pteridophyte-Phylogeny-Group1-263	Pteridophyte-Phylogeny-Group1-263	Pteridophyte-Phylogeny-Group1-260	Blechnopsis C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-264	Pteridophyte-Phylogeny-Group1-264	Pteridophyte-Phylogeny-Group1-264	Pteridophyte-Phylogeny-Group1-260	Blechnum L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-265	Pteridophyte-Phylogeny-Group1-265	Pteridophyte-Phylogeny-Group1-265	Pteridophyte-Phylogeny-Group1-260	Brainea J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-266	Pteridophyte-Phylogeny-Group1-266	Pteridophyte-Phylogeny-Group1-266	Pteridophyte-Phylogeny-Group1-260	Cleistoblechnum Gasper & Salino	genus	accepted
+Pteridophyte-Phylogeny-Group1-267	Pteridophyte-Phylogeny-Group1-267	Pteridophyte-Phylogeny-Group1-267	Pteridophyte-Phylogeny-Group1-260	Cranfillia Gasper & V.A.O.Dittrich	genus	accepted
+Pteridophyte-Phylogeny-Group1-268	Pteridophyte-Phylogeny-Group1-268	Pteridophyte-Phylogeny-Group1-268	Pteridophyte-Phylogeny-Group1-260	Diploblechnum Hayata	genus	accepted
+Pteridophyte-Phylogeny-Group1-269	Pteridophyte-Phylogeny-Group1-269	Pteridophyte-Phylogeny-Group1-269	Pteridophyte-Phylogeny-Group1-260	Doodia R.Br.	genus	accepted
+Pteridophyte-Phylogeny-Group1-270	Pteridophyte-Phylogeny-Group1-270	Pteridophyte-Phylogeny-Group1-270	Pteridophyte-Phylogeny-Group1-260	Icarus Gasper & Salino	genus	accepted
+Pteridophyte-Phylogeny-Group1-271	Pteridophyte-Phylogeny-Group1-271	Pteridophyte-Phylogeny-Group1-271	Pteridophyte-Phylogeny-Group1-260	Lomaria Willd.	genus	accepted
+Pteridophyte-Phylogeny-Group1-272	Pteridophyte-Phylogeny-Group1-272	Pteridophyte-Phylogeny-Group1-272	Pteridophyte-Phylogeny-Group1-260	Lomaridium C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-273	Pteridophyte-Phylogeny-Group1-273	Pteridophyte-Phylogeny-Group1-273	Pteridophyte-Phylogeny-Group1-260	Lomariocycas (J.Sm.) Gasper & A.R.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-274	Pteridophyte-Phylogeny-Group1-274	Pteridophyte-Phylogeny-Group1-274	Pteridophyte-Phylogeny-Group1-260	Neoblechnum Gasper & V.A.O.Dittrich	genus	accepted
+Pteridophyte-Phylogeny-Group1-275	Pteridophyte-Phylogeny-Group1-275	Pteridophyte-Phylogeny-Group1-275	Pteridophyte-Phylogeny-Group1-260	Oceaniopteris Gasper & Salino	genus	accepted
+Pteridophyte-Phylogeny-Group1-276	Pteridophyte-Phylogeny-Group1-276	Pteridophyte-Phylogeny-Group1-276	Pteridophyte-Phylogeny-Group1-260	Parablechnum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-277	Pteridophyte-Phylogeny-Group1-277	Pteridophyte-Phylogeny-Group1-277	Pteridophyte-Phylogeny-Group1-260	Sadleria Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-278	Pteridophyte-Phylogeny-Group1-278	Pteridophyte-Phylogeny-Group1-278	Pteridophyte-Phylogeny-Group1-260	Struthiopteris Scop.	genus	accepted
+Pteridophyte-Phylogeny-Group1-279	Pteridophyte-Phylogeny-Group1-279	Pteridophyte-Phylogeny-Group1-279	Pteridophyte-Phylogeny-Group1-227	Athyriaceae Alston	family	accepted
+Pteridophyte-Phylogeny-Group1-280	Pteridophyte-Phylogeny-Group1-280	Pteridophyte-Phylogeny-Group1-280	Pteridophyte-Phylogeny-Group1-279	Athyrium Roth	genus	accepted
+Pteridophyte-Phylogeny-Group1-281	Pteridophyte-Phylogeny-Group1-281	Pteridophyte-Phylogeny-Group1-281	Pteridophyte-Phylogeny-Group1-279	Deparia Hook. & Grev.	genus	accepted
+Pteridophyte-Phylogeny-Group1-282	Pteridophyte-Phylogeny-Group1-282	Pteridophyte-Phylogeny-Group1-282	Pteridophyte-Phylogeny-Group1-279	Diplazium Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-283	Pteridophyte-Phylogeny-Group1-283	Pteridophyte-Phylogeny-Group1-283	Pteridophyte-Phylogeny-Group1-227	Thelypteridaceae Ching ex Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-284	Pteridophyte-Phylogeny-Group1-284	Pteridophyte-Phylogeny-Group1-284	Pteridophyte-Phylogeny-Group1-283	Phegopteridoideae Salino, A.R.Sm. & T.E.Almeida	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-285	Pteridophyte-Phylogeny-Group1-285	Pteridophyte-Phylogeny-Group1-285	Pteridophyte-Phylogeny-Group1-284	Macrothelypteris (H.Ito) Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-286	Pteridophyte-Phylogeny-Group1-286	Pteridophyte-Phylogeny-Group1-286	Pteridophyte-Phylogeny-Group1-284	Phegopteris (C.Presl) Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-287	Pteridophyte-Phylogeny-Group1-287	Pteridophyte-Phylogeny-Group1-287	Pteridophyte-Phylogeny-Group1-284	Pseudophegopteris Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-288	Pteridophyte-Phylogeny-Group1-288	Pteridophyte-Phylogeny-Group1-288	Pteridophyte-Phylogeny-Group1-283	Thelypteridoideae C.F.Reed	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-289	Pteridophyte-Phylogeny-Group1-289	Pteridophyte-Phylogeny-Group1-289	Pteridophyte-Phylogeny-Group1-288	Amauropelta Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-290	Pteridophyte-Phylogeny-Group1-290	Pteridophyte-Phylogeny-Group1-290	Pteridophyte-Phylogeny-Group1-288	Amblovenatum J.P.Roux	genus	accepted
+Pteridophyte-Phylogeny-Group1-291	Pteridophyte-Phylogeny-Group1-291	Pteridophyte-Phylogeny-Group1-291	Pteridophyte-Phylogeny-Group1-288	Ampelopteris Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-292	Pteridophyte-Phylogeny-Group1-292	Pteridophyte-Phylogeny-Group1-292	Pteridophyte-Phylogeny-Group1-288	Chingia Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-293	Pteridophyte-Phylogeny-Group1-293	Pteridophyte-Phylogeny-Group1-293	Pteridophyte-Phylogeny-Group1-288	Christella H.Lév.	genus	accepted
+Pteridophyte-Phylogeny-Group1-294	Pteridophyte-Phylogeny-Group1-294	Pteridophyte-Phylogeny-Group1-294	Pteridophyte-Phylogeny-Group1-288	Coryphopteris Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-295	Pteridophyte-Phylogeny-Group1-295	Pteridophyte-Phylogeny-Group1-295	Pteridophyte-Phylogeny-Group1-288	Cyclogramma Tagawa	genus	accepted
+Pteridophyte-Phylogeny-Group1-296	Pteridophyte-Phylogeny-Group1-296	Pteridophyte-Phylogeny-Group1-296	Pteridophyte-Phylogeny-Group1-288	Cyclosorus Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-297	Pteridophyte-Phylogeny-Group1-297	Pteridophyte-Phylogeny-Group1-297	Pteridophyte-Phylogeny-Group1-288	Glaphyropteridopsis Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-298	Pteridophyte-Phylogeny-Group1-298	Pteridophyte-Phylogeny-Group1-298	Pteridophyte-Phylogeny-Group1-288	Goniopteris C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-299	Pteridophyte-Phylogeny-Group1-299	Pteridophyte-Phylogeny-Group1-299	Pteridophyte-Phylogeny-Group1-288	Meniscium Schreb.	genus	accepted
+Pteridophyte-Phylogeny-Group1-300	Pteridophyte-Phylogeny-Group1-300	Pteridophyte-Phylogeny-Group1-300	Pteridophyte-Phylogeny-Group1-288	Menisorus Alston	genus	accepted
+Pteridophyte-Phylogeny-Group1-301	Pteridophyte-Phylogeny-Group1-301	Pteridophyte-Phylogeny-Group1-301	Pteridophyte-Phylogeny-Group1-288	Mesophlebion Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-302	Pteridophyte-Phylogeny-Group1-302	Pteridophyte-Phylogeny-Group1-302	Pteridophyte-Phylogeny-Group1-288	Mesopteris Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-303	Pteridophyte-Phylogeny-Group1-303	Pteridophyte-Phylogeny-Group1-303	Pteridophyte-Phylogeny-Group1-288	Metathelypteris (H.Ito) Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-304	Pteridophyte-Phylogeny-Group1-304	Pteridophyte-Phylogeny-Group1-304	Pteridophyte-Phylogeny-Group1-288	Nannothelypteris Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-305	Pteridophyte-Phylogeny-Group1-305	Pteridophyte-Phylogeny-Group1-305	Pteridophyte-Phylogeny-Group1-288	Oreopteris Holub	genus	accepted
+Pteridophyte-Phylogeny-Group1-306	Pteridophyte-Phylogeny-Group1-306	Pteridophyte-Phylogeny-Group1-306	Pteridophyte-Phylogeny-Group1-288	Parathelypteris (H.Ito) Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-307	Pteridophyte-Phylogeny-Group1-307	Pteridophyte-Phylogeny-Group1-307	Pteridophyte-Phylogeny-Group1-288	Plesioneuron (Holttum) Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-308	Pteridophyte-Phylogeny-Group1-308	Pteridophyte-Phylogeny-Group1-308	Pteridophyte-Phylogeny-Group1-288	Pneumatopteris Nakai	genus	accepted
+Pteridophyte-Phylogeny-Group1-309	Pteridophyte-Phylogeny-Group1-309	Pteridophyte-Phylogeny-Group1-309	Pteridophyte-Phylogeny-Group1-288	Pronephrium C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-310	Pteridophyte-Phylogeny-Group1-310	Pteridophyte-Phylogeny-Group1-310	Pteridophyte-Phylogeny-Group1-288	Pseudocyclosorus Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-311	Pteridophyte-Phylogeny-Group1-311	Pteridophyte-Phylogeny-Group1-311	Pteridophyte-Phylogeny-Group1-288	Sphaerostephanos J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-312	Pteridophyte-Phylogeny-Group1-312	Pteridophyte-Phylogeny-Group1-312	Pteridophyte-Phylogeny-Group1-288	Stegnogramma Blume	genus	accepted
+Pteridophyte-Phylogeny-Group1-313	Pteridophyte-Phylogeny-Group1-313	Pteridophyte-Phylogeny-Group1-313	Pteridophyte-Phylogeny-Group1-288	Steiropteris (C.Chr.) Pic.Serm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-314	Pteridophyte-Phylogeny-Group1-314	Pteridophyte-Phylogeny-Group1-314	Pteridophyte-Phylogeny-Group1-288	Thelypteris Schmidel	genus	accepted
+Pteridophyte-Phylogeny-Group1-315	Pteridophyte-Phylogeny-Group1-315	Pteridophyte-Phylogeny-Group1-315	Pteridophyte-Phylogeny-Group1-288	Trigonospora Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-316	Pteridophyte-Phylogeny-Group1-316	Pteridophyte-Phylogeny-Group1-316	Pteridophyte-Phylogeny-Group1-138	Polypodiineae Dumort.	suborder	accepted
+Pteridophyte-Phylogeny-Group1-317	Pteridophyte-Phylogeny-Group1-317	Pteridophyte-Phylogeny-Group1-317	Pteridophyte-Phylogeny-Group1-316	Didymochlaenaceae Ching ex Li Bing Zhang & Liang Zhang	family	accepted
+Pteridophyte-Phylogeny-Group1-318	Pteridophyte-Phylogeny-Group1-318	Pteridophyte-Phylogeny-Group1-318	Pteridophyte-Phylogeny-Group1-317	Didymochlaena Desv.	genus	accepted
+Pteridophyte-Phylogeny-Group1-319	Pteridophyte-Phylogeny-Group1-319	Pteridophyte-Phylogeny-Group1-319	Pteridophyte-Phylogeny-Group1-316	Hypodematiaceae Ching	family	accepted
+Pteridophyte-Phylogeny-Group1-320	Pteridophyte-Phylogeny-Group1-320	Pteridophyte-Phylogeny-Group1-320	Pteridophyte-Phylogeny-Group1-319	Hypodematium Kunze	genus	accepted
+Pteridophyte-Phylogeny-Group1-321	Pteridophyte-Phylogeny-Group1-321	Pteridophyte-Phylogeny-Group1-321	Pteridophyte-Phylogeny-Group1-319	Leucostegia C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-322	Pteridophyte-Phylogeny-Group1-322	Pteridophyte-Phylogeny-Group1-322	Pteridophyte-Phylogeny-Group1-316	Dryopteridaceae Herter	family	accepted
+Pteridophyte-Phylogeny-Group1-323	Pteridophyte-Phylogeny-Group1-323	Pteridophyte-Phylogeny-Group1-323	Pteridophyte-Phylogeny-Group1-322	Polybotryoideae H.M.Liu & X.C.Zhang	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-324	Pteridophyte-Phylogeny-Group1-324	Pteridophyte-Phylogeny-Group1-324	Pteridophyte-Phylogeny-Group1-323	Cyclodium C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-325	Pteridophyte-Phylogeny-Group1-325	Pteridophyte-Phylogeny-Group1-325	Pteridophyte-Phylogeny-Group1-323	Maxonia C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-326	Pteridophyte-Phylogeny-Group1-326	Pteridophyte-Phylogeny-Group1-326	Pteridophyte-Phylogeny-Group1-323	Olfersia Raddi	genus	accepted
+Pteridophyte-Phylogeny-Group1-327	Pteridophyte-Phylogeny-Group1-327	Pteridophyte-Phylogeny-Group1-327	Pteridophyte-Phylogeny-Group1-323	Polybotrya Humb. & Bonpl. ex Willd.	genus	accepted
+Pteridophyte-Phylogeny-Group1-328	Pteridophyte-Phylogeny-Group1-328	Pteridophyte-Phylogeny-Group1-328	Pteridophyte-Phylogeny-Group1-323	Polystichopsis (J.Sm.) C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-329	Pteridophyte-Phylogeny-Group1-329	Pteridophyte-Phylogeny-Group1-329	Pteridophyte-Phylogeny-Group1-323	Stigmatopteris C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-330	Pteridophyte-Phylogeny-Group1-330	Pteridophyte-Phylogeny-Group1-330	Pteridophyte-Phylogeny-Group1-323	Trichoneuron Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-331	Pteridophyte-Phylogeny-Group1-331	Pteridophyte-Phylogeny-Group1-331	Pteridophyte-Phylogeny-Group1-322	Elaphoglossoideae (Pic.Serm.) Crabbe, Jermy & Mickel	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-332	Pteridophyte-Phylogeny-Group1-332	Pteridophyte-Phylogeny-Group1-332	Pteridophyte-Phylogeny-Group1-331	Arthrobotrya J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-333	Pteridophyte-Phylogeny-Group1-333	Pteridophyte-Phylogeny-Group1-333	Pteridophyte-Phylogeny-Group1-331	Bolbitis Schott	genus	accepted
+Pteridophyte-Phylogeny-Group1-334	Pteridophyte-Phylogeny-Group1-334	Pteridophyte-Phylogeny-Group1-334	Pteridophyte-Phylogeny-Group1-331	Elaphoglossum Schott ex J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-335	Pteridophyte-Phylogeny-Group1-335	Pteridophyte-Phylogeny-Group1-335	Pteridophyte-Phylogeny-Group1-331	Lastreopsis Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-336	Pteridophyte-Phylogeny-Group1-336	Pteridophyte-Phylogeny-Group1-336	Pteridophyte-Phylogeny-Group1-331	Lomagramma J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-337	Pteridophyte-Phylogeny-Group1-337	Pteridophyte-Phylogeny-Group1-337	Pteridophyte-Phylogeny-Group1-331	Megalastrum Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-338	Pteridophyte-Phylogeny-Group1-338	Pteridophyte-Phylogeny-Group1-338	Pteridophyte-Phylogeny-Group1-331	Mickelia R.C.Moran	genus	accepted
+Pteridophyte-Phylogeny-Group1-339	Pteridophyte-Phylogeny-Group1-339	Pteridophyte-Phylogeny-Group1-339	Pteridophyte-Phylogeny-Group1-331	Parapolystichum (Keyserl.) Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-340	Pteridophyte-Phylogeny-Group1-340	Pteridophyte-Phylogeny-Group1-340	Pteridophyte-Phylogeny-Group1-331	Pleocnemia C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-341	Pteridophyte-Phylogeny-Group1-341	Pteridophyte-Phylogeny-Group1-341	Pteridophyte-Phylogeny-Group1-331	Rumohra Raddi	genus	accepted
+Pteridophyte-Phylogeny-Group1-342	Pteridophyte-Phylogeny-Group1-342	Pteridophyte-Phylogeny-Group1-342	Pteridophyte-Phylogeny-Group1-331	Teratophyllum Mett. ex Kuhn	genus	accepted
+Pteridophyte-Phylogeny-Group1-343	Pteridophyte-Phylogeny-Group1-343	Pteridophyte-Phylogeny-Group1-343	Pteridophyte-Phylogeny-Group1-322	Dryopteridoideae Link	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-344	Pteridophyte-Phylogeny-Group1-344	Pteridophyte-Phylogeny-Group1-344	Pteridophyte-Phylogeny-Group1-343	Arachniodes Blume	genus	accepted
+Pteridophyte-Phylogeny-Group1-345	Pteridophyte-Phylogeny-Group1-345	Pteridophyte-Phylogeny-Group1-345	Pteridophyte-Phylogeny-Group1-343	Ctenitis (C.Chr.) C.Chr.	genus	accepted
+Pteridophyte-Phylogeny-Group1-346	Pteridophyte-Phylogeny-Group1-346	Pteridophyte-Phylogeny-Group1-346	Pteridophyte-Phylogeny-Group1-343	Cyrtomium C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-347	Pteridophyte-Phylogeny-Group1-347	Pteridophyte-Phylogeny-Group1-347	Pteridophyte-Phylogeny-Group1-343	Dryopteris Adans.	genus	accepted
+Pteridophyte-Phylogeny-Group1-348	Pteridophyte-Phylogeny-Group1-348	Pteridophyte-Phylogeny-Group1-348	Pteridophyte-Phylogeny-Group1-343	Phanerophlebia C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-349	Pteridophyte-Phylogeny-Group1-349	Pteridophyte-Phylogeny-Group1-349	Pteridophyte-Phylogeny-Group1-343	Polystichum Roth	genus	accepted
+Pteridophyte-Phylogeny-Group1-350	Pteridophyte-Phylogeny-Group1-350	Pteridophyte-Phylogeny-Group1-350	Pteridophyte-Phylogeny-Group1-343	Aenigmopteris Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-351	Pteridophyte-Phylogeny-Group1-351	Pteridophyte-Phylogeny-Group1-351	Pteridophyte-Phylogeny-Group1-343	Dryopolystichum Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-352	Pteridophyte-Phylogeny-Group1-352	Pteridophyte-Phylogeny-Group1-352	Pteridophyte-Phylogeny-Group1-316	Nephrolepidaceae Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-353	Pteridophyte-Phylogeny-Group1-353	Pteridophyte-Phylogeny-Group1-353	Pteridophyte-Phylogeny-Group1-352	Nephrolepis Schott	genus	accepted
+Pteridophyte-Phylogeny-Group1-354	Pteridophyte-Phylogeny-Group1-354	Pteridophyte-Phylogeny-Group1-354	Pteridophyte-Phylogeny-Group1-316	Lomariopsidaceae Alston	family	accepted
+Pteridophyte-Phylogeny-Group1-355	Pteridophyte-Phylogeny-Group1-355	Pteridophyte-Phylogeny-Group1-355	Pteridophyte-Phylogeny-Group1-354	Cyclopeltis J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-356	Pteridophyte-Phylogeny-Group1-356	Pteridophyte-Phylogeny-Group1-356	Pteridophyte-Phylogeny-Group1-354	Dracoglossum Christenh.	genus	accepted
+Pteridophyte-Phylogeny-Group1-357	Pteridophyte-Phylogeny-Group1-357	Pteridophyte-Phylogeny-Group1-357	Pteridophyte-Phylogeny-Group1-354	Lomariopsis Fée	genus	accepted
+Pteridophyte-Phylogeny-Group1-358	Pteridophyte-Phylogeny-Group1-358	Pteridophyte-Phylogeny-Group1-358	Pteridophyte-Phylogeny-Group1-354	Thysanosoria A.Gepp	genus	accepted
+Pteridophyte-Phylogeny-Group1-359	Pteridophyte-Phylogeny-Group1-359	Pteridophyte-Phylogeny-Group1-359	Pteridophyte-Phylogeny-Group1-316	Tectariaceae Panigrahi	family	accepted
+Pteridophyte-Phylogeny-Group1-360	Pteridophyte-Phylogeny-Group1-360	Pteridophyte-Phylogeny-Group1-360	Pteridophyte-Phylogeny-Group1-359	Arthropteris J.Sm. ex Hook.f.	genus	accepted
+Pteridophyte-Phylogeny-Group1-361	Pteridophyte-Phylogeny-Group1-361	Pteridophyte-Phylogeny-Group1-361	Pteridophyte-Phylogeny-Group1-359	Draconopteris Li Bing Zhang & Liang Zhang	genus	accepted
+Pteridophyte-Phylogeny-Group1-362	Pteridophyte-Phylogeny-Group1-362	Pteridophyte-Phylogeny-Group1-362	Pteridophyte-Phylogeny-Group1-359	Hypoderris R.Br. in Wall.	genus	accepted
+Pteridophyte-Phylogeny-Group1-363	Pteridophyte-Phylogeny-Group1-363	Pteridophyte-Phylogeny-Group1-363	Pteridophyte-Phylogeny-Group1-359	Malaifilix Li Bing Zhang & Schuettp.	genus	accepted
+Pteridophyte-Phylogeny-Group1-364	Pteridophyte-Phylogeny-Group1-364	Pteridophyte-Phylogeny-Group1-364	Pteridophyte-Phylogeny-Group1-359	Pteridrys C.Chr. & Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-365	Pteridophyte-Phylogeny-Group1-365	Pteridophyte-Phylogeny-Group1-365	Pteridophyte-Phylogeny-Group1-359	Tectaria Cav.	genus	accepted
+Pteridophyte-Phylogeny-Group1-366	Pteridophyte-Phylogeny-Group1-366	Pteridophyte-Phylogeny-Group1-366	Pteridophyte-Phylogeny-Group1-359	Triplophyllum Holttum	genus	accepted
+Pteridophyte-Phylogeny-Group1-367	Pteridophyte-Phylogeny-Group1-367	Pteridophyte-Phylogeny-Group1-367	Pteridophyte-Phylogeny-Group1-316	Oleandraceae Ching ex Pic.Serm.	family	accepted
+Pteridophyte-Phylogeny-Group1-368	Pteridophyte-Phylogeny-Group1-368	Pteridophyte-Phylogeny-Group1-368	Pteridophyte-Phylogeny-Group1-367	Oleandra Cav.	genus	accepted
+Pteridophyte-Phylogeny-Group1-369	Pteridophyte-Phylogeny-Group1-369	Pteridophyte-Phylogeny-Group1-369	Pteridophyte-Phylogeny-Group1-316	Davalliaceae M.R.Schomb.	family	accepted
+Pteridophyte-Phylogeny-Group1-370	Pteridophyte-Phylogeny-Group1-370	Pteridophyte-Phylogeny-Group1-370	Pteridophyte-Phylogeny-Group1-369	Davallia Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-371	Pteridophyte-Phylogeny-Group1-371	Pteridophyte-Phylogeny-Group1-371	Pteridophyte-Phylogeny-Group1-316	Polypodiaceae J.Presl & C.Presl	family	accepted
+Pteridophyte-Phylogeny-Group1-372	Pteridophyte-Phylogeny-Group1-372	Pteridophyte-Phylogeny-Group1-372	Pteridophyte-Phylogeny-Group1-371	Loxogrammoideae H.Schneid. in Christenhusz et al..	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-373	Pteridophyte-Phylogeny-Group1-373	Pteridophyte-Phylogeny-Group1-373	Pteridophyte-Phylogeny-Group1-372	Dictymia J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-374	Pteridophyte-Phylogeny-Group1-374	Pteridophyte-Phylogeny-Group1-374	Pteridophyte-Phylogeny-Group1-372	Loxogramme (Blume) C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-375	Pteridophyte-Phylogeny-Group1-375	Pteridophyte-Phylogeny-Group1-375	Pteridophyte-Phylogeny-Group1-371	Platycerioideae B.K.Nayar	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-376	Pteridophyte-Phylogeny-Group1-376	Pteridophyte-Phylogeny-Group1-376	Pteridophyte-Phylogeny-Group1-375	Platycerium Desv.	genus	accepted
+Pteridophyte-Phylogeny-Group1-377	Pteridophyte-Phylogeny-Group1-377	Pteridophyte-Phylogeny-Group1-377	Pteridophyte-Phylogeny-Group1-375	Pyrrosia Mirb.	genus	accepted
+Pteridophyte-Phylogeny-Group1-378	Pteridophyte-Phylogeny-Group1-378	Pteridophyte-Phylogeny-Group1-378	Pteridophyte-Phylogeny-Group1-371	Drynarioideae Crabbe, Jermy & Mickel	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-379	Pteridophyte-Phylogeny-Group1-379	Pteridophyte-Phylogeny-Group1-379	Pteridophyte-Phylogeny-Group1-378	Aglaomorpha Schott	genus	accepted
+Pteridophyte-Phylogeny-Group1-380	Pteridophyte-Phylogeny-Group1-380	Pteridophyte-Phylogeny-Group1-380	Pteridophyte-Phylogeny-Group1-378	Arthromeris (T.Moore) J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-381	Pteridophyte-Phylogeny-Group1-381	Pteridophyte-Phylogeny-Group1-381	Pteridophyte-Phylogeny-Group1-378	Gymnogrammitis Griff.	genus	accepted
+Pteridophyte-Phylogeny-Group1-382	Pteridophyte-Phylogeny-Group1-382	Pteridophyte-Phylogeny-Group1-382	Pteridophyte-Phylogeny-Group1-378	Paraselliguea Hovenkamp	genus	accepted
+Pteridophyte-Phylogeny-Group1-383	Pteridophyte-Phylogeny-Group1-383	Pteridophyte-Phylogeny-Group1-383	Pteridophyte-Phylogeny-Group1-378	Polypodiopteris C.F.Reed	genus	accepted
+Pteridophyte-Phylogeny-Group1-384	Pteridophyte-Phylogeny-Group1-384	Pteridophyte-Phylogeny-Group1-384	Pteridophyte-Phylogeny-Group1-378	Selliguea Bory	genus	accepted
+Pteridophyte-Phylogeny-Group1-385	Pteridophyte-Phylogeny-Group1-385	Pteridophyte-Phylogeny-Group1-385	Pteridophyte-Phylogeny-Group1-371	Microsoroideae B.K.Nayar	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-386	Pteridophyte-Phylogeny-Group1-386	Pteridophyte-Phylogeny-Group1-386	Pteridophyte-Phylogeny-Group1-385	Goniophlebium (Blume) C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-387	Pteridophyte-Phylogeny-Group1-387	Pteridophyte-Phylogeny-Group1-387	Pteridophyte-Phylogeny-Group1-385	Lecanopteris Reinw. ex Blume	genus	accepted
+Pteridophyte-Phylogeny-Group1-388	Pteridophyte-Phylogeny-Group1-388	Pteridophyte-Phylogeny-Group1-388	Pteridophyte-Phylogeny-Group1-385	Lemmaphyllum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-389	Pteridophyte-Phylogeny-Group1-389	Pteridophyte-Phylogeny-Group1-389	Pteridophyte-Phylogeny-Group1-385	Lepidomicrosorium Ching & K.H.Shing	genus	accepted
+Pteridophyte-Phylogeny-Group1-390	Pteridophyte-Phylogeny-Group1-390	Pteridophyte-Phylogeny-Group1-390	Pteridophyte-Phylogeny-Group1-385	Lepisorus (J.Sm.) Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-391	Pteridophyte-Phylogeny-Group1-391	Pteridophyte-Phylogeny-Group1-391	Pteridophyte-Phylogeny-Group1-385	Leptochilus Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-392	Pteridophyte-Phylogeny-Group1-392	Pteridophyte-Phylogeny-Group1-392	Pteridophyte-Phylogeny-Group1-385	Microsorum Link	genus	accepted
+Pteridophyte-Phylogeny-Group1-393	Pteridophyte-Phylogeny-Group1-393	Pteridophyte-Phylogeny-Group1-393	Pteridophyte-Phylogeny-Group1-385	Neocheiropteris Christ	genus	accepted
+Pteridophyte-Phylogeny-Group1-394	Pteridophyte-Phylogeny-Group1-394	Pteridophyte-Phylogeny-Group1-394	Pteridophyte-Phylogeny-Group1-385	Neolepisorus Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-395	Pteridophyte-Phylogeny-Group1-395	Pteridophyte-Phylogeny-Group1-395	Pteridophyte-Phylogeny-Group1-385	Paragramma (Blume) T.Moore	genus	accepted
+Pteridophyte-Phylogeny-Group1-396	Pteridophyte-Phylogeny-Group1-396	Pteridophyte-Phylogeny-Group1-396	Pteridophyte-Phylogeny-Group1-385	Thylacopteris Kunze ex J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-397	Pteridophyte-Phylogeny-Group1-397	Pteridophyte-Phylogeny-Group1-397	Pteridophyte-Phylogeny-Group1-385	Tricholepidium Ching	genus	accepted
+Pteridophyte-Phylogeny-Group1-398	Pteridophyte-Phylogeny-Group1-398	Pteridophyte-Phylogeny-Group1-398	Pteridophyte-Phylogeny-Group1-371	Polypodioideae Sweet	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-399	Pteridophyte-Phylogeny-Group1-399	Pteridophyte-Phylogeny-Group1-399	Pteridophyte-Phylogeny-Group1-398	Campyloneurum C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-400	Pteridophyte-Phylogeny-Group1-400	Pteridophyte-Phylogeny-Group1-400	Pteridophyte-Phylogeny-Group1-398	Microgramma C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-401	Pteridophyte-Phylogeny-Group1-401	Pteridophyte-Phylogeny-Group1-401	Pteridophyte-Phylogeny-Group1-398	Niphidium J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-402	Pteridophyte-Phylogeny-Group1-402	Pteridophyte-Phylogeny-Group1-402	Pteridophyte-Phylogeny-Group1-398	Pecluma M.G.Price	genus	accepted
+Pteridophyte-Phylogeny-Group1-403	Pteridophyte-Phylogeny-Group1-403	Pteridophyte-Phylogeny-Group1-403	Pteridophyte-Phylogeny-Group1-398	Phlebodium (R.Br.) J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-404	Pteridophyte-Phylogeny-Group1-404	Pteridophyte-Phylogeny-Group1-404	Pteridophyte-Phylogeny-Group1-398	Pleopeltis Humb. & Bonpl. ex Willd.	genus	accepted
+Pteridophyte-Phylogeny-Group1-405	Pteridophyte-Phylogeny-Group1-405	Pteridophyte-Phylogeny-Group1-405	Pteridophyte-Phylogeny-Group1-398	Pleurosoriopsis Fomin	genus	accepted
+Pteridophyte-Phylogeny-Group1-406	Pteridophyte-Phylogeny-Group1-406	Pteridophyte-Phylogeny-Group1-406	Pteridophyte-Phylogeny-Group1-398	Polypodium L.	genus	accepted
+Pteridophyte-Phylogeny-Group1-407	Pteridophyte-Phylogeny-Group1-407	Pteridophyte-Phylogeny-Group1-407	Pteridophyte-Phylogeny-Group1-398	Serpocaulon A.R.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-408	Pteridophyte-Phylogeny-Group1-408	Pteridophyte-Phylogeny-Group1-408	Pteridophyte-Phylogeny-Group1-371	Grammitidoideae Parris & Sundue	subfamily	accepted
+Pteridophyte-Phylogeny-Group1-409	Pteridophyte-Phylogeny-Group1-409	Pteridophyte-Phylogeny-Group1-409	Pteridophyte-Phylogeny-Group1-408	Acrosorus Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-410	Pteridophyte-Phylogeny-Group1-410	Pteridophyte-Phylogeny-Group1-410	Pteridophyte-Phylogeny-Group1-408	Adenophorus Gaudich.	genus	accepted
+Pteridophyte-Phylogeny-Group1-411	Pteridophyte-Phylogeny-Group1-411	Pteridophyte-Phylogeny-Group1-411	Pteridophyte-Phylogeny-Group1-408	Alansmia M.Kessler, Moguel, Sundue & Labiak	genus	accepted
+Pteridophyte-Phylogeny-Group1-412	Pteridophyte-Phylogeny-Group1-412	Pteridophyte-Phylogeny-Group1-412	Pteridophyte-Phylogeny-Group1-408	Archigrammitis Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-413	Pteridophyte-Phylogeny-Group1-413	Pteridophyte-Phylogeny-Group1-413	Pteridophyte-Phylogeny-Group1-408	Ascogrammitis Sundue	genus	accepted
+Pteridophyte-Phylogeny-Group1-414	Pteridophyte-Phylogeny-Group1-414	Pteridophyte-Phylogeny-Group1-414	Pteridophyte-Phylogeny-Group1-408	Calymmodon C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-415	Pteridophyte-Phylogeny-Group1-415	Pteridophyte-Phylogeny-Group1-415	Pteridophyte-Phylogeny-Group1-408	Ceradenia L.E.Bishop	genus	accepted
+Pteridophyte-Phylogeny-Group1-416	Pteridophyte-Phylogeny-Group1-416	Pteridophyte-Phylogeny-Group1-416	Pteridophyte-Phylogeny-Group1-408	Chrysogrammitis Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-417	Pteridophyte-Phylogeny-Group1-417	Pteridophyte-Phylogeny-Group1-417	Pteridophyte-Phylogeny-Group1-408	Cochlidium Kaulf.	genus	accepted
+Pteridophyte-Phylogeny-Group1-418	Pteridophyte-Phylogeny-Group1-418	Pteridophyte-Phylogeny-Group1-418	Pteridophyte-Phylogeny-Group1-408	Ctenopterella Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-419	Pteridophyte-Phylogeny-Group1-419	Pteridophyte-Phylogeny-Group1-419	Pteridophyte-Phylogeny-Group1-408	Dasygrammitis Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-420	Pteridophyte-Phylogeny-Group1-420	Pteridophyte-Phylogeny-Group1-420	Pteridophyte-Phylogeny-Group1-408	Enterosora Baker	genus	accepted
+Pteridophyte-Phylogeny-Group1-421	Pteridophyte-Phylogeny-Group1-421	Pteridophyte-Phylogeny-Group1-421	Pteridophyte-Phylogeny-Group1-408	Galactodenia Sundue & Labiak	genus	accepted
+Pteridophyte-Phylogeny-Group1-422	Pteridophyte-Phylogeny-Group1-422	Pteridophyte-Phylogeny-Group1-422	Pteridophyte-Phylogeny-Group1-408	Grammitis Sw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-423	Pteridophyte-Phylogeny-Group1-423	Pteridophyte-Phylogeny-Group1-423	Pteridophyte-Phylogeny-Group1-408	Lellingeria A.R.Sm. & R.C.Moran	genus	accepted
+Pteridophyte-Phylogeny-Group1-424	Pteridophyte-Phylogeny-Group1-424	Pteridophyte-Phylogeny-Group1-424	Pteridophyte-Phylogeny-Group1-408	Leucotrichum Labiak	genus	accepted
+Pteridophyte-Phylogeny-Group1-425	Pteridophyte-Phylogeny-Group1-425	Pteridophyte-Phylogeny-Group1-425	Pteridophyte-Phylogeny-Group1-408	Lomaphlebia J.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-426	Pteridophyte-Phylogeny-Group1-426	Pteridophyte-Phylogeny-Group1-426	Pteridophyte-Phylogeny-Group1-408	Luisma M.T.Murillo & A.R.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-427	Pteridophyte-Phylogeny-Group1-427	Pteridophyte-Phylogeny-Group1-427	Pteridophyte-Phylogeny-Group1-408	Melpomene A.R.Sm. & R.C.Moran	genus	accepted
+Pteridophyte-Phylogeny-Group1-428	Pteridophyte-Phylogeny-Group1-428	Pteridophyte-Phylogeny-Group1-428	Pteridophyte-Phylogeny-Group1-408	Micropolypodium Hayata	genus	accepted
+Pteridophyte-Phylogeny-Group1-429	Pteridophyte-Phylogeny-Group1-429	Pteridophyte-Phylogeny-Group1-429	Pteridophyte-Phylogeny-Group1-408	Moranopteris R.Y.Hirai & J.Prado	genus	accepted
+Pteridophyte-Phylogeny-Group1-430	Pteridophyte-Phylogeny-Group1-430	Pteridophyte-Phylogeny-Group1-430	Pteridophyte-Phylogeny-Group1-408	Mycopteris Sundue	genus	accepted
+Pteridophyte-Phylogeny-Group1-431	Pteridophyte-Phylogeny-Group1-431	Pteridophyte-Phylogeny-Group1-431	Pteridophyte-Phylogeny-Group1-408	Notogrammitis Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-432	Pteridophyte-Phylogeny-Group1-432	Pteridophyte-Phylogeny-Group1-432	Pteridophyte-Phylogeny-Group1-408	Oreogrammitis Copel.	genus	accepted
+Pteridophyte-Phylogeny-Group1-433	Pteridophyte-Phylogeny-Group1-433	Pteridophyte-Phylogeny-Group1-433	Pteridophyte-Phylogeny-Group1-408	Prosaptia C.Presl	genus	accepted
+Pteridophyte-Phylogeny-Group1-434	Pteridophyte-Phylogeny-Group1-434	Pteridophyte-Phylogeny-Group1-434	Pteridophyte-Phylogeny-Group1-408	Radiogrammitis Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-435	Pteridophyte-Phylogeny-Group1-435	Pteridophyte-Phylogeny-Group1-435	Pteridophyte-Phylogeny-Group1-408	Scleroglossum Alderw.	genus	accepted
+Pteridophyte-Phylogeny-Group1-436	Pteridophyte-Phylogeny-Group1-436	Pteridophyte-Phylogeny-Group1-436	Pteridophyte-Phylogeny-Group1-408	Stenogrammitis Labiak	genus	accepted
+Pteridophyte-Phylogeny-Group1-437	Pteridophyte-Phylogeny-Group1-437	Pteridophyte-Phylogeny-Group1-437	Pteridophyte-Phylogeny-Group1-408	Terpsichore A.R.Sm.	genus	accepted
+Pteridophyte-Phylogeny-Group1-438	Pteridophyte-Phylogeny-Group1-438	Pteridophyte-Phylogeny-Group1-438	Pteridophyte-Phylogeny-Group1-408	Themelium (T.Moore) Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-439	Pteridophyte-Phylogeny-Group1-439	Pteridophyte-Phylogeny-Group1-439	Pteridophyte-Phylogeny-Group1-408	Tomophyllum (E.Fourn.) Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-440	Pteridophyte-Phylogeny-Group1-440	Pteridophyte-Phylogeny-Group1-440	Pteridophyte-Phylogeny-Group1-408	Xiphopterella Parris	genus	accepted
+Pteridophyte-Phylogeny-Group1-441	Pteridophyte-Phylogeny-Group1-441	Pteridophyte-Phylogeny-Group1-441	Pteridophyte-Phylogeny-Group1-408	Zygophlebia L.E.Bishop	genus	accepted
+Pteridophyte-Phylogeny-Group1-442	Pteridophyte-Phylogeny-Group1-442	Pteridophyte-Phylogeny-Group1-442	Pteridophyte-Phylogeny-Group1-371	Synammia C.Presl	genus	accepted

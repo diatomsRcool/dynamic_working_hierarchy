@@ -1,0 +1,236 @@
+Onychophora Grube, 1853
+Peripatidae Evans, 1901
+Eoperipatus Evans, 1901
+Eoperipatus butleri Evans, 1901
+Eoperipatus horsti Evans, 1901
+Eoperipatus weldoni Evans, 1901
+Epiperipatus Clark, 1913
+Epiperipatus acacioi (Marcus & Marcus, 1955)
+Epiperipatus adenocryptus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011
+Epiperipatus barbadensis (Froehlich, 1962)
+Epiperipatus barbouri (Brues, 1911)
+Epiperipatus betheli (Cockerell, 1913)
+Epiperipatus biolleyi (Bouvier, 1902)
+Epiperipatus brasiliensis (Bouvier, 1899)
+Epiperipatus broadwayi (Clark, 1913)
+Epiperipatus cratensis Brito, Pereira, Ferreira, Vasconscellos & Almeida, 2010
+Epiperipatus diadenoproctus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011
+Epiperipatus edwardsii (Blanchard, 1847)
+Epiperipatus evansi (Bouvier, 1904a)
+Epiperipatus hilkae Morera-Brenes & Monge-Nájera, 1990
+Epiperipatus imthurni (Sclater, 1888)
+Epiperipatus isthmicola (Bouvier, 1902)
+Epiperipatus lewisi Arnett, 1961
+Epiperipatus machadoi (Oliveira & Wieloch, 2005)
+Epiperipatus paurognostus Oliveira, Lacorte, Fonseca, Wieloch & Mayer, 2011
+Epiperipatus simoni (Bouvier, 1899b)
+Epiperipatus torrealbai Scorza, 1953
+Epiperipatus trinidadensis (Sedgwick, 1888)
+Epiperipatus vagans (Brues, 1925)
+Epiperipatus vespuccii Brues, 1914
+Heteroperipatus Zilch, 1954
+Heteroperipatus clarki (Dunn, 1943)
+Heteroperipatus engelhardi Zilch, 1954
+Macroperipatus (Clark, 1913)
+Macroperipatus clarki Arnett, 1961
+Macroperipatus guianensis (Evans, 1903)
+Macroperipatus insularis Clark, 1937
+Macroperipatus ohausi (Bouvier, 1900)
+Macroperipatus perrieri (Bouvier, 1899)
+Macroperipatus torquatus (von Kennel, 1883)
+Macroperipatus valerioi Morera-Brenes & Léon, 1986
+Mesoperipatus Evans, 1901
+Mesoperipatus tholloni (Bouvier, 1898a)
+Oroperipatus (Cockerell, 1908)
+Oroperipatus balzani (Camerano, 1897)
+Oroperipatus belli (Bouvier, 1904)
+Oroperipatus bimbergi (Fuhrmann, 1913)
+Oroperipatus bluntschlii Fuhrmann, 1915
+Oroperipatus cameranoi (Bouvier, 1899)
+Oroperipatus corradoi (Camerano, 1898)
+Oroperipatus ecuadorensis (Bouvier, 1902)
+Oroperipatus eisenii (Wheeler, 1898)
+Oroperipatus intermedius (Bouvier, 1901)
+Oroperipatus koepckei Zilch, 1954
+Oroperipatus lankesteri (Bouvier, 1899)
+Oroperipatus multipodes (Fuhrmann, 1913)
+Oroperipatus omeyrus du Bois-Reymond Marcus, 1952
+Oroperipatus peruvianus (Brues, 1917)
+Oroperipatus soratanus (Bouvier, 1901)
+Oroperipatus tuberculatus (Bouvier, 1898)
+Oroperipatus weyrauchi du Bois-Reymond Marcus, 1952
+Peripatus Guilding, 1826
+Peripatus basilensis Brues, 1935
+Peripatus bouvieri Fuhrmann, 1913
+Peripatus broelemanni Bouvier, 1899
+Peripatus danicus Bouvier, 1900
+Peripatus darlingtoni Brues, 1935
+Peripatus dominicae Pollard, 1893
+Peripatus evelinae Marcus, 1937
+Peripatus haitiensis Brues, 1913
+Peripatus heloisae Carvalho, 1941
+Peripatus juanensis Bouvier, 1900
+Peripatus juliformis Guilding, 1826
+Peripatus lachauxensis Brues, 1935
+Peripatus manni Brues, 1913
+Peripatus ruber Fuhrmann, 1913
+Peripatus sedgwicki Bouvier, 1899
+Peripatus solorzanoi Morera-Brenes & Monge-Nájera, 2010
+Peripatus swainsonae Cockerell, 1893
+Plicatoperipatus Clark, 1913
+Plicatoperipatus jamaicensis (Grabham & Cockerell, 1892)
+Speleoperipatus Peck, 1975
+Speleoperipatus spelaeus Peck, 1975
+Typhloperipatus Kemp, 1913
+Typhloperipatus williamsoni Kemp, 1913
+Peripatopsidae Bouvier 1905
+Acanthokara Reid, 1996
+Acanthokara kaputensis Reid, 1996
+Aethrikos Reid, 1996
+Aethrikos setosa Reid, 1996
+Aktinothele Reid, 1996
+Aktinothele eucharis Reid, 1996
+Anoplokaros Reid, 1996
+Anoplokaros keerensis Reid, 1996
+Austroperipatus Baehr, 1977
+Austroperipatus aequabilis Reid, 1996
+Austroperipatus eridelos Reid, 1996
+Austroperipatus paradoxus (Bouvier, 1914)
+Austroperipatus superbus Reid, 1996
+Baeothele Reid, 1996
+Baeothele saukros Reid, 1996
+Centorumis Reid, 1996
+Centorumis trigona Reid, 1996
+Cephalofovea Ruhberg, Tait, Briscoe and Storch, 1988
+Cephalofovea cameroni Reid, Tait, Briscoe & Rowell, 1995
+Cephalofovea clandestina Reid, Tait, Briscoe & Rowell, 1995
+Cephalofovea pavimenta Reid, Tait, Briscoe & Rowell, 1995
+Cephalofovea tomahmontis Ruhberg, Tait, Briscoe & Storch, 1988
+Critolaus Reid, 1996
+Critolaus lepidus Reid, 1996
+Dactylothele Reid, 1996
+Dactylothele habros Reid, 1996
+Dystactotylos Reid, 1996
+Dystactotylos aletes Reid, 1996
+Euperipatoides Ruhberg, 1985
+Euperipatoides kanangrensis Reid, 1996
+Euperipatoides leuckartii (Sänger, 1871)
+Euperipatoides rowelli Reid, 1996
+Florelliceps Tait & Norman, 2001
+Florelliceps stutchburyae Tait & Norman, 2001
+Hylonomoipos Reid, 1996
+Hylonomoipos akares Reid, 1996
+Hylonomoipos brookensis Reid, 1996
+Konothele Reid, 1996    
+Konothele kallimos Reid, 1996
+Kumbadjena Reid, 2002
+Kumbadjena kaata Reid, 2002
+Kumbadjena occidentalis (Fletcher, 1895)
+Kumbadjena shannonensis Reid, 2002
+Lathropatus Reid, 2000
+Lathropatus nemorum Reid, 2000a
+Leuropezos Reid, 1996
+Leuropezos eungellensis Reid, 1996
+Mantonipatus Ruhberg, 1985
+Mantonipatus persiculus Ruhberg, 1985
+Metaperipatus Clark, 1913
+Metaperipatus inae Mayer, 2007
+Minyplanetes Reid, 1996
+Minyplanetes kroombensis Reid, 1996
+Nodocapitus Reid, 1996
+Nodocapitus barryi Reid, 1996
+Nodocapitus formosus Reid, 1996
+Nodocapitus inornatus Reid, 1996
+Occiperipatoides Ruhberg, 1985
+Occiperipatoides gilesii (Spencer, 1909)
+Ooperipatellus Ruhberg, 1985
+Ooperipatellus decoratus (Baehr, 1977)
+Ooperipatellus duwilensis Reid, 1996
+Ooperipatellus insignis (Dendy, 1890)
+Ooperipatellus nanus Ruhberg, 1985
+Ooperipatellus parvus Reid, 1996
+Ooperipatellus spenceri (Cockerell, 1913)
+Ooperipatellus viridimaculatus (Dendy, 1900)
+Ooperipatus Dendy, 1900
+Ooperipatus birrgus Reid, 2000
+Ooperipatus caesius Reid, 2000
+Ooperipatus centunculus Reid, 1996
+Ooperipatus costatus Reid, 1996
+Ooperipatus hispidus Reid, 1996
+Ooperipatus lepidus Reid, 2000
+Ooperipatus nebulosus Reid, 2000
+Ooperipatus oviparus (Dendy, 1895)
+Ooperipatus porcatus Reid, 2000a
+Ooperipatus pulchellus Reid, 1996
+Ooperipatus silvanus Reid, 2000
+Opisthopatus Purcell, 1899
+Opisthopatus amatolensis Choonoo, 1947
+Opisthopatus cinctipes Purcell, 1899
+Opisthopatus herbertorum Ruhberg & Hamer, 2005
+Opisthopatus laevis Lawrence, 1947
+Opisthopatus natalensis Bouvier, 1900
+Opisthopatus roseus Lawrence, 1947
+Paraperipatus Willey, 1898
+Paraperipatus ceramensis (Muir & Kershaw, 1909)
+Paraperipatus keiensis Horst, 1923
+Paraperipatus novaebritanniae (Willey, 1898b)
+Paraperipatus papuensis (Sedgwick, 1910)
+Paraperipatus lorentzi Horst 1910
+Paraperipatus vanheurni Horst, 1922
+Paropisthopatus Ruhberg, 1985
+Paropisthopatus umbrinus (Johow, 1911)
+Peripatoides Pocock, 1894
+Peripatoides indigo Ruhberg, 1985
+Peripatoides kawekaensis Trewick, 1998
+Peripatoides suteri (Dendy, 1894)
+Peripatopsis Pocock, 1894
+Peripatopsis alba Lawrence, 1931
+Peripatopsis balfouri (Sedgwick, 1885)
+Peripatopsis capensis (Grube, 1866)
+Peripatopsis clavigera Purcell, 1899
+Peripatopsis intermedia Hutchinson, 1928
+Peripatopsis lawrencei McDonald, Ruhberg & Daniels, 2012
+Peripatopsis leonina Purcell, 1899
+Peripatopsis moseleyi (Wood-Mason, 1879)
+Peripatopsis overbergiensis McDonald, Ruhberg & Daniels, 2012
+Peripatopsis sedgwicki Purcell, 1899
+Peripatopsis stelliporata Sherbon & Walker, 2004
+Phallocephale Reid, 1996
+Phallocephale tallagandensis Reid, 1996
+Planipapillus Reid, 1996
+Planipapillus annae Reid, 2000
+Planipapillus berti Reid, 2000
+Planipapillus biacinaces Reid, 1996
+Planipapillus biacinoides Reid, 2000
+Planipapillus bulgensis Reid, 1996
+Planipapillus cyclus Reid, 2000
+Planipapillus gracilis Reid, 2000
+Planipapillus impacris Reid, 2000
+Planipapillus mundus Reid, 1996
+Planipapillus taylori Reid, 1996
+Planipapillus tectus Reid, 2000
+Planipapillus vittatus Reid, 2000
+Regimitra Reid, 1996
+Regimitra quadricaula Reid, 1996
+Ruhbergia Reid, 1996
+Ruhbergia bifalcata Reid, 1996
+Ruhbergia brevicorna Reid, 1996
+Ruhbergia rostroides Reid, 1996
+Sphenoparme Reid, 1996
+Sphenoparme hobwensis Reid, 1996
+Tasmanipatus Ruhberg, Mesibov, Briscoe and Tait, 1991
+Tasmanipatus anophthalmus Ruhberg, Mesibov, Briscoe & Tait, 1991
+Tasmanipatus barretti Ruhberg, Mesibov, Briscoe & Tait, 1991
+Tetrameraden Reid, 1996
+Tetrameraden meringos Reid, 1996
+Vescerro Reid, 1996
+Vescerro turbinatus Reid, 1996
+Wambalana Reid, 1996
+Wambalana makrothele Reid, 1996
+unplaced extinct Onychophora
+Cretoperipatus Grimaldi, Engel & Nascimbene, 2002
+Cretozperipatus burmiticus Grimaldi et al., 2002
+Succinipatopsis Poinar, 2000
+Succinipatopsis balticus Poinar, 2000
+Tertiapatus Poinar, 2000
+Tertiapatus dominicanus Poinar, 2000

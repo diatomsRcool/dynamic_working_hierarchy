@@ -1,0 +1,568 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1171736	|		|	Embioptera	|	order	|		|	
+1171737	|	1171736	|	Paedembiidae	|	family	|		|	
+1171738	|	1171737	|	Paedembia	|	genus	|		|	
+1171739	|	1171738	|	Paedembia afghanica	|	species	|		|	
+1171740	|	1171737	|	Badkhyzembia	|	genus	|		|	
+1171741	|	1171740	|	Badkhyzembia krivokhatskyi	|	species	|		|	
+1171744	|	1171736	|	Anisembiidae	|	family	|		|	
+1171745	|	1171744	|	Anisembiinae	|	subfamily	|		|	
+1171746	|	1171745	|	Pogonembia	|	genus	|		|	
+1171747	|	1171746	|	Pogonembia motaguae	|	species	|		|	
+1171748	|	1171746	|	Pogonembia neovenosa	|	species	|		|	
+1171750	|	1171745	|	Mesembiini	|	tribe	|		|	
+1171751	|	1171750	|	Phallosembia	|	genus	|		|	
+1171752	|	1171751	|	Phallosembia andina	|	species	|		|	
+1171753	|	1171750	|	Ectyphocerca	|	genus	|		|	
+1171754	|	1171753	|	Ectyphocerca aureata	|	species	|		|	
+1171755	|	1171750	|	Mesembia	|	genus	|		|	
+1171756	|	1171755	|	Mesembia hospes	|	species	|		|	
+1171757	|	1171755	|	Mesembia venosa	|	species	|		|	
+1171759	|	1171755	|	Mesembia catemacoa	|	species	|		|	
+1171760	|	1171755	|	Mesembia haitiana	|	species	|		|	
+1171761	|	1171755	|	Mesembia chamulae	|	species	|		|	
+1171762	|	1171755	|	Mesembia pico	|	species	|		|	
+1171763	|	1171755	|	Mesembia neovenosa	|	species	|		|	
+1171764	|	1171750	|	Stenembia	|	genus	|		|	
+1171765	|	1171764	|	Stenembia perenensis	|	species	|		|	
+1171766	|	1171764	|	Stenembia exigua	|	species	|		|	
+1171767	|	1171764	|	Stenembia symmetrica	|	species	|		|	
+1171768	|	1171745	|	Anisembiini	|	tribe	|		|	
+1171769	|	1171768	|	Anisembia	|	genus	|		|	
+1171770	|	1171769	|	Anisembia texana	|	species	|		|	
+1171771	|	1171768	|	Bulbocerca	|	genus	|		|	
+1171772	|	1171771	|	Bulbocerca fulva	|	species	|		|	
+1171773	|	1171771	|	Bulbocerca sini	|	species	|		|	
+1171774	|	1171771	|	Bulbocerca minuta	|	species	|		|	
+1171775	|	1171771	|	Bulbocerca nigra	|	species	|		|	
+1171776	|	1171768	|	Glyphembia	|	genus	|		|	
+1171777	|	1171776	|	Glyphembia vetehae	|	species	|		|	
+1171778	|	1171776	|	Glyphembia amberica	|	species	|		|	
+1171779	|	1171776	|	Glyphembia dominicana	|	species	|		|	
+1171780	|	1171776	|	Glyphembia guatemalae	|	species	|		|	
+1171781	|	1171776	|	Glyphembia teapae	|	species	|		|	
+1171782	|	1171745	|	Exochosembiini	|	tribe	|		|	
+1171783	|	1171745	|	Exochosembia	|	genus	|		|	
+1171784	|	1171783	|	Exochosembia cavagnaroi	|	species	|		|	
+1171785	|	1171783	|	Exochosembia unicolor	|	species	|		|	
+1171786	|	1171745	|	Isosembiini	|	tribe	|		|	
+1171787	|	1171745	|	Isosembia	|	genus	|		|	
+1171788	|	1171787	|	Isosembia aequalis	|	species	|		|	
+1171789	|	1171745	|	Poinarembiini	|	tribe	|		|	
+1171790	|	1171789	|	Poinarembia	|	genus	|		|	
+1171791	|	1171790	|	Poinarembia rota	|	species	|		|	
+1171792	|	1171745	|	Saussurembini	|	tribe	|		|	
+1171793	|	1171745	|	Saussurembia	|	genus	|		|	
+1171795	|	1171793	|	Saussurembia calypso	|	species	|		|	
+1171796	|	1171793	|	Saussurembia davisi	|	species	|		|	
+1171797	|	1171793	|	Saussurembia albicauda	|	species	|		|	
+1171798	|	1171793	|	Saussurembia ruficollis	|	species	|		|	
+1171799	|	1171745	|	Stenembiini	|	tribe	|		|	
+1171800	|	1171744	|	Scolembiinae	|	subfamily	|		|	
+1171801	|	1171800	|	Scolembia	|	genus	|		|	
+1171802	|	1171801	|	Scolembia celata	|	species	|		|	
+1171803	|	1171801	|	Scolembia penai	|	species	|		|	
+1171804	|	1171744	|	Aporembiinae	|	subfamily	|		|	
+1171805	|	1171804	|	Aporembia	|	genus	|		|	
+1171806	|	1171805	|	Aporembia sturmi	|	species	|		|	
+1171807	|	1171744	|	Chorisembiinae	|	subfamily	|		|	
+1171808	|	1171807	|	Chorisembia	|	genus	|		|	
+1171809	|	1171808	|	Chorisembia howdeni	|	species	|		|	
+1171810	|	1171744	|	Platyembiinae	|	subfamily	|		|	
+1171811	|	1171810	|	Platyembia	|	genus	|		|	
+1171812	|	1171811	|	Platyembia tessellata	|	species	|		|	
+1171813	|	1171744	|	Cryptembiinae	|	subfamily	|		|	
+1171814	|	1171813	|	Cryptembia	|	genus	|		|	
+1171815	|	1171814	|	Cryptembia amazonica	|	species	|		|	
+1171816	|	1171814	|	Cryptembia anandra	|	species	|		|	
+1171817	|	1171814	|	Cryptembia caprilesi	|	species	|		|	
+1171818	|	1171814	|	Cryptembia fusca	|	species	|		|	
+1171819	|	1171814	|	Cryptembia macoae	|	species	|		|	
+1171820	|	1171814	|	Cryptembia manauara	|	species	|		|	
+1171821	|	1171814	|	Cryptembia multicolor	|	species	|		|	
+1171822	|	1171814	|	Cryptembia paraense	|	species	|		|	
+1171823	|	1171814	|	Cryptembia rondonia	|	species	|		|	
+1171824	|	1171744	|	Chelicercinae	|	subfamily	|		|	
+1171825	|	1171824	|	Oncosembia	|	genus	|		|	
+1171826	|	1171825	|	Oncosembia biarmata	|	species	|		|	
+1171827	|	1171824	|	Pelorembia	|	genus	|		|	
+1171828	|	1171827	|	Pelorembia tumidiceps	|	species	|		|	
+1171829	|	1171824	|	Schizembia	|	genus	|		|	
+1171830	|	1171829	|	Schizembia bryophila	|	species	|		|	
+1171831	|	1171829	|	Schizembia colombiana	|	species	|		|	
+1171832	|	1171829	|	Schizembia grandis	|	species	|		|	
+1171833	|	1171829	|	Schizembia guanare	|	species	|		|	
+1171834	|	1171829	|	Schizembia hirsuta	|	species	|		|	
+1171835	|	1171829	|	Schizembia callani	|	species	|		|	
+1171836	|	1171824	|	Chelicerca	|	genus	|		|	
+1171838	|	1171836	|	Chelicerca dampfi	|	species	|		|	
+1171839	|	1171836	|	Chelicerca heymonsi	|	species	|		|	
+1171840	|	1171836	|	Chelicerca chamelaensis	|	species	|		|	
+1171841	|	1171836	|	Chelicerca nodulosa	|	species	|		|	
+1171842	|	1171836	|	Chelicerca jaliscoa	|	species	|		|	
+1171843	|	1171836	|	Chelicerca maxima	|	species	|		|	
+1171844	|	1171836	|	Chelicerca spinosa	|	species	|		|	
+1171845	|	1171836	|	Chelicerca ruficollis	|	species	|		|	
+1171846	|	1171836	|	Chelicerca brunneicollis	|	species	|		|	
+1171847	|	1171836	|	Chelicerca galapagensis	|	species	|		|	
+1171848	|	1171836	|	Chelicerca auricollis	|	species	|		|	
+1171849	|	1171836	|	Chelicerca microspina	|	species	|		|	
+1171850	|	1171836	|	Chelicerca davisi	|	species	|		|	
+1171851	|	1171836	|	Chelicerca acuta	|	species	|		|	
+1171852	|	1171836	|	Chelicerca albitarsa	|	species	|		|	
+1171853	|	1171836	|	Chelicerca alpina	|	species	|		|	
+1171854	|	1171836	|	Chelicerca amatitlana	|	species	|		|	
+1171855	|	1171836	|	Chelicerca andesina	|	species	|		|	
+1171856	|	1171836	|	Chelicerca chamulae	|	species	|		|	
+1171857	|	1171836	|	Chelicerca esteli	|	species	|		|	
+1171858	|	1171836	|	Chelicerca guatemalae	|	species	|		|	
+1171859	|	1171836	|	Chelicerca guerreroa	|	species	|		|	
+1171860	|	1171836	|	Chelicerca inbio	|	species	|		|	
+1171861	|	1171836	|	Chelicerca loma	|	species	|		|	
+1171862	|	1171836	|	Chelicerca lutea	|	species	|		|	
+1171863	|	1171836	|	Chelicerca matagalpae	|	species	|		|	
+1171864	|	1171836	|	Chelicerca maya	|	species	|		|	
+1171865	|	1171836	|	Chelicerca minuta	|	species	|		|	
+1171866	|	1171836	|	Chelicerca montazul	|	species	|		|	
+1171867	|	1171836	|	Chelicerca monticola	|	species	|		|	
+1171868	|	1171836	|	Chelicerca nimba	|	species	|		|	
+1171869	|	1171836	|	Chelicerca paraisoa	|	species	|		|	
+1171870	|	1171836	|	Chelicerca rioensis	|	species	|		|	
+1171871	|	1171836	|	Chelicerca rondonia	|	species	|		|	
+1171872	|	1171836	|	Chelicerca semilutea	|	species	|		|	
+1171873	|	1171836	|	Chelicerca semirubra	|	species	|		|	
+1171874	|	1171836	|	Chelicerca spathula	|	species	|		|	
+1171875	|	1171836	|	Chelicerca spiculata	|	species	|		|	
+1171876	|	1171836	|	Chelicerca tantilla	|	species	|		|	
+1171877	|	1171836	|	Chelicerca trica	|	species	|		|	
+1171878	|	1171836	|	Chelicerca villaneillya	|	species	|		|	
+1171879	|	1171836	|	Chelicerca wheeleri	|	species	|		|	
+1171880	|	1171836	|	Chelicerca yojoa	|	species	|		|	
+1171881	|	1171824	|	Dactylocerca	|	genus	|		|	
+1171882	|	1171881	|	Dactylocerca ashworthi	|	species	|		|	
+1171883	|	1171881	|	Dactylocerca multispiculata	|	species	|		|	
+1171884	|	1171881	|	Dactylocerca flavicollis	|	species	|		|	
+1171885	|	1171881	|	Dactylocerca rubra	|	species	|		|	
+1171886	|	1171881	|	Dactylocerca chihuahuae	|	species	|		|	
+1171887	|	1171881	|	Dactylocerca durangoa	|	species	|		|	
+1171888	|	1171881	|	Dactylocerca ferruginea	|	species	|		|	
+1171889	|	1171881	|	Dactylocerca parva	|	species	|		|	
+1171890	|	1171881	|	Dactylocerca sancarlosa	|	species	|		|	
+1171891	|	1171881	|	Dactylocerca sonorae	|	species	|		|	
+1171892	|	1171881	|	Dactylocerca xanthosoma	|	species	|		|	
+1171893	|	1171824	|	Brasilembia	|	genus	|		|	
+1171894	|	1171893	|	Brasilembia beckeri	|	species	|		|	
+1171896	|	1171744	|	Microembia	|	genus	|		|	
+1171897	|	1171896	|	Microembia rugosifrons	|	species	|		|	
+1171898	|	1171736	|	Australembiidae	|	family	|		|	
+1171899	|	1171898	|	Metoligotoma	|	genus	|		|	
+1171901	|	1171899	|	Metoligotoma incompta	|	species	|		|	
+1171902	|	1171899	|	Metoligotoma rooksi	|	species	|		|	
+1171903	|	1171899	|	Metoligotoma ingens	|	species	|		|	
+1171904	|	1171899	|	Metoligotoma pentanesiana	|	species	|		|	
+1171905	|	1171899	|	Metoligotoma extorris	|	species	|		|	
+1171906	|	1171899	|	Metoligotoma illawarrae	|	species	|		|	
+1171907	|	1171906	|	Metoligotoma illawarrae illawarrae	|	subspecies	|		|	
+1171908	|	1171906	|	Metoligotoma illawarrae septentrionis	|	subspecies	|		|	
+1171909	|	1171906	|	Metoligotoma illawarrae telocera	|	subspecies	|		|	
+1171910	|	1171899	|	Metoligotoma collina	|	species	|		|	
+1171911	|	1171910	|	Metoligotoma collina collina	|	subspecies	|		|	
+1171912	|	1171910	|	Metoligotoma collina exigua	|	subspecies	|		|	
+1171913	|	1171899	|	Metoligotoma intermedia	|	species	|		|	
+1171914	|	1171899	|	Metoligotoma anomala	|	species	|		|	
+1171915	|	1171899	|	Metoligotoma brevispina	|	species	|		|	
+1171916	|	1171899	|	Metoligotoma convergens	|	species	|		|	
+1171917	|	1171899	|	Metoligotoma bidens	|	species	|		|	
+1171918	|	1171899	|	Metoligotoma pugionifer	|	species	|		|	
+1171919	|	1171899	|	Metoligotoma begae	|	species	|		|	
+1171920	|	1171899	|	Metoligotoma tasmanica	|	species	|		|	
+1171921	|	1171920	|	Metoligotoma tasmanica tasmanica	|	subspecies	|		|	
+1171922	|	1171920	|	Metoligotoma tasmanica bassiana	|	subspecies	|		|	
+1171923	|	1171920	|	Metoligotoma tasmanica biloba	|	subspecies	|		|	
+1171924	|	1171899	|	Metoligotoma minima	|	species	|		|	
+1171925	|	1171924	|	Metoligotoma minima minima	|	subspecies	|		|	
+1171926	|	1171924	|	Metoligotoma minima victoriae	|	subspecies	|		|	
+1171927	|	1171899	|	Metoligotoma reducta	|	species	|		|	
+1171928	|	1171927	|	Metoligotoma reducta reducta	|	subspecies	|		|	
+1171929	|	1171927	|	Metoligotoma reducta subtropica	|	subspecies	|		|	
+1171930	|	1171927	|	Metoligotoma reducta acuta	|	subspecies	|		|	
+1171931	|	1171899	|	Metoligotoma rileyi	|	species	|		|	
+1171934	|	1171736	|	Condylopalma	|	genus	|		|	
+1171935	|	1171934	|	Condylopalma agilis	|	species	|		|	
+1171936	|	1171736	|	Sinembiidae	|	family	|		|	
+1171937	|	1171936	|	Sinembia	|	genus	|		|	
+1171938	|	1171937	|	Sinembia rossi	|	species	|		|	
+1171939	|	1171936	|	Juraembia	|	genus	|		|	
+1171940	|	1171939	|	Juraembia ningchengensis	|	species	|		|	
+1171941	|	1171736	|	Clothodidae	|	family	|		|	
+1171942	|	1171941	|	Antipaluria	|	genus	|		|	
+1171943	|	1171942	|	Antipaluria aequicercata	|	species	|		|	
+1171944	|	1171942	|	Antipaluria panamensis	|	species	|		|	
+1171945	|	1171942	|	Antipaluria urichi	|	species	|		|	
+1171946	|	1171942	|	Antipaluria intermedia	|	species	|		|	
+1171947	|	1171942	|	Antipaluria silvestris	|	species	|		|	
+1171948	|	1171942	|	Antipaluria caribbeana	|	species	|		|	
+1171949	|	1171942	|	Antipaluria marginata	|	species	|		|	
+1171950	|	1171941	|	Chromatoclothoda	|	genus	|		|	
+1171951	|	1171950	|	Chromatoclothoda elegantula	|	species	|		|	
+1171952	|	1171950	|	Chromatoclothoda aurata	|	species	|		|	
+1171953	|	1171950	|	Chromatoclothoda albicauda	|	species	|		|	
+1171954	|	1171950	|	Chromatoclothoda nigricauda	|	species	|		|	
+1171955	|	1171950	|	Chromatoclothoda nana	|	species	|		|	
+1171956	|	1171941	|	Cryptoclothoda	|	genus	|		|	
+1171957	|	1171956	|	Cryptoclothoda spinula	|	species	|		|	
+1171958	|	1171941	|	Clothoda	|	genus	|		|	
+1171959	|	1171958	|	Clothoda nobilis	|	species	|		|	
+1171960	|	1171958	|	Clothoda longicauda	|	species	|		|	
+1171962	|	1171736	|	Embiidae	|	family	|		|	
+1171963	|	1171962	|	Apterembia	|	genus	|		|	
+1171965	|	1171963	|	Apterembia cercocyrta	|	species	|		|	
+1171966	|	1171963	|	Apterembia rimskyi	|	species	|		|	
+1171967	|	1171963	|	Apterembia capensis	|	species	|		|	
+1171968	|	1171962	|	Metembia	|	genus	|		|	
+1171969	|	1171968	|	Metembia ferox	|	species	|		|	
+1171970	|	1171968	|	Metembia fraterna	|	species	|		|	
+1171971	|	1171962	|	Pseudembia	|	genus	|		|	
+1171972	|	1171971	|	Pseudembia flava	|	species	|		|	
+1171973	|	1171971	|	Pseudembia immsi	|	species	|		|	
+1171974	|	1171971	|	Pseudembia paradoxa	|	species	|		|	
+1171975	|	1171971	|	Pseudembia truncata	|	species	|		|	
+1171976	|	1171971	|	Pseudembia setosa	|	species	|		|	
+1171977	|	1171971	|	Pseudembia simplex	|	species	|		|	
+1171978	|	1171962	|	Berlandembia	|	genus	|		|	
+1171980	|	1171978	|	Berlandembia berlandi	|	species	|		|	
+1171981	|	1171978	|	Berlandembia errans	|	species	|		|	
+1171982	|	1171962	|	Odontembia	|	genus	|		|	
+1171983	|	1171982	|	Odontembia spinosa	|	species	|		|	
+1171984	|	1171962	|	Dinembia	|	genus	|		|	
+1171985	|	1171984	|	Dinembia ferruginea	|	species	|		|	
+1171986	|	1171962	|	Parachirembia	|	genus	|		|	
+1171987	|	1171986	|	Parachirembia apicata	|	species	|		|	
+1171988	|	1171986	|	Parachirembia brunnea	|	species	|		|	
+1171989	|	1171962	|	Macrembia	|	genus	|		|	
+1171990	|	1171989	|	Macrembia lunaris	|	species	|		|	
+1171991	|	1171962	|	Cleomia	|	genus	|		|	
+1171992	|	1171991	|	Cleomia guareschii	|	species	|		|	
+1171993	|	1171962	|	Parthenembia	|	genus	|		|	
+1171994	|	1171993	|	Parthenembia reclusa	|	species	|		|	
+1171995	|	1171962	|	Machadoembia	|	genus	|		|	
+1171996	|	1171995	|	Machadoembia angolica	|	species	|		|	
+1171997	|	1171995	|	Machadoembia arcuata	|	species	|		|	
+1171998	|	1171962	|	Enveja	|	genus	|		|	
+1171999	|	1171998	|	Enveja bequaerti	|	species	|		|	
+1172000	|	1171962	|	Embia	|	genus	|		|	
+1172001	|	1172000	|	Embia sinai	|	species	|		|	
+1172002	|	1172000	|	Embia nigriceps	|	species	|		|	
+1172003	|	1172000	|	Embia brevispina	|	species	|		|	
+1172004	|	1172000	|	Embia asmarae	|	species	|		|	
+1172005	|	1172000	|	Embia alomatae	|	species	|		|	
+1172006	|	1172000	|	Embia shoa	|	species	|		|	
+1172007	|	1172000	|	Embia conula	|	species	|		|	
+1172008	|	1172000	|	Embia nigrula	|	species	|		|	
+1172009	|	1172000	|	Embia adenensis	|	species	|		|	
+1172010	|	1172000	|	Embia attenuata	|	species	|		|	
+1172011	|	1172000	|	Embia lesnei	|	species	|		|	
+1172012	|	1172000	|	Embia contorta	|	species	|		|	
+1172013	|	1172000	|	Embia sinuosa	|	species	|		|	
+1172014	|	1172000	|	Embia maroccana	|	species	|		|	
+1172015	|	1172000	|	Embia mauritanica	|	species	|		|	
+1172017	|	1172000	|	Embia tyrrhenica	|	species	|		|	
+1172018	|	1172000	|	Embia ramburi	|	species	|		|	
+1172019	|	1172000	|	Embia biroi	|	species	|		|	
+1172020	|	1172000	|	Embia nuragica	|	species	|		|	
+1172021	|	1172000	|	Embia amadorae	|	species	|		|	
+1172022	|	1172000	|	Embia fuentei	|	species	|		|	
+1172023	|	1172000	|	Embia larachensis	|	species	|		|	
+1172024	|	1172000	|	Embia algerica	|	species	|		|	
+1172025	|	1172000	|	Embia lecerfi	|	species	|		|	
+1172026	|	1172000	|	Embia silvestrii	|	species	|		|	
+1172027	|	1172000	|	Embia lucasi	|	species	|		|	
+1172029	|	1172000	|	Embia pallida	|	species	|		|	
+1172030	|	1172000	|	Embia girolamii	|	species	|		|	
+1172031	|	1172000	|	Embia collariger	|	species	|		|	
+1172032	|	1172000	|	Embia minor	|	species	|		|	
+1172033	|	1172000	|	Embia dobhali	|	species	|		|	
+1172034	|	1172000	|	Embia tartara	|	species	|		|	
+1172035	|	1172000	|	Embia rabaulti	|	species	|		|	
+1172038	|	1172000	|	Embia savignii	|	species	|		|	
+1172042	|	1171962	|	Electroembia	|	genus	|		|	
+1172043	|	1172042	|	Electroembia antiqua	|	species	|		|	
+1172044	|	1171962	|	Lithembia	|	genus	|		|	
+1172045	|	1172044	|	Lithembia florissantensis	|	species	|		|	
+1172047	|	1171962	|	Chirembia	|	genus	|		|	
+1172048	|	1172047	|	Chirembia xanthocera	|	species	|		|	
+1172049	|	1172047	|	Chirembia sulcata	|	species	|		|	
+1172050	|	1172047	|	Chirembia micropallida	|	species	|		|	
+1172051	|	1172047	|	Chirembia massawae	|	species	|		|	
+1172052	|	1172047	|	Chirembia yemenae	|	species	|		|	
+1172053	|	1172047	|	Chirembia alomatae	|	species	|		|	
+1172054	|	1172047	|	Chirembia arusi	|	species	|		|	
+1172055	|	1172047	|	Chirembia leechi	|	species	|		|	
+1172056	|	1172047	|	Chirembia baringoa	|	species	|		|	
+1172057	|	1172047	|	Chirembia bourgi	|	species	|		|	
+1172059	|	1171962	|	Acrosembia	|	genus	|		|	
+1172060	|	1172059	|	Acrosembia scotti	|	species	|		|	
+1172061	|	1172059	|	Acrosembia lichenophila	|	species	|		|	
+1172062	|	1171962	|	Leptembia	|	genus	|		|	
+1172063	|	1172062	|	Leptembia hamifera	|	species	|		|	
+1172064	|	1172062	|	Leptembia erythreae	|	species	|		|	
+1172065	|	1171962	|	Parembia	|	genus	|		|	
+1172066	|	1172065	|	Parembia persica	|	species	|		|	
+1172067	|	1172065	|	Parembia valida	|	species	|		|	
+1172068	|	1171962	|	Dihybocercus	|	genus	|		|	
+1172069	|	1172068	|	Dihybocercus severini	|	species	|		|	
+1172070	|	1172068	|	Dihybocercus rhodesiae	|	species	|		|	
+1172071	|	1172068	|	Dihybocercus confusus	|	species	|		|	
+1172072	|	1172068	|	Dihybocercus basilewskyi	|	species	|		|	
+1172073	|	1172068	|	Dihybocercus nigra	|	species	|		|	
+1172074	|	1171962	|	Arabembia	|	genus	|		|	
+1172075	|	1172074	|	Arabembia biarmata	|	species	|		|	
+1172076	|	1172074	|	Arabembia arida	|	species	|		|	
+1172077	|	1172074	|	Arabembia pakistanae	|	species	|		|	
+1172078	|	1171962	|	Oedembia	|	genus	|		|	
+1172079	|	1172078	|	Oedembia burmana	|	species	|		|	
+1172080	|	1172078	|	Oedembia dilatamenta	|	species	|		|	
+1172081	|	1171962	|	Donaconethis	|	genus	|		|	
+1172082	|	1172081	|	Donaconethis abyssinica	|	species	|		|	
+1172084	|	1172081	|	Donaconethis ehrenbergi	|	species	|		|	
+1172085	|	1171736	|	Scelembiidae	|	family	|		|	
+1172086	|	1172085	|	Rhagadochir	|	genus	|		|	
+1172087	|	1172086	|	Rhagadochir virgo	|	species	|		|	
+1172088	|	1172086	|	Rhagadochir vilhenai	|	species	|		|	
+1172089	|	1172086	|	Rhagadochir carpenteri	|	species	|		|	
+1172090	|	1172086	|	Rhagadochir malkini	|	species	|		|	
+1172091	|	1172086	|	Rhagadochir vossleri	|	species	|		|	
+1172093	|	1172085	|	Ecuadembia	|	genus	|		|	
+1172094	|	1172093	|	Ecuadembia arida	|	species	|		|	
+1172095	|	1172085	|	Embolyntha	|	genus	|		|	
+1172096	|	1172095	|	Embolyntha guyana	|	species	|		|	
+1172098	|	1172095	|	Embolyntha brasiliensis	|	species	|		|	
+1172100	|	1172085	|	Neorhagadochir	|	genus	|		|	
+1172101	|	1172100	|	Neorhagadochir (Neorhagadochir)	|	subgenus	|		|	
+1172102	|	1172101	|	Neorhagadochir (Neorhagadochir) inflata	|	species	|		|	
+1172104	|	1172101	|	Neorhagadochir (Neorhagadochir) moreliensis	|	species	|		|	
+1172105	|	1172100	|	Neorhagadochir (Drepanembia)	|	subgenus	|		|	
+1172106	|	1172105	|	Neorhagadochir (Drepanembia) salvini	|	species	|		|	
+1172107	|	1172085	|	Conicercembia	|	genus	|		|	
+1172108	|	1172107	|	Conicercembia tepicensis	|	species	|		|	
+1172109	|	1172085	|	Pachylembia	|	genus	|		|	
+1172110	|	1172109	|	Pachylembia chapalae	|	species	|		|	
+1172111	|	1172109	|	Pachylembia taxcoensis	|	species	|		|	
+1172112	|	1172109	|	Pachylembia unicincta	|	species	|		|	
+1172114	|	1172085	|	Xiphosembia	|	genus	|		|	
+1172115	|	1172114	|	Xiphosembia amapae	|	species	|		|	
+1172116	|	1172085	|	Pararhagadochir	|	genus	|		|	
+1172117	|	1172116	|	Pararhagadochir trinitatis	|	species	|		|	
+1172118	|	1172116	|	Pararhagadochir balteata	|	species	|		|	
+1172119	|	1172116	|	Pararhagadochir christae	|	species	|		|	
+1172120	|	1172116	|	Pararhagadochir bicingillata	|	species	|		|	
+1172122	|	1172116	|	Pararhagadochir flavicollis	|	species	|		|	
+1172123	|	1172116	|	Pararhagadochir tenuis	|	species	|		|	
+1172124	|	1172116	|	Pararhagadochir trachelia	|	species	|		|	
+1172125	|	1172116	|	Pararhagadochir schadei	|	species	|		|	
+1172126	|	1172116	|	Pararhagadochir confusa	|	species	|		|	
+1172127	|	1172116	|	Pararhagadochir birabeni	|	species	|		|	
+1172129	|	1172085	|	Ambonembia	|	genus	|		|	
+1172130	|	1172129	|	Ambonembia amazonica	|	species	|		|	
+1172131	|	1172129	|	Ambonembia surinamensis	|	species	|		|	
+1172132	|	1172129	|	Ambonembia incae	|	species	|		|	
+1172133	|	1172129	|	Ambonembia adspersa	|	species	|		|	
+1172135	|	1172085	|	Dolonembia	|	genus	|		|	
+1172136	|	1172135	|	Dolonembia tapirapae	|	species	|		|	
+1172137	|	1172085	|	Litosembia	|	genus	|		|	
+1172138	|	1172137	|	Litosembia oligembioides	|	species	|		|	
+1172139	|	1172085	|	Malacosembia	|	genus	|		|	
+1172140	|	1172139	|	Malacosembia tucumana	|	species	|		|	
+1172141	|	1172139	|	Malacosembia yungae	|	species	|		|	
+1172142	|	1172085	|	Ochrembia	|	genus	|		|	
+1172143	|	1172142	|	Ochrembia wagneri	|	species	|		|	
+1172144	|	1172085	|	Biguembia	|	genus	|		|	
+1172145	|	1172144	|	Biguembia obscura	|	species	|		|	
+1172147	|	1172144	|	Biguembia cocum	|	species	|		|	
+1172148	|	1172144	|	Biguembia copo	|	species	|		|	
+1172149	|	1172085	|	Gibocercus	|	genus	|		|	
+1172150	|	1172149	|	Gibocercus (Gibocercus)	|	subgenus	|		|	
+1172151	|	1172150	|	Gibocercus (Gibocercus) chaco	|	species	|		|	
+1172152	|	1172150	|	Gibocercus (Gibocercus) beni	|	species	|		|	
+1172153	|	1172150	|	Gibocercus (Gibocercus) urucumi	|	species	|		|	
+1172154	|	1172150	|	Gibocercus (Gibocercus) magnus	|	species	|		|	
+1172155	|	1172150	|	Gibocercus (Gibocercus) peruvianus	|	species	|		|	
+1172156	|	1172149	|	Gibocercus (Amazonembia)	|	subgenus	|		|	
+1172157	|	1172156	|	Gibocercus (Amazonembia) nanai	|	species	|		|	
+1172158	|	1172156	|	Gibocercus (Amazonembia) flavipes	|	species	|		|	
+1172159	|	1172156	|	Gibocercus (Amazonembia) napoa	|	species	|		|	
+1172160	|	1172156	|	Gibocercus (Amazonembia) sandrae	|	species	|		|	
+1172161	|	1171736	|	Ptilocerembiidae	|	family	|		|	
+1172162	|	1172161	|	Ptilocerembia	|	genus	|		|	
+1172163	|	1172162	|	Ptilocerembia roepkei	|	species	|		|	
+1172166	|	1171736	|	Teratembiidae	|	family	|		|	
+1172167	|	1172166	|	Oligembia	|	genus	|		|	
+1172168	|	1172167	|	Oligembia vetusta	|	species	|		|	
+1172169	|	1172167	|	Oligembia arbol	|	species	|		|	
+1172170	|	1172167	|	Oligembia capote	|	species	|		|	
+1172171	|	1172167	|	Oligembia limon	|	species	|		|	
+1172172	|	1172167	|	Oligembia mini	|	species	|		|	
+1172173	|	1172167	|	Oligembia capensis	|	species	|		|	
+1172174	|	1172167	|	Oligembia hubbardi	|	species	|		|	
+1172175	|	1172167	|	Oligembia rossi	|	species	|		|	
+1172176	|	1172167	|	Oligembia oligotomoides	|	species	|		|	
+1172177	|	1172167	|	Oligembia brevicauda	|	species	|		|	
+1172179	|	1172167	|	Oligembia versicolor	|	species	|		|	
+1172180	|	1172167	|	Oligembia cristobalensis	|	species	|		|	
+1172181	|	1172167	|	Oligembia intricata	|	species	|		|	
+1172182	|	1172167	|	Oligembia buscki	|	species	|		|	
+1172183	|	1172167	|	Oligembia peruviana	|	species	|		|	
+1172184	|	1172167	|	Oligembia darlingtoni	|	species	|		|	
+1172185	|	1172167	|	Oligembia bicolor	|	species	|		|	
+1172186	|	1172167	|	Oligembia unicolor	|	species	|		|	
+1172187	|	1172167	|	Oligembia melanura	|	species	|		|	
+1172188	|	1172167	|	Oligembia armata	|	species	|		|	
+1172189	|	1172167	|	Oligembia gigantea	|	species	|		|	
+1172190	|	1172167	|	Oligembia nigrina	|	species	|		|	
+1172191	|	1172167	|	Oligembia plaumanni	|	species	|		|	
+1172192	|	1172167	|	Oligembia convergens	|	species	|		|	
+1172193	|	1172167	|	Oligembia quadriceps	|	species	|		|	
+1172194	|	1172167	|	Oligembia scalpta	|	species	|		|	
+1172195	|	1172167	|	Oligembia mandibulata	|	species	|		|	
+1172196	|	1172166	|	Diradius	|	genus	|		|	
+1172198	|	1172196	|	Diradius nouges	|	species	|		|	
+1172199	|	1172196	|	Diradius erba	|	species	|		|	
+1172200	|	1172196	|	Diradius pusillus	|	species	|		|	
+1172201	|	1172196	|	Diradius lobatus	|	species	|		|	
+1172202	|	1172196	|	Diradius jalapae	|	species	|		|	
+1172203	|	1172196	|	Diradius chiapae	|	species	|		|	
+1172204	|	1172196	|	Diradius emarginatus	|	species	|		|	
+1172205	|	1172196	|	Diradius pacificus	|	species	|		|	
+1172206	|	1172196	|	Diradius uxpanapaensis	|	species	|		|	
+1172207	|	1172196	|	Diradius diversilobus	|	species	|		|	
+1172208	|	1172196	|	Diradius pallidus	|	species	|		|	
+1172209	|	1172196	|	Diradius excisa	|	species	|		|	
+1172210	|	1172196	|	Diradius vandykei	|	species	|		|	
+1172211	|	1172196	|	Diradius caribbeana	|	species	|		|	
+1172212	|	1172196	|	Diradius fairchildi	|	species	|		|	
+1172214	|	1172166	|	Teratembia	|	genus	|		|	
+1172216	|	1172214	|	Teratembia banksi	|	species	|		|	
+1172217	|	1172214	|	Teratembia producta	|	species	|		|	
+1172218	|	1172214	|	Teratembia argentina	|	species	|		|	
+1172219	|	1172214	|	Teratembia geniculata	|	species	|		|	
+1172220	|	1172166	|	Paroligembia	|	genus	|		|	
+1172221	|	1172220	|	Paroligembia angolica	|	species	|		|	
+1172222	|	1172220	|	Paroligembia ethiopica	|	species	|		|	
+1172223	|	1171736	|	Oligotomidae	|	family	|		|	
+1172224	|	1172223	|	Oligotoma	|	genus	|		|	
+1172225	|	1172224	|	Oligotoma humbertiana	|	species	|		|	
+1172226	|	1172224	|	Oligotoma nigra	|	species	|		|	
+1172229	|	1172224	|	Oligotoma michaeli	|	species	|		|	
+1172230	|	1172224	|	Oligotoma insularis	|	species	|		|	
+1172231	|	1172224	|	Oligotoma falcis	|	species	|		|	
+1172232	|	1172224	|	Oligotoma approximans	|	species	|		|	
+1172233	|	1172224	|	Oligotoma gurneyi	|	species	|		|	
+1172234	|	1172233	|	Oligotoma gurneyi gurneyi	|	subspecies	|		|	
+1172235	|	1172233	|	Oligotoma gurneyi agilis	|	subspecies	|		|	
+1172236	|	1172233	|	Oligotoma gurneyi hilli	|	subspecies	|		|	
+1172237	|	1172233	|	Oligotoma gurneyi centralis	|	subspecies	|		|	
+1172238	|	1172233	|	Oligotoma gurneyi spinulosa	|	subspecies	|		|	
+1172239	|	1172233	|	Oligotoma gurneyi subclavata	|	subspecies	|		|	
+1172240	|	1172233	|	Oligotoma gurneyi remota	|	subspecies	|		|	
+1172241	|	1172224	|	Oligotoma tillyardi	|	species	|		|	
+1172242	|	1172224	|	Oligotoma glauerti	|	species	|		|	
+1172243	|	1172224	|	Oligotoma inaequalis	|	species	|		|	
+1172244	|	1172224	|	Oligotoma greeniana	|	species	|		|	
+1172246	|	1172224	|	Oligotoma davisi	|	species	|		|	
+1172247	|	1172224	|	Oligotoma brunnea	|	species	|		|	
+1172248	|	1172224	|	Oligotoma albertisi	|	species	|		|	
+1172249	|	1172224	|	Oligotoma maritima	|	species	|		|	
+1172250	|	1172224	|	Oligotoma hollandia	|	species	|		|	
+1172251	|	1172224	|	Oligotoma aurea	|	species	|		|	
+1172252	|	1172224	|	Oligotoma mandibulata	|	species	|		|	
+1172253	|	1172224	|	Oligotoma oculata	|	species	|		|	
+1172254	|	1172224	|	Oligotoma dharwariana	|	species	|		|	
+1172255	|	1172224	|	Oligotoma josephii	|	species	|		|	
+1172256	|	1172224	|	Oligotoma saundersii	|	species	|		|	
+1172259	|	1172224	|	Oligotoma burmana	|	species	|		|	
+1172260	|	1172224	|	Oligotoma ubicki	|	species	|		|	
+1172261	|	1172223	|	Eosembia	|	genus	|		|	
+1172262	|	1172261	|	Eosembia apterosa	|	species	|		|	
+1172263	|	1172261	|	Eosembia lamunae	|	species	|		|	
+1172264	|	1172261	|	Eosembia paradorni	|	species	|		|	
+1172265	|	1172261	|	Eosembia aequicercata	|	species	|		|	
+1172266	|	1172261	|	Eosembia auripecta	|	species	|		|	
+1172267	|	1172261	|	Eosembia laotica	|	species	|		|	
+1172268	|	1172261	|	Eosembia malaya	|	species	|		|	
+1172269	|	1172261	|	Eosembia myanmara	|	species	|		|	
+1172270	|	1172261	|	Eosembia nepalica	|	species	|		|	
+1172271	|	1172261	|	Eosembia spatha	|	species	|		|	
+1172272	|	1172261	|	Eosembia thoracica	|	species	|		|	
+1172273	|	1172261	|	Eosembia varians	|	species	|		|	
+1172274	|	1172223	|	Bulbosembia	|	genus	|		|	
+1172275	|	1172274	|	Bulbosembia thailandica	|	species	|		|	
+1172276	|	1172223	|	Lobosembia	|	genus	|		|	
+1172277	|	1172276	|	Lobosembia mandibulata	|	species	|		|	
+1172278	|	1172223	|	Aposthonia	|	genus	|		|	
+1172279	|	1172278	|	Aposthonia ceylonica	|	species	|		|	
+1172280	|	1172278	|	Aposthonia minuscula	|	species	|		|	
+1172281	|	1172278	|	Aposthonia borneensis	|	species	|		|	
+1172283	|	1172278	|	Aposthonia oceania	|	species	|		|	
+1172284	|	1172278	|	Aposthonia micronesiae	|	species	|		|	
+1172285	|	1172223	|	Haploembia	|	genus	|		|	
+1172288	|	1172285	|	Haploembia tarsalis	|	species	|		|	
+1172289	|	1172285	|	Haploembia solieri	|	species	|		|	
+1172290	|	1171736	|	Notoligotomidae	|	family	|		|	
+1172291	|	1172290	|	Notoligotominae	|	subfamily	|		|	
+1172292	|	1172291	|	Notoligotoma	|	genus	|		|	
+1172293	|	1172292	|	Notoligotoma hardyi	|	species	|		|	
+1172294	|	1172292	|	Notoligotoma nitens	|	species	|		|	
+1172295	|	1172290	|	Burmitembiinae	|	subfamily	|		|	
+1172296	|	1172295	|	Burmitembia	|	genus	|		|	
+1172297	|	1172296	|	Burmitembia venosa	|	species	|		|	
+1172298	|	1171736	|	Embonychidae	|	family	|		|	
+1172299	|	1172298	|	Embonycha	|	genus	|		|	
+1172300	|	1172299	|	Embonycha interrupta	|	species	|		|	
+1172302	|	1171736	|	Sorellembiidae	|	family	|		|	
+1172303	|	1172302	|	Sorellembia	|	genus	|		|	
+1172304	|	1172303	|	Sorellembia estherae	|	species	|		|	
+1172305	|	1171736	|	Archembiidae	|	family	|		|	
+1172306	|	1172305	|	Calamoclostes	|	genus	|		|	
+1172307	|	1172306	|	Calamoclostes albistriolatus	|	species	|		|	
+1172308	|	1172306	|	Calamoclostes auriceps	|	species	|		|	
+1172309	|	1172306	|	Calamoclostes micropterus	|	species	|		|	
+1172310	|	1172306	|	Calamoclostes silvestris	|	species	|		|	
+1172311	|	1172306	|	Calamoclostes gurneyi	|	species	|		|	
+1172312	|	1172306	|	Calamoclostes oculeus	|	species	|		|	
+1172313	|	1172305	|	Archembia	|	genus	|		|	
+1172314	|	1172313	|	Archembia kotzbaueri	|	species	|		|	
+1172316	|	1172313	|	Archembia batesi	|	species	|		|	
+1172318	|	1172313	|	Archembia bahia	|	species	|		|	
+1172319	|	1172313	|	Archembia boliviana	|	species	|		|	
+1172320	|	1172313	|	Archembia dilata	|	species	|		|	
+1172321	|	1172313	|	Archembia paranae	|	species	|		|	
+1172323	|	1171736	|	Andesembiidae	|	family	|		|	
+1172324	|	1172323	|	Andesembia	|	genus	|		|	
+1172325	|	1172324	|	Andesembia cuencae	|	species	|		|	
+1172326	|	1172324	|	Andesembia banosae	|	species	|		|	
+1172327	|	1172324	|	Andesembia calinae	|	species	|		|	
+1172328	|	1172324	|	Andesembia incompta	|	species	|		|	
+1172329	|	1172324	|	Andesembia popayanae	|	species	|		|	
+1172330	|	1172324	|	Andesembia lojae	|	species	|		|	
+1172331	|	1172323	|	Bryonembia	|	genus	|		|	
+1172332	|	1172331	|	Bryonembia amplialata	|	species	|		|	
+1204027	|	1171958	|	Clothoda amazonica	|	species	|		|	
+1207767	|	1172085	|	Kumarembia	|	genus	|		|	
+1207768	|	1207767	|	Kumarembia hurleyi	|	species	|		|	
+1217766	|	1172000	|	Embia cynthiae	|	species	|		|	
+1217768	|	1172285	|	Haploembia palaui	|	species	|		|	
+1221869	|	1172166	|	Dachtylembia	|	genus	|		|	
+1221870	|	1221869	|	Dachtylembia siamensis	|	species	|		|	
+1221871	|	1172162	|	Ptilocerembia thaidina	|	species	|		|	
+1221872	|	1172162	|	Ptilocerembia senathami	|	species	|		|	
+1221873	|	1172162	|	Ptilocerembia catherinae	|	species	|		|	
+1221875	|	1172162	|	Ptilocerembia rossi	|	species	|		|	
+1230195	|	1171736	|	Alexarasniidae	|	family	|		|	
+1230196	|	1230214	|	Alexarasnia	|	genus	|		|	
+1230197	|	1230196	|	Alexarasnia rossica	|	species	|		|	
+1230214	|	1230195	|	Alexarasniinae	|	subfamily	|		|	
+1230243	|	1230214	|	Nikolembia	|	genus	|		|	
+1230244	|	1230243	|	Nikolembia kuznezovi	|	species	|		|	
+1230245	|	1230195	|	Nestorembiinae	|	subfamily	|		|	
+1230246	|	1230245	|	Nestorembia	|	genus	|		|	
+1230247	|	1230246	|	Nestorembia novojilovi	|	species	|		|	

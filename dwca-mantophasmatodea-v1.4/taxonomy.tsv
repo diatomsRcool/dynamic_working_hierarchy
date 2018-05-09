@@ -1,0 +1,52 @@
+uid	|	parent_uid	|	name	|	rank	|	sourceinfo	|	
+1220572	|		|	Mantophasmatodea	|	order	|		|	
+1220573	|	1220572	|	Mantophasmatidae	|	family	|		|	
+1220574	|	1220572	|	Ensiferophasmatidae	|	family	|		|	
+1220575	|	1220573	|	Tanzaniophasmatinae	|	subfamily	|		|	
+1220576	|	1220573	|	Mantophasmatinae	|	subfamily	|		|	
+1220577	|	1220573	|	Raptophasmatinae	|	subfamily	|		|	
+1220578	|	1220573	|	Adicophasma	|	genus	|		|	
+1220579	|	1220574	|	Ensiferophasma	|	genus	|		|	
+1220581	|	1220575	|	Tanzaniophasma	|	genus	|		|	
+1220582	|	1220576	|	Mantophasmatini	|	tribe	|		|	
+1220583	|	1220576	|	Tyrannophasmatini	|	tribe	|		|	
+1220584	|	1220576	|	Austrophasmatini	|	tribe	|		|	
+1220585	|	1220577	|	Raptophasma	|	genus	|		|	
+1220586	|	1220578	|	Adicophasma spinosa	|	species	|		|	
+1220587	|	1220578	|	Adicophasma grylloblattoides	|	species	|		|	
+1220588	|	1220579	|	Ensiferophasma velociraptor	|	species	|		|	
+1220589	|	1220581	|	Tanzaniophasma subsolana	|	species	|		|	
+1220590	|	1220582	|	Mantophasma	|	genus	|		|	
+1220591	|	1220582	|	Sclerophasma	|	genus	|		|	
+1220592	|	1220583	|	Praedatophasma	|	genus	|		|	
+1220593	|	1220583	|	Tyrannophasma	|	genus	|		|	
+1220595	|	1220584	|	Austrophasma	|	genus	|		|	
+1220597	|	1220584	|	Hemilobophasma	|	genus	|		|	
+1220598	|	1220584	|	Karoophasma	|	genus	|		|	
+1220599	|	1220584	|	Namaquaphasma	|	genus	|		|	
+1220600	|	1220585	|	Raptophasma kerneggeri	|	species	|		|	
+1220601	|	1220585	|	Raptophasma groehni	|	species	|		|	
+1220602	|	1220590	|	Mantophasma zephyra	|	species	|		|	
+1220603	|	1220590	|	Mantophasma gamsbergense	|	species	|		|	
+1220604	|	1220590	|	Mantophasma kudubergense	|	species	|		|	
+1220605	|	1220590	|	Mantophasma omatakoense	|	species	|		|	
+1220606	|	1220591	|	Sclerophasma paresisensis	|	species	|		|	
+1220607	|	1220592	|	Praedatophasma maraisi	|	species	|		|	
+1220608	|	1220593	|	Tyrannophasma gladiator	|	species	|		|	
+1220609	|	1220595	|	Austrophasma caledonensis	|	species	|		|	
+1220610	|	1220595	|	Austrophasma gansbaaiensis	|	species	|		|	
+1220611	|	1220595	|	Austrophasma rawsonvillensis	|	species	|		|	
+1220612	|	1223802	|	Lobatophasma redelinghuysensis	|	species	|		|	
+1220613	|	1220597	|	Hemilobophasma montaguensis	|	species	|		|	
+1220614	|	1220598	|	Karoophasma biedouwensis	|	species	|		|	
+1220615	|	1220598	|	Karoophasma botterkloofensis	|	species	|		|	
+1220616	|	1220599	|	Namaquaphasma ookiepensis	|	species	|		|	
+1220689	|	1220577	|	Juramantophasma	|	genus	|		|	
+1220690	|	1220689	|	Juramantophasma sinica	|	species	|		|	
+1220694	|	1220584	|	Viridiphasma	|	genus	|		|	
+1220695	|	1220694	|	Viridiphasma clanwilliamense	|	species	|		|	
+1220696	|	1220576	|	Striatophasma	|	genus	|		|	
+1220699	|	1220696	|	Striatophasma naukluftense	|	species	|		|	
+1220700	|	1220576	|	Pachyphasma	|	genus	|		|	
+1220701	|	1220700	|	Pachyphasma brandbergense	|	species	|		|	
+1223802	|	1220584	|	Lobatophasma	|	genus	|		|	
